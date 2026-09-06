@@ -22,9 +22,9 @@ permissions:
 jobs:
   publish:
     if: github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || vars.DAT_PUBLISH_ENABLED == 'true')
-    uses: MoonlarkStudios/romd-dat-catalogs/.github/workflows/publish-synthetic.yml@249ac9dd0bb25fd9ba2faf9eb9795ab963a16226
+    uses: MoonlarkStudios/romd-dat-catalogs/.github/workflows/publish-synthetic.yml@8744b384443aa5cab60028aa1a0f5c1652f1dadd
     with:
-      tooling_ref: '249ac9dd0bb25fd9ba2faf9eb9795ab963a16226'
+      tooling_ref: '8744b384443aa5cab60028aa1a0f5c1652f1dadd'
       bootstrap: ${{ inputs.bootstrap || false }}
       migration_site: ${{ inputs.migration_site || '' }}
     secrets:
