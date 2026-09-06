@@ -24,8 +24,10 @@ belong in this repository.
 
 The proposed No-Intro SNES slice uses `no-intro/snes/standard.dat` and shared
 system `snes` (Datomatic `49`). Keep `NOINTRO_SNES_PUBLISH_ENABLED` unset or false
-until [redistribution and completeness qualification](https://github.com/MoonlarkStudios/romd-dat-catalogs/blob/a95db84c9c6f35237060b2d2686440be8c1fb6a2/docs/nointro-snes-qualification.md)
-is complete. This pin update does not enable mirroring or add a DAT. Roll out
+until the reviewed rollout. [Redistribution approval and public-catalog reconciliation](https://github.com/MoonlarkStudios/romd-dat-catalogs/blob/fbb04903d5bf4120c4eaa9f185d6a49418279f0e/docs/nointro-snes-qualification.md)
+are recorded for this slice. The overview counter remains 14 above the public
+database total, but every public DAT-enabled archive ID is present in the export.
+This pin update does not enable mirroring or add a DAT. Roll out
 compatible publisher readers before deploying its extended signed registry;
 older strict readers reject the new provider. Existing PSX, root keys, metadata
 versions, schedule, and artifact-before-reference publication remain in place.
