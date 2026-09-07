@@ -20,3 +20,14 @@ may reference it. ROMD retains its installed document locally.
 Public upstream mirroring is disabled until redistribution is qualified. The
 initial publication can use synthetic fixtures. No credentials or private keys
 belong in this repository.
+
+
+The proposed No-Intro SNES slice uses `no-intro/snes/standard.dat` and shared
+system `snes` (Datomatic `49`). Keep `NOINTRO_SNES_PUBLISH_ENABLED` unset or false
+until the reviewed rollout. [Redistribution approval and public-catalog reconciliation](https://github.com/MoonlarkStudios/romd-dat-catalogs/blob/069bff51587ead4bcc62e6942af2bc8364ce3af0/docs/nointro-snes-qualification.md)
+are recorded for this slice. The overview counter remains 14 above the public
+database total, but every public DAT-enabled archive ID is present in the export.
+This pin update does not enable mirroring or add a DAT. Roll out
+compatible publisher readers before deploying its extended signed registry;
+older strict readers reject the new provider. Existing PSX, root keys, metadata
+versions, schedule, and artifact-before-reference publication remain in place.
