@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10975) (2026-09-10 17-37-25)</description>
-		<version>2026-09-10 17-37-25</version>
-		<date>2026-09-10 17-37-25</date>
+		<description>Sony - PlayStation - Datfile (10976) (2026-09-12 02-01-10)</description>
+		<version>2026-09-12 02-01-10</version>
+		<date>2026-09-12 02-01-10</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -39207,6 +39207,12 @@
 		<description>Hunter x Hunter - Maboroshi no Greed Island (Japan)</description>
 		<rom name="Hunter x Hunter - Maboroshi no Greed Island (Japan).cue" size="117" crc="5ec43359" md5="fc36417fd14be7f2ae0c2d1823276d7a" sha1="1b619b5e84bcb28b1283e974cd661228eca2fb2f"/>
 		<rom name="Hunter x Hunter - Maboroshi no Greed Island (Japan).bin" size="129124800" crc="aa4f8a5e" md5="e45f41d921a446d9eeed52c16bbe94e4" sha1="af7f343cb4b2f3f5055cef78a5238d490c63c7da"/>
+	</game>
+	<game name="Hunter x Hunter - Maboroshi no Greed Island (Japan) (Rev 1)" id="138231">
+		<category>Games</category>
+		<description>Hunter x Hunter - Maboroshi no Greed Island (Japan) (Rev 1)</description>
+		<rom name="Hunter x Hunter - Maboroshi no Greed Island (Japan) (Rev 1).cue" size="125" crc="19217338" md5="84f5cb362f8b08d974de466c8f47a321" sha1="c8c8585c1b048e433f6fd3ee78f933dcb72018b8"/>
+		<rom name="Hunter x Hunter - Maboroshi no Greed Island (Japan) (Rev 1).bin" size="129124800" crc="6422fee2" md5="bc984df5c295e94217dd7501b4060a8a" sha1="e747d04a4cc79c88d4288dde5ba9bdad8647bdcc"/>
 	</game>
 	<game name="Hunter x Hunter - Ubawareta Aura Stone (Japan)" id="34388">
 		<category>Games</category>

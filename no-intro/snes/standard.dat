@@ -4,8 +4,8 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260818-050713</version>
-		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
+		<version>20260910-040312</version>
+		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
@@ -18585,10 +18585,10 @@
 		<description>Wizardry Gaiden IV - Taima no Kodou (Japan) (Rev 1)</description>
 		<rom name="Wizardry Gaiden IV - Taima no Kodou (Japan) (Rev 1).sfc" size="4194304" crc="1703d522" md5="7ba541a38e7c5e86fb0d4519b490efe8" sha1="f4b6b592442f395ce5284fff02a9556f8b3d9fbf" sha256="bd5023f7fbf1e1d1c5c6b350506b7f727b4a8ec05add7281ffaf8f3016fd7099" status="verified"/>
 	</game>
-	<game name="Wizardry I-II-III - Story of Llylgamyn (Japan) (NP)" id="3295">
+	<game name="Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP)" id="3295">
 		<category>Games</category>
-		<description>Wizardry I-II-III - Story of Llylgamyn (Japan) (NP)</description>
-		<rom name="Wizardry I-II-III - Story of Llylgamyn (Japan) (NP).sfc" size="4194304" crc="b8a72553" md5="5987975fb59733089149003c506810af" sha1="6b63c968aec822c0728513c01cd729ffd45dbab7" sha256="cf9284501fd2d1abc4719d2305add92b6cff11e3e98c7b49d21cb78b179e2290"/>
+		<description>Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP)</description>
+		<rom name="Wizardry I-II-III - Story of Llylgamyn (Japan) (En,Ja) (NP).sfc" size="4194304" crc="b8a72553" md5="5987975fb59733089149003c506810af" sha1="6b63c968aec822c0728513c01cd729ffd45dbab7" sha256="cf9284501fd2d1abc4719d2305add92b6cff11e3e98c7b49d21cb78b179e2290"/>
 	</game>
 	<game name="Wizardry V - Heart of the Maelstrom (USA)" id="3296">
 		<category>Games</category>
@@ -19987,6 +19987,11 @@
 		<category>Games</category>
 		<description>Drakkhen (World) (Evercade)</description>
 		<rom name="Drakkhen (World) (Evercade).sfc" size="1572864" crc="f1d748b6" md5="457d1e43ee85fc15a831479908c6957b" sha1="c2893f7541b10fd87b014e7d68e3cc8f62c046bb" sha256="53860e479a11c9c01ccf4e72495995af3bde0c5fea9680721310d5b9a7e25aac"/>
+	</game>
+	<game name="Dream - Land of Giants (Europe) (Proto)" id="4604">
+		<category>Preproduction</category>
+		<description>Dream - Land of Giants (Europe) (Proto)</description>
+		<rom name="Dream - Land of Giants (Europe) (Proto).sfc" size="2097152" crc="058de651" md5="8c0eedf8bd3d59bef20e7ba62d633087" sha1="2675d7afe886f20462337aa1ee3aa5c3135fff3a" sha256="40c08a3c84f46919eb34e5396037d9a942d892ddf7da7882855dc333f7195809"/>
 	</game>
 	<game name="Dual Orb - Seirei Tama Densetsu (Japan) (Beta)" id="4229" cloneofid="0672">
 		<category>Games</category>
