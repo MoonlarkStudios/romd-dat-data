@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260914-071043</version>
+		<version>20260920-113347</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -72,6 +72,10 @@
 		<description>[BIOS] Mega-CD (Japan) (Rev D)</description>
 		<rom name="[BIOS] Mega-CD (Japan) (Rev D).md" size="131072" crc="2ea250c0" md5="cc049159d7e744c15eee080c241273b4" sha1="9e1495e62b000e1e1c868c0f3b6982e1abbb8a94" sha256="b09db1827cfdcaf442e74328bc1e170920a6bce1ea99dcda89ee00f23b6ef467"/>
 	</game>
+	<game name="[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special)" id="3849">
+		<description>[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special)</description>
+		<rom name="[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special).md" size="131072" crc="1c3d3955" md5="1bd974aafc585da6997bad24aea85544" sha1="35f49f6a437120ddba34e21eb1e73badd3c7c316" sha256="36c6a43030e58ef9047a9e497a5bf46ab41b6d7747d52d5fd0a46ac9d2d8e770"/>
+	</game>
 	<game name="[BIOS] Mega-CD (Japan) (v1.11B)" id="2442" cloneofid="0008">
 		<category>Miscellaneous</category>
 		<description>[BIOS] Mega-CD (Japan) (v1.11B)</description>
@@ -92,6 +96,11 @@
 		<description>[BIOS] Mega-CD 2 (Europe) (v2.11)</description>
 		<rom name="[BIOS] Mega-CD 2 (Europe) (v2.11).md" size="131072" crc="c1aa217f" md5="2b57402ab187e156dc5f2f83b7b594b7" sha1="9de4eda59f544db2d5fd7e6514601f7b648d8eb4" sha256="e8f226369a2ba79afa7bdab412538540ca10191032c01a12da4e19b7c6065cc2"/>
 	</game>
+	<game name="[BIOS] Mega-CD 2 (Japan)" id="1629" cloneofid="0012">
+		<category>Miscellaneous</category>
+		<description>[BIOS] Mega-CD 2 (Japan)</description>
+		<rom name="[BIOS] Mega-CD 2 (Japan).md" size="131072" crc="dd6cc972" md5="683a8a9e273662561172468dfa2858eb" sha1="d203cfe22c03ae479dd8ca33840cf8d9776eb3ff" sha256="7133fc2dd2fe5b7d0acd53a5f10f3d00b5d31270239ad20d74ef32393e24af88"/>
+	</game>
 	<game name="[BIOS] Mega-CD 2 (Europe)" id="0011" cloneofid="0012">
 		<category>Miscellaneous</category>
 		<description>[BIOS] Mega-CD 2 (Europe)</description>
@@ -101,11 +110,6 @@
 		<category>Miscellaneous</category>
 		<description>[BIOS] Mega-CD 2 (Europe) (Rev A)</description>
 		<rom name="[BIOS] Mega-CD 2 (Europe) (Rev A).md" size="131072" crc="4d5cb8da" md5="b10c0a97abc57b758497d3fae6ab35a4" sha1="f5f60f03501908962446ee02fc27d98694dd157d" sha256="71eb86242d8d155ead2ab86721ef5ca236aba004018c500d46e55fc81ddd79b4"/>
-	</game>
-	<game name="[BIOS] Mega-CD 2 (Japan)" id="1629" cloneofid="0012">
-		<category>Miscellaneous</category>
-		<description>[BIOS] Mega-CD 2 (Japan)</description>
-		<rom name="[BIOS] Mega-CD 2 (Japan).md" size="131072" crc="dd6cc972" md5="683a8a9e273662561172468dfa2858eb" sha1="d203cfe22c03ae479dd8ca33840cf8d9776eb3ff" sha256="7133fc2dd2fe5b7d0acd53a5f10f3d00b5d31270239ad20d74ef32393e24af88"/>
 	</game>
 	<game name="[BIOS] Multi-Mega (Europe)" id="1619">
 		<category>Miscellaneous</category>
@@ -117,15 +121,15 @@
 		<description>[BIOS] Multi-Mega (Asia) (Ja)</description>
 		<rom name="[BIOS] Multi-Mega (Asia) (Ja).md" size="131072" crc="3e0a1091" md5="1a03673fbc16c7e1609b452e49d4b657" sha1="1a435e2f8b94fcd41f4626e469c8ed999401081e" sha256="d4b53e01c6e1d5552cc8f699544983fc6f8bb31ac1a230ab01d8459f0be66141"/>
 	</game>
-	<game name="[BIOS] Sega CD (USA)" id="1663" cloneofid="0008">
-		<category>Miscellaneous</category>
-		<description>[BIOS] Sega CD (USA)</description>
-		<rom name="[BIOS] Sega CD (USA).md" size="131072" crc="e7e3afe2" md5="96ea588d647f2ab1f291279fc691663c" sha1="c5c24e6439a148b7f4c7ea269d09b7a23fe25075" sha256="779b09a46c25ae2b1493e0ec7e1aaf4b5963aa2e13b3aa1378b2ce5ccccca2e9"/>
-	</game>
 	<game name="[BIOS] Sega CD (USA) (Rev B)" id="0017" cloneofid="0008">
 		<category>Miscellaneous</category>
 		<description>[BIOS] Sega CD (USA) (Rev B)</description>
 		<rom name="[BIOS] Sega CD (USA) (Rev B).md" size="131072" crc="c6d10268" md5="2efd74e3232ff260e371b99f84024f7f" sha1="f4f315adcef9b8feb0364c21ab7f0eaf5457f3ed" sha256="807384678ef259494d943eddb6954dfc7069693d0dde0c424e2028488d88e81a" status="verified"/>
+	</game>
+	<game name="[BIOS] Sega CD (USA)" id="1663" cloneofid="0008">
+		<category>Miscellaneous</category>
+		<description>[BIOS] Sega CD (USA)</description>
+		<rom name="[BIOS] Sega CD (USA).md" size="131072" crc="e7e3afe2" md5="96ea588d647f2ab1f291279fc691663c" sha1="c5c24e6439a148b7f4c7ea269d09b7a23fe25075" sha256="779b09a46c25ae2b1493e0ec7e1aaf4b5963aa2e13b3aa1378b2ce5ccccca2e9"/>
 	</game>
 	<game name="[BIOS] Sega CD 2 (USA)" id="0018" cloneofid="0012">
 		<category>Miscellaneous</category>

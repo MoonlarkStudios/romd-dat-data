@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10976) (2026-09-19 23-52-48)</description>
-		<version>2026-09-19 23-52-48</version>
-		<date>2026-09-19 23-52-48</date>
+		<description>Sony - PlayStation - Datfile (10976) (2026-09-20 20-22-38)</description>
+		<version>2026-09-20 20-22-38</version>
+		<date>2026-09-20 20-22-38</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -71881,11 +71881,11 @@
 		<rom name="Rescue Shot Bubibo &amp; Biohazard - Gun Survivor - GunCon Taiou Shooting Taikenban (Japan) (Track 1).bin" size="162483216" crc="7cf159eb" md5="1ed5cf92f9081cb68aaa87629ce4a3bb" sha1="498d8bd3524e350153785830daf3d2f21dc9ffa9"/>
 		<rom name="Rescue Shot Bubibo &amp; Biohazard - Gun Survivor - GunCon Taiou Shooting Taikenban (Japan) (Track 2).bin" size="42789936" crc="a2cc3bd5" md5="26d92549b65c142e1f9dfcf9cb50d188" sha1="3db2ed0464ac53c6f1da35bdcc0c08694d91788a"/>
 	</game>
-	<game name="Rescue Shot Bubibo (Japan)" id="5907">
+	<game name="Rescue Shot Bubibo (Japan, Asia)" id="5907">
 		<category>Games</category>
-		<description>Rescue Shot Bubibo (Japan)</description>
-		<rom name="Rescue Shot Bubibo (Japan).cue" size="92" crc="3ac45429" md5="9995caa0985c85b0be2c378eddb638e4" sha1="fa9dbda84378933ff2d9af06acdcef0e591dbaed"/>
-		<rom name="Rescue Shot Bubibo (Japan).bin" size="397742016" crc="ec44c20c" md5="102d7580d050b12aacc09ebab6ea1047" sha1="27e921b97ddb2f1703f8d16a4a40399857392860"/>
+		<description>Rescue Shot Bubibo (Japan, Asia)</description>
+		<rom name="Rescue Shot Bubibo (Japan, Asia).cue" size="98" crc="8cd768bd" md5="4c9cae42261ac11e2cb983de1e7a45b2" sha1="11225878c96c139a6968844bcf57b575053fdded"/>
+		<rom name="Rescue Shot Bubibo (Japan, Asia).bin" size="397742016" crc="ec44c20c" md5="102d7580d050b12aacc09ebab6ea1047" sha1="27e921b97ddb2f1703f8d16a4a40399857392860"/>
 	</game>
 	<game name="Resident Evil (Europe)" id="507">
 		<category>Games</category>

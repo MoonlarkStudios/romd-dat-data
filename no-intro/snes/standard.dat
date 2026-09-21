@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260913-204915</version>
+		<version>20260919-174308</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -546,7 +546,7 @@
 		<description>Aoki Densetsu Shoot! (Japan)</description>
 		<rom name="Aoki Densetsu Shoot! (Japan).sfc" size="1572864" crc="9ea4ad6f" md5="41668cd2bfd33fab8b7168fecff2ae4b" sha1="c63ca9ad073bc2b8ae079aa19cf026791d0fd2db" sha256="5ee3f901c6142ff54c3c32db34f40ab5387c3256e0febde54c6dfd4668456e7e" status="verified"/>
 	</game>
-	<game name="Apocalypse II (Europe) (Proto 1)" id="0110" cloneofid="4259">
+	<game name="Apocalypse II (Europe) (Proto 1)" id="0110" cloneofid="4264">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Apocalypse II (Europe) (Proto 1)</description>
@@ -2135,7 +2135,7 @@
 		<description>Cool World (USA)</description>
 		<rom name="Cool World (USA).sfc" size="1048576" crc="0730c37c" md5="ab16565f70e427d048a0d8ddab577139" sha1="a477c7c8fff0591792fbc7e4731bb7e7988d0617" sha256="9674cc269d89a52d1719a487b44acf004fb777cbd58d76b19a2cd25749728215"/>
 	</game>
-	<game name="Corn Buster (Europe) (Proto)" id="0485" cloneofid="3989">
+	<game name="Corn Buster (Europe) (Proto)" id="0485">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Corn Buster (Europe) (Proto)</description>
@@ -14890,19 +14890,19 @@
 		<description>Doraemon - Nobita to Yousei no Kuni (Japan) (Rev 1)</description>
 		<rom name="Doraemon - Nobita to Yousei no Kuni (Japan) (Rev 1).sfc" size="524288" crc="55e44983" md5="6b179fa5b98b1cb006c1f899829178fb" sha1="95b8e45c194618fc122ca10d5af5dbf9b9077aac" sha256="0a0eaaf876827b59c45a9236b70827d55372c094fb572941168e8d1ff8617fba"/>
 	</game>
-	<game name="Dorque &amp; Imp (Europe) (Proto) (Mine Level)" id="3695" cloneofid="3822">
+	<game name="Dorque &amp; Imp (Europe) (Proto) (Mine Level)" id="3695">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Dorque &amp; Imp (Europe) (Proto) (Mine Level)</description>
 		<rom name="Dorque &amp; Imp (Europe) (Proto) (Mine Level).sfc" size="1453721" crc="7ed703bb" md5="738b5ced005273a7aa1723b32786890e" sha1="a1fb1c5bf3daa71e1540406851b0f76994a15f96" sha256="9875dc1ff03c673afa0a7c543a3b4e45a38fb908dcba904aa5da44ef10fc407f"/>
 	</game>
-	<game name="Dorque &amp; Imp (Europe) (Proto) (Palace Level)" id="3696" cloneofid="3822">
+	<game name="Dorque &amp; Imp (Europe) (Proto) (Palace Level)" id="3696">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Dorque &amp; Imp (Europe) (Proto) (Palace Level)</description>
 		<rom name="Dorque &amp; Imp (Europe) (Proto) (Palace Level).sfc" size="1453732" crc="59e235ba" md5="3d311d4f90217f4888ba3b911a3e2fb9" sha1="60fb80dbbeb0f36fe018f341163ef922d8a2aca6" sha256="56702e33ba44148441df981388b7121e2661332195a5c9726b67038de50f3e44"/>
 	</game>
-	<game name="Dorque &amp; Imp (Europe) (Proto) (Woods Level)" id="3697" cloneofid="3822">
+	<game name="Dorque &amp; Imp (Europe) (Proto) (Woods Level)" id="3697">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Dorque &amp; Imp (Europe) (Proto) (Woods Level)</description>
@@ -19489,7 +19489,7 @@
 		<description>Animaniacs (USA) (Beta)</description>
 		<rom name="Animaniacs (USA) (Beta).sfc" size="1048576" crc="2d7d6973" md5="3ab368e947d76f106fc4d3ee38c83065" sha1="cfa212f6b7353af1e397b21dbd04ad8c86731762" sha256="ba35af4892d536e4ceb7bf039c58d02635cab6c5c9a96d5fe13b1451542725f3"/>
 	</game>
-	<game name="Apocalypse II (Europe) (Proto 2)" id="4264" cloneofid="4259">
+	<game name="Apocalypse II (Europe) (Proto 2)" id="4264">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Apocalypse II (Europe) (Proto 2)</description>
