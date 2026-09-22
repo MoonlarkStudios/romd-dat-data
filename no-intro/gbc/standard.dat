@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20260920-104428</version>
+		<version>20260921-124904</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8993,7 +8993,7 @@
 		<description>Snooze (World) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Snooze (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="b246095f" md5="8acdfec71941940bcb1410143254228f" sha1="b7fdcc006c9c06dd391ee26d44b278d9d3793f6d" sha256="60226707beceb2b4fdddbf73f04d2c07843a1f142395a0fd571016c0f9ffa5f7"/>
 	</game>
-	<game name="Snout (World) (Demo) (Aftermarket) (Unl)" id="2610">
+	<game name="Snout (World) (Demo) (Aftermarket) (Unl)" id="2610" cloneofid="3000">
 		<category>Demos</category>
 		<description>Snout (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Snout (World) (Demo) (Aftermarket) (Unl).gbc" size="262144" crc="2c851e4f" md5="32bc3e8ebedaef387d267f0cff3fd3e9" sha1="3f7140d3a42b15515ebc378ed0fcd69944c5a69d" sha256="e6f1d5e496326052aa60cddb4238b9e7ed0acf5dfb1280d4561455276e6c50af"/>
