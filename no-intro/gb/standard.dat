@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260919-114245</version>
+		<version>20260922-130338</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2652,10 +2652,10 @@
 		<description>Footballer of the Year (World) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Footballer of the Year (World) (v1.1) (Aftermarket) (Unl).gb" size="1048576" crc="6e6ce1bb" md5="11829a41718f6ddef1bbf2e9eb6587fd" sha1="44166b7e6e8411ae61f37c7a78e90acaae66bcc5" sha256="919b1e56ddc80af738a914f34c953e0b4cb17c3ae303daaaa92f0f31480a537b"/>
 	</game>
-	<game name="Footballer of the Year (World) (v1.0) (Aftermarket) (Unl)" id="2345" cloneofid="2344">
+	<game name="Footballer of the Year (World) (Aftermarket) (Unl)" id="2345" cloneofid="2344">
 		<category>Games</category>
-		<description>Footballer of the Year (World) (v1.0) (Aftermarket) (Unl)</description>
-		<rom name="Footballer of the Year (World) (v1.0) (Aftermarket) (Unl).gb" size="1048576" crc="91faa9b1" md5="1660f7937b4edde47f6fc3a7c4fc857e" sha1="b7542729c8665a1a2af47f58fc59cc90f66fd77d" sha256="2bd9e5df4666882736b8d369902d80aa88dba9dbd7128befc5c97b4f43dff4f6"/>
+		<description>Footballer of the Year (World) (Aftermarket) (Unl)</description>
+		<rom name="Footballer of the Year (World) (Aftermarket) (Unl).gb" size="1048576" crc="91faa9b1" md5="1660f7937b4edde47f6fc3a7c4fc857e" sha1="b7542729c8665a1a2af47f58fc59cc90f66fd77d" sha256="2bd9e5df4666882736b8d369902d80aa88dba9dbd7128befc5c97b4f43dff4f6"/>
 	</game>
 	<game name="Foreman for Real (Japan) (En)" id="0401" cloneofid="0402">
 		<category>Games</category>
@@ -2925,10 +2925,10 @@
 		<description>GB Pachi-Slot Hisshouhou! Jr. (Japan)</description>
 		<rom name="GB Pachi-Slot Hisshouhou! Jr. (Japan).gb" size="131072" crc="a2e210e9" md5="7fed5d5e548d9a4c1f61a47f1a6692a9" sha1="7636799f5a57d22cf579bb687be5bb9fedddd0ca" sha256="2722f9a943d689979de15607ee6178b182743bd53a89e40aa132c627f75d48c7"/>
 	</game>
-	<game name="GB Pixel Jam 2023 Gallery (World) (Digital) (Aftermarket) (Unl)" id="2440">
+	<game name="GB Pixel Jam 2023 Gallery (World) (Aftermarket) (Unl)" id="2440">
 		<category>Games</category>
-		<description>GB Pixel Jam 2023 Gallery (World) (Digital) (Aftermarket) (Unl)</description>
-		<rom name="GB Pixel Jam 2023 Gallery (World) (Digital) (Aftermarket) (Unl).gb" size="1048576" crc="250d665a" md5="bdf7e5902c89bd3cdfead568d8105758" sha1="d6c41777318c35e0e1874de0b06613a26600d21b" sha256="bd029bdd668dcfe2f76602eb7b2efe2dd62886d73007584b7940695c8143a93b"/>
+		<description>GB Pixel Jam 2023 Gallery (World) (Aftermarket) (Unl)</description>
+		<rom name="GB Pixel Jam 2023 Gallery (World) (Aftermarket) (Unl).gb" size="1048576" crc="250d665a" md5="bdf7e5902c89bd3cdfead568d8105758" sha1="d6c41777318c35e0e1874de0b06613a26600d21b" sha256="bd029bdd668dcfe2f76602eb7b2efe2dd62886d73007584b7940695c8143a93b"/>
 	</game>
 	<game name="GBKiss Mini Games (Japan)" id="0444">
 		<description>GBKiss Mini Games (Japan)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-22 09-23-59)</description>
-		<version>2026-09-22 09-23-59</version>
-		<date>2026-09-22 09-23-59</date>
+		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-22 21-44-01)</description>
+		<version>2026-09-22 21-44-01</version>
+		<date>2026-09-22 21-44-01</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1607,10 +1607,10 @@
 		<description>Battlefield - Bad Company 2 (USA) (En,Fr)</description>
 		<rom name="Battlefield - Bad Company 2 (USA) (En,Fr).iso" size="7089356800" crc="5fa6ee25" md5="a3c073340851ca236e7a998b659bbb16" sha1="79938007db9083d0b1ffdca4e3500d4fab65b225"/>
 	</game>
-	<game name="Battlefield - Bad Company 2 (USA, Canada) (En,Fr) (Limited Edition)" id="11731">
+	<game name="Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition)" id="11731">
 		<category>Games</category>
-		<description>Battlefield - Bad Company 2 (USA, Canada) (En,Fr) (Limited Edition)</description>
-		<rom name="Battlefield - Bad Company 2 (USA, Canada) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
+		<description>Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition)</description>
+		<rom name="Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
 	</game>
 	<game name="Battlefield 3 (Asia) (En,Zh)" id="87227">
 		<category>Games</category>
@@ -1837,10 +1837,10 @@
 		<description>Beyond - Two Souls (Japan)</description>
 		<rom name="Beyond - Two Souls (Japan).iso" size="36430544896" crc="20c6c6cc" md5="89412749ac5bc98d6b8d5cdd261bc77f" sha1="950c6d137ab98a81df344e77f674f9581f9cee50"/>
 	</game>
-	<game name="Beyond - Two Souls (USA) (En,Fr)" id="29875">
+	<game name="Beyond - Two Souls (USA, Canada) (En,Fr)" id="29875">
 		<category>Games</category>
-		<description>Beyond - Two Souls (USA) (En,Fr)</description>
-		<rom name="Beyond - Two Souls (USA) (En,Fr).iso" size="33877852160" crc="889388ed" md5="1057914e9eada64b944b414a140135ce" sha1="1775d88a25b0c8ab50d3541e55ccaba1a566ee76"/>
+		<description>Beyond - Two Souls (USA, Canada) (En,Fr)</description>
+		<rom name="Beyond - Two Souls (USA, Canada) (En,Fr).iso" size="33877852160" crc="889388ed" md5="1057914e9eada64b944b414a140135ce" sha1="1775d88a25b0c8ab50d3541e55ccaba1a566ee76"/>
 	</game>
 	<game name="Beyond the Future - Fix the Time Arrows (Japan)" id="66512">
 		<category>Games</category>

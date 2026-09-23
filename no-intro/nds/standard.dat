@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260920-135151</version>
+		<version>20260922-162434</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -437,7 +437,7 @@
 	</game>
 	<game name="4 Elements (Europe) (Fr,De)" id="4841" cloneofid="6152">
 		<description>4 Elements (Europe) (Fr,De)</description>
-		<rom name="4 Elements (Europe) (Fr,De).nds" size="16777216" crc="af9992bd" md5="5c852d83efa3851802a600924c4cdaff" sha1="34e1be9b72d5f0ef4a8e67d0afacc5a42f21296c" serial="B4EX"/>
+		<rom name="4 Elements (Europe) (Fr,De).nds" size="16777216" crc="af9992bd" md5="5c852d83efa3851802a600924c4cdaff" sha1="34e1be9b72d5f0ef4a8e67d0afacc5a42f21296c" sha256="791697b4a9896a06cbfeb5b22b810a18124f81371198f8b28ba9e325fce0bb79" serial="B4EX"/>
 	</game>
 	<game name="4 Elements (Europe) (Fr,Nl)" id="5203" cloneofid="6152">
 		<description>4 Elements (Europe) (Fr,Nl)</description>
@@ -1919,7 +1919,7 @@
 	</game>
 	<game name="Baby Wild Katzen (Germany)" id="4265">
 		<description>Baby Wild Katzen (Germany)</description>
-		<rom name="Baby Wild Katzen (Germany).nds" size="16777216" crc="d7c4b489" md5="a99c3f375ae85634448932a439ce0e61" sha1="4c71450fa7c1cad2779147f9c22816950cfc30da" serial="BBWD"/>
+		<rom name="Baby Wild Katzen (Germany).nds" size="16777216" crc="d7c4b489" md5="a99c3f375ae85634448932a439ce0e61" sha1="4c71450fa7c1cad2779147f9c22816950cfc30da" sha256="691931b837e699c6c570389c2cc254151f535cdabda0fb680a04c4edbbef09b6" serial="BBWD"/>
 	</game>
 	<game name="Babysitting Mania (USA)" id="3132" cloneofid="3521">
 		<description>Babysitting Mania (USA)</description>
@@ -6798,7 +6798,7 @@
 	</game>
 	<game name="Dragon Quest Monsters - Joker 2 (Europe) (En,Fr,De,Es,It)" id="5846">
 		<description>Dragon Quest Monsters - Joker 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dragon Quest Monsters - Joker 2 (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="7fff3111" md5="f86b4ca34022ef77e734ac04c00ba577" sha1="513ac63c7d67211007da6ba7050b179dfafb362a" serial="CJRP"/>
+		<rom name="Dragon Quest Monsters - Joker 2 (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="7fff3111" md5="f86b4ca34022ef77e734ac04c00ba577" sha1="513ac63c7d67211007da6ba7050b179dfafb362a" sha256="fd68a683238b6a837f95476c96e7a9b172dac8d12bf3046b7c0a57b32752cebb" serial="CJRP"/>
 	</game>
 	<game name="Dragon Quest Monsters - Joker 2 (Japan)" id="4898" cloneofid="5846">
 		<description>Dragon Quest Monsters - Joker 2 (Japan)</description>
@@ -8218,7 +8218,7 @@
 	</game>
 	<game name="Fashion Designer - Style Icon (Europe) (En,Fr,De,Es,It)" id="1623">
 		<description>Fashion Designer - Style Icon (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Fashion Designer - Style Icon (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="b99c6802" md5="819c98b168f87a72bea097e61d3d5d27" sha1="2133ac1acd0e43f9d509d5ee32594d792699a619" status="verified" serial="YF9P"/>
+		<rom name="Fashion Designer - Style Icon (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="b99c6802" md5="819c98b168f87a72bea097e61d3d5d27" sha1="2133ac1acd0e43f9d509d5ee32594d792699a619" sha256="029b200a5221e2fe0493f5f73ae067da5b1681728f2adf441db402510cce803e" status="verified" serial="YF9P"/>
 	</game>
 	<game name="Fashion Dogz (Europe)" id="2602">
 		<description>Fashion Dogz (Europe)</description>
@@ -9826,35 +9826,35 @@
 		<description>Guinness World Records - The Videogame (USA) (En,Fr,Es)</description>
 		<rom name="Guinness World Records - The Videogame (USA) (En,Fr,Es).nds" size="67108864" crc="3e5fa048" md5="3383590abc2610425fde1e8cf5cb2476" sha1="e63ab0108b88ed10c30910b7e13a56040679db32" serial="CGNE"/>
 	</game>
-	<game name="Guitar Hero - On Tour (USA) (En,Fr)" id="2380" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (USA) (En,Fr)" id="2380" cloneofid="2476">
 		<description>Guitar Hero - On Tour (USA) (En,Fr)</description>
 		<rom name="Guitar Hero - On Tour (USA) (En,Fr).nds" size="134217728" crc="ef72ced6" md5="748d06f1c40bd91f1c33bdd6e59ff706" sha1="6ab29bd097b4adfd0d44abc02605e64fd2b2d556" sha256="95059da144290fa05abffd49f5ec8e24128943fbf63ab884fc26f1cd48bece20" status="verified" serial="YGHE"/>
 	</game>
-	<game name="Guitar Hero - On Tour (Europe) (Fr,De,Es,It)" id="2476" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (Europe) (Fr,De,Es,It)" id="2476">
 		<description>Guitar Hero - On Tour (Europe) (Fr,De,Es,It)</description>
 		<rom name="Guitar Hero - On Tour (Europe) (Fr,De,Es,It).nds" size="134217728" crc="5e59fc20" md5="cd6bfe6ba8139efec96baea4660d47cb" sha1="4ba90d84aa06c0ad93f76c8fba2e4c5b647173bc" sha256="162734d0e4a0e09d07c92fb5679a1de238f69d9ca9c61b078aa63b97f7fc3ec7" status="verified" serial="YGHX"/>
 	</game>
-	<game name="Guitar Hero - On Tour (United Kingdom)" id="2500">
+	<game name="Guitar Hero - On Tour (United Kingdom)" id="2500" cloneofid="2476">
 		<description>Guitar Hero - On Tour (United Kingdom)</description>
 		<rom name="Guitar Hero - On Tour (United Kingdom).nds" size="134217728" crc="cdc18b1b" md5="36ecfa07429e224590a9b0665f2201d3" sha1="431c3d587f4e320c04748e01845c42423eb7936d" sha256="e324de9984907860aca7c43ee643c9e7804a757e4e6182694f224aa3f7f956b8" status="verified" serial="YGHP"/>
 	</game>
-	<game name="Guitar Hero - On Tour (Korea)" id="2550" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (Korea)" id="2550" cloneofid="2476">
 		<description>Guitar Hero - On Tour (Korea)</description>
 		<rom name="Guitar Hero - On Tour (Korea).nds" size="134217728" crc="4a0ab07e" md5="2c13eafa0a1d4eb641c81e4c8e3b91a2" sha1="bad4e8f7dea3518c2115fbb208a2970927a7590e" sha256="e8a6652dfa7b1c71fc2aa134692f0b4f383a4adeb21824d78e84432ae32dcf7a" serial="YGHK"/>
 	</game>
-	<game name="Guitar Hero - On Tour (Japan)" id="2754" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (Japan)" id="2754" cloneofid="2476">
 		<description>Guitar Hero - On Tour (Japan)</description>
 		<rom name="Guitar Hero - On Tour (Japan).nds" size="134217728" crc="2dd68af2" md5="bad83690340980387c722c7782f8ac6f" sha1="a35627e3c412239a8dc866b0da2f5501f3803a77" serial="YGHJ"/>
 	</game>
-	<game name="Guitar Hero - On Tour (USA) (Demo) (Kiosk)" id="x192" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (USA) (Demo) (Kiosk)" id="x192" cloneofid="2476">
 		<description>Guitar Hero - On Tour (USA) (Demo) (Kiosk)</description>
 		<rom name="Guitar Hero - On Tour (USA) (Demo) (Kiosk).nds" size="67108864" crc="2d1d0b6d" md5="c378ee84a3335b159c60a725a7eeeed4" sha1="8cde37c75e2b2a707bebe15d7a9e830d2ba4982f" sha256="162cc29233e059e9511cab4eb10c34fecc9150e24f0a128497028029654c26f4" serial="Y5RE"/>
 	</game>
-	<game name="Guitar Hero - On Tour (Europe) (Fr,De,Es,It) (Demo) (Kiosk)" id="x138" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (Europe) (Fr,De,Es,It) (Demo) (Kiosk)" id="x138" cloneofid="2476">
 		<description>Guitar Hero - On Tour (Europe) (Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<rom name="Guitar Hero - On Tour (Europe) (Fr,De,Es,It) (Demo) (Kiosk).nds" size="67108864" crc="fdf622cf" md5="ec82ed6f5541460f5d3f63c148992a2e" sha1="2729b55162146886c0dfe0d43bbfe84c87d63989" sha256="3cf7d42d5fb130d1c8bdd49873d949654c12bc53822eae74438cdf6cb20890e7" serial="Y5RX"/>
 	</game>
-	<game name="Guitar Hero - On Tour (United Kingdom) (Demo) (Kiosk)" id="x155" cloneofid="2500">
+	<game name="Guitar Hero - On Tour (United Kingdom) (Demo) (Kiosk)" id="x155" cloneofid="2476">
 		<description>Guitar Hero - On Tour (United Kingdom) (Demo) (Kiosk)</description>
 		<rom name="Guitar Hero - On Tour (United Kingdom) (Demo) (Kiosk).nds" size="67108864" crc="d72a6297" md5="5de60ae03c34e1f717f5deedbd807f6c" sha1="4cc3d5a21e1a1890b0432c56dfe7c1f502d02c62" sha256="f7294cbaa7c44d9fc6a22eaf46250c092f274e645ca88e3d71fa2ff6fbe67764" status="verified" serial="Y5RP"/>
 	</game>
@@ -10258,7 +10258,7 @@
 	</game>
 	<game name="Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="1218" cloneofid="1193">
 		<description>Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="67108864" crc="bf1de616" md5="0036428a785199c41ad1fbdd46ffd1b7" sha1="c2d0848ca3ae3f9bc7b415702b28ce8ec1d383f4" serial="A5PX"/>
+		<rom name="Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="67108864" crc="bf1de616" md5="0036428a785199c41ad1fbdd46ffd1b7" sha1="c2d0848ca3ae3f9bc7b415702b28ce8ec1d383f4" sha256="9d6beff77c3f0a3bc7b651ff6ecc9f850c7db5aedd0d045018589ee08cdb03cd" status="verified" serial="A5PX"/>
 	</game>
 	<game name="Harry Potter to Fushichou no Kishidan (Japan)" id="3709" cloneofid="1193">
 		<description>Harry Potter to Fushichou no Kishidan (Japan)</description>
@@ -10558,7 +10558,7 @@
 	</game>
 	<game name="Heroes of Mana (Europe)" id="1407">
 		<description>Heroes of Mana (Europe)</description>
-		<rom name="Heroes of Mana (Europe).nds" size="134217728" crc="7f7faea0" md5="880c165fe85095f72ef18b1ecbcb485b" sha1="1cd64ce27274a74b9e807412bcb6b514e4aade59" status="verified" serial="AHEP"/>
+		<rom name="Heroes of Mana (Europe).nds" size="134217728" crc="7f7faea0" md5="880c165fe85095f72ef18b1ecbcb485b" sha1="1cd64ce27274a74b9e807412bcb6b514e4aade59" sha256="1c8f9c05b6dcfa34a42d343b7546046607f5dc514c5a86855bdeaef0a6fba894" status="verified" serial="AHEP"/>
 	</game>
 	<game name="Hexa-Virus (World) (Datel Games n' Music) (Unl)" id="z619">
 		<description>Hexa-Virus (World) (Datel Games n' Music) (Unl)</description>
@@ -18920,11 +18920,12 @@
 		<description>Naruto Jilpungjeon - Insuljeongae! Cha-Crash!! (Korea)</description>
 		<rom name="Naruto Jilpungjeon - Insuljeongae! Cha-Crash!! (Korea).nds" size="67108864" crc="e686f909" md5="7b3ab5f1db82e97bf93b18f78d08483c" sha1="eee5f69f833784ffda8f30fa093ec217d451ddd3" serial="BNXK"/>
 	</game>
-	<game name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Rev 1)" id="z268" cloneofid="0081">
+	<game name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Rev 1)" id="z268">
+		<category>Games</category>
 		<description>Naruto RPG 2 - Chidori vs Rasengan (Japan) (Rev 1)</description>
 		<rom name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Rev 1).nds" size="33554432" crc="932fb767" md5="92c5ce297e472d41f5f475dfd178b54c" sha1="5abb2a8bfe37366ab946283157ce8df5c26cdd5f" sha256="a83a6a1c8ac867072e09b4ed7d9695a706d9df6d5fa4f2719e80200037847782" serial="AN2J"/>
 	</game>
-	<game name="Naruto RPG 2 - Chidori vs Rasengan (Japan)" id="0081">
+	<game name="Naruto RPG 2 - Chidori vs Rasengan (Japan)" id="0081" cloneofid="z268">
 		<description>Naruto RPG 2 - Chidori vs Rasengan (Japan)</description>
 		<rom name="Naruto RPG 2 - Chidori vs Rasengan (Japan).nds" size="33554432" crc="73913b7b" md5="353a2ee41a6812e3740933b1029e57ad" sha1="10c86618d24b3e33e710d11a798a8397be4d6f61" sha256="2ac129a624b282294a1baf07eb27c46df6bfc0bfe3dd400cf9d610a840f3a9b3" serial="AN2J"/>
 	</game>
@@ -19122,7 +19123,7 @@
 	</game>
 	<game name="Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It)" id="0041">
 		<description>Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5092f331" md5="a5aeaa6f43298b139af1afe82419ce9d" sha1="1d3fae1fb0919f25c9b0d72f4215a0760f02493c" serial="AUGP"/>
+		<rom name="Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5092f331" md5="a5aeaa6f43298b139af1afe82419ce9d" sha1="1d3fae1fb0919f25c9b0d72f4215a0760f02493c" sha256="53963b668d9cb9a688f18b7df03b32848a02489a75c0823e8e6e34bedc27ab1c" status="verified" serial="AUGP"/>
 	</game>
 	<game name="Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It)" id="0641">
 		<description>Need for Speed Carbon - Own the City (Europe) (En,Fr,De,Es,It)</description>
