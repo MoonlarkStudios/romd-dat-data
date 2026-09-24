@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20260922-161829</version>
+		<version>20260923-134741</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2085,7 +2085,7 @@
 	<game name="Donkey Kong Returns 3D (Japan)" id="0722" cloneofid="0241">
 		<description>Donkey Kong Returns 3D (Japan)</description>
 		<game_id>00040000000CC000</game_id>
-		<rom name="Donkey Kong Returns 3D (Japan).3ds" size="4294967296" crc="40759163" md5="dd1884162d91f379468e4f11f382b09a" sha1="bd2c49352b77f62a4ac1043c9d5d7d1dc9994b89" serial="CTR-P-AYTJ"/>
+		<rom name="Donkey Kong Returns 3D (Japan).3ds" size="4294967296" crc="40759163" md5="dd1884162d91f379468e4f11f382b09a" sha1="bd2c49352b77f62a4ac1043c9d5d7d1dc9994b89" status="verified" serial="CTR-P-AYTJ"/>
 	</game>
 	<game name="Donkey Kong Returns 3D (Korea)" id="z110" cloneofid="0241">
 		<description>Donkey Kong Returns 3D (Korea)</description>

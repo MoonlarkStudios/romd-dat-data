@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Datfile (2464) (2026-09-20 22-13-59)</description>
-		<version>2026-09-20 22-13-59</version>
-		<date>2026-09-20 22-13-59</date>
+		<description>Sega - Saturn - Datfile (2464) (2026-09-24 02-42-35)</description>
+		<version>2026-09-24 02-42-35</version>
+		<date>2026-09-24 02-42-35</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -17207,7 +17207,7 @@
 		<rom name="Legend of K-1 - Grand Prix '96 (Japan) (Track 3).bin" size="5581296" crc="488603ba" md5="c2e2e9cac9948e8e53dd136810fe1319" sha1="076d4dd1d6a3cab5f573184c1ffedaa3cc4d3c5e"/>
 	</game>
 	<game name="Legend of K-1 - The Best Collection (Japan)" id="25225">
-		<category>Games</category>
+		<category>Multimedia</category>
 		<description>Legend of K-1 - The Best Collection (Japan)</description>
 		<rom name="Legend of K-1 - The Best Collection (Japan).cue" size="279" crc="4ade5927" md5="e62cc4d47a683ac7545b4d395c1f18f2" sha1="738d074f51e9e79ccfb47c321c0931247d225c2e"/>
 		<rom name="Legend of K-1 - The Best Collection (Japan) (Track 1).bin" size="654648624" crc="d136d0d3" md5="f180f6e077949b8f2d39df5a284138c4" sha1="f1101b0e9b8bc4ba3aa30ed3f8b50a32c495faba"/>

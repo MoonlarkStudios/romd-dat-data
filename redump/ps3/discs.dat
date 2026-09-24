@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-22 21-44-01)</description>
-		<version>2026-09-22 21-44-01</version>
-		<date>2026-09-22 21-44-01</date>
+		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-24 07-54-01)</description>
+		<version>2026-09-24 07-54-01</version>
+		<date>2026-09-24 07-54-01</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -7027,10 +7027,10 @@
 		<description>Fallout 3 - Game of the Year Edition (Canada) (En,Fr)</description>
 		<rom name="Fallout 3 - Game of the Year Edition (Canada) (En,Fr).iso" size="18985385984" crc="0de247ea" md5="418135ca19fc7ff754e70e9ff71e69b8" sha1="fcf81d90c6ba4a6b718640caac57c86a88028a9c"/>
 	</game>
-	<game name="Fallout 3 - Game of the Year Edition (Europe)" id="52576">
+	<game name="Fallout 3 - Game of the Year Edition (Europe, Australia)" id="52576">
 		<category>Games</category>
-		<description>Fallout 3 - Game of the Year Edition (Europe)</description>
-		<rom name="Fallout 3 - Game of the Year Edition (Europe).iso" size="10664411136" crc="a9c03531" md5="89ee5fd41e5fd0c6e31d810fef1ce143" sha1="82a61507168cd0c7d70f490cb12a53bd583cd5a3"/>
+		<description>Fallout 3 - Game of the Year Edition (Europe, Australia)</description>
+		<rom name="Fallout 3 - Game of the Year Edition (Europe, Australia).iso" size="10664411136" crc="a9c03531" md5="89ee5fd41e5fd0c6e31d810fef1ce143" sha1="82a61507168cd0c7d70f490cb12a53bd583cd5a3"/>
 	</game>
 	<game name="Fallout 3 - Game of the Year Edition (France)" id="89018">
 		<category>Games</category>
@@ -9098,10 +9098,10 @@
 		<description>Heavy Rain (UK)</description>
 		<rom name="Heavy Rain (UK).iso" size="18658623488" crc="c6f7c4e5" md5="e812b66ec2ecedeaf2b81dde1fa087e6" sha1="01012840020550c0065c1efc580a6dd3914c6cac"/>
 	</game>
-	<game name="Heavy Rain (USA) (En,Fr,Es,Pt)" id="12248">
+	<game name="Heavy Rain (USA, Canada) (En,Fr,Es,Pt)" id="12248">
 		<category>Games</category>
-		<description>Heavy Rain (USA) (En,Fr,Es,Pt)</description>
-		<rom name="Heavy Rain (USA) (En,Fr,Es,Pt).iso" size="21799567360" crc="69ad58b6" md5="3bb7b180fb9e1dff8878d8fa92d66b60" sha1="ab2b0801983cdc45ae24d8f7ad5a4920fc2fbd1e"/>
+		<description>Heavy Rain (USA, Canada) (En,Fr,Es,Pt)</description>
+		<rom name="Heavy Rain (USA, Canada) (En,Fr,Es,Pt).iso" size="21799567360" crc="69ad58b6" md5="3bb7b180fb9e1dff8878d8fa92d66b60" sha1="ab2b0801983cdc45ae24d8f7ad5a4920fc2fbd1e"/>
 	</game>
 	<game name="Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt)" id="44804">
 		<category>Games</category>
