@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20260919-174308</version>
+		<version>20260923-014702</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -21273,6 +21273,11 @@
 		<description>Rendering Ranger R2 (USA) (Limited Run Games)</description>
 		<rom name="Rendering Ranger R2 (USA) (Limited Run Games).sfc" size="2097152" crc="25ad68bf" md5="b18ddf486498b321fd901797dfbe76ea" sha1="437f2fb7b7309a5cb994b8071b78d7e418fa096a" sha256="e3da91c74c81b7d5a711317427519406ecb754ae5d6700911be62dd514f2f684"/>
 	</game>
+	<game name="Rendering Ranger R2 (World) (Limited Run Games)" id="4605" cloneofid="2132">
+		<category>Games</category>
+		<description>Rendering Ranger R2 (World) (Limited Run Games)</description>
+		<rom name="Rendering Ranger R2 (World) (Limited Run Games).sfc" size="2097152" crc="f6587443" md5="7e846ba3d7e6944c9f90e2e8ec0f7590" sha1="e4a50d170cea797d2636048343ce91a571d08b89" sha256="80173eda6f9a95a2f10bb24c10e7152e3036416d55e1c80961a46b30e02bac55"/>
+	</game>
 	<game name="Return of Double Dragon (World) (Evercade)" id="4427" cloneofid="2634">
 		<category>Games</category>
 		<description>Return of Double Dragon (World) (Evercade)</description>
@@ -22157,6 +22162,12 @@
 		<category>Games</category>
 		<description>Sydney Hunter and the Caverns of Death (World) (v1.1) (Evercade) (Aftermarket) (Unl)</description>
 		<rom name="Sydney Hunter and the Caverns of Death (World) (v1.1) (Evercade) (Aftermarket) (Unl).sfc" size="2097152" crc="95c8491f" md5="d16711b3600b2754027e0cbfdbabdeb6" sha1="7b30bb8d520437088213df2b33eecb9c056f1456" sha256="6df26c7d2b2b44bf8312d8c46fffd0701e12c5ffe4709ce0911834b0b96013e7"/>
+	</game>
+	<game name="Targa (World) (Proto) (Limited Run Games)" id="4606" cloneofid="2132">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Targa (World) (Proto) (Limited Run Games)</description>
+		<rom name="Targa (World) (Proto) (Limited Run Games).sfc" size="2097152" crc="56dbf46e" md5="15741d854012e123be38e14be9b99f9c" sha1="e99df93a575b71624c235efdc77e9707c8ff8311" sha256="022e6b95fc4ee7ee6c94bdb03fb9ee277e668c5e5e260b41c21310b0909184a9"/>
 	</game>
 	<game name="Tarzan (USA) (Pirate)" id="4350" cloneofid="1263">
 		<category>Games</category>
