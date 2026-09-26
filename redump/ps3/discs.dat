@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-24 20-14-09)</description>
-		<version>2026-09-24 20-14-09</version>
-		<date>2026-09-24 20-14-09</date>
+		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-26 07-53-58)</description>
+		<version>2026-09-26 07-53-58</version>
+		<date>2026-09-26 07-53-58</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -21548,10 +21548,10 @@
 		<description>Warhawk (Korea)</description>
 		<rom name="Warhawk (Korea).iso" size="1105920000" crc="178b700d" md5="7cf6934fb8a7eb0e6a1a0124835a7a51" sha1="4b5aeaf61e900b2baad09661ff71f6eaf57adbee"/>
 	</game>
-	<game name="Warhawk (USA)" id="11052">
+	<game name="Warhawk (USA, Canada)" id="11052">
 		<category>Games</category>
-		<description>Warhawk (USA)</description>
-		<rom name="Warhawk (USA).iso" size="2474311680" crc="2dd85291" md5="736a9facf4ead20ea0033b4043c526e8" sha1="59293a4a83ebda77e1e17117ba8a9078e7002f79"/>
+		<description>Warhawk (USA, Canada)</description>
+		<rom name="Warhawk (USA, Canada).iso" size="2474311680" crc="2dd85291" md5="736a9facf4ead20ea0033b4043c526e8" sha1="59293a4a83ebda77e1e17117ba8a9078e7002f79"/>
 	</game>
 	<game name="Warriors - Legends of Troy (Europe) (En,Fr,De,Es,It)" id="60968">
 		<category>Games</category>
