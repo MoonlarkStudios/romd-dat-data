@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260920-113347</version>
+		<version>20260927-122056</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -72,9 +72,14 @@
 		<description>[BIOS] Mega-CD (Japan) (Rev D)</description>
 		<rom name="[BIOS] Mega-CD (Japan) (Rev D).md" size="131072" crc="2ea250c0" md5="cc049159d7e744c15eee080c241273b4" sha1="9e1495e62b000e1e1c868c0f3b6982e1abbb8a94" sha256="b09db1827cfdcaf442e74328bc1e170920a6bce1ea99dcda89ee00f23b6ef467"/>
 	</game>
-	<game name="[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special)" id="3849">
+	<game name="[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special)" id="3849" cloneofid="0008">
+		<category>Miscellaneous</category>
 		<description>[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special)</description>
 		<rom name="[BIOS] Mega-CD (Japan) (v1.11) (Hoshino Special).md" size="131072" crc="1c3d3955" md5="1bd974aafc585da6997bad24aea85544" sha1="35f49f6a437120ddba34e21eb1e73badd3c7c316" sha256="36c6a43030e58ef9047a9e497a5bf46ab41b6d7747d52d5fd0a46ac9d2d8e770"/>
+	</game>
+	<game name="[BIOS] Mega-CD (Japan) (v1.11)" id="3850" cloneofid="0008">
+		<description>[BIOS] Mega-CD (Japan) (v1.11)</description>
+		<rom name="[BIOS] Mega-CD (Japan) (v1.11).md" size="131072" crc="4f7ea353" md5="1678a6858963c4ad5e0a59ce66dc8314" sha1="ed8e03365685715cbd0a5df13284a060c1728733" sha256="e4ff0f0b4f923691a8908a0b9b16c539395199184bfd1b5e759c8c3130cf34f4"/>
 	</game>
 	<game name="[BIOS] Mega-CD (Japan) (v1.11B)" id="2442" cloneofid="0008">
 		<category>Miscellaneous</category>

@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260919-131803</version>
+		<version>20260925-221356</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3171,10 +3171,11 @@
 		<description>Dynowarz - The Destruction of Spondylus (USA)</description>
 		<rom name="Dynowarz - The Destruction of Spondylus (USA).nes" size="262160" crc="4170f21f" md5="c18de1d08066f83a00d6e2f3742746c8" sha1="0de1afef6453bea0f8b69294e1524195d5666758" sha256="6553ca07d273aca1b84c772a5291a4e887e3c8717046051bf24398e63d53756f" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)" id="0646" cloneofid="1517">
+	<game name="Earth Bound (USA) (Proto)" id="0646">
 		<category>Games</category>
-		<description>EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online)</description>
-		<rom name="EarthBound Beginnings (USA, Europe) (Virtual Console, Switch Online).nes" size="524304" crc="abbe02fa" md5="54387b6e68142d69083a38b437196450" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" sha256="e672bd85dcdabe2e0ce24f719e810d90c2b22b7d79fd507f1e40f82a24458757" status="verified" header="4E 45 53 1A 10 20 42 08 00 00 70 00 00 00 00 01"/>
+		<category>Preproduction</category>
+		<description>Earth Bound (USA) (Proto)</description>
+		<rom name="Earth Bound (USA) (Proto).nes" size="524304" crc="abbe02fa" md5="54387b6e68142d69083a38b437196450" sha1="f338af0af0058dc692d6003e04b4094bb324d2c5" sha256="e672bd85dcdabe2e0ce24f719e810d90c2b22b7d79fd507f1e40f82a24458757" header="4E 45 53 1A 10 20 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
 	<game name="Eggerland - Meikyuu no Fukkatsu (Japan)" id="0647">
 		<category>Games</category>
@@ -7306,7 +7307,8 @@
 		<description>Morita Shougi (Japan)</description>
 		<rom name="Morita Shougi (Japan).nes" size="139280" crc="39c0e345" md5="14c6b68473ca30bb7371d4683f955891" sha1="9cba3f9e5077c5216cefb57ac0915058683d0fd7" sha256="364b687c0e7c82758b959680d0820fb8da61f0331c4f079d9d3ac82194754f3a" status="verified" header="4E 45 53 1A 08 01 12 08 00 00 70 00 00 00 00 01"/>
 	</game>
-	<game name="Mother (Japan)" id="1517">
+	<game name="Mother (Japan)" id="1517" cloneofid="0646">
+		<category>Games</category>
 		<description>Mother (Japan)</description>
 		<rom name="Mother (Japan).nes" size="393232" crc="cb084ac5" md5="bf1e0bc9c390fdbb2b3ca22d784db7d2" sha1="abd9710251cc5c99152f87b0b4078a3a40fe2950" sha256="ac14a63c080d810adcc1f43c102fcab8740425bd7404050216790aedc396ee2b" status="verified" header="4E 45 53 1A 10 10 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
@@ -10498,7 +10500,8 @@
 		<description>Monster in My Pocket (USA) (Beta) (1991-04-22)</description>
 		<rom name="Monster in My Pocket (USA) (Beta) (1991-04-22).nes" size="262160" crc="453d1e96" md5="629d6f99012cb00df4ab36090588b744" sha1="42ccb5bdaf2f02c902f9788a9398c285ccbf0d39" sha256="706ad03b47cae138e7205005d3d380108f7406fb030359116eafa368cfe07470" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Mother (Japan) (Virtual Console)" id="2948" cloneofid="1517">
+	<game name="Mother (Japan) (Virtual Console)" id="2948" cloneofid="0646">
+		<category>Games</category>
 		<description>Mother (Japan) (Virtual Console)</description>
 		<rom name="Mother (Japan) (Virtual Console).nes" size="393232" crc="58b727bb" md5="68f319a580eaded6b4fa73921bad6901" sha1="3f8565c6e6547e5d7e0a019bff74926bd12774b2" sha256="84fb448914828ba7b16e139d5991b31b59489fe74ce00e5c801fcf1d68a0f2c6" status="verified" header="4E 45 53 1A 10 10 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
@@ -36133,6 +36136,11 @@
 		<category>Preproduction</category>
 		<description>Get It Together! (World) (Demo 7) (Aftermarket) (Unl)</description>
 		<rom name="Get It Together! (World) (Demo 7) (Aftermarket) (Unl).nes" size="524304" crc="c4326dd1" md5="c9743e0499351d9a46603b085cbfec9b" sha1="bf2eb006d7ddb182412b5db834d97523834efbf8" sha256="b709d8fc49d568761df2e787e087152d4c26fa126b5558474a588d25a12d28a7" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
+	</game>
+	<game name="Gimmick (USA) (Limited Run Games)" id="8628" cloneofid="1522">
+		<category>Games</category>
+		<description>Gimmick (USA) (Limited Run Games)</description>
+		<rom name="Gimmick (USA) (Limited Run Games).nes" size="1048592" crc="e7d9e55f" md5="03ce7e7109326fb7a16b57ff51cfcca1" sha1="8dd1baa7e18aa01cefc522f39212a7e021648510" sha256="fc54c01890b784b41a6c18370ee1f7b2d71fb2b8f5f10d788d4c9dca85a77ec2" header="4E 45 53 1A 40 00 E0 B8 41 00 00 0B 00 00 00 01"/>
 	</game>
 	<game name="Golden Card 7-in-1 (Asia) (En) (Pirate)" id="8274">
 		<category>Games</category>
