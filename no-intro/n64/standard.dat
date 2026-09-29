@@ -4,8 +4,8 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20260918-065107</version>
-		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
+		<version>20260928-175532</version>
+		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, ShiroeNL, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
@@ -2264,6 +2264,12 @@
 		<category>Games</category>
 		<description>Kakutou Denshou - F-Cup Maniax (Japan)</description>
 		<rom name="Kakutou Denshou - F-Cup Maniax (Japan).z64" size="16777216" crc="db40a155" md5="dff0efe2b35fcde506d21b0c0bd373a5" sha1="f88f541d5913c99a9eac5ca4162e65b8a3828725" serial="NFYJ"/>
+	</game>
+	<game name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto)" id="1335">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto)</description>
+		<rom name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto).z64" size="16777216" crc="daf9b36f" md5="708f6022eba77ed7cbb4f4e8c2f2b793" sha1="28cd9cce375a37c120944121a4874a6acdb468a5" sha256="1d94b0b4d1c02f7bb7c68bd68b47e0269ff0f8db35f3dbc775aab6a4ac2e037e" serial="!none"/>
 	</game>
 	<game name="Ken Griffey Jr.'s Slugfest (USA)" id="0353">
 		<description>Ken Griffey Jr.'s Slugfest (USA)</description>
