@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260927-172544</version>
+		<version>20260928-173247</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8188,7 +8188,7 @@
 	</game>
 	<game name="Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl)" id="5181">
 		<description>Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="7ddb8260" md5="6728d6e7a5b217a576bd233a6ff96387" sha1="85643b1a84b5af9f0caf44f828899437f363228a" serial="BFZP"/>
+		<rom name="Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="7ddb8260" md5="6728d6e7a5b217a576bd233a6ff96387" sha1="85643b1a84b5af9f0caf44f828899437f363228a" sha256="14e445cb9e7d017c56d7eae58d6f610506c8f24f93f30f5691ee83d712e2aaf2" status="verified" serial="BFZP"/>
 	</game>
 	<game name="Farm Frenzy - Animal Country (USA) (En,Nl)" id="5427" cloneofid="5181">
 		<description>Farm Frenzy - Animal Country (USA) (En,Nl)</description>
@@ -8569,7 +8569,7 @@
 	</game>
 	<game name="Fishdom (Europe) (Fr,De)" id="4294" cloneofid="5851">
 		<description>Fishdom (Europe) (Fr,De)</description>
-		<rom name="Fishdom (Europe) (Fr,De).nds" size="8388608" crc="adadf180" md5="34f30312223be035a35febc0110be5ec" sha1="7dc2d4c4e80c69c65a870a19576a780fba48eda3" serial="BFDX"/>
+		<rom name="Fishdom (Europe) (Fr,De).nds" size="8388608" crc="adadf180" md5="34f30312223be035a35febc0110be5ec" sha1="7dc2d4c4e80c69c65a870a19576a780fba48eda3" sha256="8ec1d6bf1687e359d09e9aff1e2cd50fd88856ccf3b8e4eb4557322abab2717f" serial="BFDX"/>
 	</game>
 	<game name="Fishdom (Europe) (Fr,Nl)" id="5206" cloneofid="5851">
 		<description>Fishdom (Europe) (Fr,Nl)</description>
@@ -9349,7 +9349,7 @@
 	</game>
 	<game name="Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009 (Germany)" id="3697" cloneofid="6055">
 		<description>Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009 (Germany)</description>
-		<rom name="Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009 (Germany).nds" size="33554432" crc="a531f33c" md5="43787a1bb15ac71e1440984e8073b48f" sha1="b5d85df86963c710c0e4c317b3b82b6aae1113f5" serial="C4YD"/>
+		<rom name="Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2009 (Germany).nds" size="33554432" crc="a531f33c" md5="43787a1bb15ac71e1440984e8073b48f" sha1="b5d85df86963c710c0e4c317b3b82b6aae1113f5" sha256="db2bbb4aa9bf2a7b7f8f7d74b73e567bede8bdaa3a0f71c3d439d07fba5e4400" serial="C4YD"/>
 	</game>
 	<game name="Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2010 (Germany) (NDSi Enhanced)" id="4771">
 		<description>Germany's Next Topmodel - Das Offizielle Spiel zur Staffel 2010 (Germany) (NDSi Enhanced)</description>
@@ -10674,7 +10674,7 @@
 	</game>
 	<game name="Hidden Objects - The Big Journey (Europe) (En,De)" id="3653" cloneofid="6566">
 		<description>Hidden Objects - The Big Journey (Europe) (En,De)</description>
-		<rom name="Hidden Objects - The Big Journey (Europe) (En,De).nds" size="16777216" crc="320107af" md5="0b0ca641ee99c489e5975507376f017f" sha1="0d2c81822f9dc31546c65f8a2b783a6a638deabf" serial="CJ4P"/>
+		<rom name="Hidden Objects - The Big Journey (Europe) (En,De).nds" size="16777216" crc="320107af" md5="0b0ca641ee99c489e5975507376f017f" sha1="0d2c81822f9dc31546c65f8a2b783a6a638deabf" sha256="f3e8e2efe8bc15f0edb99ce9627619a80335c7d1e9bead7fe15bb6dbf5a99021" serial="CJ4P"/>
 	</game>
 	<game name="Hidden Objects - The Big Journey (Europe) (En,Fr,De,Nl) (Rev 1)" id="4146" cloneofid="6566">
 		<description>Hidden Objects - The Big Journey (Europe) (En,Fr,De,Nl) (Rev 1)</description>
@@ -12174,7 +12174,7 @@
 	</game>
 	<game name="James Patterson Women's Murder Club - Games of Passion (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)" id="4420">
 		<description>James Patterson Women's Murder Club - Games of Passion (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)</description>
-		<rom name="James Patterson Women's Murder Club - Games of Passion (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="1b026848" md5="e871147509a44710d037093216a6ff43" sha1="651bb710f27eda7c148a372932bf563a4ad3f622" serial="VMCV"/>
+		<rom name="James Patterson Women's Murder Club - Games of Passion (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="1b026848" md5="e871147509a44710d037093216a6ff43" sha1="651bb710f27eda7c148a372932bf563a4ad3f622" sha256="894a23a3ce7b530ba0f662dafce7c50ed2b6d970629bfdf7b2bfdbbe3c946ccf" status="verified" serial="VMCV"/>
 	</game>
 	<game name="James Patterson Women's Murder Club - Games of Passion (USA) (En,Fr) (NDSi Enhanced)" id="5904" cloneofid="4420">
 		<description>James Patterson Women's Murder Club - Games of Passion (USA) (En,Fr) (NDSi Enhanced)</description>
@@ -17753,7 +17753,7 @@
 	</game>
 	<game name="Monster Trucks DS (Europe) (En,Fr,De)" id="0467">
 		<description>Monster Trucks DS (Europe) (En,Fr,De)</description>
-		<rom name="Monster Trucks DS (Europe) (En,Fr,De).nds" size="33554432" crc="f192781a" md5="2ed2393bcf3a6c8479bec2e78a30bb8b" sha1="cde075bd20852d54c9f3db0c5204b5d1f73ddd88" serial="AMXP"/>
+		<rom name="Monster Trucks DS (Europe) (En,Fr,De).nds" size="33554432" crc="f192781a" md5="2ed2393bcf3a6c8479bec2e78a30bb8b" sha1="cde075bd20852d54c9f3db0c5204b5d1f73ddd88" sha256="3c2c750328cd4c3e88c8578e5fa4756b1cacf8e14bef7171f712f0ba5858ffde" serial="AMXP"/>
 	</game>
 	<game name="Monsters vs Aliens (Europe) (En,Fr,Nl,Sv)" id="3576">
 		<description>Monsters vs Aliens (Europe) (En,Fr,Nl,Sv)</description>
@@ -22376,7 +22376,7 @@
 	</game>
 	<game name="Princess and the Frog, The (Europe) (En,Fr,De,Es,It,Nl)" id="4525">
 		<description>Princess and the Frog, The (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Princess and the Frog, The (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="e4bef72c" md5="7236c4665b8881e349dd947cb260d7da" sha1="76d3100985c581c87ffae0fa4d7f689714c0dd2b" serial="BPFP"/>
+		<rom name="Princess and the Frog, The (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="e4bef72c" md5="7236c4665b8881e349dd947cb260d7da" sha1="76d3100985c581c87ffae0fa4d7f689714c0dd2b" sha256="5a11ccb280e9d0fda3623b217905c50db7df8810d66f5fe57aa4d72ac1e89a2c" status="verified" serial="BPFP"/>
 	</game>
 	<game name="Princess and the Frog, The (Europe) (En,Sv,No,Da)" id="6623" cloneofid="4525">
 		<description>Princess and the Frog, The (Europe) (En,Sv,No,Da)</description>
@@ -29538,7 +29538,7 @@
 	</game>
 	<game name="Vampire Moon - The Mystery of the Hidden Sun (Europe) (En,Fr,De,Es,It,Nl)" id="5399">
 		<description>Vampire Moon - The Mystery of the Hidden Sun (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Vampire Moon - The Mystery of the Hidden Sun (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="9d698d28" md5="29d54e720f1b221b957da5d951e394c5" sha1="114a3a15de20e0a5af1491202cb9f79a1fa960f4" serial="B3VP"/>
+		<rom name="Vampire Moon - The Mystery of the Hidden Sun (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="9d698d28" md5="29d54e720f1b221b957da5d951e394c5" sha1="114a3a15de20e0a5af1491202cb9f79a1fa960f4" sha256="1bae9b0ec103a1acd858934a57ed1b02cdb5e548ad786ae2ad12ab5b3ac9183e" status="verified" serial="B3VP"/>
 	</game>
 	<game name="Vampire Moon - The Mystery of the Hidden Sun (USA) (En,Fr,Es)" id="5528" cloneofid="5399">
 		<description>Vampire Moon - The Mystery of the Hidden Sun (USA) (En,Fr,Es)</description>

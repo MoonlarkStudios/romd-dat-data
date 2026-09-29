@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-27 13-54-02)</description>
-		<version>2026-09-27 13-54-02</version>
-		<date>2026-09-27 13-54-02</date>
+		<description>Sony - PlayStation 3 - Datfile (4518) (2026-09-28 13-43-56)</description>
+		<version>2026-09-28 13-43-56</version>
+		<date>2026-09-28 13-43-56</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -21173,10 +21173,10 @@
 		<description>Uncharted 3 - Drake's Deception - Game of the Year Edition (UK)</description>
 		<rom name="Uncharted 3 - Drake's Deception - Game of the Year Edition (UK).iso" size="49217077248" crc="a1b9eb4e" md5="066ced3f6358d30c7034e39ad22d26a8" sha1="1d55e8cea3564253c91f7e8e282f0b9b51c45aa4"/>
 	</game>
-	<game name="Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt)" id="39433">
+	<game name="Uncharted 3 - Drake's Deception - Game of the Year Edition (USA, Canada) (En,Fr,Es,Pt)" id="39433">
 		<category>Games</category>
-		<description>Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt)</description>
-		<rom name="Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).iso" size="44346179584" crc="f3cba886" md5="defc5c5ddec885a4aa8f2dfdf64200fb" sha1="d8d2d6d99cb7f4b9bed8499d5ea1d1fa5347b90f"/>
+		<description>Uncharted 3 - Drake's Deception - Game of the Year Edition (USA, Canada) (En,Fr,Es,Pt)</description>
+		<rom name="Uncharted 3 - Drake's Deception - Game of the Year Edition (USA, Canada) (En,Fr,Es,Pt).iso" size="44346179584" crc="f3cba886" md5="defc5c5ddec885a4aa8f2dfdf64200fb" sha1="d8d2d6d99cb7f4b9bed8499d5ea1d1fa5347b90f"/>
 	</game>
 	<game name="Under Defeat HD (Japan)" id="101053">
 		<category>Games</category>
