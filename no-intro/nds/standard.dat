@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260928-173247</version>
+		<version>20260929-175740</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2681,7 +2681,7 @@
 	</game>
 	<game name="Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl)" id="0491">
 		<description>Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="ce1f5606" md5="4e15a6187fe1b26acc42deadcacec19d" sha1="e6c5ff9f6ecf2c25597330c4835339acb5d05f62" status="verified" serial="AYAP"/>
+		<rom name="Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="ce1f5606" md5="4e15a6187fe1b26acc42deadcacec19d" sha1="e6c5ff9f6ecf2c25597330c4835339acb5d05f62" sha256="9b3488c0c077dbaf45144eebdd578afeb05c6a607f384cb6c25ed0ee36ef946d" status="verified" serial="AYAP"/>
 	</game>
 	<game name="Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)" id="x031" cloneofid="0491">
 		<description>Big Brain Academy (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)</description>
@@ -9776,7 +9776,7 @@
 	</game>
 	<game name="Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany)" id="3433">
 		<description>Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany)</description>
-		<rom name="Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany).nds" size="16777216" crc="d8d469c7" md5="c1e3a135c0cc69f90b40c05015520dd4" sha1="05ed0546eb4f71330679440723a99cf07143cc6f" status="verified" serial="CL5D"/>
+		<rom name="Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany).nds" size="16777216" crc="d8d469c7" md5="c1e3a135c0cc69f90b40c05015520dd4" sha1="05ed0546eb4f71330679440723a99cf07143cc6f" sha256="1fb64a6acd661dca03470ebac90f3937fc0e2d3bde739cc9f723afdd6b7ca56b" status="verified" serial="CL5D"/>
 	</game>
 	<game name="Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2010 (Germany)" id="4777">
 		<description>Grundschule 1.-4. Klasse - Fit fuers Gymnasium 2010 (Germany)</description>
@@ -18405,7 +18405,7 @@
 	</game>
 	<game name="My Secret World by Imagine (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="2702">
 		<description>My Secret World by Imagine (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
-		<rom name="My Secret World by Imagine (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="33554432" crc="260ebc08" md5="f321f20e62f1d380742bc08dde5cd0a9" sha1="b6f772fbda30d93af76fdbb1687559d8a8bac217" serial="YRMP"/>
+		<rom name="My Secret World by Imagine (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="33554432" crc="260ebc08" md5="f321f20e62f1d380742bc08dde5cd0a9" sha1="b6f772fbda30d93af76fdbb1687559d8a8bac217" sha256="de848ea3ec6726cf582234ce28e6782aae8ec4a53cb4b8e70279b217be88f372" status="verified" serial="YRMP"/>
 	</game>
 	<game name="My Secret World by Imagine (USA) (En,Fr,Es,Pt)" id="3363" cloneofid="2702">
 		<description>My Secret World by Imagine (USA) (En,Fr,Es,Pt)</description>
@@ -23292,7 +23292,7 @@
 	</game>
 	<game name="Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El)" id="2008">
 		<description>Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El)</description>
-		<rom name="Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El).nds" size="33554432" crc="4ca6a371" md5="287bba4a6f12039f8f7d922efba32b29" sha1="dcf89a1424457940830dcbec4a7c4866e3c4781c" serial="YRLP"/>
+		<rom name="Ratatouille - Food Frenzy (Europe) (En,Fr,De,Es,It,El).nds" size="33554432" crc="4ca6a371" md5="287bba4a6f12039f8f7d922efba32b29" sha1="dcf89a1424457940830dcbec4a7c4866e3c4781c" sha256="3fa1c44dabce10e6a876ee9754ee1629fc882da0e0c49caed1afabb85c66aa0a" serial="YRLP"/>
 	</game>
 	<game name="Raw Numbers (United Kingdom) (Proto) (Wi-Fi Kiosk)" id="z657">
 		<category>Educational</category>
@@ -25951,7 +25951,7 @@
 	</game>
 	<game name="Spider-Man 2 (Europe) (En,Fr,De,Es,It)" id="0156" cloneofid="0145">
 		<description>Spider-Man 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Spider-Man 2 (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="23e04d56" md5="ab0d9f98c1b19ce169aca021bb811eed" sha1="902dfc2f712b5eba782b8b30df52164b8d8377b4" serial="AS2X"/>
+		<rom name="Spider-Man 2 (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="23e04d56" md5="ab0d9f98c1b19ce169aca021bb811eed" sha1="902dfc2f712b5eba782b8b30df52164b8d8377b4" sha256="33e9054d05ef770c84b49b98871f5ca3dac2aab72598cbe46b3cc5df4edc69b4" status="verified" serial="AS2X"/>
 	</game>
 	<game name="Spider-Man 2 (Japan)" id="0280" cloneofid="0145">
 		<description>Spider-Man 2 (Japan)</description>
@@ -28489,7 +28489,7 @@
 	</game>
 	<game name="Tornado (Europe) (En,Fr)" id="3612">
 		<description>Tornado (Europe) (En,Fr)</description>
-		<rom name="Tornado (Europe) (En,Fr).nds" size="67108864" crc="92f5adaa" md5="f06515b2ab52be039dc1a0cd65f404de" sha1="50fe6b877308526c46582cc8cf538b8d04efc169" serial="YTRP"/>
+		<rom name="Tornado (Europe) (En,Fr).nds" size="67108864" crc="92f5adaa" md5="f06515b2ab52be039dc1a0cd65f404de" sha1="50fe6b877308526c46582cc8cf538b8d04efc169" sha256="4f9bae3c456f5473f787c79a479c595f2661e1517f7bd769f1970018c55bc7a1" serial="YTRP"/>
 	</game>
 	<game name="Tornado (USA) (En,Fr)" id="2832" cloneofid="3612">
 		<description>Tornado (USA) (En,Fr)</description>
@@ -29972,7 +29972,7 @@
 	</game>
 	<game name="Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl)" id="3053">
 		<description>Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="1159e7e7" md5="028a7e6d97863a0dcd46168a63fd39c2" sha1="16f85eb1041b73d44c394931e566fba98a8a70bc" status="verified" serial="CW5P"/>
+		<rom name="Who Wants to Be a Millionaire - 2nd Edition (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="1159e7e7" md5="028a7e6d97863a0dcd46168a63fd39c2" sha1="16f85eb1041b73d44c394931e566fba98a8a70bc" sha256="f40b94d47a76a3bdc2bd7fe45bbd75737b277024be65e926895b9d8bca880c2e" status="verified" serial="CW5P"/>
 	</game>
 	<game name="Wi-Fi Taiou - Gensen Table Game DS (Japan)" id="1454">
 		<description>Wi-Fi Taiou - Gensen Table Game DS (Japan)</description>

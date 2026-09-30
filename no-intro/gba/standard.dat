@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260919-175115</version>
+		<version>20260929-130236</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -396,7 +396,7 @@
 	</game>
 	<game name="2 in 1 Game Pack - Shrek 2 &amp; Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It)" id="2058">
 		<description>2 in 1 Game Pack - Shrek 2 &amp; Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It)</description>
-		<rom name="2 in 1 Game Pack - Shrek 2 &amp; Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It).gba" size="16777216" crc="1802c624" md5="60c622e488935541ee0d7295bde1ff85" sha1="a9375826c46cdd1f78aecf8274db30110cd3d6d3" sha256="48072d27d2106e25cb1f5d873443805eb5905c598d6801121cac7dc93b456052" serial="BS7P"/>
+		<rom name="2 in 1 Game Pack - Shrek 2 &amp; Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It).gba" size="16777216" crc="1802c624" md5="60c622e488935541ee0d7295bde1ff85" sha1="a9375826c46cdd1f78aecf8274db30110cd3d6d3" sha256="48072d27d2106e25cb1f5d873443805eb5905c598d6801121cac7dc93b456052" status="verified" serial="BS7P"/>
 	</game>
 	<game name="2 in 1 Game Pack - Shrek 2 + Shark Tale (USA)" id="2501" cloneofid="2058">
 		<description>2 in 1 Game Pack - Shrek 2 + Shark Tale (USA)</description>
@@ -2958,7 +2958,7 @@
 	</game>
 	<game name="Crash Bandicoot 2 - N-Tranced (USA)" id="0832" cloneofid="0889">
 		<description>Crash Bandicoot 2 - N-Tranced (USA)</description>
-		<rom name="Crash Bandicoot 2 - N-Tranced (USA).gba" size="8388608" crc="2e16184a" md5="617b2b2590e2925228dbdb162b05d6f6" sha1="972158859ea08aa5746ab2e0d4c81ac43728adff" status="verified" serial="AC8E"/>
+		<rom name="Crash Bandicoot 2 - N-Tranced (USA).gba" size="8388608" crc="2e16184a" md5="617b2b2590e2925228dbdb162b05d6f6" sha1="972158859ea08aa5746ab2e0d4c81ac43728adff" sha256="2623df1c9d91b5e9b2c1488e4a1632f14b9d1bc87c14f4dadca417fd1dda5ab1" status="verified" serial="AC8E"/>
 	</game>
 	<game name="Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl)" id="0889">
 		<description>Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -7575,7 +7575,7 @@
 	</game>
 	<game name="Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan)" id="2008">
 		<description>Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan)</description>
-		<rom name="Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan).gba" size="33554432" crc="7ac9ffbf" md5="34b0151cdc78a7a3b7cab3cda70bbc1d" sha1="af1908198aeb5e8e0f1d9d5c3ecdbefef6afc462" sha256="44e5793ffd95dd1701e67b1401816637e7aeef8982d352d9c5c11dc6897d5853" serial="BK6J"/>
+		<rom name="Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan).gba" size="33554432" crc="7ac9ffbf" md5="34b0151cdc78a7a3b7cab3cda70bbc1d" sha1="af1908198aeb5e8e0f1d9d5c3ecdbefef6afc462" sha256="44e5793ffd95dd1701e67b1401816637e7aeef8982d352d9c5c11dc6897d5853" status="verified" serial="BK6J"/>
 	</game>
 	<game name="Koukou Juken Advance Series Eigo Koubun Hen - 26 Units Shuuroku (Japan)" id="0387">
 		<description>Koukou Juken Advance Series Eigo Koubun Hen - 26 Units Shuuroku (Japan)</description>
@@ -12556,7 +12556,7 @@
 	</game>
 	<game name="Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It)" id="2254">
 		<description>Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="6470252f" md5="1205d76449958f1d204f380499c7cfff" sha1="603e5db33ff80f953211276cab729d82077ace72" serial="B2VP"/>
+		<rom name="Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="6470252f" md5="1205d76449958f1d204f380499c7cfff" sha1="603e5db33ff80f953211276cab729d82077ace72" sha256="acd1217f7d746cca71c563febba5645ad10837d553daf7f1630c903dd3a15048" serial="B2VP"/>
 	</game>
 	<game name="Snood 2 - On Vacation (USA)" id="2511" cloneofid="2254">
 		<description>Snood 2 - On Vacation (USA)</description>
@@ -12568,7 +12568,7 @@
 	</game>
 	<game name="Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" id="0469">
 		<description>Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
-		<rom name="Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="73ef3a35" md5="3ff6f06de88f0646e8cf85181ca2e10d" sha1="05799b99395aba04dfe5ae8af019e4d70cb8e61b" serial="ALSE"/>
+		<rom name="Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="73ef3a35" md5="3ff6f06de88f0646e8cf85181ca2e10d" sha1="05799b99395aba04dfe5ae8af019e4d70cb8e61b" sha256="2f930badb11ec10b2e35450887f04b3d8823df8be642618d7a76adda8d33fedd" serial="ALSE"/>
 	</game>
 	<game name="Sonic 3 - Fighter Sonic (USA) (Unl)" id="2926">
 		<description>Sonic 3 - Fighter Sonic (USA) (Unl)</description>
@@ -13944,7 +13944,7 @@
 	</game>
 	<game name="Tetris Worlds (Europe) (En,Es,It)" id="1620" cloneofid="0196">
 		<description>Tetris Worlds (Europe) (En,Es,It)</description>
-		<rom name="Tetris Worlds (Europe) (En,Es,It).gba" size="4194304" crc="4a834fc2" md5="08aecb6882d9a73b2cac1316a5fbf31b" sha1="2de4d4c3d239b2e56ad4cc3000bb1ad2fdddd987" serial="ATWY"/>
+		<rom name="Tetris Worlds (Europe) (En,Es,It).gba" size="4194304" crc="4a834fc2" md5="08aecb6882d9a73b2cac1316a5fbf31b" sha1="2de4d4c3d239b2e56ad4cc3000bb1ad2fdddd987" sha256="a285b318071118b1c1f308af7227c9fe995e0f27dd9dea089bd302fe2e0cf6d6" serial="ATWY"/>
 	</game>
 	<game name="Tetris Worlds (Japan) (Rev 1)" id="2812" cloneofid="0196">
 		<description>Tetris Worlds (Japan) (Rev 1)</description>
@@ -15102,9 +15102,9 @@
 		<description>Winnie the Pooh's Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Winnie the Pooh's Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="e5a97a58" md5="ee9880f52c3626749b943c91921f12ab" sha1="8271ebe3929ecfacbd3facf5008969cf62c788d7" status="verified" serial="BWHP"/>
 	</game>
-	<game name="Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="2592">
-		<description>Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
-		<rom name="Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba" size="16777216" crc="c2fc12e5" md5="c4430ced04082f7cb25750b9dcc610ea" sha1="afd1f50e7c264085b749f9924f7279814cae119c" serial="BWZP"/>
+	<game name="Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="2592">
+		<description>Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<rom name="Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba" size="16777216" crc="c2fc12e5" md5="c4430ced04082f7cb25750b9dcc610ea" sha1="afd1f50e7c264085b749f9924f7279814cae119c" sha256="0f35fb6ef6fcffaa1c602aa3635d7288cf61c46da6f5b455757cb19eb14e3428" serial="BWZP"/>
 	</game>
 	<game name="Winning Post for Game Boy Advance (Japan) (Rev 2)" id="2803">
 		<description>Winning Post for Game Boy Advance (Japan) (Rev 2)</description>
@@ -15645,7 +15645,7 @@
 	</game>
 	<game name="Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)" id="1833" cloneofid="1934">
 		<description>Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)</description>
-		<rom name="Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja).gba" size="16777216" crc="6dcfb879" md5="026fbee1949b8508f7ef3f9f92cb1f74" sha1="4e9c134910d43f245afd648b633a12dfff2120b6" serial="BYIJ"/>
+		<rom name="Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja).gba" size="16777216" crc="6dcfb879" md5="026fbee1949b8508f7ef3f9f92cb1f74" sha1="4e9c134910d43f245afd648b633a12dfff2120b6" sha256="93e28eb7f25bcf72045efa357c0afd919bc8c58918c7c162dae7a91d145a1b0f" status="verified" serial="BYIJ"/>
 	</game>
 	<game name="Yu-Gi-Oh! GX - Duel Academy (USA)" id="2273" cloneofid="2420">
 		<description>Yu-Gi-Oh! GX - Duel Academy (USA)</description>

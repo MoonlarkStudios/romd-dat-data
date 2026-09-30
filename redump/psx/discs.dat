@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10976) (2026-09-29 09-52-35)</description>
-		<version>2026-09-29 09-52-35</version>
-		<date>2026-09-29 09-52-35</date>
+		<description>Sony - PlayStation - Datfile (10980) (2026-09-30 08-22-35)</description>
+		<version>2026-09-30 08-22-35</version>
+		<date>2026-09-30 08-22-35</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -43177,15 +43177,15 @@
 		<rom name="Jungla de Cristal Trilogia 2 - Viva Las Vegas (Spain).cue" size="119" crc="bf85d3ba" md5="bd827dec9c4dd2da72a611b6fabb0a36" sha1="51c4471ec64b3c9b8b5035acac90345e8008d6ae"/>
 		<rom name="Jungla de Cristal Trilogia 2 - Viva Las Vegas (Spain).bin" size="733685232" crc="8a534a56" md5="ef6537609e4d23a071cfceef884da04c" sha1="517082fd96b806f8efddc507d7a807086ad77075"/>
 	</game>
-	<game name="Jungle Park (Japan)" id="33786">
+	<game name="Jungle Park (Japan) (En,Ja)" id="33786">
 		<category>Games</category>
-		<description>Jungle Park (Japan)</description>
-		<rom name="Jungle Park (Japan).cue" size="547" crc="9679ca56" md5="a4fb7338b4a58430251accfac0113c0c" sha1="ec2bd4aad597cb7f4250eb3580198dfd771516dc"/>
-		<rom name="Jungle Park (Japan) (Track 1).bin" size="104457024" crc="e7d1b59b" md5="8b34932858cc09954fc3eed4c913749b" sha1="bca9f807450c3bc1c27ee2f93c521d0a16f818cb"/>
-		<rom name="Jungle Park (Japan) (Track 2).bin" size="38450496" crc="3a704658" md5="21f056833bee0ef30beff90439476911" sha1="f93ace99e1550b26812c6508d287cb7ebbdac66a"/>
-		<rom name="Jungle Park (Japan) (Track 3).bin" size="31594416" crc="753ee30c" md5="cf28825a520db6ca8d9ddd1180dbbb5f" sha1="d44ba1aec222537944926a3bb7812eaf03f80cca"/>
-		<rom name="Jungle Park (Japan) (Track 4).bin" size="11129664" crc="3344c8df" md5="e7c414dae15974c1bc460523a9dbcb81" sha1="a0f863a8d7cc8f5a9fb543a0f72d8cb79a1128a5"/>
-		<rom name="Jungle Park (Japan) (Track 5).bin" size="47418672" crc="deb41911" md5="24e73d34fa558ad1b837821a730ed2fa" sha1="97ff3af493f1784792f2df646270c82f23423848"/>
+		<description>Jungle Park (Japan) (En,Ja)</description>
+		<rom name="Jungle Park (Japan) (En,Ja).cue" size="587" crc="d2094ce9" md5="6a07b770b48e1516a1c4c4a0b9cb0154" sha1="6b63998eab03a69ed1314ec4dc21fd5ca1359e10"/>
+		<rom name="Jungle Park (Japan) (En,Ja) (Track 1).bin" size="104457024" crc="e7d1b59b" md5="8b34932858cc09954fc3eed4c913749b" sha1="bca9f807450c3bc1c27ee2f93c521d0a16f818cb"/>
+		<rom name="Jungle Park (Japan) (En,Ja) (Track 2).bin" size="38450496" crc="3a704658" md5="21f056833bee0ef30beff90439476911" sha1="f93ace99e1550b26812c6508d287cb7ebbdac66a"/>
+		<rom name="Jungle Park (Japan) (En,Ja) (Track 3).bin" size="31594416" crc="753ee30c" md5="cf28825a520db6ca8d9ddd1180dbbb5f" sha1="d44ba1aec222537944926a3bb7812eaf03f80cca"/>
+		<rom name="Jungle Park (Japan) (En,Ja) (Track 4).bin" size="11129664" crc="3344c8df" md5="e7c414dae15974c1bc460523a9dbcb81" sha1="a0f863a8d7cc8f5a9fb543a0f72d8cb79a1128a5"/>
+		<rom name="Jungle Park (Japan) (En,Ja) (Track 5).bin" size="47418672" crc="deb41911" md5="24e73d34fa558ad1b837821a730ed2fa" sha1="97ff3af493f1784792f2df646270c82f23423848"/>
 	</game>
 	<game name="Junior Sports Football (Europe)" id="16602">
 		<category>Games</category>
@@ -100880,24 +100880,24 @@
 		<rom name="Wipeout 3 (Europe) (Beta) (1999-05-27) (Track 4).bin" size="33144384" crc="02f18010" md5="bd2ec873fa797339c2efe351d4d652c1" sha1="a295959a2192a3130d3e3eeb07df01a7da1372a5"/>
 		<rom name="Wipeout 3 (Europe) (Beta) (1999-05-27) (Track 5).bin" size="33259632" crc="9fe47692" md5="3262d9aad61df86086ba9bcb28414ffa" sha1="ebebf4b44f3cb98c4aadedeba4b047bf24aa4c48"/>
 	</game>
-	<game name="Wipeout 3 (Japan)" id="30724">
+	<game name="Wipeout 3 (Japan) (En,Ja)" id="30724">
 		<category>Games</category>
-		<description>Wipeout 3 (Japan)</description>
-		<rom name="Wipeout 3 (Japan).cue" size="1550" crc="735e5c86" md5="b705cc45a3262e2a54f799d70b90ea53" sha1="052b4142fb9e514017e8f42cd275a06230059b0e"/>
-		<rom name="Wipeout 3 (Japan) (Track 01).bin" size="72827328" crc="7dd0a6d4" md5="abafe9c3bfbfa935a5bae8ad7a58b8bd" sha1="d9be7cff489b78080ff99497fe7991f000d72058"/>
-		<rom name="Wipeout 3 (Japan) (Track 02).bin" size="43472016" crc="f45b3776" md5="67b313165291a22a5cab2a4e66b7f4fd" sha1="91a3771ecfe3fbbdf500dbe3edbb13b39ea9a1e4"/>
-		<rom name="Wipeout 3 (Japan) (Track 03).bin" size="32911536" crc="5e693e12" md5="2662614f91bc908c5b62f7a397d9e524" sha1="ddcb797fb33ce92f71c1a8d7b118cbaad2cf4f90"/>
-		<rom name="Wipeout 3 (Japan) (Track 04).bin" size="45706416" crc="d033406c" md5="54666d173ac4524cb1aced884b5210d0" sha1="07bac91d11c7067e83593eca2a46f9c31471bddb"/>
-		<rom name="Wipeout 3 (Japan) (Track 05).bin" size="44490432" crc="b0c2ea3b" md5="8a3114a8bb802cd80b8d2f99af6fb4b9" sha1="dad0dd05019cdb1d65589c24aa9f91d125820d1c"/>
-		<rom name="Wipeout 3 (Japan) (Track 06).bin" size="44518656" crc="600da021" md5="250ea100166705098acfa0030c12d558" sha1="eac103294e09d10088259449112dfe4f8a96a5f0"/>
-		<rom name="Wipeout 3 (Japan) (Track 07).bin" size="39297216" crc="06dc2361" md5="233c8e5f14da96f47f19eb9cb6f69cc1" sha1="b35576d78f2fec517132428eae0fe64adba9f192"/>
-		<rom name="Wipeout 3 (Japan) (Track 08).bin" size="38991456" crc="f0cdb14e" md5="c6b010bf44405d4d8f8d222ef7cbbb38" sha1="17a8971a32e56059ce9ed7c68ebf90dcd42fe04a"/>
-		<rom name="Wipeout 3 (Japan) (Track 09).bin" size="45410064" crc="43da4713" md5="f437dbd3a4796333a49209a94998e198" sha1="3a3de6dcc6e9aaab9308fa630093becfeae73f69"/>
-		<rom name="Wipeout 3 (Japan) (Track 10).bin" size="44953776" crc="e24a9202" md5="7759f7627392b49b7898ff1c2d808961" sha1="0804883f202b6fe86de41b4b75e1e568a95d451a"/>
-		<rom name="Wipeout 3 (Japan) (Track 11).bin" size="45106656" crc="1860f592" md5="bed378ba9eacb07681b22fb7e5850bce" sha1="eb00e90fb3b91632289348c0fffa8539a1c32bd4"/>
-		<rom name="Wipeout 3 (Japan) (Track 12).bin" size="39179616" crc="2e0c69eb" md5="fd9ae9180c56506b0d902bb47d6a4991" sha1="883f47577c58fc6a7ce3534ec711941ef442b76c"/>
-		<rom name="Wipeout 3 (Japan) (Track 13).bin" size="42914592" crc="610f31e7" md5="67cb90a82eab4cf654500dda0f6989f0" sha1="688e67fce58a905ab59bb43d06318070cfa6c52d"/>
-		<rom name="Wipeout 3 (Japan) (Track 14).bin" size="43961232" crc="662b2eb1" md5="ab67224f338438e3fd08141eabcf35c3" sha1="cc6d07c52a50a1bfcf3913376f8620bd9ae64741"/>
+		<description>Wipeout 3 (Japan) (En,Ja)</description>
+		<rom name="Wipeout 3 (Japan) (En,Ja).cue" size="1662" crc="20764bdf" md5="98c425fed641be7958605ac5c7f72358" sha1="c926e50cac444fc75e5e7fd333d2a713d1ccbec1"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 01).bin" size="72827328" crc="7dd0a6d4" md5="abafe9c3bfbfa935a5bae8ad7a58b8bd" sha1="d9be7cff489b78080ff99497fe7991f000d72058"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 02).bin" size="43472016" crc="f45b3776" md5="67b313165291a22a5cab2a4e66b7f4fd" sha1="91a3771ecfe3fbbdf500dbe3edbb13b39ea9a1e4"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 03).bin" size="32911536" crc="5e693e12" md5="2662614f91bc908c5b62f7a397d9e524" sha1="ddcb797fb33ce92f71c1a8d7b118cbaad2cf4f90"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 04).bin" size="45706416" crc="d033406c" md5="54666d173ac4524cb1aced884b5210d0" sha1="07bac91d11c7067e83593eca2a46f9c31471bddb"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 05).bin" size="44490432" crc="b0c2ea3b" md5="8a3114a8bb802cd80b8d2f99af6fb4b9" sha1="dad0dd05019cdb1d65589c24aa9f91d125820d1c"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 06).bin" size="44518656" crc="600da021" md5="250ea100166705098acfa0030c12d558" sha1="eac103294e09d10088259449112dfe4f8a96a5f0"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 07).bin" size="39297216" crc="06dc2361" md5="233c8e5f14da96f47f19eb9cb6f69cc1" sha1="b35576d78f2fec517132428eae0fe64adba9f192"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 08).bin" size="38991456" crc="f0cdb14e" md5="c6b010bf44405d4d8f8d222ef7cbbb38" sha1="17a8971a32e56059ce9ed7c68ebf90dcd42fe04a"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 09).bin" size="45410064" crc="43da4713" md5="f437dbd3a4796333a49209a94998e198" sha1="3a3de6dcc6e9aaab9308fa630093becfeae73f69"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 10).bin" size="44953776" crc="e24a9202" md5="7759f7627392b49b7898ff1c2d808961" sha1="0804883f202b6fe86de41b4b75e1e568a95d451a"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 11).bin" size="45106656" crc="1860f592" md5="bed378ba9eacb07681b22fb7e5850bce" sha1="eb00e90fb3b91632289348c0fffa8539a1c32bd4"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 12).bin" size="39179616" crc="2e0c69eb" md5="fd9ae9180c56506b0d902bb47d6a4991" sha1="883f47577c58fc6a7ce3534ec711941ef442b76c"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 13).bin" size="42914592" crc="610f31e7" md5="67cb90a82eab4cf654500dda0f6989f0" sha1="688e67fce58a905ab59bb43d06318070cfa6c52d"/>
+		<rom name="Wipeout 3 (Japan) (En,Ja) (Track 14).bin" size="43961232" crc="662b2eb1" md5="ab67224f338438e3fd08141eabcf35c3" sha1="cc6d07c52a50a1bfcf3913376f8620bd9ae64741"/>
 	</game>
 	<game name="Wipeout 3 (USA)" id="5732">
 		<category>Games</category>
@@ -104245,11 +104245,23 @@
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1).cue" size="128" crc="6db143d1" md5="c1cd3cfe28fd26900a803b9d99a943c4" sha1="bfe21750687a3838e676ccc44011fdd93b5584b2"/>
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1).bin" size="725782512" crc="86a9e894" md5="6099c6f04d73282276a2945a1f2a2df0" sha1="aca2eb05c52b3cec5e5a84e062fe02643b3ecc96"/>
 	</game>
+	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1) (Rev 1)" id="138915">
+		<category>Games</category>
+		<description>Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1) (Rev 1)</description>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1) (Rev 1).cue" size="136" crc="c8f96358" md5="e72a8ee32c5eb84600799be01629e5c3" sha1="4be397cab207208a82c354ef8fef6ed5972d17ba"/>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 1) (Rev 1).bin" size="750012816" crc="aaa4cbb5" md5="bb39d060976b61cd88dca34c430ba86e" sha1="5dfe3510dd20941447678cb92e5d6d98b0896318"/>
+	</game>
 	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2)" id="18640">
 		<category>Games</category>
 		<description>Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2)</description>
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2).cue" size="128" crc="6cec6500" md5="bc7638792f441da518cdfdb94fc4a3b1" sha1="9c36f64b56ea6c55fd446a1a454df083b95c6156"/>
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2).bin" size="623228256" crc="c3eda99c" md5="1d5c66084fa28f34653b995a6aa3a5cd" sha1="ca57418f084c9e3495182da983451d3fa44d9676"/>
+	</game>
+	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2) (Rev 1)" id="138916">
+		<category>Games</category>
+		<description>Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2) (Rev 1)</description>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2) (Rev 1).cue" size="136" crc="23532be5" md5="dadee50bb9d73e874d06be592817ee3b" sha1="9f71557895350a3fbd0a2ad5bc242baaf554144d"/>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 2) (Rev 1).bin" size="623176512" crc="17624fa5" md5="83345f88af14a76fc7dd0b673b62f893" sha1="87367d69f5f1ce4fc75c57264cc52c43ca0b2369"/>
 	</game>
 	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3)" id="18641">
 		<category>Games</category>
@@ -104257,11 +104269,23 @@
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3).cue" size="128" crc="daf78570" md5="1ab38dde5bfa817a1c07eda9aa8da8ee" sha1="ff908881d0bb7d47933460428cef327af788457d"/>
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3).bin" size="593804736" crc="d591b808" md5="81d145205067cc4707fde3da8a79e1d5" sha1="44f3d3c39b8743ed72e71675bf4b714b9ed13227"/>
 	</game>
+	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3) (Rev 1)" id="138917">
+		<category>Games</category>
+		<description>Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3) (Rev 1)</description>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3) (Rev 1).cue" size="136" crc="7a35138e" md5="6f4dea65c89d71c3d768a39247bdb4f1" sha1="9d8695a1183d40e8478f06dc84a834e1c9c88967"/>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 3) (Rev 1).bin" size="593752992" crc="2a03721e" md5="db8c7f7b33e5b3ded195542eb5eed7a2" sha1="6fedd7220c2bcb998485d1530afd33357f38c2c7"/>
+	</game>
 	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4)" id="18642">
 		<category>Games</category>
 		<description>Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4)</description>
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4).cue" size="128" crc="6e5628a2" md5="9732ba1fce47016141e6821fe39bc2cb" sha1="3fb40d0a35bfa36c838f7e15cdafe934826cda4b"/>
 		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4).bin" size="693658896" crc="706bc68e" md5="0d628d07ace589d272dc5f507b0898d2" sha1="ad9a307358b3ff26b2ff5bbac4ee93a57b81930d"/>
+	</game>
+	<game name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4) (Rev 1)" id="138918">
+		<category>Games</category>
+		<description>Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4) (Rev 1)</description>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4) (Rev 1).cue" size="136" crc="2f76bcde" md5="a4a872f458a29776ef20f27403a45491" sha1="0203d057fff5c71c54ebc308906d897e706fc053"/>
+		<rom name="Zoku Mikagura Shoujo Tanteidan - Kanketsu-hen (Japan) (Disc 4) (Rev 1).bin" size="693607152" crc="7db1b432" md5="d1765db8c1a880e08c1a2fb62452e0f1" sha1="8e8382133a09e07d7f223f3487052b533f1f9fd9"/>
 	</game>
 	<game name="Zoop (Japan)" id="36598">
 		<category>Games</category>

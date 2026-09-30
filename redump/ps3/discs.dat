@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4519) (2026-09-29 10-42-47)</description>
-		<version>2026-09-29 10-42-47</version>
-		<date>2026-09-29 10-42-47</date>
+		<description>Sony - PlayStation 3 - Datfile (4519) (2026-09-29 12-22-35)</description>
+		<version>2026-09-29 12-22-35</version>
+		<date>2026-09-29 12-22-35</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -15341,10 +15341,10 @@
 		<description>PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd)</description>
 		<rom name="PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd).iso" size="1807351808" crc="ac5a5df2" md5="527743133cd61baad07bcf32b8dd4ca0" sha1="d0c358eee1f7920b1eac172711fcff4eaa908fbc"/>
 	</game>
-	<game name="PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd) (Review Disc) (Beta) (2008-07-09)" id="138903">
-		<category>Games</category>
-		<description>PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd) (Review Disc) (Beta) (2008-07-09)</description>
-		<rom name="PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd) (Review Disc) (Beta) (2008-07-09).iso" size="1815805952" crc="1953ce54" md5="e2b416c2898ddb07b7ef75c8f6d8960f" sha1="c3395b8b57b37423877601b1978140cb5ab1f025"/>
+	<game name="PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd) (Beta) (2008-07-09)" id="138903">
+		<category>Preproduction</category>
+		<description>PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd) (Beta) (2008-07-09)</description>
+		<rom name="PlayTV (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Eu,Ca,Gl,Cy,Ga,Gd) (Beta) (2008-07-09).iso" size="1815805952" crc="1953ce54" md5="e2b416c2898ddb07b7ef75c8f6d8960f" sha1="c3395b8b57b37423877601b1978140cb5ab1f025"/>
 	</game>
 	<game name="PlayTV (New Zealand) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Cs,Sk,Eu,Ca,Gl,Cy,Ga,Gd)" id="102347">
 		<category>Applications</category>

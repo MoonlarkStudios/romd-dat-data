@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Datfile (11841) (2026-09-29 10-42-35)</description>
-		<version>2026-09-29 10-42-35</version>
-		<date>2026-09-29 10-42-35</date>
+		<description>Sony - PlayStation 2 - Datfile (11844) (2026-09-30 09-22-35)</description>
+		<version>2026-09-30 09-22-35</version>
+		<date>2026-09-30 09-22-35</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -16832,6 +16832,11 @@
 		<description>Forbidden Siren 2 (Europe) (En,Fr,De,Es,It) (Demo)</description>
 		<rom name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It) (Demo).iso" size="1236369408" crc="65120ac0" md5="5151cacfe5086db6676ca22fb600da33" sha1="0fa2af59fda8c9fb419c263995201d30aacd668b"/>
 	</game>
+	<game name="Forbidden Siren 2 (Korea)" id="138919">
+		<category>Games</category>
+		<description>Forbidden Siren 2 (Korea)</description>
+		<rom name="Forbidden Siren 2 (Korea).iso" size="4462641152" crc="02c3a525" md5="efaf1c7ef1adff957b4e3380ed04daab" sha1="34adeee4cefb4677c79430c87a99c4a2179741af"/>
+	</game>
 	<game name="Ford Bold Moves Street Racing (USA)" id="27551">
 		<category>Games</category>
 		<description>Ford Bold Moves Street Racing (USA)</description>
@@ -20824,6 +20829,11 @@
 		<category>Demos</category>
 		<description>Gun Survivor 4 - Biohazard - Heroes Never Die (Japan) (Tentou-you Taikenban)</description>
 		<rom name="Gun Survivor 4 - Biohazard - Heroes Never Die (Japan) (Tentou-you Taikenban).iso" size="1275002880" crc="063aab77" md5="1b272f5bae686bcb7c0ccaed940885a9" sha1="66157ba53a422654e92ea227028516d40872fe4f"/>
+	</game>
+	<game name="Gun Survivor 4 - Biohazard - Heroes Never Die (Korea)" id="138920">
+		<category>Games</category>
+		<description>Gun Survivor 4 - Biohazard - Heroes Never Die (Korea)</description>
+		<rom name="Gun Survivor 4 - Biohazard - Heroes Never Die (Korea).iso" size="2383118336" crc="294164ee" md5="346da63763f508a9c182b403536aeb45" sha1="a4e06bc52de6f411eee538adfe919ddba5317e49"/>
 	</game>
 	<game name="Gunbird - Premium Package (Korea)" id="5081">
 		<category>Games</category>
@@ -34598,16 +34608,16 @@
 		<description>Need for Speed - Underground (Japan)</description>
 		<rom name="Need for Speed - Underground (Japan).iso" size="2758279168" crc="ff7c2793" md5="5735e619b96dc547bf925bda0ebf2109" sha1="47e88bae3a594230657dece5987dbe0ed9a67440"/>
 	</game>
-	<game name="Need for Speed - Underground (Korea)" id="74135">
-		<category>Games</category>
-		<description>Need for Speed - Underground (Korea)</description>
-		<rom name="Need for Speed - Underground (Korea).iso" size="2820800512" crc="501369d8" md5="bf9c0b83d9af1c93268d008ae30f6e06" sha1="03a448b19ca00c775d48715e444ba342305d881e"/>
-	</game>
 	<game name="Need for Speed - Underground (Korea) (Cheheompan)" id="86306">
 		<category>Demos</category>
 		<description>Need for Speed - Underground (Korea) (Cheheompan)</description>
 		<rom name="Need for Speed - Underground (Korea) (Cheheompan).cue" size="115" crc="7d814766" md5="900817f71fd1178561bf90b501a0f385" sha1="2a0d28efe7a92b4cd305dc75936f1e0adb3f6443"/>
 		<rom name="Need for Speed - Underground (Korea) (Cheheompan).bin" size="475148688" crc="72f85fab" md5="134c18bd9dabac89e11b3d27107b6b80" sha1="634eb8e08082b303644e9389716d96daffeb3b4f"/>
+	</game>
+	<game name="Need for Speed - Underground (Korea) (En,Ko)" id="74135">
+		<category>Games</category>
+		<description>Need for Speed - Underground (Korea) (En,Ko)</description>
+		<rom name="Need for Speed - Underground (Korea) (En,Ko).iso" size="2820800512" crc="501369d8" md5="bf9c0b83d9af1c93268d008ae30f6e06" sha1="03a448b19ca00c775d48715e444ba342305d881e"/>
 	</game>
 	<game name="Need for Speed - Underground (USA) (Demo)" id="56136">
 		<category>Demos</category>
@@ -50138,6 +50148,11 @@
 		<category>Demos</category>
 		<description>Siren (Japan) (Tentou Taiken &amp; Houei-you ROM)</description>
 		<rom name="Siren (Japan) (Tentou Taiken &amp; Houei-you ROM).iso" size="4171628544" crc="9a508969" md5="5519ddc6b58bdea51e84d3949f6f7a6a" sha1="e7965af5202ba63535b15019dfab3754a93ea0fb"/>
+	</game>
+	<game name="Siren (Korea)" id="138921">
+		<category>Games</category>
+		<description>Siren (Korea)</description>
+		<rom name="Siren (Korea).iso" size="4628840448" crc="655a5cde" md5="c4227691d2d9173f19bc891f7cc60357" sha1="52720a26cf5a299fa0d587c478ff68795977725b"/>
 	</game>
 	<game name="Siren (USA)" id="5235">
 		<category>Games</category>
