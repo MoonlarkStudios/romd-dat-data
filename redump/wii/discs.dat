@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii</name>
-		<description>Nintendo - Wii - Datfile (3782) (2026-09-29 08-42-52)</description>
-		<version>2026-09-29 08-42-52</version>
-		<date>2026-09-29 08-42-52</date>
+		<description>Nintendo - Wii - Datfile (3782) (2026-10-01 09-32-53)</description>
+		<version>2026-10-01 09-32-53</version>
+		<date>2026-10-01 09-32-53</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -3855,10 +3855,10 @@
 		<description>Disney High School Musical Dance! (Japan)</description>
 		<rom name="Disney High School Musical Dance! (Japan).iso" size="4699979776" crc="42149f8c" md5="1771d4725452738f66bc369bf5ed1863" sha1="68e250bd8905aeb39b5a918820ccac916f6c39dc"/>
 	</game>
-	<game name="Disney Infinity (Europe) (En,Fr,De,Es,It,Nl)" id="49606">
+	<game name="Disney Infinity (Europe, Australia) (En,Fr,De,Es,It,Nl)" id="49606">
 		<category>Games</category>
-		<description>Disney Infinity (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Disney Infinity (Europe) (En,Fr,De,Es,It,Nl).iso" size="8511160320" crc="7e505b7f" md5="bfb79d4ab1d3760dd5333ff4f8fc0550" sha1="e39cca7d2e08e0d4316a54bbe47b9c9b6db94067"/>
+		<description>Disney Infinity (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Disney Infinity (Europe, Australia) (En,Fr,De,Es,It,Nl).iso" size="8511160320" crc="7e505b7f" md5="bfb79d4ab1d3760dd5333ff4f8fc0550" sha1="e39cca7d2e08e0d4316a54bbe47b9c9b6db94067"/>
 	</game>
 	<game name="Disney Infinity (Scandinavia) (En,Sv,No,Da,Fi)" id="47999">
 		<category>Games</category>
