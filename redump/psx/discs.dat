@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10980) (2026-10-01 09-32-35)</description>
-		<version>2026-10-01 09-32-35</version>
-		<date>2026-10-01 09-32-35</date>
+		<description>Sony - PlayStation - Datfile (10981) (2026-10-01 19-04-02)</description>
+		<version>2026-10-01 19-04-02</version>
+		<date>2026-10-01 19-04-02</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -84557,17 +84557,17 @@
 		<rom name="Street Fighter Collection 2 (USA) (Track 1).bin" size="450201024" crc="af9a85c1" md5="ac28deffd37d14986903ae8cd9bd2dc2" sha1="34419fe1abcc1703c0ed9d0b66da6abf45f3441c"/>
 		<rom name="Street Fighter Collection 2 (USA) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 	</game>
-	<game name="Street Fighter EX + Alpha (Europe) (Demo)" id="44730">
-		<category>Demos</category>
-		<description>Street Fighter EX + Alpha (Europe) (Demo)</description>
-		<rom name="Street Fighter EX + Alpha (Europe) (Demo).cue" size="107" crc="e66fe539" md5="836184d7fc1fe1bd62fa356c905ee77a" sha1="b2ebfa62b4dd1f47d167cc59e69e09508f95ad34"/>
-		<rom name="Street Fighter EX + Alpha (Europe) (Demo).bin" size="317428272" crc="2ab2b690" md5="86a6d8e835d24978468cddacdd3c1fa0" sha1="839361b2648427e197ededd3924103cb71a80a8c"/>
-	</game>
 	<game name="Street Fighter EX Plus Alpha (Europe)" id="1264">
 		<category>Games</category>
 		<description>Street Fighter EX Plus Alpha (Europe)</description>
 		<rom name="Street Fighter EX Plus Alpha (Europe).cue" size="103" crc="4036a4e5" md5="043fc3eaa913ab8210e4eda67558af3a" sha1="3465e3e096a7b34544b75b47b0ed25918f17b881"/>
 		<rom name="Street Fighter EX Plus Alpha (Europe).bin" size="528049872" crc="df7b61b7" md5="82da84302dc05143f6a454eca50d7bbc" sha1="5b661db4d1962b40dd9efa53cf6fc5bc2e939464"/>
+	</game>
+	<game name="Street Fighter EX Plus Alpha (Europe) (Demo)" id="44730">
+		<category>Demos</category>
+		<description>Street Fighter EX Plus Alpha (Europe) (Demo)</description>
+		<rom name="Street Fighter EX Plus Alpha (Europe) (Demo).cue" size="110" crc="85c0e02d" md5="99a69deaf158787d16dac5fa2d1fd096" sha1="ec1a296a62d63dcf8a550f7e60c9b7bd11df1200"/>
+		<rom name="Street Fighter EX Plus Alpha (Europe) (Demo).bin" size="317428272" crc="2ab2b690" md5="86a6d8e835d24978468cddacdd3c1fa0" sha1="839361b2648427e197ededd3924103cb71a80a8c"/>
 	</game>
 	<game name="Street Fighter EX Plus Alpha (Japan)" id="12562">
 		<category>Games</category>
@@ -98316,6 +98316,24 @@
 		<rom name="Vigilante 8 (USA) (Track 11).bin" size="27640704" crc="739179b5" md5="126d892d8c1f10cd35293f891b5d71b7" sha1="436342d3f89468a1e70814228d56672c47aad727"/>
 		<rom name="Vigilante 8 (USA) (Track 12).bin" size="28581504" crc="4e5f843b" md5="3428cdbcfd34f7b2cc7368f6f2390f10" sha1="46c2ed2b5a53419be17d8d192e4e20131b964726"/>
 		<rom name="Vigilante 8 (USA) (Track 13).bin" size="33772368" crc="0a67704c" md5="3b36258f6d4d9baade581ed3017effee" sha1="4f0188bad749db260a2efd6ae1b6449dc45898fc"/>
+	</game>
+	<game name="Vigilante 8 (USA) (Beta) (1997-09-04)" id="138967">
+		<category>Preproduction</category>
+		<description>Vigilante 8 (USA) (Beta) (1997-09-04)</description>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04).cue" size="1698" crc="dcb78c9a" md5="c9d293c2a4a52b004b701b9dbf7ea849" sha1="c658deb5896527589a0c883eca7c6e357ccd9c3e"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 01).bin" size="9556176" crc="f00a1be5" md5="43b41796e0ee819e6608a340464e66b2" sha1="888e65cda708c3cf975a5d36e3961a46a9ba1c3c"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 02).bin" size="27179712" crc="e266c647" md5="3cd0984a9912711329ddc6dda196c46c" sha1="c53e5b32a696018e0ae80764e999839d84dc3bf4"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 03).bin" size="28971936" crc="24485f0e" md5="c2ac092823bfc6b5bc7f28764e10d262" sha1="54708cd7507e61cf90720740fe8412745bed6f16"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 04).bin" size="33172608" crc="026b9bdc" md5="517427bcf4fdf932d0ee64af9e5b6526" sha1="2a205105110381b6cd474fd37e09100ed4153400"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 05).bin" size="29016624" crc="578e7abf" md5="cf81c472c2e1056212ddee2f99f88aa8" sha1="539290892a4efb3b7cbffd15ef037895bbc039bf"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 06).bin" size="26175408" crc="1e7836e9" md5="216994be77808dd50bbf360f0a3c2b87" sha1="6fa2ed5f7d19c3586c62fc438ae9f5b614db049d"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 07).bin" size="29404704" crc="aaddfbcc" md5="ef7f2bb1c9c5de97d6d416ae7a2403b5" sha1="5da41dc464952d0fc0a36987215593a459619528"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 08).bin" size="28355712" crc="4c488014" md5="9d288613a2cfa1ed05bbc511fd62ea45" sha1="84628746955925b806eba137d17b6190bbc91eec"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 09).bin" size="27337296" crc="31ff25bf" md5="bee15fd9fbf556e9ac6bad4133c6396b" sha1="a5e9311a892671ca1121d948b92c254fca92688d"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 10).bin" size="28946064" crc="f36e2332" md5="f8993f4b2dcbe49f3e98d67211acb9bf" sha1="3504d3b353cd5a7d6e86944007122af7137c9c26"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 11).bin" size="31265136" crc="d42e5244" md5="2ede03d67b6dd298f86ff7e8160c3aaf" sha1="a5ef29b8b36fc1fd3dc3a273a118f2dab7cfb60a"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 12).bin" size="28376880" crc="3d7cd6bc" md5="85f26678f1f42cdaa63f2509c10590de" sha1="67961f6d852e6e5b299c4e289e7cc877d04a9cc5"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 13).bin" size="28694400" crc="8c9d583e" md5="968336ced21542ead7fbf8b81dd44328" sha1="626e19d841ef0b888ed0986ac3eea71dd10dd814"/>
 	</game>
 	<game name="Vigilante 8 (USA) (Beta) (1998-03-30)" id="89699">
 		<category>Preproduction</category>

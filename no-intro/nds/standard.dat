@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20260930-112121</version>
+		<version>20261001-201312</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -336,7 +336,7 @@
 	</game>
 	<game name="2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It)" id="6143">
 		<description>2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="23bd4c31" md5="a0017f26ed5acf06870bcff8a1589ae5" sha1="eba231a4ea5c4eb3e2cb05f68c3ad776808aa358" serial="TMZP"/>
+		<rom name="2 in 1 - Mahjong + Mahjong Around the World (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="23bd4c31" md5="a0017f26ed5acf06870bcff8a1589ae5" sha1="eba231a4ea5c4eb3e2cb05f68c3ad776808aa358" sha256="001dce12c62f731df2ade77c357030d50f077a1370bd9787b53f979644285fbd" serial="TMZP"/>
 	</game>
 	<game name="2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)" id="6492">
 		<description>2 in 1 - Music for Kids + Englisch Macht Spass - Eine Reise nach London! (Europe) (En,De) (NDSi Enhanced)</description>
@@ -1841,7 +1841,7 @@
 	</game>
 	<game name="Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,It,Nl)" id="2855">
 		<description>Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,It,Nl)</description>
-		<rom name="Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,It,Nl).nds" size="33554432" crc="f856c748" md5="5d59b4b99d84f5144a3c2bc25a80a4b0" sha1="69d933715fd730b19a474cb96c1fe06263216e52" status="verified" serial="CAVP"/>
+		<rom name="Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,It,Nl).nds" size="33554432" crc="f856c748" md5="5d59b4b99d84f5144a3c2bc25a80a4b0" sha1="69d933715fd730b19a474cb96c1fe06263216e52" sha256="d02c402821e9ec5fe7baa76251038568569b587a4f228de6bd90b8f226d1a656" status="verified" serial="CAVP"/>
 	</game>
 	<game name="Avatar - The Legend of Aang - The Burning Earth (Europe) (Fr,Nl)" id="1553" cloneofid="1557">
 		<description>Avatar - The Legend of Aang - The Burning Earth (Europe) (Fr,Nl)</description>
@@ -3246,7 +3246,7 @@
 	</game>
 	<game name="Brain Assist (Europe) (En,Fr,De,Es,It)" id="2101">
 		<description>Brain Assist (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Brain Assist (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3ccf8fc6" md5="021661fba4b2c3a61764e10946347ff2" sha1="05ff7394f6a21eb3a0e9e929ded390b05ec4a6f9" sha256="4e048dfd540d9755188bb1b164d83d548b5c9c0340c77ed5cbdc7dfb49115056" serial="AU7P"/>
+		<rom name="Brain Assist (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3ccf8fc6" md5="021661fba4b2c3a61764e10946347ff2" sha1="05ff7394f6a21eb3a0e9e929ded390b05ec4a6f9" sha256="4e048dfd540d9755188bb1b164d83d548b5c9c0340c77ed5cbdc7dfb49115056" status="verified" serial="AU7P"/>
 	</game>
 	<game name="Brain Boost - Beta Wave (USA)" id="0695" cloneofid="0868">
 		<description>Brain Boost - Beta Wave (USA)</description>
@@ -3538,7 +3538,7 @@
 	</game>
 	<game name="Burnout Legends (Europe) (En,Fr,De,Es,It,Nl)" id="0226">
 		<description>Burnout Legends (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Burnout Legends (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="6c7ebce5" md5="8044f0fec879b2572a784cc0aa9a110b" sha1="3c118de1c4ed7fc00757c7b9449ff0adbda9622b" status="verified" serial="ABOP"/>
+		<rom name="Burnout Legends (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="6c7ebce5" md5="8044f0fec879b2572a784cc0aa9a110b" sha1="3c118de1c4ed7fc00757c7b9449ff0adbda9622b" sha256="d935fef6ab445a2bb2446c3d2e404d120b4c5d991469347a137ac482c3b2e8b0" status="verified" serial="ABOP"/>
 	</game>
 	<game name="Business Ryoku Kentei DS (Japan)" id="3232">
 		<description>Business Ryoku Kentei DS (Japan)</description>
@@ -8160,7 +8160,7 @@
 	</game>
 	<game name="Family Park Tycoon (Europe) (En,De)" id="3597">
 		<description>Family Park Tycoon (Europe) (En,De)</description>
-		<rom name="Family Park Tycoon (Europe) (En,De).nds" size="67108864" crc="a6b4b952" md5="603ad212bcbe91dd55b50cc180521643" sha1="73139b266129b77caeabb2bc864c57f8fb9215e9" serial="CTVP"/>
+		<rom name="Family Park Tycoon (Europe) (En,De).nds" size="67108864" crc="a6b4b952" md5="603ad212bcbe91dd55b50cc180521643" sha1="73139b266129b77caeabb2bc864c57f8fb9215e9" sha256="a5c45e8e0dd2f9110daae3dc4e42c7f9089f4421a8b466f5e2b08f1fa9a442a2" serial="CTVP"/>
 	</game>
 	<game name="Famous - The Road to Glory! (Europe) (En,Fr,De,Es,It,Nl)" id="5165">
 		<description>Famous - The Road to Glory! (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -10102,7 +10102,7 @@
 	</game>
 	<game name="Hannah Montana - Music Jam (Europe) (En,Fr,De,Es,It,Nl)" id="2340">
 		<description>Hannah Montana - Music Jam (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Hannah Montana - Music Jam (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="67af4c36" md5="dc6dd50a0b4f89988cabfadd69b2ad9e" sha1="70dc91f9d9a2c35c342cfcbfca4c27e886038573" serial="YH2P"/>
+		<rom name="Hannah Montana - Music Jam (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="67af4c36" md5="dc6dd50a0b4f89988cabfadd69b2ad9e" sha1="70dc91f9d9a2c35c342cfcbfca4c27e886038573" sha256="4a6d118fd24610f9fc018115cd8b9b0b4563b8205f373a255e3729fcf5b89549" serial="YH2P"/>
 	</game>
 	<game name="Hannah Montana - Pop Star Exclusive (USA) (En,Fr,De,Es,It,Nl,Sv,No,Fi) (Proto) (2008-08-11)" id="z544">
 		<description>Hannah Montana - Pop Star Exclusive (USA) (En,Fr,De,Es,It,Nl,Sv,No,Fi) (Proto) (2008-08-11)</description>
@@ -11615,7 +11615,7 @@
 	</game>
 	<game name="Imagine - Modern Dancer (Europe) (En,Fr,De,Es,It)" id="2723">
 		<description>Imagine - Modern Dancer (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Imagine - Modern Dancer (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="c4ae1b0b" md5="b1e81748ef9595a746523bff79d7487e" sha1="50bd48ed8666a6ef0db2b4bb8d11dd57fa521ec2" serial="CDSP"/>
+		<rom name="Imagine - Modern Dancer (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="c4ae1b0b" md5="b1e81748ef9595a746523bff79d7487e" sha1="50bd48ed8666a6ef0db2b4bb8d11dd57fa521ec2" sha256="26170b2dfeea6db859999af467e76e4afe73081574acf74deace03bf79e9e159" serial="CDSP"/>
 	</game>
 	<game name="Imagine - Movie Star (USA) (En,Fr,Es)" id="3154" cloneofid="3473">
 		<description>Imagine - Movie Star (USA) (En,Fr,Es)</description>
@@ -12629,7 +12629,7 @@
 	</game>
 	<game name="Joan Jade and the Gates of Xibalba (Europe) (En,Fr,De,Nl)" id="6016">
 		<description>Joan Jade and the Gates of Xibalba (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Joan Jade and the Gates of Xibalba (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="33001eed" md5="9fd207ba2a78148869dba9853cb60632" sha1="f2b4db12e5d36b578716a533c3fc1ab81da1aa43" serial="B8NP"/>
+		<rom name="Joan Jade and the Gates of Xibalba (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="33001eed" md5="9fd207ba2a78148869dba9853cb60632" sha1="f2b4db12e5d36b578716a533c3fc1ab81da1aa43" sha256="cfe645bb2edc57bbde6d1afca723ab3b141f74a3210e54b523a17d0e2648ad20" serial="B8NP"/>
 	</game>
 	<game name="JoggleDS (World) (Datel Games n' Music) (Unl)" id="z621">
 		<description>JoggleDS (World) (Datel Games n' Music) (Unl)</description>
@@ -12893,7 +12893,7 @@
 	</game>
 	<game name="Just Sing! (Europe) (En,Fr,De,Nl) (NDSi Enhanced)" id="4637">
 		<description>Just Sing! (Europe) (En,Fr,De,Nl) (NDSi Enhanced)</description>
-		<rom name="Just Sing! (Europe) (En,Fr,De,Nl) (NDSi Enhanced).nds" size="67108864" crc="f4d4ded9" md5="468758d82801e66f803b3a1d86a57069" sha1="6e26cc81d8d32da6ec0f26ae932c58003d41c8f9" serial="VJTP"/>
+		<rom name="Just Sing! (Europe) (En,Fr,De,Nl) (NDSi Enhanced).nds" size="67108864" crc="f4d4ded9" md5="468758d82801e66f803b3a1d86a57069" sha1="6e26cc81d8d32da6ec0f26ae932c58003d41c8f9" sha256="78a47b6156ac875d5f9f12c663f9d1200da49832d322b1e6483f240e0616993b" serial="VJTP"/>
 	</game>
 	<game name="Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVP) (NDSi Enhanced)" id="6505">
 		<description>Just Sing! - Vol. 2 (Europe) (En,Fr,De) (VJVP) (NDSi Enhanced)</description>
@@ -16519,7 +16519,7 @@
 	</game>
 	<game name="Math Play (USA)" id="1453" cloneofid="2170">
 		<description>Math Play (USA)</description>
-		<rom name="Math Play (USA).nds" size="8388608" crc="e812f8be" md5="f6de871df94a797c324c2fcb945145bc" sha1="d459c339cf2e5f4e7503c9552237c6f6ae8c2d98" serial="AECE"/>
+		<rom name="Math Play (USA).nds" size="8388608" crc="e812f8be" md5="f6de871df94a797c324c2fcb945145bc" sha1="d459c339cf2e5f4e7503c9552237c6f6ae8c2d98" sha256="f622aeea070bfde02b3651137b8516c18990a61c70d5780dd08bd03695cb98ec" serial="AECE"/>
 	</game>
 	<game name="Mathe Buddy - 5. Klasse (Europe) (Fr,De,It)" id="4881">
 		<description>Mathe Buddy - 5. Klasse (Europe) (Fr,De,It)</description>
@@ -17945,7 +17945,7 @@
 	</game>
 	<game name="MTV Fan Attack (Europe) (En,Fr,De,Es,It)" id="1891">
 		<description>MTV Fan Attack (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="MTV Fan Attack (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c51098a4" md5="620b75e0599733de57d2cd2514dcc014" sha1="bc26519366f1f741c192be4c17fcf00cc791014e" serial="YTAX"/>
+		<rom name="MTV Fan Attack (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c51098a4" md5="620b75e0599733de57d2cd2514dcc014" sha1="bc26519366f1f741c192be4c17fcf00cc791014e" sha256="0a3643e2db9cb9b52ac62bee018a0f053673d1ac6fda0c655e0cd6970d15a2f7" status="verified" serial="YTAX"/>
 	</game>
 	<game name="Mugen Kouro (Japan)" id="3846" cloneofid="5132">
 		<description>Mugen Kouro (Japan)</description>
@@ -18658,7 +18658,7 @@
 	</game>
 	<game name="Mystery Tales - Time Travel (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="6612">
 		<description>Mystery Tales - Time Travel (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
-		<rom name="Mystery Tales - Time Travel (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="cdfd8cc2" md5="e7ef01f1bfab54eaad08ff37467a7904" sha1="fabdaec29825aa24e2a1fcfdeb78f72513acb296" serial="BMGP"/>
+		<rom name="Mystery Tales - Time Travel (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="cdfd8cc2" md5="e7ef01f1bfab54eaad08ff37467a7904" sha1="fabdaec29825aa24e2a1fcfdeb78f72513acb296" sha256="8f95b2e2a8713f396b457a1f2c6bc0009e700ef951c7263ac262fb8a695bca2e" serial="BMGP"/>
 	</game>
 	<game name="Mystery Tales - Time Travel (Europe) (En,Fr,De,Es,It,Nl)" id="5087" cloneofid="6612">
 		<description>Mystery Tales - Time Travel (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -21367,7 +21367,7 @@
 	</game>
 	<game name="Planet Rescue - Animal Emergency (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="3064">
 		<description>Planet Rescue - Animal Emergency (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
-		<rom name="Planet Rescue - Animal Emergency (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="67108864" crc="d2c97e26" md5="4656deb18653e9360d162176b82ff9a8" sha1="4530ce5519c7df8e550edbda93db32854e9b0234" status="verified" serial="CPVP"/>
+		<rom name="Planet Rescue - Animal Emergency (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="67108864" crc="d2c97e26" md5="4656deb18653e9360d162176b82ff9a8" sha1="4530ce5519c7df8e550edbda93db32854e9b0234" sha256="441bddfbc39286c928f4e0422250816104902db24fb68e598cb381519d277fb6" status="verified" serial="CPVP"/>
 	</game>
 	<game name="Planet Rescue - Endangered Island (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3065">
 		<description>Planet Rescue - Endangered Island (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -24247,7 +24247,7 @@
 	</game>
 	<game name="Schach Attacke (Germany)" id="1783" cloneofid="3234">
 		<description>Schach Attacke (Germany)</description>
-		<rom name="Schach Attacke (Germany).nds" size="16777216" crc="22620895" md5="f8c58110921ffa5bd49b7403766d71d3" sha1="22c529a35c0281a71a7ac73e6f67d2a7bdc62d70" serial="YQCD"/>
+		<rom name="Schach Attacke (Germany).nds" size="16777216" crc="22620895" md5="f8c58110921ffa5bd49b7403766d71d3" sha1="22c529a35c0281a71a7ac73e6f67d2a7bdc62d70" sha256="639fd1407a1018d0f27c1d8133ee9ad8526d8cf87b86617021beb3e64d40a6bb" serial="YQCD"/>
 	</game>
 	<game name="Schatz der Delfine, Der (Europe) (En,Fr,De,Es,It)" id="4024">
 		<description>Schatz der Delfine, Der (Europe) (En,Fr,De,Es,It)</description>
@@ -24331,7 +24331,7 @@
 	</game>
 	<game name="Scribblenauts (Europe) (En,Sv,No,Da,Fi)" id="4230" cloneofid="4282">
 		<description>Scribblenauts (Europe) (En,Sv,No,Da,Fi)</description>
-		<rom name="Scribblenauts (Europe) (En,Sv,No,Da,Fi).nds" size="33554432" crc="81bc0f3c" md5="3153a0ef4cb7c8f6b169ac2ea89895da" sha1="fdd52a363567a9690a9b1407267233ddc6daedad" serial="BSLX"/>
+		<rom name="Scribblenauts (Europe) (En,Sv,No,Da,Fi).nds" size="33554432" crc="81bc0f3c" md5="3153a0ef4cb7c8f6b169ac2ea89895da" sha1="fdd52a363567a9690a9b1407267233ddc6daedad" sha256="8acb842bd38db87e053475f337d7a9ba34fc3d5c2c3587f82444c2edc01a9361" serial="BSLX"/>
 	</game>
 	<game name="Scribblenauts (Europe) (En,Fr,De,Es,It,Nl)" id="4282">
 		<description>Scribblenauts (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -26583,7 +26583,7 @@
 	</game>
 	<game name="Sudoku Master (Europe) (En,Fr,De,Es,It,Nl)" id="0631">
 		<description>Sudoku Master (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Sudoku Master (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="0dcb4e2f" md5="02cfeca2f5d03e6223aea248640b7e58" sha1="4661d31deeba3b67a40628e1705242231d82f23a" serial="ASQP"/>
+		<rom name="Sudoku Master (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="0dcb4e2f" md5="02cfeca2f5d03e6223aea248640b7e58" sha1="4661d31deeba3b67a40628e1705242231d82f23a" sha256="9a7608a9e4d79df4d12f1e99661ca5b0e09598adcc919635d8925c5326508efa" status="verified" serial="ASQP"/>
 	</game>
 	<game name="Sudokumaniacs (Europe) (En,De,Es,It)" id="0654">
 		<description>Sudokumaniacs (Europe) (En,De,Es,It)</description>
@@ -29690,7 +29690,7 @@
 	</game>
 	<game name="VocabStar English Advanced (Europe) (En,Fr,De,Es,It)" id="4343">
 		<description>VocabStar English Advanced (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="VocabStar English Advanced (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="b14b6213" md5="65ca6fe79b7d69a538f8a837700552c0" sha1="3599aec69648b8725831b42e9c33cbfbcc491c83" serial="BVKP"/>
+		<rom name="VocabStar English Advanced (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="b14b6213" md5="65ca6fe79b7d69a538f8a837700552c0" sha1="3599aec69648b8725831b42e9c33cbfbcc491c83" sha256="ca4a1a30fbbdd5e77a92396a9ee82f154bd62029ef5bb0fbf4526a79787e5da7" serial="BVKP"/>
 	</game>
 	<game name="Vorschulspass mit Benjamin Bluemchen (Germany)" id="4867">
 		<description>Vorschulspass mit Benjamin Bluemchen (Germany)</description>
@@ -31078,7 +31078,7 @@
 	</game>
 	<game name="Zendoku (Europe) (En,Fr,De,Es,It)" id="1013">
 		<description>Zendoku (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Zendoku (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="f75242bd" md5="138099354a7583fe2e05280f1f770313" sha1="3d2aa48ed20dee4a05a01f220bfa9da7348e55c9" serial="AZQP"/>
+		<rom name="Zendoku (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="f75242bd" md5="138099354a7583fe2e05280f1f770313" sha1="3d2aa48ed20dee4a05a01f220bfa9da7348e55c9" sha256="459f167dbbdd92c4ef27c10e9b3211f1e8731068c639e1429b622553835d4d8a" status="verified" serial="AZQP"/>
 	</game>
 	<game name="Zendoku (USA) (En,Fr,De,Es,It)" id="1150" cloneofid="1013">
 		<description>Zendoku (USA) (En,Fr,De,Es,It)</description>

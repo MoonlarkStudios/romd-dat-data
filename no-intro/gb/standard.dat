@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20260929-010702</version>
+		<version>20261001-130150</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -550,6 +550,11 @@
 	<game name="Auto Zone (World) (Aftermarket) (Unl)" id="1914">
 		<description>Auto Zone (World) (Aftermarket) (Unl)</description>
 		<rom name="Auto Zone (World) (Aftermarket) (Unl).gb" size="524288" crc="cee73c14" md5="d30c6595259d32038a56597d4ab7a3d2" sha1="3070ec215014633dac5dbbb487aade2e2993c049" sha256="a98d2d701660ea2cfcb18266834e808c3d4af4435f1491440d36ec3971a5616b"/>
+	</game>
+	<game name="Avenging Spirit (USA, Europe) (Retro-Bit)" id="2273" cloneofid="0075">
+		<category>Games</category>
+		<description>Avenging Spirit (USA, Europe) (Retro-Bit)</description>
+		<rom name="Avenging Spirit (USA, Europe) (Retro-Bit).gb" size="262144" crc="bab53b3b" md5="e24b3b3ff9ec2435a61da21f106b44ed" sha1="325e94343f7acb808b1dd18bac2e92fda1ff1769" sha256="ea4289ec0f007ea0208a3a03600bc187f88acfc498e2f3711ba4f833f25ec925" status="verified"/>
 	</game>
 	<game name="Avenging Spirit (USA, Europe)" id="0075">
 		<description>Avenging Spirit (USA, Europe)</description>
@@ -2961,8 +2966,9 @@
 		<rom name="Genesis II (World) (Demo) (Aftermarket) (Unl).gb" size="262144" crc="d7aec1cc" md5="45493ea51177885a231226238d93a843" sha1="9700ea1278850df004ded7553253cfdd354f4ada" sha256="1ec4a483749541a6b2d6825e36e0a9f1e990174cf0061427befaa1d5fcaef739"/>
 	</game>
 	<game name="Genesis II (World) (Aftermarket) (Unl)" id="2422">
+		<category>Games</category>
 		<description>Genesis II (World) (Aftermarket) (Unl)</description>
-		<rom name="Genesis II (World) (Aftermarket) (Unl).gb" size="262144" crc="a9b982bd" md5="fa2b11931da462c4d34095987c4a0264" sha1="13c769ae53c8337a091a950020ba821ff5b02a6d" sha256="ffdc54c1be9f8a91a9cf9b7106186a858f289d49e00734803b2d6a6c57f1ad13"/>
+		<rom name="Genesis II (World) (Aftermarket) (Unl).gb" size="262144" crc="a9b982bd" md5="fa2b11931da462c4d34095987c4a0264" sha1="13c769ae53c8337a091a950020ba821ff5b02a6d" sha256="ffdc54c1be9f8a91a9cf9b7106186a858f289d49e00734803b2d6a6c57f1ad13" status="verified"/>
 	</game>
 	<game name="Genjin Collection (Japan) (SGB Enhanced)" id="0449">
 		<description>Genjin Collection (Japan) (SGB Enhanced)</description>

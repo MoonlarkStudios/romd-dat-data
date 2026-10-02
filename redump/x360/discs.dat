@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3709) (2026-10-01 09-54-01)</description>
-		<version>2026-10-01 09-54-01</version>
-		<date>2026-10-01 09-54-01</date>
+		<description>Microsoft - Xbox 360 - Datfile (3709) (2026-10-01 15-44-04)</description>
+		<version>2026-10-01 15-44-04</version>
+		<date>2026-10-01 15-44-04</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -18469,10 +18469,10 @@
 		<description>Zhen Sanguo Wushuang 5 - Empires (Taiwan)</description>
 		<rom name="Zhen Sanguo Wushuang 5 - Empires (Taiwan).iso" size="7838695424" crc="a9105720" md5="d1ec5af58d300716b70dc2f9a8730d3b" sha1="7a5782b2046012645a80c55cf4972d30322fba66"/>
 	</game>
-	<game name="Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh)" id="101536">
+	<game name="Zhen Sanguo Wushuang 7 (Asia) (En,Zh)" id="101536">
 		<category>Games</category>
-		<description>Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh)</description>
-		<rom name="Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh).iso" size="8738846720" crc="e7c234fe" md5="102e80e2b7583c6d680c281abf9c3514" sha1="4210c25b1ba47327882ec597a27d9d6f3722e278"/>
+		<description>Zhen Sanguo Wushuang 7 (Asia) (En,Zh)</description>
+		<rom name="Zhen Sanguo Wushuang 7 (Asia) (En,Zh).iso" size="8738846720" crc="e7c234fe" md5="102e80e2b7583c6d680c281abf9c3514" sha1="4210c25b1ba47327882ec597a27d9d6f3722e278"/>
 	</game>
 	<game name="Zoids Alternative (Japan)" id="76260">
 		<category>Games</category>

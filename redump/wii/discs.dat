@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii</name>
-		<description>Nintendo - Wii - Datfile (3782) (2026-10-01 09-32-53)</description>
-		<version>2026-10-01 09-32-53</version>
-		<date>2026-10-01 09-32-53</date>
+		<description>Nintendo - Wii - Datfile (3782) (2026-10-01 21-32-39)</description>
+		<version>2026-10-01 21-32-39</version>
+		<date>2026-10-01 21-32-39</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -4675,10 +4675,10 @@
 		<description>Donkey Kong Taru Jet Race (Japan)</description>
 		<rom name="Donkey Kong Taru Jet Race (Japan).iso" size="4699979776" crc="da2c1c4d" md5="259e4531dbe8e122cce413ef420ae29a" sha1="622b172e16f70eb121773f2ced632095de1a8ef0"/>
 	</game>
-	<game name="Dood's Big Adventure (Europe) (En,Fr,De,Es,It,Nl)" id="44125">
+	<game name="Dood's Big Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl)" id="44125">
 		<category>Games</category>
-		<description>Dood's Big Adventure (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Dood's Big Adventure (Europe) (En,Fr,De,Es,It,Nl).iso" size="4699979776" crc="d9fc370e" md5="445c1a60abc24c5b2342c96426bf3002" sha1="e09618d8d21de5a0f82bbc729afaf77f6be7c6fc"/>
+		<description>Dood's Big Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Dood's Big Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl).iso" size="4699979776" crc="d9fc370e" md5="445c1a60abc24c5b2342c96426bf3002" sha1="e09618d8d21de5a0f82bbc729afaf77f6be7c6fc"/>
 	</game>
 	<game name="Dood's Big Adventure (USA) (En,Fr)" id="47502">
 		<category>Games</category>
