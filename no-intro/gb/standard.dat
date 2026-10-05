@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261001-130150</version>
+		<version>20261004-054530</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3891,13 +3891,13 @@
 		<description>Jumpy (World) (Aftermarket) (Unl)</description>
 		<rom name="Jumpy (World) (Aftermarket) (Unl).gb" size="262144" crc="70f9af24" md5="448a0f127123e88dd4c0e98450f0fed0" sha1="29152d8874c2a048f71e0be86aa9ee2d77996fb6" sha256="f4f6c3cb2310f85f99b25eb108d88312ab946f38936d465cdf1cdf73b2405584"/>
 	</game>
-	<game name="Jungle Book, The (USA, Europe)" id="0606">
-		<description>Jungle Book, The (USA, Europe)</description>
-		<rom name="Jungle Book, The (USA, Europe).gb" size="131072" crc="b64d27ee" md5="e5876720bf10345fb2150db6d68c1cfb" sha1="ca69dde7b176d4bec9c51f92c37a5d68402af616" sha256="e438f362b2344dc8ddb77071fbbedc18084958bc8770523b2bc18f27e0ae2fbd" status="verified"/>
-	</game>
 	<game name="Jungle Book, The (World) (Disney Classic Games)" id="1739" cloneofid="0606">
 		<description>Jungle Book, The (World) (Disney Classic Games)</description>
 		<rom name="Jungle Book, The (World) (Disney Classic Games).gb" size="131072" crc="4a2c16ff" md5="58a854ee2aacdf5190b603ffcd55fd84" sha1="1f332d2494f831950b88ece02d296a4708e82807" sha256="eb35b74e5fefd96139869b639e8958f9ebac23ef5e3e15a6a032c1f8438dd7a7"/>
+	</game>
+	<game name="Jungle Book, The (USA, Europe)" id="0606">
+		<description>Jungle Book, The (USA, Europe)</description>
+		<rom name="Jungle Book, The (USA, Europe).gb" size="131072" crc="b64d27ee" md5="e5876720bf10345fb2150db6d68c1cfb" sha1="ca69dde7b176d4bec9c51f92c37a5d68402af616" sha256="e438f362b2344dc8ddb77071fbbedc18084958bc8770523b2bc18f27e0ae2fbd" status="verified"/>
 	</game>
 	<game name="Jungle no Ouja Tar-chan (Japan) (SGB Enhanced)" id="0607">
 		<description>Jungle no Ouja Tar-chan (Japan) (SGB Enhanced)</description>

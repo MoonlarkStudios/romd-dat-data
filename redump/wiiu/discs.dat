@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii U</name>
-		<description>Nintendo - Wii U - Datfile (542) (2026-10-03 14-32-52)</description>
-		<version>2026-10-03 14-32-52</version>
-		<date>2026-10-03 14-32-52</date>
+		<description>Nintendo - Wii U - Datfile (542) (2026-10-05 09-25-59)</description>
+		<version>2026-10-05 09-25-59</version>
+		<date>2026-10-05 09-25-59</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1410,11 +1410,6 @@
 		<description>Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1)</description>
 		<rom name="Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1).iso" size="25025314816" crc="77f19e90" md5="942360325a95db82e0fd1153cfda064d" sha1="51c29f5db7ecb17afd959c0eb203317383ba067f"/>
 	</game>
-	<game name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="41084">
-		<category>Games</category>
-		<description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
-		<rom name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).iso" size="25025314816" crc="29ecda7b" md5="720f7ddd3bb5ddcbd550c8a601de93a3" sha1="803ec5dc95d65e27ea1c644cf9d05afa5b07c126"/>
-	</game>
 	<game name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="57636">
 		<category>Games</category>
 		<description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
@@ -1429,6 +1424,11 @@
 		<category>Games</category>
 		<description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)</description>
 		<rom name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4).iso" size="25025314816" crc="0f73a49e" md5="15974e4bb57fe355f7450b73c5abcbcf" sha1="82e165b64b37b28f571a21b729e293ee2a9b02bc"/>
+	</game>
+	<game name="Mario Kart 8 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="41084">
+		<category>Games</category>
+		<description>Mario Kart 8 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+		<rom name="Mario Kart 8 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Ru).iso" size="25025314816" crc="29ecda7b" md5="720f7ddd3bb5ddcbd550c8a601de93a3" sha1="803ec5dc95d65e27ea1c644cf9d05afa5b07c126"/>
 	</game>
 	<game name="Mario Kart 8 (Japan)" id="68318">
 		<category>Games</category>
