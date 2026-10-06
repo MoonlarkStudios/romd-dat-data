@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii U</name>
-		<description>Nintendo - Wii U - Datfile (542) (2026-10-05 09-25-59)</description>
-		<version>2026-10-05 09-25-59</version>
-		<date>2026-10-05 09-25-59</date>
+		<description>Nintendo - Wii U - Datfile (542) (2026-10-05 13-07-28)</description>
+		<version>2026-10-05 13-07-28</version>
+		<date>2026-10-05 13-07-28</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -2140,10 +2140,10 @@
 		<description>Sonic Toon - Taiko no Hihou (Japan)</description>
 		<rom name="Sonic Toon - Taiko no Hihou (Japan).iso" size="25025314816" crc="8f17d23d" md5="cdab46ac3940422078f0761e280b65ee" sha1="5497fc61b1e9a3bde8d5f8e00fcde247cec469c6"/>
 	</game>
-	<game name="Splatoon (Europe) (En,Fr,De,Es,It)" id="41972">
+	<game name="Splatoon (Europe, Australia) (En,Fr,De,Es,It)" id="41972">
 		<category>Games</category>
-		<description>Splatoon (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Splatoon (Europe) (En,Fr,De,Es,It).iso" size="25025314816" crc="8bfd3020" md5="15047486cbb685a489f4489af43ff626" sha1="d763e22476c39bd2ca963e850396fb00581b4f3b"/>
+		<description>Splatoon (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Splatoon (Europe, Australia) (En,Fr,De,Es,It).iso" size="25025314816" crc="8bfd3020" md5="15047486cbb685a489f4489af43ff626" sha1="d763e22476c39bd2ca963e850396fb00581b4f3b"/>
 	</game>
 	<game name="Splatoon (Japan)" id="68393">
 		<category>Games</category>

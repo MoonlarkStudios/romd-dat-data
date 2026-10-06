@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261004-033241</version>
+		<version>20261006-003425</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -179,7 +179,7 @@
 	</game>
 	<game name="1000 Cooking Recipes from Elle a Table (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)" id="5161">
 		<description>1000 Cooking Recipes from Elle a Table (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)</description>
-		<rom name="1000 Cooking Recipes from Elle a Table (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="134217728" crc="a9b1f1de" md5="338cac568dcba1ca53051e443f3b005b" sha1="1ab191efea5a9a280b0d9a2565ea353c52bf6d07" serial="VETP"/>
+		<rom name="1000 Cooking Recipes from Elle a Table (Europe) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="134217728" crc="a9b1f1de" md5="338cac568dcba1ca53051e443f3b005b" sha1="1ab191efea5a9a280b0d9a2565ea353c52bf6d07" sha256="f3ec7e190079f5a8713e50fb8844cadccda537b89931b4c5b637df92c40e6404" status="verified" serial="VETP"/>
 	</game>
 	<game name="1001 Crosswords (Europe)" id="6332">
 		<description>1001 Crosswords (Europe)</description>
@@ -3133,7 +3133,7 @@
 	</game>
 	<game name="Bolt (Europe) (En,Fr,De,Es,It,Nl)" id="3281">
 		<description>Bolt (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Bolt (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="0bfc4dc1" md5="d0f3009fc3eebbd30360ecfb5425d164" sha1="3e2a76cc3f9d121ba7b3efc6099299f63ca8b54d" status="verified" serial="CBKP"/>
+		<rom name="Bolt (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="0bfc4dc1" md5="d0f3009fc3eebbd30360ecfb5425d164" sha1="3e2a76cc3f9d121ba7b3efc6099299f63ca8b54d" sha256="842a37a26f38cdaac413d1a02d3f09e5468606186e55d5c80312c86d0297a4b2" status="verified" serial="CBKP"/>
 	</game>
 	<game name="Bolt - Be-Awesome Edition (USA) (En,Fr,Es)" id="6086" cloneofid="3281">
 		<description>Bolt - Be-Awesome Edition (USA) (En,Fr,Es)</description>
@@ -6385,7 +6385,7 @@
 	</game>
 	<game name="Don King Boxing (Europe) (En,Fr,De,Es,It)" id="3591">
 		<description>Don King Boxing (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Don King Boxing (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="09e1a9b6" md5="7847e6d40036539ef599f328382a1f55" sha1="4a5cde3e9e6e5e2f17e2a9da04c281d36d2a1f35" serial="YWKP"/>
+		<rom name="Don King Boxing (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="09e1a9b6" md5="7847e6d40036539ef599f328382a1f55" sha1="4a5cde3e9e6e5e2f17e2a9da04c281d36d2a1f35" sha256="6f9251a2e08972de68de4370a86f4de699806a92be06fed01b38240b60782067" status="verified" serial="YWKP"/>
 	</game>
 	<game name="Don King Boxing (USA) (En,Fr,De,Es,It)" id="3858" cloneofid="3591">
 		<description>Don King Boxing (USA) (En,Fr,De,Es,It)</description>
@@ -9772,7 +9772,7 @@
 	</game>
 	<game name="Grosse Tagesschau Quiz, Das (Germany)" id="4311">
 		<description>Grosse Tagesschau Quiz, Das (Germany)</description>
-		<rom name="Grosse Tagesschau Quiz, Das (Germany).nds" size="16777216" crc="e391d586" md5="2120c0f543043d2cf424617603f8333e" sha1="c48e83b203703b84e36a7655505f3849440ff2c8" serial="BQZD"/>
+		<rom name="Grosse Tagesschau Quiz, Das (Germany).nds" size="16777216" crc="e391d586" md5="2120c0f543043d2cf424617603f8333e" sha1="c48e83b203703b84e36a7655505f3849440ff2c8" sha256="b6c84bb368bf6dc562e1c6b58d38ccaa991bbd1f1238e5fe8f69b356d9d522c8" status="verified" serial="BQZD"/>
 	</game>
 	<game name="Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany)" id="3433">
 		<description>Grundschule 1.-4. Klasse - Fit fuers Gymnasium (Germany)</description>
@@ -11623,7 +11623,7 @@
 	</game>
 	<game name="Imagine - Movie Star (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3473">
 		<description>Imagine - Movie Star (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Imagine - Movie Star (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="098605f5" md5="b2f78f14be3fbc6131378142192cb7a2" sha1="95acc84b5672fb8ff0ba640f228e1116932a303d" serial="CIMP"/>
+		<rom name="Imagine - Movie Star (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="098605f5" md5="b2f78f14be3fbc6131378142192cb7a2" sha1="95acc84b5672fb8ff0ba640f228e1116932a303d" sha256="f79ffa5e215c33778449f4670e2e11d1eff7f94da453ef4ee47b272ee0ceb213" status="verified" serial="CIMP"/>
 	</game>
 	<game name="Imagine - Music Fest (USA) (En,Fr)" id="3973">
 		<description>Imagine - Music Fest (USA) (En,Fr)</description>
@@ -16804,7 +16804,7 @@
 	</game>
 	<game name="Mein Franzoesisch Coach - Verbessere Dein Franzoesisch (Germany)" id="2733" cloneofid="2315">
 		<description>Mein Franzoesisch Coach - Verbessere Dein Franzoesisch (Germany)</description>
-		<rom name="Mein Franzoesisch Coach - Verbessere Dein Franzoesisch (Germany).nds" size="33554432" crc="dc482b81" md5="bbe68c610618b060b9c38b4d50c380d4" sha1="4e84500ff38f28edbc1174fe1d041e43c8ddbdd5" serial="CFLX"/>
+		<rom name="Mein Franzoesisch Coach - Verbessere Dein Franzoesisch (Germany).nds" size="33554432" crc="dc482b81" md5="bbe68c610618b060b9c38b4d50c380d4" sha1="4e84500ff38f28edbc1174fe1d041e43c8ddbdd5" sha256="ebd65a7c9d8db6a03f2a30234658564d64ee15fd33bb47ad4f9e93c8f6aa6049" serial="CFLX"/>
 	</game>
 	<game name="Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced)" id="3952" cloneofid="3939">
 		<description>Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced)</description>
@@ -20582,7 +20582,7 @@
 	</game>
 	<game name="Penguins of Madagascar, The (Europe) (De,Nl) (NDSi Enhanced)" id="5715" cloneofid="5338">
 		<description>Penguins of Madagascar, The (Europe) (De,Nl) (NDSi Enhanced)</description>
-		<rom name="Penguins of Madagascar, The (Europe) (De,Nl) (NDSi Enhanced).nds" size="67108864" crc="f6fe8d42" md5="440bc31b5f151e3f7d3c779d3d7ca578" sha1="0ea0292793c5f7e68983176406e2798fee6c4027" serial="VPEX"/>
+		<rom name="Penguins of Madagascar, The (Europe) (De,Nl) (NDSi Enhanced).nds" size="67108864" crc="f6fe8d42" md5="440bc31b5f151e3f7d3c779d3d7ca578" sha1="0ea0292793c5f7e68983176406e2798fee6c4027" sha256="8de00af8a67b7beda73792c5e6384a6cf37cee0410e6bcf2aa4ef1c67bdac752" status="verified" serial="VPEX"/>
 	</game>
 	<game name="Penguins of Madagascar, The (Europe) (Es,It) (NDSi Enhanced)" id="6584" cloneofid="5338">
 		<description>Penguins of Madagascar, The (Europe) (Es,It) (NDSi Enhanced)</description>
@@ -22520,7 +22520,7 @@
 	</game>
 	<game name="Pro Evolution Soccer 2008 (Europe) (En,Fr,De,Es,It)" id="1967">
 		<description>Pro Evolution Soccer 2008 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Pro Evolution Soccer 2008 (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="0cd2c655" md5="792a918a57ead8d4272dbf37c930498b" sha1="bc3f9892a7c276e1c82a560ec46eea510af895d2" sha256="e654e32c5b1b0068319ec252817dbf07ba74cbde093f4a335ebd500cf1acd391" serial="YW8P"/>
+		<rom name="Pro Evolution Soccer 2008 (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="0cd2c655" md5="792a918a57ead8d4272dbf37c930498b" sha1="bc3f9892a7c276e1c82a560ec46eea510af895d2" sha256="e654e32c5b1b0068319ec252817dbf07ba74cbde093f4a335ebd500cf1acd391" status="verified" serial="YW8P"/>
 	</game>
 	<game name="Pro Evolution Soccer 2008 (USA) (En,Es)" id="2129" cloneofid="1967">
 		<description>Pro Evolution Soccer 2008 (USA) (En,Es)</description>
@@ -22528,7 +22528,7 @@
 	</game>
 	<game name="Pro Evolution Soccer 6 (Europe) (En,Fr,De,Es,It) (Rev 1)" id="0844">
 		<description>Pro Evolution Soccer 6 (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="Pro Evolution Soccer 6 (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="67108864" crc="12c2bed5" md5="e8ac18bcda89e854c2363f9e32d21e1b" sha1="3d582794ad6abb242553c840312921355c6110ab" status="verified" serial="AWEP"/>
+		<rom name="Pro Evolution Soccer 6 (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="67108864" crc="12c2bed5" md5="e8ac18bcda89e854c2363f9e32d21e1b" sha1="3d582794ad6abb242553c840312921355c6110ab" sha256="e94a01e12c105834d14c6784069016a71f6bdeca72e371fd16f599b2ac1b3367" status="verified" serial="AWEP"/>
 	</game>
 	<game name="Pro Yakyuu Famista DS (Japan)" id="1671">
 		<description>Pro Yakyuu Famista DS (Japan)</description>

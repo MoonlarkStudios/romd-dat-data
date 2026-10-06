@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261004-054530</version>
+		<version>20261005-120635</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9466,9 +9466,10 @@
 		<description>Wily &amp; Right no Rockboard - That's Paradise (Japan) (Proto)</description>
 		<rom name="Wily &amp; Right no Rockboard - That's Paradise (Japan) (Proto).gb" size="262144" crc="af84dc97" md5="6483f35f0c0c520a46c133dbae83fa77" sha1="cc917f113c5cdd1afc3340feb8bf2094d0902cec"/>
 	</game>
-	<game name="Windows93 Adventure DX (World) (Aftermarket) (Unl)" id="2119">
-		<description>Windows93 Adventure DX (World) (Aftermarket) (Unl)</description>
-		<rom name="Windows93 Adventure DX (World) (Aftermarket) (Unl).gb" size="1048576" crc="e1ad0b6f" md5="6c5c276f68bea365821172927706cc0b" sha1="3ad7327f6f94976c3d12054cf6deb2666ba9fa66" sha256="84e4c82f057e9d1ab701bb798dcd3eb2d84fcd7966754974fe00927ea38843ed"/>
+	<game name="Windows93 Adventure (World) (Aftermarket) (Unl)" id="2119">
+		<category>Games</category>
+		<description>Windows93 Adventure (World) (Aftermarket) (Unl)</description>
+		<rom name="Windows93 Adventure (World) (Aftermarket) (Unl).gb" size="1048576" crc="e1ad0b6f" md5="6c5c276f68bea365821172927706cc0b" sha1="3ad7327f6f94976c3d12054cf6deb2666ba9fa66" sha256="84e4c82f057e9d1ab701bb798dcd3eb2d84fcd7966754974fe00927ea38843ed"/>
 	</game>
 	<game name="Winner's Horse (Japan)" id="1493">
 		<description>Winner's Horse (Japan)</description>
