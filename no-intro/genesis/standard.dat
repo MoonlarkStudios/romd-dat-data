@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20260927-122056</version>
+		<version>20261006-200508</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -18531,6 +18531,11 @@
 		<category>Preproduction</category>
 		<description>X-Perts (USA) (Beta)</description>
 		<rom name="X-Perts (USA) (Beta).md" size="4194304" crc="9d067249" md5="6fe621a37629a0f41d1f4c032a0843a2" sha1="97a2fef09c0a43a46d7f4b4c7b7291d87474dcf0" sha256="b3b8c878fc5301ee54659df5d14bfede7c342f69261f8e0a811e0b111fe34c11" serial="SEGA000-00"/>
+	</game>
+	<game name="XBAND (USA)" id="3851">
+		<category>Miscellaneous</category>
+		<description>XBAND (USA)</description>
+		<rom name="XBAND (USA).md" size="524288" crc="af301895" md5="65ca1b57ff54e5e372a37fccb153486c" sha1="f4d9c4e2b09f1cb9ba9137b5cdc4f5e92d8d8bd6" sha256="00f45a0ca9b11d1540a3df7ff17ad65b20425667a876cdc7b6e56680e3d4f73f"/>
 	</game>
 	<game name="XDR - X-Dazedly-Ray (Japan) (En)" id="1585">
 		<category>Games</category>

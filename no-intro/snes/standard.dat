@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20261001-100404</version>
+		<version>20261005-040320</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -18943,7 +18943,7 @@
 	<game name="XBAND (USA) (v1.0.1)" id="3363">
 		<category>Miscellaneous</category>
 		<description>XBAND (USA) (v1.0.1)</description>
-		<rom name="XBAND (USA) (v1.0.1).sfc" size="1048576" crc="a8b868a0" md5="580b6f738cd9d3cfea514b20c4cbb440" sha1="3f56b109a05097f09fd8859205ea635453d1cb45" sha256="6bf730cc8c70d086fd09e34209e079ff817f04b90e4da6742b77d751aa1ff3d9"/>
+		<rom name="XBAND (USA) (v1.0.1).sfc" size="1048576" crc="a8b868a0" md5="580b6f738cd9d3cfea514b20c4cbb440" sha1="3f56b109a05097f09fd8859205ea635453d1cb45" sha256="6bf730cc8c70d086fd09e34209e079ff817f04b90e4da6742b77d751aa1ff3d9" status="verified"/>
 	</game>
 	<game name="Yadamon - Wonderland Dream (Japan)" id="3364">
 		<category>Games</category>
@@ -22444,7 +22444,8 @@
 	<game name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)" id="4607">
 		<description>Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)</description>
 		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl).sfc" size="131072" crc="fe5b38f0" md5="0cbbf1be7db591ce34dde62ba05c6f32" sha1="cfd5de042e87f2301cf2baa52cfee76b09a8bc7a" sha256="f51300bf7f2401033239cee8a7d1e3d96fb986876bd85d0fb7bf738e849a590b" status="verified"/>
-		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl).bin" size="16777216" crc="3e24eeba" md5="3f8bd2bf4e47152ed16958462e85dddb" sha1="35e07cadc5299c9e5476cbd1961af03ff75bac3f" sha256="bf500b1953e5bbe469a746d83460d5d386a05704cab877265d58c6ec863533c2" status="verified"/>
+		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)_rp2040.bin" size="16777216" crc="3e24eeba" md5="3f8bd2bf4e47152ed16958462e85dddb" sha1="35e07cadc5299c9e5476cbd1961af03ff75bac3f" sha256="bf500b1953e5bbe469a746d83460d5d386a05704cab877265d58c6ec863533c2" status="verified"/>
+		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)_rp2040-2024_03_23.bin" size="16777216" crc="4e2e0dda" md5="74b8796fb6bb1868656e62ff4594d62b" sha1="038e4fcbe67f5f33ac7ceb3f3e838c45c9c21445" sha256="82cb21456866c8f7dcaccabb264598fb8e8b6fb55bfe339215612d377cbadea6" status="verified" mia="yes"/>
 	</game>
 	<game name="Zelda II - The Adventure of Link (World) (REV-G) (NES Conversion) (Aftermarket) (Unl)" id="4488" cloneofid="4552">
 		<category>Games</category>

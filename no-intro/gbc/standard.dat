@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261001-131920</version>
+		<version>20261007-004207</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3554,10 +3554,15 @@
 		<description>GB-Wordyl - Spanish (World) (Es) (v1.0.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="GB-Wordyl - Spanish (World) (Es) (v1.0.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="32768" crc="1dd9cc71" md5="b88ddaca8887d7f23593061f4259c3f9" sha1="0010677e027111b24e3c22c48a0357cb9106e592" sha256="76ff3b764a56f6d4f12ce727fb3ed3f105c6de364a80e27274d3cea68da9e590"/>
 	</game>
-	<game name="GbBBS95 (World) (v1.4.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)" id="2837">
+	<game name="GbBBS95 (World) (v1.4.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)" id="2837" cloneofid="3012">
 		<category>Games</category>
 		<description>GbBBS95 (World) (v1.4.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="GbBBS95 (World) (v1.4.6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="7b9457ce" md5="b871faa7514585331066f78d60d8364a" sha1="f0220ec7edf172bd0cb14578b8c825ffe942ba4d" sha256="757e71a11438083ed177a2994dd170661f7c5b697dc5e09493e858f157843920"/>
+	</game>
+	<game name="GbBBS95 (World) (v1.4.7) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)" id="3007" cloneofid="3012">
+		<category>Games</category>
+		<description>GbBBS95 (World) (v1.4.7) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)</description>
+		<rom name="GbBBS95 (World) (v1.4.7) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="18a91bf4" md5="28d0579ea7bc881066894d7295d4bf5b" sha1="b62e2be09807350e21cdde858e33d8db0826a6b0" sha256="004e74b5456d9e960354e8eba6591ca3f5f0867c7eae06f4b8193e697df6f586"/>
 	</game>
 	<game name="Gedou Jian Shen - Soul Falchion (Taiwan) (En) (Unl) (Alt 2)" id="2532" cloneofid="1972">
 		<category>Games</category>
@@ -10643,12 +10648,6 @@
 		<description>Wild Thornberrys, The - Rambler (USA)</description>
 		<rom name="Wild Thornberrys, The - Rambler (USA).gbc" size="1048576" crc="0e1465cb" md5="f32210eedc7a619a09339764887e2b93" sha1="0e806f0e6c1a41e764683850a3c15a80ac7fc9a5"/>
 	</game>
-	<game name="Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl)" id="1936" cloneofid="2197">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" crc="04e04980" md5="475c56c522cc154c1526ab0900d77123" sha1="574cf911d6d8f73699203cd6db42ceec777f7f93" sha256="957c7ff7cf29778fef6a31ae194d9c13b2113e6107b3603d8cd8518f6caa5584"/>
-	</game>
 	<game name="Wing Warriors (World) (En,Fr,Es) (EGS) (GB Compatible) (Aftermarket) (Unl)" id="2197">
 		<category>Games</category>
 		<description>Wing Warriors (World) (En,Fr,Es) (EGS) (GB Compatible) (Aftermarket) (Unl)</description>
@@ -10663,6 +10662,12 @@
 		<category>Games</category>
 		<description>Wing Warriors (World) (En,Fr,Es) (Kitmaker) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Wing Warriors (World) (En,Fr,Es) (Kitmaker) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" crc="5179988b" md5="957b3a018cd37a886ea3d0f956e966b0" sha1="20e8daa159ceddace966afd3cd19eae71bb3bf6f" sha256="525b306f03373091d038d9e97d2c5503478fdc0fc0fb5e3c583e868c22282659"/>
+	</game>
+	<game name="Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl)" id="1936" cloneofid="2197">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl)</description>
+		<rom name="Wing Warriors (World) (En,Fr,Es) (Beta 2) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" crc="04e04980" md5="475c56c522cc154c1526ab0900d77123" sha1="574cf911d6d8f73699203cd6db42ceec777f7f93" sha256="957c7ff7cf29778fef6a31ae194d9c13b2113e6107b3603d8cd8518f6caa5584"/>
 	</game>
 	<game name="Wings of Fury (Europe) (En,Fr,De) (GB Compatible)" id="1306">
 		<description>Wings of Fury (Europe) (En,Fr,De) (GB Compatible)</description>

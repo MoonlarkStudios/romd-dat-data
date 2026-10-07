@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii U</name>
-		<description>Nintendo - Wii U - Datfile (542) (2026-10-05 13-07-28)</description>
-		<version>2026-10-05 13-07-28</version>
-		<date>2026-10-05 13-07-28</date>
+		<description>Nintendo - Wii U - Datfile (542) (2026-10-06 12-48-08)</description>
+		<version>2026-10-06 12-48-08</version>
+		<date>2026-10-06 12-48-08</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -420,15 +420,15 @@
 		<description>Call of Duty - Ghosts (USA) (En,Fr)</description>
 		<rom name="Call of Duty - Ghosts (USA) (En,Fr).iso" size="25025314816" crc="e1b29379" md5="d25de7cc820f07df27f484d056bbef37" sha1="70204482b85576d59be3cfa57e27a2bd99fa3ea9"/>
 	</game>
-	<game name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It)" id="42020">
-		<category>Games</category>
-		<description>Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It).iso" size="25025314816" crc="62d2cb8b" md5="be2a55f4ef93efc28fa768a1b11d2186" sha1="5a688e47613b50ad00c4f71cf92ee71baa2a5155"/>
-	</game>
 	<game name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It) (Rev 1)" id="59571">
 		<category>Games</category>
 		<description>Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<rom name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It) (Rev 1).iso" size="25025314816" crc="deccaf84" md5="13d3d32ea6f600bfd33ef45d7b287784" sha1="7ca9d33749627d4ecb70cefc8bb6b2d0acfe0be6"/>
+	</game>
+	<game name="Captain Toad - Treasure Tracker (Europe, Australia) (En,Fr,De,Es,It)" id="42020">
+		<category>Games</category>
+		<description>Captain Toad - Treasure Tracker (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Captain Toad - Treasure Tracker (Europe, Australia) (En,Fr,De,Es,It).iso" size="25025314816" crc="62d2cb8b" md5="be2a55f4ef93efc28fa768a1b11d2186" sha1="5a688e47613b50ad00c4f71cf92ee71baa2a5155"/>
 	</game>
 	<game name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es)" id="41026">
 		<category>Games</category>
