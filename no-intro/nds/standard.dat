@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261006-003425</version>
+		<version>20261008-024510</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2641,7 +2641,7 @@
 	</game>
 	<game name="Bibi Blocksberg - Das Gestohlene Hexbuch (Germany)" id="4288">
 		<description>Bibi Blocksberg - Das Gestohlene Hexbuch (Germany)</description>
-		<rom name="Bibi Blocksberg - Das Gestohlene Hexbuch (Germany).nds" size="33554432" crc="a603971a" md5="ca52537263a890ff5afe58095f606f12" sha1="5f06af7f530e5466c19d5a91e55642e4b10efc64" serial="BBBD"/>
+		<rom name="Bibi Blocksberg - Das Gestohlene Hexbuch (Germany).nds" size="33554432" crc="a603971a" md5="ca52537263a890ff5afe58095f606f12" sha1="5f06af7f530e5466c19d5a91e55642e4b10efc64" sha256="7676f5034a12fc794a035ade6c0c80948199827c7649154d5eee2dd36704b0f1" serial="BBBD"/>
 	</game>
 	<game name="Bibi Blocksberg - Der Verhexte Schloss-Schatz (Germany)" id="6080">
 		<description>Bibi Blocksberg - Der Verhexte Schloss-Schatz (Germany)</description>
@@ -5316,7 +5316,7 @@
 	</game>
 	<game name="Crazy School Games (Europe) (En,Fr,De,Es,It)" id="4018">
 		<description>Crazy School Games (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Crazy School Games (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="610cb4f6" md5="5f74dc611a8666dc912626d675b286ae" sha1="447936b44937370d381d3ff27d23beccc29c08be" serial="C2ZP"/>
+		<rom name="Crazy School Games (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="610cb4f6" md5="5f74dc611a8666dc912626d675b286ae" sha1="447936b44937370d381d3ff27d23beccc29c08be" sha256="aa7eab73a98a3169a74593fb363fa6615b5840df59eab068f7cbc23c953a02ce" serial="C2ZP"/>
 	</game>
 	<game name="Crime Lab - Body of Evidence (Europe) (En,Es,It,Nl) (NDSi Enhanced)" id="5280">
 		<description>Crime Lab - Body of Evidence (Europe) (En,Es,It,Nl) (NDSi Enhanced)</description>
@@ -8282,7 +8282,7 @@
 	</game>
 	<game name="FIFA 07 (Europe) (En,Fr,De,Es,It,Nl)" id="0571">
 		<description>FIFA 07 (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="FIFA 07 (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="1cdbb270" md5="47efe8c132119f1a6a8c2d871da2ebcc" sha1="cebcee4330d145c2f475d7755426e5342f72a7ea" serial="AF7P"/>
+		<rom name="FIFA 07 (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="1cdbb270" md5="47efe8c132119f1a6a8c2d871da2ebcc" sha1="cebcee4330d145c2f475d7755426e5342f72a7ea" sha256="9dda9df821d27c67b9db8c902cb613da0012dd7cb5b64f9bac4abb09785c1804" status="verified" serial="AF7P"/>
 	</game>
 	<game name="FIFA 08 (Europe) (En,Fr,De,Es,It)" id="1441" cloneofid="6532">
 		<description>FIFA 08 (Europe) (En,Fr,De,Es,It)</description>
@@ -10122,7 +10122,7 @@
 	</game>
 	<game name="Hannah Montana - The Movie (Europe) (En,Fr,De,Nl)" id="3786" cloneofid="3877">
 		<description>Hannah Montana - The Movie (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Hannah Montana - The Movie (Europe) (En,Fr,De,Nl).nds" size="67108864" crc="166e618c" md5="c4adedc90dbbce42ff2c7bdb3c61e096" sha1="8832e226ce4b4d31c85a43946d085a57268c2ae3" serial="CI7Y"/>
+		<rom name="Hannah Montana - The Movie (Europe) (En,Fr,De,Nl).nds" size="67108864" crc="166e618c" md5="c4adedc90dbbce42ff2c7bdb3c61e096" sha1="8832e226ce4b4d31c85a43946d085a57268c2ae3" sha256="30f3e5a408f503ca192cb53ebe84c9269dc54f6a3e8747aa9c5b2b97311c8dde" status="verified" serial="CI7Y"/>
 	</game>
 	<game name="Hannah Montana - The Movie (United Kingdom)" id="3877">
 		<description>Hannah Montana - The Movie (United Kingdom)</description>
@@ -15718,7 +15718,7 @@
 	</game>
 	<game name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It)" id="2546">
 		<description>Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="b2ee7dcb" md5="ae35fe57ec25c87c1dacd8f58c03ce15" sha1="f5158977023c247fe8da625cbb14bf380d962122" serial="CMJP"/>
+		<rom name="Mahjong - Eine Reise um die Welt (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="b2ee7dcb" md5="ae35fe57ec25c87c1dacd8f58c03ce15" sha1="f5158977023c247fe8da625cbb14bf380d962122" sha256="6b36ec275ddef8c33b5548d7a050db4b13cd17edfbfa3555727bbd4eea7ce33b" serial="CMJP"/>
 	</game>
 	<game name="Mahjong Haou DS - Dan-Kyuu Battle (Japan)" id="4884">
 		<description>Mahjong Haou DS - Dan-Kyuu Battle (Japan)</description>
@@ -18987,7 +18987,7 @@
 	</game>
 	<game name="Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl)" id="5861">
 		<description>Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="3eb39f32" md5="7efeb2e125f44aa3063e58c3e21995df" sha1="e5c02df6fd5f9d3b95fbf0c664c39cd10af43848" serial="BNIP"/>
+		<rom name="Natalie Brooks - Mystery at Hillcrest High (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="3eb39f32" md5="7efeb2e125f44aa3063e58c3e21995df" sha1="e5c02df6fd5f9d3b95fbf0c664c39cd10af43848" sha256="92c1da118074df631e0f05357329fd7c76b367d86a730939be55d65d692cb7aa" status="verified" serial="BNIP"/>
 	</game>
 	<game name="Natalie Brooks - The Treasures of the Lost Kingdom (Europe) (En,Fr,De,Nl)" id="5785">
 		<description>Natalie Brooks - The Treasures of the Lost Kingdom (Europe) (En,Fr,De,Nl)</description>
@@ -22108,7 +22108,7 @@
 	</game>
 	<game name="Pony Friends 2 (Europe) (En,Fr,De,Es,It)" id="4463">
 		<description>Pony Friends 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Pony Friends 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c1a7ba54" md5="8962b976a0db308b8d3d425f71248df5" sha1="4b8117f70835f4c92745c6e20393855450c28557" serial="COYP"/>
+		<rom name="Pony Friends 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c1a7ba54" md5="8962b976a0db308b8d3d425f71248df5" sha1="4b8117f70835f4c92745c6e20393855450c28557" sha256="3ca1b50faa6ae80eacaba782145206ba8229ad4765a8c3146a2fc302f735c251" status="verified" serial="COYP"/>
 	</game>
 	<game name="Pony Friends 2 (USA) (En,Fr,De,Es,It)" id="5093" cloneofid="4463">
 		<description>Pony Friends 2 (USA) (En,Fr,De,Es,It)</description>
@@ -24170,7 +24170,7 @@
 	</game>
 	<game name="Sarah - Die Hueterin des Einhorns (Europe) (Fr,De)" id="1731" cloneofid="5257">
 		<description>Sarah - Die Hueterin des Einhorns (Europe) (Fr,De)</description>
-		<rom name="Sarah - Die Hueterin des Einhorns (Europe) (Fr,De).nds" size="16777216" crc="e788c499" md5="c17be9881c8e2aa0f423769113f72e42" sha1="b0750756998f45c6e70b6ba5d04f810055999f4f" serial="YSAX"/>
+		<rom name="Sarah - Die Hueterin des Einhorns (Europe) (Fr,De).nds" size="16777216" crc="e788c499" md5="c17be9881c8e2aa0f423769113f72e42" sha1="b0750756998f45c6e70b6ba5d04f810055999f4f" sha256="9cde70bcf4d1278b6dbbab3c9408f2fc2bbba55184562b13c6fd561ccbf880e8" status="verified" serial="YSAX"/>
 	</game>
 	<game name="Sarah - Keeper of the Unicorn (USA) (En,Es)" id="5257">
 		<description>Sarah - Keeper of the Unicorn (USA) (En,Es)</description>
@@ -26587,7 +26587,7 @@
 	</game>
 	<game name="Sudokumaniacs (Europe) (En,De,Es,It)" id="0654">
 		<description>Sudokumaniacs (Europe) (En,De,Es,It)</description>
-		<rom name="Sudokumaniacs (Europe) (En,De,Es,It).nds" size="8388608" crc="fd934f03" md5="3dc44c11e961f72c6e9088f26e3a8c37" sha1="85664c9d4995a8852d7cbeeff7e357c75bd9b7b0" status="verified" serial="AQMP"/>
+		<rom name="Sudokumaniacs (Europe) (En,De,Es,It).nds" size="8388608" crc="fd934f03" md5="3dc44c11e961f72c6e9088f26e3a8c37" sha1="85664c9d4995a8852d7cbeeff7e357c75bd9b7b0" sha256="3026f9ccdff8b9f10481ad391efa50252b7999632fcfb540d744ab2993ec1798" status="verified" serial="AQMP"/>
 	</game>
 	<game name="Sudokumaniacs (France)" id="2839" cloneofid="0654">
 		<description>Sudokumaniacs (France)</description>

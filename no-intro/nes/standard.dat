@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20260925-221356</version>
+		<version>20261007-215717</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6920,7 +6920,7 @@
 	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl)" id="1421">
 		<category>Games</category>
 		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl)</description>
-		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).nes" size="131088" crc="b9c2178d" md5="2857f18d5be7accc82453b7d029ab010" sha1="1e62d097d041c500d452665e35df92adbf731762" sha256="ebc8a8c4a2e1f33e475c78710c223f27888a9e06fa1afbf96e2dd6fa727d9e07" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).nes" size="131088" crc="b9c2178d" md5="2857f18d5be7accc82453b7d029ab010" sha1="1e62d097d041c500d452665e35df92adbf731762" sha256="ebc8a8c4a2e1f33e475c78710c223f27888a9e06fa1afbf96e2dd6fa727d9e07" status="verified" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Metal Fighter (USA) (Unl)" id="1424">
 		<category>Games</category>
@@ -9267,7 +9267,7 @@
 	<game name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)" id="1978">
 		<category>Games</category>
 		<description>Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)</description>
-		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" crc="28733128" md5="2a1516ebd262e8099f1d8473e96f3f6e" sha1="fa5c26c2f524e6fcd8efda024c6047628db14cdd" sha256="20d6f2b25b391e62f94f21acbc0f40ab11095be08e78aa5c485cc89dd81af024" header="4E 45 53 1A 08 08 00 B8 00 00 00 00 03 00 00 00"/>
+		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" crc="f828e645" md5="d2ac54add4373425f69f90a47e51c4ad" sha1="a318b88b9ad7d0323a166fa99aa4a360e5e0e311" sha256="c6d9e30fe42b83951680a94f01e260af94c8b5acc4000c781c95a6430b5f314a" header="4E 45 53 1A 08 08 00 B8 00 00 00 00 03 00 00 40"/>
 	</game>
 	<game name="Xitian Qujing - Journey to the West (Asia) (Unl)" id="1117">
 		<category>Games</category>
@@ -12762,7 +12762,7 @@
 	<game name="Ultimate League Soccer (USA) (Unl)" id="2402" cloneofid="2401">
 		<category>Games</category>
 		<description>Ultimate League Soccer (USA) (Unl)</description>
-		<rom name="Ultimate League Soccer (USA) (Unl).nes" size="98320" crc="1f89a8f4" md5="8f84146f579487a4bee02b0f9c98bb52" sha1="a55c40c4476966ef1c8ee97cf4533271f6badbb3" sha256="8515f0ce3d67d8b77c1bb1e3a01b49e346d1fa7f77ac634c8a38644778ec5c48" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 00 00 00 01"/>
+		<rom name="Ultimate League Soccer (USA) (Unl).nes" size="98320" crc="1f89a8f4" md5="8f84146f579487a4bee02b0f9c98bb52" sha1="a55c40c4476966ef1c8ee97cf4533271f6badbb3" sha256="8515f0ce3d67d8b77c1bb1e3a01b49e346d1fa7f77ac634c8a38644778ec5c48" status="verified" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Ultimate Stuntman, The (USA) (Unl)" id="2403">
 		<category>Games</category>
@@ -13724,7 +13724,7 @@
 		<description>8-BIT XMAS 2021 (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="8-BIT XMAS 2021 (World) (Demo) (Aftermarket) (Unl).nes" size="131088" crc="15c5f61d" md5="6859f5205b0727a46d41a755aa2a7d24" sha1="74c9b29f65b193e780c5d246d86130570d10f51b" sha256="866e935c31f5c6cec27e7a951cc31875072beef361eda3574768503652fd6506" status="verified" header="4E 45 53 1A 08 00 21 08 20 00 00 07 02 00 00 02"/>
 	</game>
-	<game name="8Bit Music Power Encore (Japan) (En) (Sansai Mook) (Aftermarket) (Unl)" id="3394">
+	<game name="8Bit Music Power Encore (Japan) (En) (Sansai Mook) (Aftermarket) (Unl)" id="3394" cloneofid="8130">
 		<category>Audio</category>
 		<description>8Bit Music Power Encore (Japan) (En) (Sansai Mook) (Aftermarket) (Unl)</description>
 		<rom name="8Bit Music Power Encore (Japan) (En) (Sansai Mook) (Aftermarket) (Unl).nes" size="524304" crc="e65f18d1" md5="620caacc67c5f9439dc2683d1855bd87" sha1="a788bc5aaa0a9a40b50bd774f345b749f651a15e" sha256="0f7dead109f8f3e6d7392652003465838c760cbe43c4bce6eaf98098ae039a27" header="4E 45 53 1A 10 20 40 08 00 00 00 00 00 00 00 01"/>
@@ -14446,7 +14446,7 @@
 	</game>
 	<game name="Convention Quest (USA) (Aftermarket) (Unl)" id="3450">
 		<description>Convention Quest (USA) (Aftermarket) (Unl)</description>
-		<rom name="Convention Quest (USA) (Aftermarket) (Unl).nes" size="524304" crc="24836DF3" md5="581813f0c10dfadb34c38386d1c083d0" sha1="c8cd3e567afad3ab57d90e13a5b2cf42881ae371" sha256="5de5d6a8acfcca55b9990bf45b05902c1f14f48709d21f941cec4047f5bf6dc3" header="4E 45 53 1A 20 00 F2 68 00 00 00 09 00 00 00 01"/>
+		<rom name="Convention Quest (USA) (Aftermarket) (Unl).nes" size="524304" crc="8800be75" md5="54be620b9ed22618d4bc20fcf9017910" sha1="a35d31405d2470b3e44f2d551e7320f737588391" sha256="74a854564f1ee8827ee5f540bdfbf2b8cdf080f0c37aa8178cda6ec73060dbdb" header="4E 45 53 1A 20 00 FA 68 00 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Cookie Clicker (World) (Proto) (Aftermarket) (Unl)" id="3998">
 		<category>Games</category>
@@ -16498,7 +16498,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Solar Wars (World) (Beta 1) (No Sound) (Aftermarket) (Unl)</description>
-		<rom name="Solar Wars (World) (Beta 1) (No Sound) (Aftermarket) (Unl).nes" size="49168" crc="97c6ff08" md5="62bfc8ef73591b2fe6883deaf6eacd22" sha1="021837d4dd7f8229ad3857a8f751ac1a8f475349" sha256="9517dc21ffbc372083f315965340d47a3a1b833735e435e1056fccc880d422ff" header="4E 45 53 1A 02 04 31 08 20 00 00 00 00 00 00 01"/>
+		<rom name="Solar Wars (World) (Beta 1) (No Sound) (Aftermarket) (Unl).nes" size="49168" crc="97c6ff08" md5="62bfc8ef73591b2fe6883deaf6eacd22" sha1="021837d4dd7f8229ad3857a8f751ac1a8f475349" sha256="9517dc21ffbc372083f315965340d47a3a1b833735e435e1056fccc880d422ff" header="4E 45 53 1A 01 04 31 08 20 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Solar Wars (World) (Beta 2) (No Sound) (Aftermarket) (Unl)" id="3672" cloneofid="3670">
 		<category>Games</category>
@@ -20284,7 +20284,7 @@
 	<game name="Shenghua Weiji - Bio Hazard (China) (2003SR7416) (Pirate)" id="4641">
 		<category>Games</category>
 		<description>Shenghua Weiji - Bio Hazard (China) (2003SR7416) (Pirate)</description>
-		<rom name="Shenghua Weiji - Bio Hazard (China) (2003SR7416) (Pirate).nes" size="1048592" crc="9bfdf00e" md5="3c03557d9f87e379034744e7e943295f" sha1="04595d5f85a3b3bcbf5d33e509d6ebc0c676b735" sha256="6aa04e9b89a69ab26203f019d6a27e8e30c18e4fc0ad8866ccea8d6b7df56f73" header="4E 45 53 1A 40 00 32 E8 00 00 70 07 03 00 00 01"/>
+		<rom name="Shenghua Weiji - Bio Hazard (China) (2003SR7416) (Pirate).nes" size="1048592" crc="9bfdf00e" md5="3c03557d9f87e379034744e7e943295f" sha1="04595d5f85a3b3bcbf5d33e509d6ebc0c676b735" sha256="6aa04e9b89a69ab26203f019d6a27e8e30c18e4fc0ad8866ccea8d6b7df56f73" header="4E 45 53 1A 40 00 22 B8 00 00 70 07 03 00 00 01"/>
 	</game>
 	<game name="Shera and the 40 Thieves (World) (Aftermarket) (Unl)" id="4128">
 		<category>Games</category>
@@ -20726,15 +20726,15 @@
 		<description>Sudoku 23 (World) (Aftermarket) (Unl)</description>
 		<rom name="Sudoku 23 (World) (Aftermarket) (Unl).nes" size="40976" crc="0ec5ccd8" md5="9cce406ea3921bd9ee2792f86ce10335" sha1="877cc531d734b5c3de2402f9b395f64d20cb2609" sha256="29ea1769a95eba9fcecf23b94dca48a0ba157cfd9ef72c882bd54830bbae0f78" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 2) (Aftermarket) (Unl)" id="4393" cloneofid="6674">
+	<game name="Sunset Land (World) (Demo 2) (Aftermarket) (Unl)" id="4393" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 2) (Aftermarket) (Unl).nes" size="524304" crc="CC07267A" md5="3a1ec6f3acaa2a9047cec1a82db3f43f" sha1="4b89aab3b41dffdec2c86d03b90ca7eff484975d" sha256="feeda05389f2a5cb30e08cde9bbac9088079c40017e51b3e26b43da157bc66dd" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 02 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 3) (Aftermarket) (Unl)" id="4893" cloneofid="6674">
+	<game name="Sunset Land (World) (Demo 3) (Aftermarket) (Unl)" id="4893" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 3) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 3) (Aftermarket) (Unl).nes" size="524304" crc="7EC18D1E" md5="f90e56f3df29be37ce26ac35b0d29d58" sha1="84ab37f0db563b0707e980a494976fc6a891ee8d" sha256="6cfaeaf1b73062723c5a8e66fb11b49106c8fcaa2a3615a44ccbf0f389685d30" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 02 00 00 01"/>
 	</game>
@@ -21027,10 +21027,10 @@
 		<description>Tesla Vs. Edison (World) (NESDev 2018) (Aftermarket) (Unl)</description>
 		<rom name="Tesla Vs. Edison (World) (NESDev 2018) (Aftermarket) (Unl).nes" size="40976" crc="e07cac09" md5="a33b2ee9d6c6246dd7dd2252806f191a" sha1="1d413bc451ee31dfa87e92c5cfb2a321032316be" sha256="213c91c51cf04ea3248866cf676e5df207cd3117ae017156e57dc5d6791c2d42" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Theremin (World) (NESDev 2014) (Music Program) (Aftermarket) (Unl)" id="4489" cloneofid="6421">
+	<game name="Theremin (World) (NESDev 2014) (Program) (Aftermarket) (Unl)" id="4489" cloneofid="6421">
 		<category>Multimedia</category>
-		<description>Theremin (World) (NESDev 2014) (Music Program) (Aftermarket) (Unl)</description>
-		<rom name="Theremin (World) (NESDev 2014) (Music Program) (Aftermarket) (Unl).nes" size="16400" crc="f8abe9b6" md5="849c01f68c2a9c22033a53f87caabc72" sha1="de8b3dd2b8094b5dae415ebec68993e5cb1264e2" sha256="ad8a3aa8a81ae83a53a0725577d13f0b883652764030b24d2359a83ee3d07cbc" header="4E 45 53 1A 01 00 01 08 00 00 00 07 00 00 00 08"/>
+		<description>Theremin (World) (NESDev 2014) (Program) (Aftermarket) (Unl)</description>
+		<rom name="Theremin (World) (NESDev 2014) (Program) (Aftermarket) (Unl).nes" size="16400" crc="44ab6169" md5="62d737f42ccf446f7de3ce2d358d3f06" sha1="5c1d5f5c735eb1ed4eada4aca328046237a1885b" sha256="c9c04396fd67a4b7323bc01c0e56867bdb473f5a2e1087bbb2156a6856cfb939" header="4E 45 53 1A 01 00 01 08 00 00 00 07 00 00 00 48"/>
 	</game>
 	<game name="They Came to Wreak Hell (World) (Proto 1) (NESDev 2022) (Aftermarket) (Unl)" id="4547" cloneofid="8335">
 		<category>Games</category>
@@ -23133,7 +23133,7 @@
 	<game name="Koudai Jingling - Shuijing (China) (Aftermarket) (Pirate)" id="5410">
 		<category>Games</category>
 		<description>Koudai Jingling - Shuijing (China) (Aftermarket) (Pirate)</description>
-		<rom name="Koudai Jingling - Shuijing (China) (Aftermarket) (Pirate).nes" size="1048592" crc="eb9fc73f" md5="a78738764686b84df251f01696579608" sha1="17d107a0dc2330639aa145ca3955801574cbce4c" sha256="0f5632e40c46bb10232589816bedfbc61326f69fa85405ccaf97ea2c01715224" header="4E 45 53 1A 40 00 E2 28 02 00 70 07 03 00 00 01"/>
+		<rom name="Koudai Jingling - Shuijing (China) (Aftermarket) (Pirate).nes" size="1048592" crc="eb9fc73f" md5="a78738764686b84df251f01696579608" sha1="17d107a0dc2330639aa145ca3955801574cbce4c" sha256="0f5632e40c46bb10232589816bedfbc61326f69fa85405ccaf97ea2c01715224" header="4E 45 53 1A 40 00 E2 28 02 00 30 07 03 00 00 01"/>
 	</game>
 	<game name="Koudai Shuijing (China) (Aftermarket) (Pirate)" id="5669" cloneofid="5665">
 		<category>Games</category>
@@ -24592,15 +24592,15 @@
 		<description>Suitang Yingxiong (China) (Aftermarket) (Unl)</description>
 		<rom name="Suitang Yingxiong (China) (Aftermarket) (Unl).nes" size="1048592" crc="941e6928" md5="c35cbaa4e531add8302acd5fd12fbd37" sha1="afc1fe7c11dbc65f40f51801e864b51faebffe19" sha256="1fc39cd52a2a16d9a8b7ee9a185df92eb635a25647e9a105cb236b18f25612be" header="4E 45 53 1A 40 00 33 A8 00 00 70 07 03 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 4) (Aftermarket) (Unl)" id="5261" cloneofid="6674">
+	<game name="Sunset Land (World) (Demo 4) (Aftermarket) (Unl)" id="5261" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 4) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 4) (Aftermarket) (Unl).nes" size="524304" crc="008639EC" md5="3bc8b4ea01feba017d896ec22a31b02c" sha1="53ff3294bd21d9770472361f09a2952e94121e1e" sha256="ccacfac223b93f24a446d4aa6ccdc50766744caa21dcd25747f7fbb000040571" status="verified" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 02 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 1) (Aftermarket) (Unl)" id="5575" cloneofid="6674">
+	<game name="Sunset Land (World) (Demo 1) (Aftermarket) (Unl)" id="5575" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 1) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 1) (Aftermarket) (Unl).nes" size="524304" crc="78368FD7" md5="917f50a6da28608ea2abeb476e627cbc" sha1="d3f87f0dad676093a42f06e8ac1dba39e0d4bb76" sha256="042a87bd808e106b2dc1a71bb706a5d16c6f2771aa8e8d500d21f084f6cd0d79" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
 	</game>
@@ -26080,17 +26080,20 @@
 		<description>Adventures of Eldorin (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Adventures of Eldorin (World) (Demo 2) (Aftermarket) (Unl).nes" size="524304" crc="F9342F3C" md5="c575780218f791dfed789513aa9b886b" sha1="bf8cedd29d7150fee9357c204ca5b8af3d6f7918" sha256="e26ce3dd63d31544e0b82fb8870b6f0d20bb5a7867329a1fc898d057a6ec9e67" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 2) (Aftermarket) (Unl)" id="6762" cloneofid="7109">
+	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 2) (Aftermarket) (Unl)" id="6762" cloneofid="8637">
+		<category>Demos</category>
 		<category>Games</category>
 		<description>Adventures of Panzer, The - Frontiers (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Adventures of Panzer, The - Frontiers (World) (Demo 2) (Aftermarket) (Unl).nes" size="524304" crc="7DE16126" md5="64db5e3292a9b824de3997d89798e8cc" sha1="ade4c19c67376c2205d18f81536a2815d7607cfb" sha256="b79608e06afa8597a37cc318733f02b77d49c904dcdeb9a4e9c765d22c200779" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 4) (Aftermarket) (Unl)" id="6878" cloneofid="7109">
+	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 4) (Aftermarket) (Unl)" id="6878" cloneofid="8637">
+		<category>Demos</category>
 		<category>Games</category>
 		<description>Adventures of Panzer, The - Frontiers (World) (Demo 4) (Aftermarket) (Unl)</description>
 		<rom name="Adventures of Panzer, The - Frontiers (World) (Demo 4) (Aftermarket) (Unl).nes" size="524304" crc="FD699929" md5="4c0df71ea29dc46d9fff244e7ac7b28d" sha1="655b49050f9873a8485a085f01629772b922c920" sha256="6e0c37fb6da4ffee6fcd7c2075a85997789bd734edce4d68be98ac1d4455a55f" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 3) (Aftermarket) (Unl)" id="6879" cloneofid="7109">
+	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 3) (Aftermarket) (Unl)" id="6879" cloneofid="8637">
+		<category>Demos</category>
 		<category>Games</category>
 		<description>Adventures of Panzer, The - Frontiers (World) (Demo 3) (Aftermarket) (Unl)</description>
 		<rom name="Adventures of Panzer, The - Frontiers (World) (Demo 3) (Aftermarket) (Unl).nes" size="524304" crc="DB5EA58B" md5="115f94c3fea9915256bf8a5aba4ebfff" sha1="e73a25f130f6410f6f2719018dd3d1810344f660" sha256="37900305ffe155d504bdfe2c3808167ab66fe2a5a20541d3bd6d12a76ce86f7d" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
@@ -27050,15 +27053,16 @@
 		<description>Curse of the Shadow (World) (Proto) (Byte-Off 2020) (Aftermarket) (Unl)</description>
 		<rom name="Curse of the Shadow (World) (Proto) (Byte-Off 2020) (Aftermarket) (Unl).nes" size="524304" crc="8E3C9BE0" md5="b6e5b9657b22de60a8ab78db1e52723b" sha1="438b54441ca0165d5c0f3e42db22b004f778869c" sha256="fe4154d274fa8c7fb6bbe56ec1cd80597877df0a038e8190ed9c7d18d6d37e4c" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Cursed Crown (World) (Beta) (Aftermarket) (Unl)" id="6571" cloneofid="6596">
+	<game name="Cursed Crown (World) (Beta) (Aftermarket) (Unl)" id="6571" cloneofid="8672">
 		<category>Games</category>
+		<category>Preproduction</category>
 		<description>Cursed Crown (World) (Beta) (Aftermarket) (Unl)</description>
 		<rom name="Cursed Crown (World) (Beta) (Aftermarket) (Unl).nes" size="131088" crc="db6c9a42" md5="fd65d0f2285747ca46e3935ae7a5dc9a" sha1="49d81c84018aff34bade4a15edca32e04f1134bf" sha256="c38a37b5a6acf465f2f97187b5f1b57430d0eb0de8cc8f2e9ede252841457f0d" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
 	</game>
-	<game name="Cursed Crown (World) (Aftermarket) (Unl)" id="6596">
+	<game name="Cursed Crown (World) (v1.02) (Aftermarket) (Unl)" id="6596" cloneofid="8672">
 		<category>Games</category>
-		<description>Cursed Crown (World) (Aftermarket) (Unl)</description>
-		<rom name="Cursed Crown (World) (Aftermarket) (Unl).nes" size="131088" crc="ac88e44c" md5="8139c60f31e062fa363773b5ba29972b" sha1="4e0bf50191428954649428b2d4957e0fabbe3570" sha256="a9c9215f690f3130698428d4c7495644bcf67028bb7b9bc27de8b74dc4fd2e6b" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+		<description>Cursed Crown (World) (v1.02) (Aftermarket) (Unl)</description>
+		<rom name="Cursed Crown (World) (v1.02) (Aftermarket) (Unl).nes" size="131088" crc="ac88e44c" md5="8139c60f31e062fa363773b5ba29972b" sha1="4e0bf50191428954649428b2d4957e0fabbe3570" sha256="a9c9215f690f3130698428d4c7495644bcf67028bb7b9bc27de8b74dc4fd2e6b" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
 	</game>
 	<game name="Cursed Village (World) (Proto 2) (Aftermarket) (Unl)" id="6575" cloneofid="7147">
 		<category>Games</category>
@@ -29745,21 +29749,21 @@
 		<description>Summer Island Battle Tactics (World) (Demo 12) (Aftermarket) (Unl)</description>
 		<rom name="Summer Island Battle Tactics (World) (Demo 12) (Aftermarket) (Unl).nes" size="786448" crc="fc720f1d" md5="a18526d2208ca27039c16fd97fa4743d" sha1="13346e9e5d1a22b22eeb97c8b2bfc6be2729a811" sha256="ed9caf1b66ac1583e12ef54737fecd28614ae899196aaf4f1d7642492cecdf0a" header="4E 45 53 1A 20 20 40 08 00 00 07 00 00 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 5) (Aftermarket) (Unl)" id="6061" cloneofid="6674">
+	<game name="Sunset Land (World) (Demo 5) (Aftermarket) (Unl)" id="6061" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 5) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 5) (Aftermarket) (Unl).nes" size="524304" crc="C6CA6D8F" md5="a8296d218bc4cfdcdd409e4ee7eb1052" sha1="ba927d2dfb1fa21094d50a088f6a816b22ac4a56" sha256="ccbec256a6bf89b71a3d8e15f5da03e6741c6afe1a2ce81b099e7901b1e6316e" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 6) (Aftermarket) (Unl)" id="6132" cloneofid="6674">
+	<game name="Sunset Land (World) (Demo 6) (Aftermarket) (Unl)" id="6132" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 6) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 6) (Aftermarket) (Unl).nes" size="524304" crc="F516E949" md5="9dfa46edddc7f7a7c2cf23f2a2992302" sha1="aa2b5a9e5be699272045390310ab3ddbe38ae51e" sha256="97a97f657cc18633e6b2ea99d613f8ced2deb0f59b87e958dda48699f08668f2" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Demo 7) (Aftermarket) (Unl)" id="6674">
+	<game name="Sunset Land (World) (Demo 7) (Aftermarket) (Unl)" id="6674" cloneofid="8665">
+		<category>Demos</category>
 		<category>Games</category>
-		<category>Preproduction</category>
 		<description>Sunset Land (World) (Demo 7) (Aftermarket) (Unl)</description>
 		<rom name="Sunset Land (World) (Demo 7) (Aftermarket) (Unl).nes" size="524304" crc="CD67E3F9" md5="ab2069d4db76ee50edd90dced8732faf" sha1="c1f84c6aaedfc5a754818059bd4e390d530426ee" sha256="d7257aab3bf22489545690d0529da55730d4b6838748537267c2ca3adc10a51b" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
 	</game>
@@ -30053,10 +30057,10 @@
 		<description>Thalassaphobe (World) (Demo) (Byte-Off 2020) (Aftermarket) (Unl)</description>
 		<rom name="Thalassaphobe (World) (Demo) (Byte-Off 2020) (Aftermarket) (Unl).nes" size="524304" crc="C5CB5A68" md5="052d733df8c4d491fa9f367a6d9f4cbe" sha1="dad547090567e5455c503a5669620c4bd0f8bf12" sha256="1850427d5ca48bb791401ab9db21764449a1185401204de1652eaf4b8554d09d" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Theremin (World) (Aftermarket) (Unl)" id="6421">
+	<game name="Theremin (World) (Program) (Aftermarket) (Unl)" id="6421">
 		<category>Games</category>
-		<description>Theremin (World) (Aftermarket) (Unl)</description>
-		<rom name="Theremin (World) (Aftermarket) (Unl).nes" size="16400" crc="c5a6efb0" md5="fa1bfeaf4a3b3817848c6f6549ed259c" sha1="ed08ed77ead418e1081b18891836c0381b727ba1" sha256="348f7cee4fcc1188f3288d806e3dc0cd45fe356ee8045d102ab3897e886bb593" header="4E 45 53 1A 01 00 01 08 00 00 00 07 00 00 00 08"/>
+		<description>Theremin (World) (Program) (Aftermarket) (Unl)</description>
+		<rom name="Theremin (World) (Program) (Aftermarket) (Unl).nes" size="16400" crc="79a6676f" md5="fbcc62fd1edb309ef236fbab6d240c29" sha1="a972a3e083cf5862b1f1780bf6de7dfabd7e7005" sha256="7261edad302681711763c3601532166a899517a505e4562263b7c9013a3d101a" header="4E 45 53 1A 01 00 01 08 00 00 00 07 00 00 00 48"/>
 	</game>
 	<game name="They Came to Wreak Hell (World) (Proto 5) (Aftermarket) (Unl)" id="6130" cloneofid="8335">
 		<category>Games</category>
@@ -30641,7 +30645,7 @@
 	<game name="211-in-1 - 1992 Ultra Power Card (Asia) (En) (Pirate)" id="7688">
 		<category>Games</category>
 		<description>211-in-1 - 1992 Ultra Power Card (Asia) (En) (Pirate)</description>
-		<rom name="211-in-1 - 1992 Ultra Power Card (Asia) (En) (Pirate).nes" size="524304" crc="4929b282" md5="ec4b315cd3a0545835726ee7d544b1ff" sha1="5510027bbaca6ccac132fa5f27a50b3408848538" sha256="2b6425e08999e0aef7ff7fdd41bf3d58c6b169608650b5ab2abc38db9e6f8646" header="4E 45 53 1A 20 00 80 18 11 00 00 07 00 00 00 01"/>
+		<rom name="211-in-1 - 1992 Ultra Power Card (Asia) (En) (Pirate).nes" size="524304" crc="4c787454" md5="322f591cca397e7c21819f41a22ab7eb" sha1="1482cf60b0d9da41fc5930fa65ef0ecbc000a3fb" sha256="38e7d9dfbba49b4714ba760dabdf9a7dec083fe67b108bc508ef08d6b8e8e7b9" header="4E 45 53 1A 20 00 20 F8 10 00 00 07 00 00 00 01"/>
 	</game>
 	<game name="240p Test Suite with Gus's Game Collection (World) (Digital) (Aftermarket) (Unl)" id="7287">
 		<category>Applications</category>
@@ -30805,12 +30809,13 @@
 		<description>Adventures of Panzer 3, The (World) (Demo 4) (Aftermarket) (Unl)</description>
 		<rom name="Adventures of Panzer 3, The (World) (Demo 4) (Aftermarket) (Unl).nes" size="524304" crc="3FF65E55" md5="74d2def2ab80dc49a5e205bc1bf99305" sha1="69febd6e74d8a757330e67ece77f8a0b17e68bc5" sha256="583173ba1bc0dcef4d7411187ac79933742ac5ad981d410bb424fbf0bf513e85" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 5) (Byte-Off 2024) (Aftermarket) (Unl)" id="7109">
+	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 5) (Byte-Off 2024) (Aftermarket) (Unl)" id="7109" cloneofid="8637">
+		<category>Demos</category>
 		<category>Games</category>
 		<description>Adventures of Panzer, The - Frontiers (World) (Demo 5) (Byte-Off 2024) (Aftermarket) (Unl)</description>
 		<rom name="Adventures of Panzer, The - Frontiers (World) (Demo 5) (Byte-Off 2024) (Aftermarket) (Unl).nes" size="524304" crc="EB278D08" md5="85db70dc978775c4a34a35b1917fcf11" sha1="e16af366c8a0e316043877b8c5bae05b87f0db4f" sha256="63bd1228736014b2f5222029caadfa599898113dd76f32be2d4b7b4e31dcdb4f" status="verified" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 1) (Aftermarket) (Unl)" id="7780" cloneofid="7109">
+	<game name="Adventures of Panzer, The - Frontiers (World) (Demo 1) (Aftermarket) (Unl)" id="7780" cloneofid="8637">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Adventures of Panzer, The - Frontiers (World) (Demo 1) (Aftermarket) (Unl)</description>
@@ -30986,7 +30991,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Arkanoid II (Japan) (En) (Beta 1)</description>
-		<rom name="Arkanoid II (Japan) (En) (Beta 1).nes" size="131088" crc="88429422" md5="1d6c5d459b7b8a5292daa1851cc432e8" sha1="fcf154faf026259508377b38b7a6adeaa4e49633" sha256="6d72fdbe244cbbcb25e9953769e3e8a5596d3262c3e8785386da8f7ee29b2f03" header="4E 45 53 1A 08 00 20 08 20 00 00 07 00 00 00 0A"/>
+		<rom name="Arkanoid II (Japan) (En) (Beta 1).nes" size="131088" crc="4ac24382" md5="cd01d497cdf9bf215f9590fe1d6f206d" sha1="1dd049e8f6f63f62d3eadd9346581228196e61c1" sha256="5ff53631c5e71b5237e3ee3958757bea842ced973b9f5e47c999378f12fd4ac6" header="4E 45 53 1A 08 00 20 08 20 00 00 07 00 00 00 4A"/>
 	</game>
 	<game name="Ashes and Dust of the Old World (World) (Proto 27) (Aftermarket) (Unl)" id="7482" cloneofid="8107">
 		<category>Games</category>
@@ -31617,13 +31622,13 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Cronela's Mansion (World) (En) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Cronela's Mansion (World) (En) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="9F4F0A5C" md5="d17a597a06cef72f0291ed52b38c29d7" sha1="60a9c723fb796a8638bd5b43e3419c11f65d0c0b" sha256="e141e03e82a8ffb3ce2f34f7e4137f018e09b4b30cc9f2ebd5f3239b6e5c0e58" header="4E 45 53 1A 10 20 42 08 00 00 70 00 02 00 00 08"/>
+		<rom name="Cronela's Mansion (World) (En) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="692a0cb7" md5="60b4b9ec7bca53598d015de09b306f34" sha1="e3f3e763b97e00da0172cb2c25509458397e405e" sha256="6c7b022a31c0cf3ba1bfb1bc13a92ea650ceb6188bdf2e958542d63edc354238" header="4E 45 53 1A 10 20 42 08 00 00 70 00 02 00 00 48"/>
 	</game>
 	<game name="Cronela's Mansion (World) (Es) (Demo) (Aftermarket) (Unl)" id="7650" cloneofid="7649">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Cronela's Mansion (World) (Es) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Cronela's Mansion (World) (Es) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="E27ABAA7" md5="22ee3a8b517d133a1a22819e759bb7d0" sha1="e952cf01255b035cd9f147e7a988c464768d6141" sha256="62f7c00366362e480026c0fc429d198b137fdeb84db33142cbf3e575f64ae43f" header="4E 45 53 1A 10 20 42 08 00 00 70 00 02 00 00 08"/>
+		<rom name="Cronela's Mansion (World) (Es) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="141fbc4c" md5="651ac5981b326df2f8c8528de1a488b6" sha1="15dac30b25d50cd5bb2672257c8041c7d8966479" sha256="92048b24704c491a95f94db6e92d44d41680147e687d28355b30c734b70617e6" header="4E 45 53 1A 10 20 42 08 00 00 70 00 02 00 00 48"/>
 	</game>
 	<game name="Cube, The (World) (Demo 2) (Byte-Off 2024) (Aftermarket) (Unl)" id="7110" cloneofid="7382">
 		<category>Games</category>
@@ -32512,7 +32517,7 @@
 		<description>Hobo Albo's Big Adventure (World) (Aftermarket) (Unl)</description>
 		<rom name="Hobo Albo's Big Adventure (World) (Aftermarket) (Unl).nes" size="524304" crc="1b9f9665" md5="10da39a863e874a548cefdf6a140ae86" sha1="532b240f7adb00f936046d16385311c69967c329" sha256="4eebde1a134ccdb1f2bb7082c3fe3dea495c238cfe2b5c98dca3e12243ca0b9a" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Hold the Light (World) (Demo 1) (Byte-Off V) (Aftermarket) (Unl)" id="7754" cloneofid="8154">
+	<game name="Hold the Light (World) (Demo 1) (Byte-Off V) (Aftermarket) (Unl)" id="7754" cloneofid="8641">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Hold the Light (World) (Demo 1) (Byte-Off V) (Aftermarket) (Unl)</description>
@@ -32887,7 +32892,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Lone Ranger, The (USA) (Beta) (1991-01-30) [b]</description>
-		<rom name="Lone Ranger, The (USA) (Beta) (1991-01-30) [b].nes" size="196624" crc="8d49bdc9" md5="4afc95ff3610dbf333e12180d1962caf" sha1="fe295c5f7a4e57e432df1b8151f7f7ec1d63f9ce" sha256="aa9933504efc2f04322c059dc8c628bf386be6b282abda8da42308b64a62ea86" status="baddump" header="4E 45 53 1A 10 10 40 08 00 00 00 00 00 00 00 08"/>
+		<rom name="Lone Ranger, The (USA) (Beta) (1991-01-30) [b].nes" size="196624" crc="8d49bdc9" md5="4afc95ff3610dbf333e12180d1962caf" sha1="fe295c5f7a4e57e432df1b8151f7f7ec1d63f9ce" sha256="aa9933504efc2f04322c059dc8c628bf386be6b282abda8da42308b64a62ea86" status="baddump" header="4E 45 53 1A 04 10 40 08 00 00 00 00 00 00 00 08"/>
 	</game>
 	<game name="Low G Man - The Low Gravity Man (USA) (Sample)" id="7564" cloneofid="1288">
 		<category>Games</category>
@@ -33231,11 +33236,11 @@
 		<description>Mothership (World) (Aftermarket) (Unl)</description>
 		<rom name="Mothership (World) (Aftermarket) (Unl).nes" size="524304" crc="3F8FEE29" md5="0ed301158479c0f994feab27e28fa0e3" sha1="7ee16be37647906d83062582415b808b3bbe955b" sha256="67e8a56dd4e03108484a4540fef980823725d8986278d6a7c1ae567075ec131c" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Motril 2047 (World) (Es) (Proto) (PAL) (Aftermarket) (Unl)" id="7808">
+	<game name="Motril 2047 (World) (Es) (Beta) (PAL) (Aftermarket) (Unl)" id="7808" cloneofid="8646">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Motril 2047 (World) (Es) (Proto) (PAL) (Aftermarket) (Unl)</description>
-		<rom name="Motril 2047 (World) (Es) (Proto) (PAL) (Aftermarket) (Unl).nes" size="65552" crc="38cc154a" md5="318b88db01d6a5919eebd58c939f4bf4" sha1="682b3a03759549ce3c85fa1d752f8bd3e626eb89" sha256="544f7b215305b04f65db35ee9be22f808a836f9a10ba28b665ede4ef75485888" header="4E 45 53 1A 02 04 31 08 10 00 00 00 01 00 00 08"/>
+		<description>Motril 2047 (World) (Es) (Beta) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Motril 2047 (World) (Es) (Beta) (PAL) (Aftermarket) (Unl).nes" size="65552" crc="38cc154a" md5="318b88db01d6a5919eebd58c939f4bf4" sha1="682b3a03759549ce3c85fa1d752f8bd3e626eb89" sha256="544f7b215305b04f65db35ee9be22f808a836f9a10ba28b665ede4ef75485888" header="4E 45 53 1A 02 04 31 08 10 00 00 00 01 00 00 08"/>
 	</game>
 	<game name="Mouser (World) (Proto) (Aftermarket) (Unl)" id="7996">
 		<category>Games</category>
@@ -34063,7 +34068,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Shark Pirate's Harpoon The Dolphin - Win a Prize! (World) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Shark Pirate's Harpoon The Dolphin - Win a Prize! (World) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="97C73594" md5="0bbba28d85cd250bc0649658c9042c3d" sha1="cdc516ecb81d1b8a50f281c6d661d178c0989293" sha256="28bddd958809d4807ec7c934db35ec394e46cb7da331b80157834e06b1820f3a" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 09"/>
+		<rom name="Shark Pirate's Harpoon The Dolphin - Win a Prize! (World) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="61a2337f" md5="686ce345f7a471ee4079f39df95e8377" sha1="48fe6908c122bf52e27e4f9efdbd414e790b8b45" sha256="0efb0eb8ede7c572308ea88aa6c45531210b5d9db2d7b8279cebb071ceb68850" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 49"/>
 	</game>
 	<game name="Simone Says (World) (Proto 2) (Aftermarket) (Unl)" id="7525">
 		<category>Games</category>
@@ -35068,12 +35073,12 @@
 	<game name="[BIOS] Yuxing Computer VCD (China) (v1.1) (Unl)" id="8087">
 		<category>Applications</category>
 		<description>[BIOS] Yuxing Computer VCD (China) (v1.1) (Unl)</description>
-		<rom name="[BIOS] Yuxing Computer VCD (China) (v1.1) (Unl).nes" size="1048592" crc="5043d71a" md5="42e39b72d0c79cb33c5cd74fa67ad802" sha1="ce7471e58f120e4549b6348b653a9cc2dc7b73a7" sha256="1172398608b1ce30639db54b2653891ae37b4c5033087467149bf74897358a0c" header="4E 45 53 1A 40 00 90 A8 00 00 0E 0C 03 00 00 03"/>
+		<rom name="[BIOS] Yuxing Computer VCD (China) (v1.1) (Unl).nes" size="1048592" crc="3322e424" md5="974732050c951bba33d070f953a84b57" sha1="55df0dfc539523a569b8ab2edc190b477fdd64c4" sha256="036fffa700d5b66a0e40fb196563c8bcbd5ab2803a8a65a50d16d1198c6cac70" header="4E 45 53 1A 40 00 90 A8 00 00 0E 0C 03 00 00 43"/>
 	</game>
 	<game name="[BIOS] Yuxing Computer VCD (China) (Unl)" id="8088" cloneofid="8087">
 		<category>Applications</category>
 		<description>[BIOS] Yuxing Computer VCD (China) (Unl)</description>
-		<rom name="[BIOS] Yuxing Computer VCD (China) (Unl).nes" size="1048592" crc="26317bad" md5="3f3a1168eec865022b98efd0bfb16777" sha1="a84ab0eacfa0fae3817bf34666a86696ede02550" sha256="9fd550208fba8eeb8bbe5329ae2dd930290b3f1ca09c8a02ca1aac48847b1ffa" header="4E 45 53 1A 40 00 90 A8 00 00 0E 0C 03 00 00 03"/>
+		<rom name="[BIOS] Yuxing Computer VCD (China) (Unl).nes" size="1048592" crc="45504893" md5="ba1b14b9f9a116a48c5c9f2dc203e2ee" sha1="5f57ff406796c9677b825a2cd7b036b50cbfeae3" sha256="a1da159d0dc7837bbb785e587d749ffc2709e883f3d1d56ab4c1bb9f718d75e9" header="4E 45 53 1A 40 00 90 A8 00 00 0E 0C 03 00 00 43"/>
 	</game>
 	<game name="100-in-1 (Asia) (En) (Pirate)" id="8186">
 		<category>Games</category>
@@ -35275,6 +35280,11 @@
 		<category>Preproduction</category>
 		<description>Adam Cubed - Adams Internal Turmoil (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Adam Cubed - Adams Internal Turmoil (World) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="a8946b9e" md5="edbe3c76dcd357b704724dba2b7d799d" sha1="212261cf734459f6501ebd125b3e50e6a9c62fbd" sha256="ff5ff40da56ee67cfcf8d16ffbad068f838d70f9177aad81318c094f336061c4" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
+	</game>
+	<game name="Adventures of Panzer, The - Frontiers (World) (v1.2) (Aftermarket) (Unl)" id="8637">
+		<category>Games</category>
+		<description>Adventures of Panzer, The - Frontiers (World) (v1.2) (Aftermarket) (Unl)</description>
+		<rom name="Adventures of Panzer, The - Frontiers (World) (v1.2) (Aftermarket) (Unl).nes" size="524304" crc="51ffefd0" md5="2aa805dd1dbb2bb9463f01a8f75730c2" sha1="85664c6c3f83790abfcb6b3d7d0f283221a927d5" sha256="10cadddb0176f35e7e43a8fadc585ffb36bb9aaeee91d4f4d24410aac54e2379" header="4E 45 53 1A 20 00 E0 18 10 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Aethos (World) (Demo 3) (Aftermarket) (Unl)" id="8309" cloneofid="8474">
 		<category>Demos</category>
@@ -35545,15 +35555,21 @@
 		<description>Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX)</description>
 		<rom name="Bomberman II (Japan) (En) (Super Bomberman Collection) (XBOX).nes" size="131088" crc="c2af9926" md5="de9804ff61dc456d04938bb6f1d5407d" sha1="2055ca092e2a58006f8ec48f1010018d58bff5df" sha256="4ccc52d03ee179b931bf516f99fdc14df5c56417cf9ad3fafc94bfdc14750aac" header="4E 45 53 1A 08 00 10 08 00 00 07 07 00 00 00 03"/>
 	</game>
-	<game name="Bootlegend of Seltah, The - The Ice Spire (World) (Aftermarket) (Unl)" id="8428">
+	<game name="Bootlegend of Seltah, The - The Ice Spire (World) (Aftermarket) (Pirate)" id="8428">
 		<category>Games</category>
-		<description>Bootlegend of Seltah, The - The Ice Spire (World) (Aftermarket) (Unl)</description>
-		<rom name="Bootlegend of Seltah, The - The Ice Spire (World) (Aftermarket) (Unl).nes" size="131088" crc="470a71b9" md5="365d0548f1be1a3fea21a1838afe6547" sha1="09252d845242eca196311694225ff697ec4a038a" sha256="db08f239e99b5ea56ad0f63c9f23d66b35341fbe25d73a27ee35bfdcace3e0a0" header="4E 45 53 1A 08 00 21 08 00 00 00 09 00 00 00 01"/>
+		<description>Bootlegend of Seltah, The - The Ice Spire (World) (Aftermarket) (Pirate)</description>
+		<rom name="Bootlegend of Seltah, The - The Ice Spire (World) (Aftermarket) (Pirate).nes" size="131088" crc="470a71b9" md5="365d0548f1be1a3fea21a1838afe6547" sha1="09252d845242eca196311694225ff697ec4a038a" sha256="db08f239e99b5ea56ad0f63c9f23d66b35341fbe25d73a27ee35bfdcace3e0a0" header="4E 45 53 1A 08 00 21 08 00 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Boxing + Soccer (Hong Kong) (En) (v1.1) (Unl)" id="8078">
 		<category>Games</category>
 		<description>Boxing + Soccer (Hong Kong) (En) (v1.1) (Unl)</description>
 		<rom name="Boxing + Soccer (Hong Kong) (En) (v1.1) (Unl).nes" size="524304" crc="9a309c6d" md5="fb75568a46df8c2c7ea1645b3821620f" sha1="fc45936a72fba04fcba35d677e7f73240c21d8f2" sha256="28639346ada32e02627c3f66f623dddde13e4f79fc6a9d80f9fea36b2673f573" header="4E 45 53 1A 20 00 20 B8 10 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="Bubble Bath Babes (USA) (Beta) (Unl)" id="8680" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Bubble Bath Babes (USA) (Beta) (Unl)</description>
+		<rom name="Bubble Bath Babes (USA) (Beta) (Unl).nes" size="98320" crc="f4377bce" md5="be9064779821d5b2b77830fd387b06fc" sha1="d99ad18509a3d64859e7b29e509a500584cd2a01" sha256="06f043503b814e1c160d457294fb25c5c0641d4f7e44951e3af066b54e902733" header="4E 45 53 1A 02 08 41 98 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Cai Dilei - Bianji Pian (Asia) (Extract) (Pirate)" id="8264">
 		<category>Games</category>
@@ -35573,7 +35589,7 @@
 	<game name="Captain America and the Avengers (World) (Marvel MaXimum Collection)" id="8482" cloneofid="0335">
 		<category>Games</category>
 		<description>Captain America and the Avengers (World) (Marvel MaXimum Collection)</description>
-		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf" header="4E 45 53 1A 08 20 40 08 00 00 07 00 00 00 00 01"/>
+		<rom name="Captain America and the Avengers (World) (Marvel MaXimum Collection).nes" size="262160" crc="e596f4fe" md5="3da8efcb80e929a3e071aef1ba44c1d1" sha1="6b8e20e5b04395912ba8be59b6c9705b12e748dd" sha256="fc438fd47b0f5848b8891b35f17e31005519d6e13894b7fb403f3a46ca3049cf" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Captain Bassam (Asia) (Ar) (Extract) (Pirate)" id="8283" cloneofid="0345">
 		<category>Games</category>
@@ -35584,6 +35600,11 @@
 		<category>Games</category>
 		<description>Captain Majid Vol. II (Asia) (Ar) (Aftermarket) (Pirate)</description>
 		<rom name="Captain Majid Vol. II (Asia) (Ar) (Aftermarket) (Pirate).nes" size="393232" crc="d698d067" md5="d4f6197f120d6b38dfb21e8c052b25c8" sha1="2f8d6589487035dd4b1be6dc58e241a47bf4f292" sha256="928440da56c324a5e3c85debb2156b992de32c9ac18410ce81dfe47de16a9603" header="4E 45 53 1A 10 10 40 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Castlevania (World) (40th Anniversary)" id="8634" cloneofid="0356">
+		<category>Games</category>
+		<description>Castlevania (World) (40th Anniversary)</description>
+		<rom name="Castlevania (World) (40th Anniversary).nes" size="131088" crc="5ae3a06c" md5="687d78d7e4bbf6c96d6ca5035ad5270c" sha1="97832e0df2d7c5b881468991e807fda95b4a44ba" sha256="f998abc6cdbb8b43448648a72568ef56fa474b8c00bb70ffc6e8cbdf40dea0ee" header="4E 45 53 1A 08 00 21 08 20 00 00 07 02 00 00 01"/>
 	</game>
 	<game name="Catmercs - Big Bug Invasion (World) (v1.1) (Aftermarket) (Unl)" id="8341">
 		<category>Games</category>
@@ -35600,23 +35621,23 @@
 		<description>Catventure - The Red Cat Quest (World) (Ru) (v1.01) (Aftermarket) (Unl)</description>
 		<rom name="Catventure - The Red Cat Quest (World) (Ru) (v1.01) (Aftermarket) (Unl).nes" size="524304" crc="c693b339" md5="b11bfc78cda1cd17f90ce66bc9aa7084" sha1="fe1350ffd30d42691a5d776c9f313f4614629fc4" sha256="81da13d1cf5013505842fd14d8c5bc9c4d989e35a045fc8dab8235ef31f9a136" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Cease and Desist (World) (Demo) (2025-12-12) (Aftermarket) (Unl)" id="8321" cloneofid="8554">
+	<game name="Cease &amp; Desist (World) (Demo) (2025-12-12) (Aftermarket) (Unl)" id="8321" cloneofid="8554">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Cease and Desist (World) (Demo) (2025-12-12) (Aftermarket) (Unl)</description>
-		<rom name="Cease and Desist (World) (Demo) (2025-12-12) (Aftermarket) (Unl).nes" size="524304" crc="0f99ba98" md5="8e468bf1832c5cf4f76ab3b0d649c880" sha1="79c722efcc41ae470095a1c281c06c414bf118a7" sha256="56ceaea9739124d515a11b07ee1dfc123a5b826bf47d28328db11e80e52e4360" header="4E 45 53 1A 20 00 42 08 00 00 70 09 00 00 00 01"/>
+		<description>Cease &amp; Desist (World) (Demo) (2025-12-12) (Aftermarket) (Unl)</description>
+		<rom name="Cease &amp; Desist (World) (Demo) (2025-12-12) (Aftermarket) (Unl).nes" size="524304" crc="0f99ba98" md5="8e468bf1832c5cf4f76ab3b0d649c880" sha1="79c722efcc41ae470095a1c281c06c414bf118a7" sha256="56ceaea9739124d515a11b07ee1dfc123a5b826bf47d28328db11e80e52e4360" header="4E 45 53 1A 20 00 42 08 00 00 70 09 00 00 00 01"/>
 	</game>
-	<game name="Cease and Desist (World) (Demo) (2026-03-11) (Aftermarket) (Unl)" id="8473" cloneofid="8554">
+	<game name="Cease &amp; Desist (World) (Demo) (2026-03-11) (Aftermarket) (Unl)" id="8473" cloneofid="8554">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Cease and Desist (World) (Demo) (2026-03-11) (Aftermarket) (Unl)</description>
-		<rom name="Cease and Desist (World) (Demo) (2026-03-11) (Aftermarket) (Unl).nes" size="524304" crc="b85f7a72" md5="dbd4e822675552be4bc228cc22063417" sha1="358b49acd838570e371c7438802a534a376f0846" sha256="8046f11204807762c9b2af8885e572f9b7a6ac478252882e386e4f70418c5127" header="4E 45 53 1A 20 00 42 08 00 00 70 09 00 00 00 01"/>
+		<description>Cease &amp; Desist (World) (Demo) (2026-03-11) (Aftermarket) (Unl)</description>
+		<rom name="Cease &amp; Desist (World) (Demo) (2026-03-11) (Aftermarket) (Unl).nes" size="524304" crc="b85f7a72" md5="dbd4e822675552be4bc228cc22063417" sha1="358b49acd838570e371c7438802a534a376f0846" sha256="8046f11204807762c9b2af8885e572f9b7a6ac478252882e386e4f70418c5127" header="4E 45 53 1A 20 00 42 08 00 00 70 09 00 00 00 01"/>
 	</game>
-	<game name="Cease and Desist (World) (Demo) (2026-03-12) (Aftermarket) (Unl)" id="8554">
+	<game name="Cease &amp; Desist (World) (Demo) (2026-03-12) (Aftermarket) (Unl)" id="8554">
 		<category>Demos</category>
 		<category>Games</category>
-		<description>Cease and Desist (World) (Demo) (2026-03-12) (Aftermarket) (Unl)</description>
-		<rom name="Cease and Desist (World) (Demo) (2026-03-12) (Aftermarket) (Unl).nes" size="524304" crc="9587616F" md5="f852e77f9b38fe789dab60c8a7b21b7a" sha1="49a8259c392754d4b6ac9e105cb4ffcc367b2a50" sha256="bafb2e3a3205edf91ae9b21b7a6456253b273c935c69357bf2774311de47349f" header="4E 45 53 1A 20 00 42 08 00 00 70 09 00 00 00 01"/>
+		<description>Cease &amp; Desist (World) (Demo) (2026-03-12) (Aftermarket) (Unl)</description>
+		<rom name="Cease &amp; Desist (World) (Demo) (2026-03-12) (Aftermarket) (Unl).nes" size="524304" crc="9587616F" md5="f852e77f9b38fe789dab60c8a7b21b7a" sha1="49a8259c392754d4b6ac9e105cb4ffcc367b2a50" sha256="bafb2e3a3205edf91ae9b21b7a6456253b273c935c69357bf2774311de47349f" header="4E 45 53 1A 20 00 42 08 00 00 70 09 00 00 00 01"/>
 	</game>
 	<game name="Celeste NES (World) (Demo) (Aftermarket) (Pirate)" id="8124">
 		<category>Demos</category>
@@ -35670,6 +35691,11 @@
 		<category>Games</category>
 		<description>Chomp Champ (World) (2026-08-14) (Aftermarket) (Unl)</description>
 		<rom name="Chomp Champ (World) (2026-08-14) (Aftermarket) (Unl).nes" size="40976" crc="9c161bed" md5="7a79defdd33affa33206fa2ccbec4269" sha1="2400a403dc777bb814332e76ebf2d606b5221585" sha256="e2c1a7916c9d48568709c6b05d35367c89ed1850cc5955770f2c89427c57fde8" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="ChopChop (World) (Aftermarket) (Unl)" id="8630">
+		<category>Games</category>
+		<description>ChopChop (World) (Aftermarket) (Unl)</description>
+		<rom name="ChopChop (World) (Aftermarket) (Unl).nes" size="40976" crc="d7c21700" md5="80b282c35e9e1569fd736a3112284e01" sha1="502640f49346cc6d93afd1a2710ed9fade4d1a99" sha256="00cbc181a22418a5b716c2d12405ffa60cd0c5a557e814b6988aab6c582dc76a" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Choujikuu Yousai - Macross (Taiwan) (En) (Pirate)" id="8042" cloneofid="0402">
 		<category>Games</category>
@@ -35752,6 +35778,11 @@
 		<description>Culprit (World) (Aftermarket) (Unl)</description>
 		<rom name="Culprit (World) (Aftermarket) (Unl).nes" size="524304" crc="023638c0" md5="5fd43d02c1f1e6057fc838905ec6c524" sha1="7c6b38b7a723565199ed83941178a15c6f95de00" sha256="a11434ddd84fbf444541ef480d2f5f6ee405b22a2012c740469544e1238f7740" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 08"/>
 	</game>
+	<game name="Cur Manor (World) (v1.1) (Aftermarket) (Unl)" id="8631">
+		<category>Games</category>
+		<description>Cur Manor (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Cur Manor (World) (v1.1) (Aftermarket) (Unl).nes" size="139280" crc="d68c51df" md5="7e40b549b06cc1cc4b38fc45e0cce7df" sha1="37a2bce5ef28aceb0144d5f929e60607fd0f723c" sha256="a323c288cc4d8bee989e1188beac6cd73cb1920041140cee6a9c66c5dc881f52" header="4E 45 53 1A 08 01 10 08 00 00 07 00 00 00 00 01"/>
+	</game>
 	<game name="Curse of the Pharaoh (World) (Demo) (Aftermarket) (Unl)" id="8399">
 		<category>Demos</category>
 		<category>Games</category>
@@ -35807,6 +35838,11 @@
 		<category>Games</category>
 		<description>Dejipachi (World) (Aftermarket) (Unl)</description>
 		<rom name="Dejipachi (World) (Aftermarket) (Unl).nes" size="40976" crc="a09fe08b" md5="778a4e511342e39deb5a7edfb1739109" sha1="246ea3a3a59873976e213b3043dc4feef5d329e2" sha256="2be5bed00cc113be73319c61738b8e3e2004d66f8ea434bf4f4a6b4e838352cc" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Delete Me Hard (World) (Aftermarket) (Unl)" id="8632">
+		<category>Games</category>
+		<description>Delete Me Hard (World) (Aftermarket) (Unl)</description>
+		<rom name="Delete Me Hard (World) (Aftermarket) (Unl).nes" size="40976" crc="c32510a1" md5="7bdc42b0beeaa537158dc02ea09bcd83" sha1="bb119498b89c636bbdd0d18cc2638457a322ea48" sha256="b20d47dfb7b447d9aa1ea889a0a6008f92d85e8f5e3fb5063557a2d474f85a15" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Den Ten's Forest Adventure (World) (Aftermarket) (Unl)" id="8363">
 		<category>Games</category>
@@ -35899,6 +35935,11 @@
 		<description>Dr. Mario (Asia) (En) (VT605) (Pirate)</description>
 		<rom name="Dr. Mario (Asia) (En) (VT605) (Pirate).nes" size="49168" crc="a3ecbd30" md5="6d007b84c0af1268a25d8609de510d86" sha1="e1729c1ea1b2cbc0497d3566a267631ed60c3038" sha256="27021ad05582c7f25df99ca3da29f8cbde6f9f0f7e5991188bbf20912c44ed24" header="4E 45 53 1A 02 02 30 08 10 00 00 00 00 00 00 01"/>
 	</game>
+	<game name="Dr. Sexy's Grand Bake-Off Brawl (World) (Aftermarket) (Unl)" id="8633">
+		<category>Games</category>
+		<description>Dr. Sexy's Grand Bake-Off Brawl (World) (Aftermarket) (Unl)</description>
+		<rom name="Dr. Sexy's Grand Bake-Off Brawl (World) (Aftermarket) (Unl).nes" size="262160" crc="e20341d0" md5="46c5ce61b765929e9f2cd2bc8247c836" sha1="4e3187428cfeb453302ddbfbd48e34b4aabbe278" sha256="4cc60be9aac11e04936d8195bdeee4be8144fb090c0d8fd9132ab87958450e39" header="4E 45 53 1A 08 10 42 08 00 00 70 00 00 00 00 01"/>
+	</game>
 	<game name="Dragon Quest (Japan) (25 Shuunen Kinen) [b]" id="8623" cloneofid="0613">
 		<category>Games</category>
 		<description>Dragon Quest (Japan) (25 Shuunen Kinen) [b]</description>
@@ -35918,6 +35959,11 @@
 		<category>Games</category>
 		<description>Dragon, The (Asia) (En,Ar) (Extract) (Pirate)</description>
 		<rom name="Dragon, The (Asia) (En,Ar) (Extract) (Pirate).nes" size="786448" crc="887cd2a0" md5="dd76f3bf10c17ec839a266bcf0a02ca2" sha1="6103e8e4ace8863d7ffda4eb802e42c577928e8a" sha256="d2862f2fa42cd5f935c0174060a6213ae99409d27ea5cc289e1a4b998fb67bad" header="4E 45 53 1A 20 20 20 58 02 00 00 00 02 00 00 01"/>
+	</game>
+	<game name="Dragon's Puzzle Challenge (World) (Aftermarket) (Unl)" id="8635">
+		<category>Games</category>
+		<description>Dragon's Puzzle Challenge (World) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Puzzle Challenge (World) (Aftermarket) (Unl).nes" size="131088" crc="bff92d59" md5="76813816a921c38228d854d85ed0c254" sha1="4673bf41200a182989bc1a367d5bf7f2402bd068" sha256="2f1744f409f796033dae52a5c769134bdb367570df9e21ab7057bb35342dd8a0" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
 	</game>
 	<game name="Drakenmaid (World) (Demo) (2026-03-28) (Aftermarket) (Unl)" id="8561" cloneofid="8562">
 		<category>Games</category>
@@ -36096,10 +36142,27 @@
 		<description>Fistin' Uranus (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Fistin' Uranus (World) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="7BEBAC42" md5="80495f73f9dc0894c6019d0c5ce79279" sha1="b143fe5fbe2c9078be3fd4bbcd96dd6a3c956330" sha256="fd900a0fe03b7f4f359f5045f6266ac1e18c365daa40efdb367574117eb552f4" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
+	<game name="Flappy Paratroopa (World) (Aftermarket) (Unl)" id="8636">
+		<category>Games</category>
+		<description>Flappy Paratroopa (World) (Aftermarket) (Unl)</description>
+		<rom name="Flappy Paratroopa (World) (Aftermarket) (Unl).nes" size="40976" crc="0a299841" md5="7882f77e3eec685d422f2d69104815dc" sha1="c540663aa553384bd6cbdac4625d9e6ef8354674" sha256="a97615ee4f41858d22e08e815e9e908f1a4e1a560ae4946d0ea93e2e76461b25" header="4E 45 53 1A 02 01 13 08 00 00 70 00 00 00 00 01"/>
+	</game>
 	<game name="Forcity (Asia) (En) (Pirate)" id="8045" cloneofid="1082">
 		<category>Games</category>
 		<description>Forcity (Asia) (En) (Pirate)</description>
 		<rom name="Forcity (Asia) (En) (Pirate).nes" size="131088" crc="2e5ab997" md5="9a49ed9241257cd49f334f179d052135" sha1="06e4febbd27afc344f5e492a66bf9f614a6c09bc" sha256="43e89b4e71969e19bd66e94094438b40d0c869bbb058d682078077d1726e8ad3" header="4E 45 53 1A 08 00 21 08 20 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="Futebol (Brazil) (En) (Beta 1) (Unl)" id="8677" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Futebol (Brazil) (En) (Beta 1) (Unl)</description>
+		<rom name="Futebol (Brazil) (En) (Beta 1) (Unl).nes" size="98320" crc="65ea3214" md5="b692c7a649aae102af64f5ca30379ae4" sha1="37e9418e8f0e11b4ac538a178f3c6118b42265f4" sha256="2a06d06816eadeb665b4b11a48beef599a7d15bed8f9abd9b234e45d3e993f1c" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Futebol (Brazil) (En) (Beta 2) (Unl)" id="8678" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Futebol (Brazil) (En) (Beta 2) (Unl)</description>
+		<rom name="Futebol (Brazil) (En) (Beta 2) (Unl).nes" size="98320" crc="fe13eb2d" md5="16c0a022ce0f185702408e6022a26237" sha1="becf41856a2224cbd27ed9e9b804c74667957705" sha256="4b236e96279705defdf5d74c73c9c8ae44b3bf28f2cc55434408d42ba0d069e8" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Gauntlet (USA) (Beta 1)" id="8244" cloneofid="0830">
 		<category>Games</category>
@@ -36137,6 +36200,11 @@
 		<description>Get It Together! (World) (Demo 7) (Aftermarket) (Unl)</description>
 		<rom name="Get It Together! (World) (Demo 7) (Aftermarket) (Unl).nes" size="524304" crc="c4326dd1" md5="c9743e0499351d9a46603b085cbfec9b" sha1="bf2eb006d7ddb182412b5db834d97523834efbf8" sha256="b709d8fc49d568761df2e787e087152d4c26fa126b5558474a588d25a12d28a7" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
+	<game name="Giant Tree Drinking Lean (World) (Aftermarket) (Unl)" id="8638">
+		<category>Games</category>
+		<description>Giant Tree Drinking Lean (World) (Aftermarket) (Unl)</description>
+		<rom name="Giant Tree Drinking Lean (World) (Aftermarket) (Unl).nes" size="32784" crc="8bb026ce" md5="b7835943457790df9516cdb21bf845f5" sha1="a8de88038d38420be1e855cb86abd62fad9b7e6f" sha256="5f11916fcc37a6e36c012a6c60991b0f86553f2fb8390682bffb7e9716356357" header="4E 45 53 1A 02 00 01 08 00 00 00 07 00 00 00 01"/>
+	</game>
 	<game name="Gimmick (USA) (Limited Run Games)" id="8628" cloneofid="1522">
 		<category>Games</category>
 		<description>Gimmick (USA) (Limited Run Games)</description>
@@ -36146,6 +36214,16 @@
 		<category>Games</category>
 		<description>Golden Card 7-in-1 (Asia) (En) (Pirate)</description>
 		<rom name="Golden Card 7-in-1 (Asia) (En) (Pirate).nes" size="2097168" crc="6A589FA7" md5="54e614e303d1356f6008de2f377990f2" sha1="cb801208c7834313dd814e274735b2178b6eec2c" sha256="0285823d0bc6a7e6d127c57215d6ca64f60da21c2352d0c95b3152a0235de997" header="4E 45 53 1A 40 80 A0 88 01 00 00 00 00 00 00 2A"/>
+	</game>
+	<game name="Golf Cart - Man Fight! (World) (Aftermarket) (Unl)" id="8639">
+		<category>Games</category>
+		<description>Golf Cart - Man Fight! (World) (Aftermarket) (Unl)</description>
+		<rom name="Golf Cart - Man Fight! (World) (Aftermarket) (Unl).nes" size="262160" crc="23667c09" md5="097b9de0a49ed36b41254a502d213af6" sha1="16f094a2bee756f226706240614c4ea1f9090c18" sha256="7430d18a51fd4be2e44a09f304a8ea107032f9060fc66d487687fc3f2f4776cb" header="4E 45 53 1A 10 00 13 08 00 00 70 07 00 00 00 01"/>
+	</game>
+	<game name="Goomba Invaders (World) (Aftermarket) (Unl)" id="8640">
+		<category>Games</category>
+		<description>Goomba Invaders (World) (Aftermarket) (Unl)</description>
+		<rom name="Goomba Invaders (World) (Aftermarket) (Unl).nes" size="40976" crc="d6e3f8b4" md5="6c7734ad69052a78e784167f709c4b0e" sha1="80b9c890953df65b4ef0f29be16d945677d80cad" sha256="06a946b8fffbaa425e2efa3e50d5b3bafd9a7d466fe3696d839687621a3c4d79" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Grand Combat (Asia) (Ja) (Pirate)" id="8046" cloneofid="0391">
 		<category>Games</category>
@@ -36225,11 +36303,16 @@
 		<description>Hobo Albo's Halloween Adventure (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Hobo Albo's Halloween Adventure (World) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="015f7f97" md5="5e5a221cef64cc9e6f338384d97afba8" sha1="a282cd99034a38ab2c71d79ee7b6e6a724c97880" sha256="9f354ca38d76dc1b5893e7f26401716bf963c99902f42e83641b87470cfb0352" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Hold The Light (World) (Demo 2) (Aftermarket) (Unl)" id="8154">
+	<game name="Hold The Light (World) (Demo 2) (Aftermarket) (Unl)" id="8154" cloneofid="8641">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Hold The Light (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Hold The Light (World) (Demo 2) (Aftermarket) (Unl).nes" size="524304" crc="df510514" md5="4f9e52daf0d0cdba5f13d6368037ad22" sha1="f357d342cd176ace9ee934f5f292c64d96052507" sha256="48eed4bf14b7a9e0ffddf5004fc93ab969050d05fb5f5e6a726cc8f4b2ccfbae" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
+	</game>
+	<game name="Hold the Light (World) (Aftermarket) (Unl)" id="8641">
+		<category>Games</category>
+		<description>Hold the Light (World) (Aftermarket) (Unl)</description>
+		<rom name="Hold the Light (World) (Aftermarket) (Unl).nes" size="524304" crc="2ee3538a" md5="ff8e9a362480833c5bc5b316c0ed35c1" sha1="c78852a47887fdff60badb47d0ed2d26f16db48e" sha256="d12ae9f1476fd9a74b5b874e74f5d06fc4eb975cb03aa8112d68d7cc3be35b06" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 02 00 00 01"/>
 	</game>
 	<game name="Hook (USA) (Beta 1)" id="8089" cloneofid="0985">
 		<category>Games</category>
@@ -36306,6 +36389,11 @@
 		<description>Invaders (World) (Aftermarket) (Unl)</description>
 		<rom name="Invaders (World) (Aftermarket) (Unl).nes" size="40976" crc="75bbfe13" md5="120e4ad07ef6b3b6e46fc18db90fd13b" sha1="79eb6b0cf335adce6e2f6fc6b6776d48d9e143b4" sha256="2d6a3f9e0187bf887d9b8a17e146167339c5594f0ae10c60c89961fb646efc30" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
+	<game name="Jacobs Elevator (World) (Aftermarket) (Unl)" id="8642">
+		<category>Games</category>
+		<description>Jacobs Elevator (World) (Aftermarket) (Unl)</description>
+		<rom name="Jacobs Elevator (World) (Aftermarket) (Unl).nes" size="40976" crc="45a38d68" md5="6e1670245622be9bc08e53bc3f29ba5a" sha1="58febe9731bb5d6b24fab96ef408891afd807020" sha256="5ece66ee5848f9693bb3365e17af8841b0815a0d1ad223e466576df5c6edf10a" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Jajamaru no Daibouken (Asia) (Ja) (Pirate)" id="8076" cloneofid="1088">
 		<category>Games</category>
 		<description>Jajamaru no Daibouken (Asia) (Ja) (Pirate)</description>
@@ -36345,6 +36433,11 @@
 		<category>Games</category>
 		<description>Journey into the Unknown, A (World) (2026-06-18) (Aftermarket) (Unl)</description>
 		<rom name="Journey into the Unknown, A (World) (2026-06-18) (Aftermarket) (Unl).nes" size="524304" crc="2217ef2e" md5="141559d132da561d9045c4f8ff1aae6c" sha1="3389feb71e7de0504dcb7d58de86fd0aa9af356f" sha256="6ec39dfd1744d77be5e684cd85009ca0011a0da80edb2469a0606975b4d7991d" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 02 00 00 01"/>
+	</game>
+	<game name="Jumpy Springy Duck (World) (Aftermarket) (Unl)" id="8643">
+		<category>Games</category>
+		<description>Jumpy Springy Duck (World) (Aftermarket) (Unl)</description>
+		<rom name="Jumpy Springy Duck (World) (Aftermarket) (Unl).nes" size="524304" crc="64d09d59" md5="716de0aae558335a1cd1466afc3ec0f3" sha1="994e4f47b468f3a7cebc732bb63d1a7306f6666e" sha256="b034c5dc79d4bde40681dc80212f9ab1ab6d8fe051ffd757a35f3302e7062f05" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Jungle Book, The (Asia) (Ja) (Pirate)" id="8073" cloneofid="1126">
 		<category>Games</category>
@@ -36413,6 +36506,11 @@
 		<category>Preproduction</category>
 		<description>Krazy Kreatures (USA) (Beta) (Unl)</description>
 		<rom name="Krazy Kreatures (USA) (Beta) (Unl).nes" size="40976" crc="8f3f8c00" md5="4f2f27a802b8549a14889c57be85adde" sha1="7705289cfe97ad7fa722e3a7d32dd7d05bbc48ac" sha256="919d4ee68769e755ed4e824429193b58ca98e396c1479a6a0d43e8572ace98cf" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Kuruka (World) (Aftermarket) (Unl)" id="8644">
+		<category>Games</category>
+		<description>Kuruka (World) (Aftermarket) (Unl)</description>
+		<rom name="Kuruka (World) (Aftermarket) (Unl).nes" size="40976" crc="4e6a0313" md5="6105738ebf4d797365ff22bec1194d3c" sha1="919848c5ffd17681e5de2f68c42aa5193a3c699f" sha256="601f848734e741ab58ee0bf81bfc6b42d27cb4da15d946a3c94acde590d2fe8b" header="4E 45 53 1A 02 01 03 08 00 00 70 00 00 00 00 01"/>
 	</game>
 	<game name="Kyuukyoku Harikiri Stadium (Japan) (Beta)" id="8101" cloneofid="1231">
 		<category>Games</category>
@@ -36552,13 +36650,13 @@
 		<description>Maverick's Baghdad Extraction (World) (Aftermarket) (Unl)</description>
 		<rom name="Maverick's Baghdad Extraction (World) (Aftermarket) (Unl).nes" size="524304" crc="4613F678" md5="63b477ae20d232df50734fd1c9d447b6" sha1="fde885b25e732b5e2ff2ffbb227840724a498a2c" sha256="bc6129e75eced481946072e6c686a333be18a914c9085a3bf3e58c28eb159cff" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 08"/>
 	</game>
-	<game name="Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 2) (Aftermarket) (Unl)" id="8355">
+	<game name="Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 2) (Aftermarket) (Unl)" id="8355" cloneofid="8645">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 2) (Aftermarket) (Unl).nes" size="524304" crc="9c937b4c" md5="e783ef1f397aff8fcce5bd5300550dd3" sha1="a47b35887adfc2a04f568d294de3a6599c15f25f" sha256="903b5b875f43afe96c069cb715d4c8f9f68161feeac994a7639f07c94a4837a9" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 1) (Aftermarket) (Unl)" id="8356" cloneofid="8355">
+	<game name="Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 1) (Aftermarket) (Unl)" id="8356" cloneofid="8645">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Mawthorne 1 Reborn (World) (En,Es,Pt) (Demo 1) (Aftermarket) (Unl)</description>
@@ -36574,13 +36672,13 @@
 		<category>Educational</category>
 		<category>Games</category>
 		<description>Mega Book 12-in-1 (Italy) (Aftermarket) (Unl)</description>
-		<rom name="Mega Book 12-in-1 (Italy) (Aftermarket) (Unl).nes" size="524304" crc="EA8DEF48" md5="9e64b01352703afa856f5239187b1f05" sha1="60dc2184c6d448bffa510f3b03a3758e185b09e4" sha256="0b48111e709f6427bf2bbfa325a1d53c9c2c43c5b837576882747d80d82b4a04" header="4E 45 53 1A 20 00 13 F8 00 00 70 09 03 00 00 0F"/>
+		<rom name="Mega Book 12-in-1 (Italy) (Aftermarket) (Unl).nes" size="524304" crc="1ce8e9a3" md5="2ba61e20dd5276d94696784176c1cb06" sha1="784c1e7bb3207118d19b40fb1dc4f3ba9b296199" sha256="d01f60b5c647b59fc4b7d7e323b25cf2293fe2fc0157c04fb82994c012ec60e3" header="4E 45 53 1A 20 00 13 F8 00 00 70 09 03 00 00 4F"/>
 	</game>
 	<game name="Mega Book 4-in-1 (Italy) (Aftermarket) (Unl)" id="8198">
 		<category>Educational</category>
 		<category>Games</category>
 		<description>Mega Book 4-in-1 (Italy) (Aftermarket) (Unl)</description>
-		<rom name="Mega Book 4-in-1 (Italy) (Aftermarket) (Unl).nes" size="131088" crc="4BBF567F" md5="0948a603598fd7e4ebbdebc50b6a89be" sha1="c1efe42bcc4ec4f08262f689bc1f7d874073abf2" sha256="f58573beb41ced0eaf356875a6a38764e470c342f0254964b00443fdb697865d" header="4E 45 53 1A 08 00 21 08 20 00 00 07 03 00 00 0F"/>
+		<rom name="Mega Book 4-in-1 (Italy) (Aftermarket) (Unl).nes" size="131088" crc="893f81df" md5="4dc69ce44b5a2b3ddcffbb731f07a06a" sha1="c1fc4535360a42e89b5715fde2a51b27f919d4f0" sha256="61068dd9d1c085de40ce3fb3695380df44e4d02fc9b7d1dd43a96904177772cf" header="4E 45 53 1A 08 00 21 08 20 00 00 07 03 00 00 4F"/>
 	</game>
 	<game name="Mega Kaiju Boom Ball (World) (Demo 2) (Aftermarket) (Unl)" id="8227" cloneofid="8350">
 		<category>Demos</category>
@@ -36614,6 +36712,54 @@
 		<category>Games</category>
 		<description>Menghuan Zhi Xing IV (China) (Zh-Hans) (Unl)</description>
 		<rom name="Menghuan Zhi Xing IV (China) (Zh-Hans) (Unl).nes" size="1048592" crc="7756715a" md5="d625ba39061bb17c1978c707ab46e7b5" sha1="67b3999a49b9778352f7f361cc1be83c01102e18" sha256="4c819bc370c1dd076a6c60525a5d5d960af144941859d053ce0982212ec6904b" header="4E 45 53 1A 40 00 02 B8 20 00 90 07 03 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 1) (Unl)" id="8681" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 1) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 1) (Unl).nes" size="131088" crc="95cf9a8d" md5="74c7e463864d8bb5c3786f28f47b329b" sha1="0440873e44565217bfcf0d55ee2d66fde9238b1a" sha256="c829f668485187165c7fd9435c215a00a6db837b3a1fd0fc95dc8a60b350ec28" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 2) (Unl)" id="8682" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 2) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 2) (Unl).nes" size="131088" crc="fe0fa378" md5="94911d99dda5dfdd0ab8769648ff6220" sha1="86383b98556aafc980cf6ccc6b7043d641a74f56" sha256="008ddf2935ec0cb39829c4b031f1944e7aa049c38baf5ce15b920cd2a5b2d3dd" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 3) (Unl)" id="8683" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 3) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 3) (Unl).nes" size="131088" crc="79e02a0a" md5="390b9ae8c868f228eae91280ad58af01" sha1="c02fe528aca990c59398e6f13a760edc4b4ceb0c" sha256="c626c534623fc52090e13cdf1c364b53deacb87ebbba39e12f766c2e9625e134" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 4) (Unl)" id="8684" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 4) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 4) (Unl).nes" size="131088" crc="f625fd40" md5="56ff5653b139e33378cb18146b624e28" sha1="89c81f941d768516490b1219d5f53461562cbc85" sha256="cacc00f924ed8be9d18b22c81530f1168f5b341d66ac29fee3b7f56444db93a8" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 5) (Unl)" id="8685" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 5) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 5) (Unl).nes" size="131088" crc="d1655324" md5="8c5eafbfed8691a1f5e62adcd00030cf" sha1="4fa6bc48b036070a522026e6552af3f28704272d" sha256="fc724c651211ae81adf248d1c0507eaf7d951b9fde6ab8654e0b78b49a69d84c" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 6) (Unl)" id="8686" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 6) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 6) (Unl).nes" size="131088" crc="d37bbb14" md5="09a90a717949520afc9853c692a799b5" sha1="09dcd46105c91ccb64d407bfff98400f59afdab7" sha256="7acd9977d509faf2f2b57ab904eff856951d1bb5e63dc177f23d9fe03454eb36" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 7) (Unl)" id="8687" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 7) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 7) (Unl).nes" size="131088" crc="dcdb0df1" md5="449a1d1d566a2f10ba66b1b12c85f449" sha1="0b232c90ebcf2c26e31a701cba247467fae27545" sha256="cc0570b0257018e8ef6b8aa7fa03b48948f57a77cf9336c1710ac62d14a41228" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 8) (Unl)" id="8688" cloneofid="1421">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 8) (Unl)</description>
+		<rom name="Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Beta 8) (Unl).nes" size="131088" crc="46027ecc" md5="d617094a48109d50232cf47a23f0de62" sha1="4fab23aee5a9a076b7109d10517082515129e57e" sha256="deaca095c3fbf0fdc003f41e5dc29deda329a0d9c59c51d3c094d31d639b8d4b" header="4E 45 53 1A 04 08 F1 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Mewtwo no Pokemon II (Asia) (En) (Pirate)" id="8049" cloneofid="1004">
 		<category>Games</category>
@@ -36670,6 +36816,11 @@
 		<description>Monk - The Shaolin Warrior (World) (Demo 3) (Aftermarket) (Unl)</description>
 		<rom name="Monk - The Shaolin Warrior (World) (Demo 3) (Aftermarket) (Unl).nes" size="524304" crc="92F2F8D2" md5="141ca78ccaec93bb597d555d1cf08e29" sha1="0a2ce1e2f6f341384cb77a3c308a27a66cb606bf" sha256="dd4d97bc69498b857e6274075b48b00753fddb141b67a58355605e9d2181af10" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
+	<game name="Motril 2047 (World) (Es) (PAL) (Aftermarket) (Unl)" id="8646">
+		<category>Games</category>
+		<description>Motril 2047 (World) (Es) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Motril 2047 (World) (Es) (PAL) (Aftermarket) (Unl).nes" size="65552" crc="2996e2ae" md5="754e8cb7d0a61ce242827497deab2ced" sha1="ed26275ffd38184ff246d139d8757896f4c470bd" sha256="55ffed0cf78a62bea2a8c67f4b431b7390047ae94ac53205072176fe1916bf6d" header="4E 45 53 1A 02 04 31 08 10 00 00 00 01 00 00 08"/>
+	</game>
 	<game name="Mr. Gimmick (USA) (Proto 2)" id="8324" cloneofid="1522">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -36680,6 +36831,16 @@
 		<category>Games</category>
 		<description>Nanaca Crash (World) (Aftermarket) (Unl)</description>
 		<rom name="Nanaca Crash (World) (Aftermarket) (Unl).nes" size="73744" crc="d8f1068a" md5="7e77b3c3170fc81e3466ff8d18478fd1" sha1="dcc0708b17c01671c4c2cd3f96d7b82e7e5c5f3f" sha256="ce1b7e1d3e54b56749b56cbac2d0c6722db4576c028032f2caf2aabb67ed667e" header="4E 45 53 1A 02 05 42 08 00 00 70 00 00 00 00 01"/>
+	</game>
+	<game name="Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Unl)" id="8649">
+		<category>Games</category>
+		<description>Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Unl)</description>
+		<rom name="Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Unl).nes" size="9027600" crc="8c725947" md5="bb808ce85b801fc99dadfdeb7263002d" sha1="6f158415860d7b76dc1dc368a97431c979dbaabd" sha256="f7152f3068a7b2732923e68e61542f954c708ac56909c341a50bc2ace36e8f53" header="4E 45 53 1A 27 00 C0 08 01 02 07 0C 00 00 00 01"/>
+	</game>
+	<game name="Nature Clan All-Stars (World) (Aftermarket) (Unl)" id="8650" cloneofid="8649">
+		<category>Games</category>
+		<description>Nature Clan All-Stars (World) (Aftermarket) (Unl)</description>
+		<rom name="Nature Clan All-Stars (World) (Aftermarket) (Unl).nes" size="3047440" crc="db08a2df" md5="7cc189aadc0772ee85f33e8e023adc4c" sha1="19fb335636de2a7be9096705fbaac32baf727e2e" sha256="50edd10bef4e81f0f5f41c9e03ca28531f35788b595bb4d5f3ac926db5b87f3f" header="4E 45 53 1A BA 00 C0 08 01 00 07 0C 00 00 00 01"/>
 	</game>
 	<game name="Necro Nancy - Nightmare Mode (World) (Demo) (Aftermarket) (Unl)" id="8339">
 		<category>Demos</category>
@@ -36703,10 +36864,20 @@
 		<description>NES-Chinko (World) (Aftermarket) (Unl)</description>
 		<rom name="NES-Chinko (World) (Aftermarket) (Unl).nes" size="40976" crc="8b1a0934" md5="284f411effbfd645a7210f0c1cba8f82" sha1="148f32f4093716a377e032cf60989680426d96ab" sha256="104067619b429a590196dc90e26d7f2431c3f5b425d9ab217a5ac516024cc8ff" header="4E 45 53 1A 02 01 01 08 00 00 07 00 00 00 00 01"/>
 	</game>
+	<game name="Nesaph (World) (Aftermarket) (Unl)" id="8651">
+		<category>Games</category>
+		<description>Nesaph (World) (Aftermarket) (Unl)</description>
+		<rom name="Nesaph (World) (Aftermarket) (Unl).nes" size="24592" crc="c622d5ab" md5="8f138833ad776dc9b4f807ae7bae4f71" sha1="498e721d2c60aa1e4331f6e4d6ef3a879aafa76e" sha256="a1ab06f6c7cd1a281c21f02d7ec59a427d2c644ad65ab9df4ef6efe4a121b321" header="4E 45 53 1A 01 01 02 08 00 00 70 00 00 00 00 01"/>
+	</game>
 	<game name="New Game - 10-in-1 Power Joy (Asia) (En) (Pirate)" id="8134">
 		<category>Games</category>
 		<description>New Game - 10-in-1 Power Joy (Asia) (En) (Pirate)</description>
 		<rom name="New Game - 10-in-1 Power Joy (Asia) (En) (Pirate).nes" size="196624" crc="f287fce8" md5="ec47a1e7bcd9319443435c5d338550d7" sha1="e3609f70e88ab49c90268fcda3b200c354c8048f" sha256="3d9ec7a05345d1a1900dbe1216a88e9d22ab7c70945df9d3ce71b4a776026f0b" header="4E 45 53 1A 08 08 A0 38 00 00 00 00 03 00 00 2A"/>
+	</game>
+	<game name="Night City (World) (Es) (Aftermarket) (Unl)" id="8653">
+		<category>Games</category>
+		<description>Night City (World) (Es) (Aftermarket) (Unl)</description>
+		<rom name="Night City (World) (Es) (Aftermarket) (Unl).nes" size="40976" crc="a4c5eb64" md5="8a355952f07d09e2271799af3bc3f83f" sha1="d6bd50b61f3d68e4a73f153393e69a13e2be49cb" sha256="deb5a8b59d439ee043f748e82399cd6c17f4c1df2392887fcf97343873f38c22" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Ninja Jajamaru-kun (Japan) (Retro-Bit Generations)" id="8084" cloneofid="1576">
 		<category>Games</category>
@@ -36800,12 +36971,27 @@
 		<description>Os Cavaleiros do Zodiaco (Asia) (Ar) (Extract) (Mapper 187) (Pirate)</description>
 		<rom name="Os Cavaleiros do Zodiaco (Asia) (Ar) (Extract) (Mapper 187) (Pirate).nes" size="1048592" crc="b52b8ca3" md5="14260131eba4bdcc19e7250c154fd8d9" sha1="b0e2f337d3ed3fb858b13252284963d0740c8bf4" sha256="fb87e19df3f0f49016cb0dabe2972a8a78df3d5188cb975916d7049bbbe69784" header="4E 45 53 1A 20 40 B0 B8 00 00 00 00 02 00 00 01"/>
 	</game>
+	<game name="Oware (World) (v2.30) (Aftermarket) (Unl)" id="8654">
+		<category>Games</category>
+		<description>Oware (World) (v2.30) (Aftermarket) (Unl)</description>
+		<rom name="Oware (World) (v2.30) (Aftermarket) (Unl).nes" size="40976" crc="f1bd9717" md5="ac1e058187de3980280fc51eeef0b669" sha1="5dc0ddbac9008c1141c5649d2bf19afdeb0e4f49" sha256="af78d1a0277d3b1b304d798cd52b9e539ecac5b943cff91785471af125717141" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Oware (World) (v1.26) (Aftermarket) (Unl)" id="8655" cloneofid="8654">
+		<category>Games</category>
+		<description>Oware (World) (v1.26) (Aftermarket) (Unl)</description>
+		<rom name="Oware (World) (v1.26) (Aftermarket) (Unl).nes" size="40976" crc="1480f5b9" md5="3b3584e4edeb372c2163deede826c060" sha1="d42a4d86bb1e7505f49ccecb695b9fccb15348f9" sha256="2436fa89c93dfd273134b5f02fdd766e1dcfbbe53a3c37f063870ca92bbba9e3" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Pac-Man (USA) (Rev 1) (Tengen) (Unl)" id="8461" cloneofid="1626">
 		<category>Games</category>
 		<description>Pac-Man (USA) (Rev 1) (Tengen) (Unl)</description>
 		<rom name="Pac-Man (USA) (Rev 1) (Tengen) (Unl).nes" size="24592" crc="39fc8e46" md5="a4e5cd0b6e84eac76180eb07b4e0e8c5" sha1="523fb8d20c87f1edc7036fa32b16ac11a7547f4b" sha256="df0a46297b9c3703ffafff1b7194e31f4b0ff23817770d0f3a9f8e9f5ca2828f" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Packet (World) (Demo) (Aftermarket) (Unl)" id="8469">
+	<game name="Pacifister, The (World) (Aftermarket) (Unl)" id="8670">
+		<category>Games</category>
+		<description>Pacifister, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Pacifister, The (World) (Aftermarket) (Unl).nes" size="524304" crc="099f6fe7" md5="9dc95b5803b600c002f902683d8d2e89" sha1="d4d0005a5f95e82762c3faa530f9933576eeb334" sha256="d63676607fbf6a04352a2d63c50117a55ab39489c107af023a0cd9ec60145ae2" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
+	</game>
+	<game name="Packet (World) (Demo) (Aftermarket) (Unl)" id="8469" cloneofid="8648">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Packet (World) (Demo) (Aftermarket) (Unl)</description>
@@ -36987,7 +37173,27 @@
 	<game name="Puzzle (Taiwan) (En) (TXC) (Unl)" id="8611" cloneofid="8530">
 		<category>Games</category>
 		<description>Puzzle (Taiwan) (En) (TXC) (Unl)</description>
-		<rom name="Puzzle (Taiwan) (En) (TXC) (Unl).nes" size="65552" crc="82f3764d" md5="f9530906a2f12d78508c0867d4f0df91" sha1="2d44a5beb9303bd64d92befc14e5cd9bb9d86b46" sha256="9913c899a9ce97afad1b7f70fc279066d352762148faa2d57c5baf1f36a9714f" mia="yes" header="4E 45 53 1A 02 04 40 88 00 00 00 00 00 00 00 01"/>
+		<rom name="Puzzle (Taiwan) (En) (TXC) (Unl).nes" size="65552" crc="82f3764d" md5="f9530906a2f12d78508c0867d4f0df91" sha1="2d44a5beb9303bd64d92befc14e5cd9bb9d86b46" sha256="9913c899a9ce97afad1b7f70fc279066d352762148faa2d57c5baf1f36a9714f" header="4E 45 53 1A 02 04 40 88 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Pyrga (World) (v1.52) (Aftermarket) (Unl)" id="8656">
+		<category>Games</category>
+		<description>Pyrga (World) (v1.52) (Aftermarket) (Unl)</description>
+		<rom name="Pyrga (World) (v1.52) (Aftermarket) (Unl).nes" size="32784" crc="f42b0a2b" md5="e8e6352dc1337ce2c8171185c345e64b" sha1="abfe33d9583870ab976ea1c66a5322f39eefab38" sha256="b1188a50fad4aedfb314ba6974062025b0f76d1fadc1eb82e7ca1d8e63230405" header="4E 45 53 1A 02 00 00 08 00 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="Pyrga (World) (v1.51) (Aftermarket) (Unl)" id="8657" cloneofid="8656">
+		<category>Games</category>
+		<description>Pyrga (World) (v1.51) (Aftermarket) (Unl)</description>
+		<rom name="Pyrga (World) (v1.51) (Aftermarket) (Unl).nes" size="32784" crc="b7910b63" md5="e0e3f5f72e77cba884d567103bd91c06" sha1="7436a18f71b4f3dcaf12178526d483502c0bd725" sha256="7723f6c6b5e76d016ffc43cb54fae513787e3dfe3cdc5b60544aaa5d8416e23e" header="4E 45 53 1A 02 00 00 08 00 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="Pyrga (World) (v1.46) (Aftermarket) (Unl)" id="8658" cloneofid="8656">
+		<category>Games</category>
+		<description>Pyrga (World) (v1.46) (Aftermarket) (Unl)</description>
+		<rom name="Pyrga (World) (v1.46) (Aftermarket) (Unl).nes" size="32784" crc="cc211ca9" md5="38f683c2bca7b5e87c6039464d8ae323" sha1="26aa2ec2ea8361a6f778462b8b58d474a28b9896" sha256="0eb8fd0d70eda495d0d92742c81a47ce720b582e33333e39b5198a5a359d4d7d" header="4E 45 53 1A 02 00 00 08 00 00 00 07 00 00 00 01"/>
+	</game>
+	<game name="Pyrga (World) (v1.43) (Aftermarket) (Unl)" id="8659" cloneofid="8656">
+		<category>Games</category>
+		<description>Pyrga (World) (v1.43) (Aftermarket) (Unl)</description>
+		<rom name="Pyrga (World) (v1.43) (Aftermarket) (Unl).nes" size="32784" crc="80c41e92" md5="3e2d057f41ffa2a8f9f278a84db99fed" sha1="880cf8c043ad9e57ad3e57281909ad8ba7670778" sha256="18b3233e3a4406773eaaba5497629999a0d0af77c973f5a03d3473ebe87c72a2" header="4E 45 53 1A 02 00 00 08 00 00 00 07 00 00 00 01"/>
 	</game>
 	<game name="R.C. Pro-Am (USA) (Evercade)" id="8317" cloneofid="1769">
 		<category>Games</category>
@@ -37076,12 +37282,12 @@
 	<game name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit)" id="8614" cloneofid="1548">
 		<category>Games</category>
 		<description>River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit)</description>
-		<rom name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit).nes" size="262160" crc="2da93111" md5="898f4896bd96210abb57cffc3b2f17cb" sha1="11a16faa14973ffa203015dcd2a42f1f20739077" sha256="0019af3e6b7b356637af8eb37216c3aa2bd95ba3a80225f65098066b721255d4" mia="yes" header="4E 45 53 1A 08 10 C0 08 01 00 00 00 00 00 00 03"/>
+		<rom name="River City Basketball - Let's Go Dunk Heroes! (USA, Europe) (Retro-Bit).nes" size="262160" crc="2da93111" md5="898f4896bd96210abb57cffc3b2f17cb" sha1="11a16faa14973ffa203015dcd2a42f1f20739077" sha256="0019af3e6b7b356637af8eb37216c3aa2bd95ba3a80225f65098066b721255d4" header="4E 45 53 1A 08 10 C0 08 01 00 00 00 00 00 00 03"/>
 	</game>
 	<game name="River City Fighting Legend (USA, Europe) (Retro-Bit)" id="8615" cloneofid="1544">
 		<category>Games</category>
 		<description>River City Fighting Legend (USA, Europe) (Retro-Bit)</description>
-		<rom name="River City Fighting Legend (USA, Europe) (Retro-Bit).nes" size="262160" crc="29458c23" md5="29c3402e90b79d1579a6b873e79cf9be" sha1="585c245532daccf9f40d763b39f17633e4bba042" sha256="f37c4d93ae462134c9a62c473c7352deb54c2b00910835797352421afad33715" mia="yes" header="4E 45 53 1A 08 10 C0 08 01 00 00 00 00 00 00 03"/>
+		<rom name="River City Fighting Legend (USA, Europe) (Retro-Bit).nes" size="262160" crc="29458c23" md5="29c3402e90b79d1579a6b873e79cf9be" sha1="585c245532daccf9f40d763b39f17633e4bba042" sha256="f37c4d93ae462134c9a62c473c7352deb54c2b00910835797352421afad33715" header="4E 45 53 1A 08 10 C0 08 01 00 00 00 00 00 00 03"/>
 	</game>
 	<game name="RoboCop 4 (Asia) (En) (Pirate)" id="8054" cloneofid="1832">
 		<category>Games</category>
@@ -37103,10 +37309,20 @@
 		<description>Rolling Hare 2 (World) (Aftermarket) (Unl)</description>
 		<rom name="Rolling Hare 2 (World) (Aftermarket) (Unl).nes" size="524304" crc="b9692f4b" md5="15bbec95e996d5030a8534bd27a15423" sha1="a00ec51c7ccbf6c9398036b29958bd4d7c82e5cd" sha256="0c95fecbf78f4ecdd0e864ed5c3815e4665d6de39d2259ae71ddff6f1dcced14" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
+	<game name="Roof Hockey (World) (Aftermarket) (Unl)" id="8660">
+		<category>Games</category>
+		<description>Roof Hockey (World) (Aftermarket) (Unl)</description>
+		<rom name="Roof Hockey (World) (Aftermarket) (Unl).nes" size="32784" crc="f3a995d8" md5="ec2a3cc4805c7e0607905c0c3810e1cd" sha1="2f0e9911e8b7421457e8dd7493395e4a9aaee7bc" sha256="ec213963370b5107256e2f683c897afcefb8c88586a342afba8ce96bad27ff15" header="4E 45 53 1A 02 00 01 08 00 00 00 07 00 00 00 01"/>
+	</game>
 	<game name="Route-16 Turbo (Japan) (En) (Rev 1)" id="8540">
 		<category>Games</category>
 		<description>Route-16 Turbo (Japan) (En) (Rev 1)</description>
 		<rom name="Route-16 Turbo (Japan) (En) (Rev 1).nes" size="40976" crc="75b24d19" md5="9fb658b7acc0d6a6bcceaaccab98baeb" sha1="a595708513c885a5430c4ab91da36c937d6e8346" sha256="b7bdfb633dd4e93fae6535604e93d1e9daefa505c0b44066cf288258f8ee9929" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Rue the Rosey Buddy 2 (World) (Aftermarket) (Unl)" id="8661">
+		<category>Games</category>
+		<description>Rue the Rosey Buddy 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Rue the Rosey Buddy 2 (World) (Aftermarket) (Unl).nes" size="524304" crc="fce7edad" md5="41489db1fc57df9e7dbf7c6e82c7fc63" sha1="c717ab0eaa8f3f43e46087803fd9310ab043d251" sha256="f76ed3b91f37039e4c271060af4c3a689366b346a28398d9da234283013e9d79" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Rush'n Attack (Asia) (En) (Pirate)" id="8071" cloneofid="1871">
 		<category>Games</category>
@@ -37184,6 +37400,11 @@
 		<category>Games</category>
 		<description>Shuihu Lixianji (China) (Hengge) (Pirate)</description>
 		<rom name="Shuihu Lixianji (China) (Hengge) (Pirate).nes" size="524304" crc="A83C1236" md5="bf45add6dbb217360ed053e7fe4aef71" sha1="f3cab5dbad64c829c367d0151b34c92c13c831e1" sha256="98e18968b63d69450f061a335de9d548fa241c814c1c4098150ee3c6e193e3eb" header="4E 45 53 1A 20 00 C2 08 01 00 70 07 03 00 00 01"/>
+	</game>
+	<game name="signOS (World) (Aftermarket) (Unl)" id="8662">
+		<category>Games</category>
+		<description>signOS (World) (Aftermarket) (Unl)</description>
+		<rom name="signOS (World) (Aftermarket) (Unl).nes" size="81936" crc="5308f937" md5="05c11286721bc035cc1b1112ed9af11f" sha1="aab4f94b26ba43906c25c347f86b937dd541cfb0" sha256="d442291b49a26fe9d4f8a6d1ca413d46f442732edfaa22d6af624f79f2bcdcd2" header="4E 45 53 1A 04 02 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
 	<game name="Silver Surfer (World) (Marvel MaXimum Collection)" id="8481" cloneofid="1994">
 		<category>Games</category>
@@ -37305,6 +37526,17 @@
 		<description>Star Luster (World) (Star Fox - Assault)</description>
 		<rom name="Star Luster (World) (Star Fox - Assault).nes" size="40976" crc="84b46709" md5="398a7e7c91e19442f6863f6ca188d138" sha1="a4bd9f43915c8eaf390dd928efbbad450dca9342" sha256="09194a77ab99579d77835ce1499d386d0ae4045acebaafbfeac4fe2a08572b3b" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
+	<game name="Story of Eastern UnderGround (World) (Aftermarket) (Unl)" id="8663">
+		<category>Games</category>
+		<description>Story of Eastern UnderGround (World) (Aftermarket) (Unl)</description>
+		<rom name="Story of Eastern UnderGround (World) (Aftermarket) (Unl).nes" size="139280" crc="2a8c6f6b" md5="2f05156d8181299d381ada0daf2cdcb2" sha1="3c92f7455c60a71b27ff30234ffa0e564f29da6a" sha256="44687df8b5e3226d400a1efad4fab60b26b0059cf0c05ed71e808372d586b65b" header="4E 45 53 1A 08 01 40 08 00 00 00 00 02 00 00 01"/>
+	</game>
+	<game name="Story of Eastern UnderGround (World) (Beta) (Aftermarket) (Unl)" id="8664" cloneofid="8663">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Story of Eastern UnderGround (World) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Story of Eastern UnderGround (World) (Beta) (Aftermarket) (Unl).nes" size="139280" crc="2fdc617a" md5="5d4b3f67f78d6110cc4c150071ca8a76" sha1="c0fc98dd3bb78d6332cc4c852a8a5c2dea40cf39" sha256="6b5c78ce400749ac6688ccae6b14a5c04eb42ec356c623b96bbbf769a30486c7" header="4E 45 53 1A 08 01 40 08 00 00 00 00 02 00 00 01"/>
+	</game>
 	<game name="Stray Dog Strut (World) (Aftermarket) (Unl)" id="8293">
 		<category>Games</category>
 		<description>Stray Dog Strut (World) (Aftermarket) (Unl)</description>
@@ -37388,6 +37620,17 @@
 		<category>Preproduction</category>
 		<description>Summer Island Battle Tactics (World) (Demo 31) (Aftermarket) (Unl)</description>
 		<rom name="Summer Island Battle Tactics (World) (Demo 31) (Aftermarket) (Unl).nes" size="786448" crc="f5ff0a7a" md5="88e5db1b1b3242c9a4564fbb16592f1b" sha1="047701de1a3c0317b7440cdb24e2c915af659d9b" sha256="5642dee1e149aff1ff81d0a45270cf9e2fb6c6049288f52b2133937e4aa89259" header="4E 45 53 1A 20 20 40 08 00 00 07 00 00 00 00 01"/>
+	</game>
+	<game name="Sunset Land (World) (Aftermarket) (Unl)" id="8665">
+		<category>Games</category>
+		<description>Sunset Land (World) (Aftermarket) (Unl)</description>
+		<rom name="Sunset Land (World) (Aftermarket) (Unl).nes" size="524304" crc="66c97ea1" md5="2f352bdbd5b786bb6a675bf971378203" sha1="39340e920bbdd7c3a7f90b0fd6ca0cfe5e02809c" sha256="7e8c4ffdc32856471a386ef1efbc874d64d3d7ce9f2421c09fe944dfc1498ee0" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
+	</game>
+	<game name="Sunset Land (World) (Demo 8) (Aftermarket) (Unl)" id="8666" cloneofid="8665">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Sunset Land (World) (Demo 8) (Aftermarket) (Unl)</description>
+		<rom name="Sunset Land (World) (Demo 8) (Aftermarket) (Unl).nes" size="524304" crc="bb45b9c6" md5="b40654c4ec9f5b9a1f3fc05b2c79590a" sha1="b0521ce0f5b1cdeaeaba4b12626df4aec32f5152" sha256="84c9a171b0bade2e6f7d4985c1ec543d84b779a271c84cc372379c2b52485ba2" header="4E 45 53 1A 20 00 E3 18 00 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Super 1.000.000-in-1 (Asia) (En) (Pirate)" id="8143">
 		<description>Super 1.000.000-in-1 (Asia) (En) (Pirate)</description>
@@ -37533,6 +37776,11 @@
 		<description>Super Tilt Bro. (World) (v2.6) (Rainbow) (Aftermarket) (Unl)</description>
 		<rom name="Super Tilt Bro. (World) (v2.6) (Rainbow) (Aftermarket) (Unl).nes" size="1048592" crc="ab5cdd9c" md5="4871959f6c083362ca9b0e56f4a6e31f" sha1="c47be2426ff3f412bea15b57a6f8ad08e921116f" sha256="0e250956971777d827387f984850a35601633005cbd4140481fc69b5bb5002d2" header="4E 45 53 1A 40 00 A0 A8 02 00 00 09 02 00 00 01"/>
 	</game>
+	<game name="Sweethearts (World) (Aftermarket) (Unl)" id="8667">
+		<category>Games</category>
+		<description>Sweethearts (World) (Aftermarket) (Unl)</description>
+		<rom name="Sweethearts (World) (Aftermarket) (Unl).nes" size="24592" crc="c513642e" md5="b0c20151fdce98560d24ee8c5584372c" sha1="ee2ebcf8e77d8df820e21c0614750ceadfbb8c5e" sha256="987e7cc8da6ef8300827215294bddedcc9dd850a3ecd589f838244ce612aa5e5" header="4E 45 53 1A 01 01 01 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Tactus (World) (Proto 6) (Aftermarket) (Unl)" id="8398">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -37559,6 +37807,17 @@
 		<category>Games</category>
 		<description>Tank 1990 (China) (En) (Pirate)</description>
 		<rom name="Tank 1990 (China) (En) (Pirate).nes" size="24592" crc="dddd46e4" md5="2f5317479fd2b1b0847254ce3559ef4d" sha1="97a9ae8836316b459545604b293a1cfde3214db0" sha256="4e1d9f800eb8710b831f5b9a2b29d21aea9e7fe9feac8e1b36ff285a66231bc2" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Tanker (World) (Aftermarket) (Unl)" id="8668">
+		<category>Games</category>
+		<description>Tanker (World) (Aftermarket) (Unl)</description>
+		<rom name="Tanker (World) (Aftermarket) (Unl).nes" size="40976" crc="8263b3b6" md5="61de8cb385613d05ed070542b8083e59" sha1="96e12c70dfa4a1288cdf330428f71c6663c7379c" sha256="868bd973d4f4cfbb8b256ba717e6a706988d3845c23d24c5be486778af40608d" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Tanker (World) (Demo) (Aftermarket) (Unl)" id="8669" cloneofid="8668">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Tanker (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Tanker (World) (Demo) (Aftermarket) (Unl).nes" size="40976" crc="7a0e5f3c" md5="be39747598908dfcf32dd7a2dc1f4f0f" sha1="43114572bbb886219cb866ff87b9c60c13864d94" sha256="02b1a840b65bc2cbbd399f7fbf53bd69032e16b8d2e3f9f1236ed6dba3a45337" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Tekken 6 (Asia) (En) (Pirate)" id="8064" cloneofid="4952">
 		<category>Games</category>
@@ -37636,6 +37895,11 @@
 		<description>Tiny Toon 3 (Asia) (Ja) (Pirate)</description>
 		<rom name="Tiny Toon 3 (Asia) (Ja) (Pirate).nes" size="262160" crc="4c1d7b8e" md5="d46f42bcbb997055a2e5fc67f821ea0b" sha1="3c87c82eebe2b1d6aa8d428829ef47e587a9a4bf" sha256="44fe27d50374d414f80249473a314ea8a098f18a9c76be3b5b7d918396f32fea" header="4E 45 53 1A 08 10 40 08 00 00 00 00 00 00 00 01"/>
 	</game>
+	<game name="Togyzqumalaq (World) (v2.0.9) (Aftermarket) (Unl)" id="8671">
+		<category>Games</category>
+		<description>Togyzqumalaq (World) (v2.0.9) (Aftermarket) (Unl)</description>
+		<rom name="Togyzqumalaq (World) (v2.0.9) (Aftermarket) (Unl).nes" size="40976" crc="7d82f344" md5="36f4e7c89784a4992282cdf973c04486" sha1="250d9d381879a100b5158331f5aa72dd26a07bf9" sha256="6e3703c98d2a6d951904403777432cbd586077bc9cf5da6a451db1e8809fe162" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Toita Basketball (Asia) (En) (Pirate)" id="8060" cloneofid="2400">
 		<category>Games</category>
 		<description>Toita Basketball (Asia) (En) (Pirate)</description>
@@ -37696,6 +37960,36 @@
 		<category>Games</category>
 		<description>TwinBee (India) (En) (Pirate)</description>
 		<rom name="TwinBee (India) (En) (Pirate).nes" size="40976" crc="8b04c347" md5="15b55cd67efee3cf403e88809bd9208b" sha1="d160ecfbe10faa578c00a50f0123c8ded4928245" sha256="6941ac6885e8c8046568bb852e6626b5cfeb04b7453f5e55f01b752e9b21d60a" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Ultimate League Soccer (Europe) (Beta 1) (Unl)" id="8673" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ultimate League Soccer (Europe) (Beta 1) (Unl)</description>
+		<rom name="Ultimate League Soccer (Europe) (Beta 1) (Unl).nes" size="98320" crc="9d7dd923" md5="92266cc35f756b2dbb1e402013fe52ae" sha1="ec536622435c9a900c0276a1eb44d2382158dc81" sha256="8699fadf76bb94d3181f35dc2a713cfeaffdc245f26499c2a05138e1317fd0df" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 02 00 00 01"/>
+	</game>
+	<game name="Ultimate League Soccer (Europe) (Beta 2) (Unl)" id="8674" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ultimate League Soccer (Europe) (Beta 2) (Unl)</description>
+		<rom name="Ultimate League Soccer (Europe) (Beta 2) (Unl).nes" size="98320" crc="2a63ed29" md5="8c54d6da6975c8f3f6f01e9557c520eb" sha1="ff1737e5b22ec10dcdf197d26fbaa5e70385111c" sha256="770d875f95f6aeffebb258cd1532e9036a1093cbbca524f920fd4b5ccd4f3159" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 01 00 00 01"/>
+	</game>
+	<game name="Ultimate League Soccer (Europe) (Beta 3) (Unl)" id="8675" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ultimate League Soccer (Europe) (Beta 3) (Unl)</description>
+		<rom name="Ultimate League Soccer (Europe) (Beta 3) (Unl).nes" size="98320" crc="ca590fa8" md5="57b42084c77f471bfabe7f6546b544bb" sha1="65d612e406d6773565b5bb7f85cf1bedc73a7df1" sha256="8b5fa09df9cbfb956636428b14dd5bcc68d324bf39130e4412830e513bc2085c" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 01 00 00 01"/>
+	</game>
+	<game name="Ultimate League Soccer (Europe) (Beta 4) (Unl)" id="8676" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ultimate League Soccer (Europe) (Beta 4) (Unl)</description>
+		<rom name="Ultimate League Soccer (Europe) (Beta 4) (Unl).nes" size="98320" crc="63c73494" md5="5221ac6b6f065743187c565afd723b29" sha1="21458f478030ce0ca2b1427c272b6e880fd7e645" sha256="bb5fc975ea94f26e2f0161f217d3a9d3cc000edf950af9446c38e9cdee5327a6" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 01 00 00 01"/>
+	</game>
+	<game name="Ultra League Soccer (USA) (Beta) (Unl)" id="8679" cloneofid="2401">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ultra League Soccer (USA) (Beta) (Unl)</description>
+		<rom name="Ultra League Soccer (USA) (Beta) (Unl).nes" size="98320" crc="21cbb015" md5="39ce70da88113ed1aa0cecd96db18858" sha1="5b1d57813736e68037151ecc797f0ea37da7c264" sha256="9b0936de399094deec43d274e45a8be3281d03533ca66611c1680ffb73a57863" header="4E 45 53 1A 02 08 F0 48 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Uninvited (World) (8-bit Adventure Anthology - Volume I)" id="8196" cloneofid="2409">
 		<category>Games</category>

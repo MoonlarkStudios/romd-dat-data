@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20261005-040320</version>
+		<version>20261007-132615</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -19662,10 +19662,18 @@
 		<description>Bubsy II (USA) (Beta)</description>
 		<rom name="Bubsy II (USA) (Beta).sfc" size="2097152" crc="d2e5100a" md5="fed20a59dc7b9550cd4c552712851c0d" sha1="521977d3d09670fbef98ae6342ab5f429f0df1fa" sha256="46a566421bf12395c46e449661ce3d3de45427aed9f06b69b921175f1373d597"/>
 	</game>
+	<game name="Bubsy II (World) (The Purrfect Collection)" id="4610" cloneofid="0352">
+		<description>Bubsy II (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy II (World) (The Purrfect Collection).sfc" size="2097152" crc="da10bca5" md5="bf457c617fe0fa2ede2c51afe011a28c" sha1="d7ee2cb172ad6e8ea3604a4a2c1a02487719ef7a" sha256="163f4debca780626325147555ad7ebd0296b11dead6a7f6dd856d7317d634175"/>
+	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (Steam)" id="4265" cloneofid="0354">
 		<category>Games</category>
 		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (Steam)</description>
 		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (Steam).sfc" size="2097152" crc="c19f0876" md5="8cba8604cf93352dbf518592f67204c1" sha1="e6bad5b0708b16d898ba3fe848baa5451824f3aa" sha256="1dc98e4d0f712dc0ac9fe239baec38d252ace5b4407e4422609d39c5b77b5b1e"/>
+	</game>
+	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)" id="4609" cloneofid="0354">
+		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)</description>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection).sfc" size="2097152" crc="2526fd7a" md5="da9e1ba86705de2a09dbed9c69e0bced" sha1="6e461b93f82d2c7271e92df080ed98f86e0af0f9" sha256="b98fe3c93a1ad19ecad93528092d4ed9d8f7844351186f0c845d29c0457dd907"/>
 	</game>
 	<game name="Bucket (World) (Aftermarket) (Unl)" id="4301">
 		<category>Games</category>
@@ -22446,6 +22454,10 @@
 		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl).sfc" size="131072" crc="fe5b38f0" md5="0cbbf1be7db591ce34dde62ba05c6f32" sha1="cfd5de042e87f2301cf2baa52cfee76b09a8bc7a" sha256="f51300bf7f2401033239cee8a7d1e3d96fb986876bd85d0fb7bf738e849a590b" status="verified"/>
 		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)_rp2040.bin" size="16777216" crc="3e24eeba" md5="3f8bd2bf4e47152ed16958462e85dddb" sha1="35e07cadc5299c9e5476cbd1961af03ff75bac3f" sha256="bf500b1953e5bbe469a746d83460d5d386a05704cab877265d58c6ec863533c2" status="verified"/>
 		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Bitmap Bureau) (Aftermarket) (Unl)_rp2040-2024_03_23.bin" size="16777216" crc="4e2e0dda" md5="74b8796fb6bb1868656e62ff4594d62b" sha1="038e4fcbe67f5f33ac7ceb3f3e838c45c9c21445" sha256="82cb21456866c8f7dcaccabb264598fb8e8b6fb55bfe339215612d377cbadea6" status="verified" mia="yes"/>
+	</game>
+	<game name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection)" id="4608" cloneofid="3368">
+		<description>Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection)</description>
+		<rom name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection).sfc" size="2097152" crc="2ccf2681" md5="acef13f027de29098660d7b9ce4366f5" sha1="02ba5662fb33e846e6160a95735312b8c45881a6" sha256="d4fc45eaa6ed6df4b9d36f757901cfc0d38b3c561d7f47040e36e8ce9bf32ad3"/>
 	</game>
 	<game name="Zelda II - The Adventure of Link (World) (REV-G) (NES Conversion) (Aftermarket) (Unl)" id="4488" cloneofid="4552">
 		<category>Games</category>
