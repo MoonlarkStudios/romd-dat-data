@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261008-024510</version>
+		<version>20261008-143945</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4495,6 +4495,7 @@
 		<rom name="Christmas Carol, A (USA) (En,Fr,Es).nds" size="67108864" crc="6afc08f0" md5="42588997086eb100600aa8b9ea9dd80b" sha1="08baaa8c3d7920b89678bcc94199896888202348" serial="BXME"/>
 	</game>
 	<game name="Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,Es,It)" id="4363" cloneofid="5105">
+		<category>Games</category>
 		<description>Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="f0dffa6f" md5="e10a6a371900b06265bce0eb0327cbbe" sha1="050a3f13d17ff171a66896ce27df4faf932469ca" sha256="90a493f3b3342a8b43e4aa038121cd45de36bd4a8e3e4c3b2c94afe9cc948b0f" status="verified" serial="BCMP"/>
 	</game>
@@ -4503,8 +4504,9 @@
 		<rom name="Chronicles of Mystery - Curse of the Ancient Temple (USA) (En,Fr,Es).nds" size="67108864" crc="a48dac6e" md5="61f613715c582c1b23c56709901b70a7" sha1="11d806e6c0615968135c0a4898d159d98dcff648" serial="BCME"/>
 	</game>
 	<game name="Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,It,Nl) (Rev 1)" id="5105">
+		<category>Games</category>
 		<description>Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,It,Nl) (Rev 1)</description>
-		<rom name="Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,It,Nl) (Rev 1).nds" size="67108864" crc="ea4ee284" md5="7259bc99b137ad2133bfbc5d86334c85" sha1="f8815b8434a16631c73ec543ff091ea6a0bf133b" status="verified" serial="BCMP"/>
+		<rom name="Chronicles of Mystery - Curse of the Ancient Temple (Europe) (En,Fr,De,It,Nl) (Rev 1).nds" size="67108864" crc="ea4ee284" md5="7259bc99b137ad2133bfbc5d86334c85" sha1="f8815b8434a16631c73ec543ff091ea6a0bf133b" sha256="ff837568de76eea444c49cad9046418db5cbd8d0ddfdbb4206333a6132909370" status="verified" serial="BCMP"/>
 	</game>
 	<game name="Chronicles of Mystery - The Secret Tree of Life (USA) (En,Fr,Es) (NDSi Enhanced)" id="5639" cloneofid="6485">
 		<description>Chronicles of Mystery - The Secret Tree of Life (USA) (En,Fr,Es) (NDSi Enhanced)</description>
@@ -14733,9 +14735,11 @@
 		<description>Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr)</description>
 		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 1+2 (Europe) (De,Tr).nds" size="33554432" crc="e9f536e3" md5="e5ebf20605c4d93bb6f356552869663a" sha1="95b4b8c81a6288ba0d744c0aafcd5a4efd291002" sha256="980c4cad5c2a91daf6c60eb5ec985927075dc1f96d212756bef1722c82daa57e" serial="TLBD"/>
 	</game>
-	<game name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Europe) (De,Tr)" id="6239">
-		<description>Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Europe) (De,Tr)</description>
-		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Europe) (De,Tr).nds" size="16777216" crc="b72c9ffd" md5="2f10d6037b074c946f5446fce21b8b0a" sha1="001e9430407a513ca7cd256522da4adef1c7ec7b" sha256="47ff80081ac8195247a52192344f02b98c42e7d1eacc461ea4e70da24ec9a42e" serial="TLCD"/>
+	<game name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Germany) (De,Tr)" id="6239">
+		<category>Educational</category>
+		<category>Games</category>
+		<description>Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Germany) (De,Tr)</description>
+		<rom name="Lernerfolg Grundschule - Deutsch - Klasse 3+4 (Germany) (De,Tr).nds" size="16777216" crc="b72c9ffd" md5="2f10d6037b074c946f5446fce21b8b0a" sha1="001e9430407a513ca7cd256522da4adef1c7ec7b" sha256="47ff80081ac8195247a52192344f02b98c42e7d1eacc461ea4e70da24ec9a42e" serial="TLCD"/>
 	</game>
 	<game name="Lernerfolg Grundschule - Englisch (Germany) (Fr,De)" id="3163" cloneofid="3285">
 		<description>Lernerfolg Grundschule - Englisch (Germany) (Fr,De)</description>
@@ -20714,7 +20718,7 @@
 	</game>
 	<game name="Peter Jackson's King Kong - The Official Game of the Movie (Japan)" id="0446" cloneofid="0288">
 		<description>Peter Jackson's King Kong - The Official Game of the Movie (Japan)</description>
-		<rom name="Peter Jackson's King Kong - The Official Game of the Movie (Japan).nds" size="33554432" crc="79605fef" md5="04f7afce878a3e1ca41e400b1eeb2a74" sha1="3b7dd7bd24fcc872530dea3c0c17240cb28f9305" serial="AKQJ"/>
+		<rom name="Peter Jackson's King Kong - The Official Game of the Movie (Japan).nds" size="33554432" crc="79605fef" md5="04f7afce878a3e1ca41e400b1eeb2a74" sha1="3b7dd7bd24fcc872530dea3c0c17240cb28f9305" sha256="3c5a96c82cf1345ee7a6fa6c82466bdb8a4a0a81d1926b8038d6158e4f683680" serial="AKQJ"/>
 	</game>
 	<game name="Peter Pan's Playground (Europe)" id="3318">
 		<description>Peter Pan's Playground (Europe)</description>

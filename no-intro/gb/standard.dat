@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261007-123616</version>
+		<version>20261009-032944</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1193,6 +1193,7 @@
 		<rom name="Bubblemania (World) (v0.7) (Aftermarket) (Unl).gb" size="65536" crc="d969ed61" md5="e04adfd64cd859c338c938a1107fbb31" sha1="d6d136d6fff47b963f9ad77fe81434a50bcb59ca" sha256="197f27dda1bd50b9a105a576be85e8aa135ee8d056a8dcb7cd28ba9cdcdff5ac"/>
 	</game>
 	<game name="Bubsy II (World) (The Purrfect Collection)" id="2627" cloneofid="0183">
+		<category>Games</category>
 		<description>Bubsy II (World) (The Purrfect Collection)</description>
 		<rom name="Bubsy II (World) (The Purrfect Collection).gb" size="262144" crc="52436a3d" md5="3a26bd9e9e3bf4f52b4803934071f71d" sha1="1fb725f0ae0e63a218ef2c41e39aae2243d47282" sha256="cd83b88a2e04623353b208bd2398cc006d8743a332b9cbfd05828ec95bc21e8a"/>
 	</game>
