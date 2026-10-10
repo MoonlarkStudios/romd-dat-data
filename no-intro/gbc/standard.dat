@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261009-033015</version>
+		<version>20261009-221801</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -11363,6 +11363,11 @@
 		<category>Games</category>
 		<description>Yurivania III - Circle of the Polycule (World) (v1.4) (Aftermarket) (Unl)</description>
 		<rom name="Yurivania III - Circle of the Polycule (World) (v1.4) (Aftermarket) (Unl).gbc" size="2097152" crc="439b087f" md5="85e78f08c579b8c1d2e4c205a7711494" sha1="91178b5ba17e891060badf0c7681e6a76052de97" sha256="d16ee8b2467215d1a00ff4a14403d074dd94e121b36513684d6869c8c311bf5c"/>
+	</game>
+	<game name="Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl)" id="3013">
+		<category>Games</category>
+		<description>Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl)</description>
+		<rom name="Yurivania III - Circle of the Polycule (World) (v1.5) (Aftermarket) (Unl).gbc" size="2097152" crc="0ebd50fe" md5="9e679016b9d0e1e5a5039343b36a0a4d" sha1="59dd1d43576c56c8843df2307a5c2ae0ec5331f7" sha256="f368980c4192569a26c9eda9998af66481953a9b73d760ba102b871ad7513817"/>
 	</game>
 	<game name="Zagan Warrior (World) (Aftermarket) (Unl)" id="1971">
 		<description>Zagan Warrior (World) (Aftermarket) (Unl)</description>

@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20261006-193815</version>
+		<version>20261010-030508</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -373,7 +373,7 @@
 	<game name="Angry Birds Trilogy (USA) (En,Fr)" id="0498" cloneofid="0309">
 		<description>Angry Birds Trilogy (USA) (En,Fr)</description>
 		<game_id>00040000000AE200</game_id>
-		<rom name="Angry Birds Trilogy (USA) (En,Fr).3ds" size="268435456" crc="d02a1beb" md5="2626986dab08e0d807525c1335202371" sha1="e28d4c2454371c68171b91d1e41ba4818ef36f32" serial="CTR-P-ANGE"/>
+		<rom name="Angry Birds Trilogy (USA) (En,Fr).3ds" size="268435456" crc="d02a1beb" md5="2626986dab08e0d807525c1335202371" sha1="e28d4c2454371c68171b91d1e41ba4818ef36f32" sha256="6f2bc85a0c3f839932e6ed24bd3b3b80950bfcf525cc0a98a41dae44b82ec5fb" serial="CTR-P-ANGE"/>
 	</game>
 	<game name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)" id="1265" cloneofid="0309">
 		<description>Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)</description>
@@ -403,7 +403,7 @@
 	<game name="Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It)" id="0270">
 		<description>Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000086400</game_id>
-		<rom name="Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="a4d9e330" md5="df5c4e389b1ee2593cb0034f3a6f1093" sha1="b16d087db4fe4aa71f56c5bd74c8c0b389183305" status="verified" serial="CTR-P-EGDP"/>
+		<rom name="Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="a4d9e330" md5="df5c4e389b1ee2593cb0034f3a6f1093" sha1="b16d087db4fe4aa71f56c5bd74c8c0b389183305" sha256="c4363cd08b059fca54c3e40b3dc824edd1a2537b3da0994b83de292976058325" status="verified" serial="CTR-P-EGDP"/>
 	</game>
 	<game name="Animal Crossing - New Leaf (USA) (En,Fr,Es)" id="0493" cloneofid="0270">
 		<description>Animal Crossing - New Leaf (USA) (En,Fr,Es)</description>
@@ -458,7 +458,7 @@
 	<game name="Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl)" id="0312">
 		<description>Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000006A700</game_id>
-		<rom name="Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a54d7f42" md5="f6d3466d15153ada53a5be14b05dafa2" sha1="ba810e3cbab6299ed64a5efdaedc9b7cbc4ada82" serial="CTR-P-ARDP"/>
+		<rom name="Arcade Classics 3D (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="a54d7f42" md5="f6d3466d15153ada53a5be14b05dafa2" sha1="ba810e3cbab6299ed64a5efdaedc9b7cbc4ada82" sha256="bd9a47624764832648ad26e9a5901cc55c25be2f05c8692c5b67fd37c3cebe9b" status="verified" serial="CTR-P-ARDP"/>
 	</game>
 	<game name="Are You Smarter than a 5th Grader (USA)" id="1354">
 		<description>Are You Smarter than a 5th Grader (USA)</description>
@@ -1624,9 +1624,10 @@
 		<rom name="Cut the Rope - Triple Treat (USA) (En,Fr).3ds" size="268435456" crc="97d7c7bc" md5="24d629f1c54fac0544d8bd98ad22b216" sha1="1d48db66a3a89c93e6545ffa50d22f853f8a75b1" serial="CTR-P-BR3E"/>
 	</game>
 	<game name="Cut the Rope - Triple Treat (Europe) (En,Fr,De,Es,It)" id="0739">
+		<category>Games</category>
 		<description>Cut the Rope - Triple Treat (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000116700</game_id>
-		<rom name="Cut the Rope - Triple Treat (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="aee8c19d" md5="47a7ca983349d20f3aa0fdd3907cf60d" sha1="c5be8f6122574f40e1696a07e6e200a05a00099f" serial="CTR-P-BR3P"/>
+		<rom name="Cut the Rope - Triple Treat (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="aee8c19d" md5="47a7ca983349d20f3aa0fdd3907cf60d" sha1="c5be8f6122574f40e1696a07e6e200a05a00099f" sha256="9b9fb95c5ed3b282614f7d422ba28f98ce674aadd20fb123a38a718ee76e4e6c" status="verified" serial="CTR-P-BR3P"/>
 	</game>
 	<game name="Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan)" id="1304">
 		<description>Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan)</description>
@@ -1643,56 +1644,67 @@
 		<game_id>00040000000A0B00</game_id>
 		<rom name="Daigassou! Band Brothers P (Japan).3ds" size="1073741824" crc="bfd6b3e5" md5="b3269b2dd9b513bce379fcc4fa351793" sha1="55fc85b3cb97a7cb4eee2dc591e3f09faa4ad227" serial="CTR-P-ANEJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 6)" id="z081" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 6)" id="z081" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 6)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 6).3ds" size="2147483648" crc="d0400a3b" md5="d7f8548d899475e807c08e3e4f064810" sha1="32eba0606657b949218caa599e94b81c247dc0d3" sha256="0572259458e4b653fba68347ba116b6b2a6552bbb82341d2c9831fa7807b079f" status="verified" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan)" id="1031" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan)" id="1031" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan).3ds" size="2147483648" crc="061e5c31" md5="999682e119790e07eef067f40f67c3b6" sha1="1070f403a8b1f421e935c5b50dc403e93d6e6261" sha256="42431480569de5a9d780958e69f4b22af27252beacb76964bddd3fdfddcb93e5" status="verified" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)" id="1513" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)" id="1513" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1).3ds" size="2147483648" crc="058f40f0" md5="ce62d5c6aa6a2bc160d8c526db07e6fb" sha1="49e06c63f1070b476de17a34d6b86b3edb8de220" sha256="aca7f2ed3e9c981ffdd0faa0023e4ab4560b13ca5c27761c5c5d5dd80074459a" status="verified" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)" id="1555" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)" id="1555" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7).3ds" size="2147483648" crc="cb458cb4" md5="a77e023d8099872eac6a384d17a2add5" sha1="d31be41526da23d51dbf773341297d35f06a8535" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 3)" id="1655" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 3)" id="1655" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 3)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 3).3ds" size="2147483648" crc="805df86b" md5="e63d32f50bbea08ba9806a644ca64328" sha1="0fe3ab1e2ac81aec6d0b350e13f93abdee849c9b" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 10)" id="1704" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 10)" id="1704" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 10)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 10).3ds" size="2147483648" crc="7f3461d4" md5="9f2e2f985a418151f55b1c4d84c39b98" sha1="b6920a12dc73b6a0f96382bfabae5e9658c22e89" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 5)" id="1714" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 5)" id="1714" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 5)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 5).3ds" size="2147483648" crc="2dde4cb3" md5="c7a4656a5b53fb5d5b4df3a03d50e969" sha1="d370fd86c019ee30f987d30c1aa2b75ec72c6f57" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2)" id="z052" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2)" id="z052" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 2).3ds" size="2147483648" crc="0be41e32" md5="2613741deb5f060d55496dffac726fd4" sha1="b8e45342f255d28262c5ee4193f2c099320c54d7" sha256="43a9986723558df7665eb212055b99725f3a6d69a700756ed021717b2a3c93f2" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)" id="z053" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)" id="z053" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4)</description>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 4).3ds" size="2147483648" crc="c642cf4e" md5="ec05bd23a346b935f0462733d689160e" sha1="d5f311aeb4334a1a9644c6f38f31c6b0cfdf9c43" sha256="393e2abc4fc4be24945ab220ec43cbcff2cfa28227cdd420d2bc3b2780b20775" status="verified" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11)" id="z066" cloneofid="1049">
+	<game name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11)" id="z066" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11)</description>
 		<game_id>00040000000B8B00</game_id>
 		<rom name="Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 11).3ds" size="2147483648" crc="db92b640" md5="52026a8d01e6282127563c02897b619a" sha1="d7e4d183a9011fd1792c6b1c009038cd47d3a277" sha256="42a4c9bae800af26e570dd69a0777da54213caa22c917acbd2f96a6f5e016f12" serial="CTR-P-AXCJ"/>
 	</game>
-	<game name="Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja)" id="z040" cloneofid="1049">
+	<game name="Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja)" id="z040" cloneofid="z078">
+		<category>Games</category>
 		<description>Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja)</description>
 		<rom name="Dairantou Smash Brothers for Nintendo 3DS (Taiwan) (Ja).3ds" size="2147483648" crc="9f284172" md5="f690fd8ee93d294103aeadf436d0eb94" sha1="6eb7e0842fb10ec5798e3e9fceda866faf4255ff" sha256="54c9b875de1917325be420be8fa1db79dee2dc4165d3be115d076b8e8b29d195" status="verified" serial="CTR-P-AXCZ"/>
 	</game>
@@ -1805,12 +1817,14 @@
 		<game_id>0004000000091000</game_id>
 		<rom name="Devil Summoner - Soul Hackers (Japan).3ds" size="2147483648" crc="04902ea0" md5="941671edace9e52e8960662ec0c2281d" sha1="3d2320f6d27afb08d104108e77ad38b3dd9b8e83" serial="CTR-P-AHQJ"/>
 	</game>
-	<game name="Devil Survivor - Over Clock (Japan)" id="0769" cloneofid="0310">
+	<game name="Devil Survivor - Over Clock (Japan)" id="0769" cloneofid="z072">
+		<category>Games</category>
 		<description>Devil Survivor - Over Clock (Japan)</description>
 		<game_id>000400000004D900</game_id>
 		<rom name="Devil Survivor - Over Clock (Japan).3ds" size="2147483648" crc="b98a2ccf" md5="6b277eebee21ec456b04005ccb5376ae" sha1="4771fad018eeda684c5b2e7b93e0f0eb9ba09f42" serial="CTR-P-ADVJ"/>
 	</game>
-	<game name="Devil Survivor - Over Clock (Japan) (Rev 1)" id="1495" cloneofid="0310">
+	<game name="Devil Survivor - Over Clock (Japan) (Rev 1)" id="1495" cloneofid="z072">
+		<category>Games</category>
 		<description>Devil Survivor - Over Clock (Japan) (Rev 1)</description>
 		<game_id>000400000004D900</game_id>
 		<rom name="Devil Survivor - Over Clock (Japan) (Rev 1).3ds" size="2147483648" crc="dc11e6ce" md5="a39341b4b63b642e5079bbea40784792" sha1="a03a188056a66d22df971f8d94e01786ede8b1d6" serial="CTR-P-ADVJ"/>
@@ -2792,12 +2806,14 @@
 		<game_id>0004000000182500</game_id>
 		<rom name="Fireman Sam - To the Rescue (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="1ea27cec" md5="23bb719afa72a19a6fbeb2cdff25fe1d" sha1="8a490f6a34c50bdc6623ee8021c4d703108cfae7" sha256="1e744c969549a6a8d74db5c482521e501491b368477f3906cdebb2a00a982fcc" status="verified" serial="CTR-P-AFTP"/>
 	</game>
-	<game name="Fish Eyes 3D (Japan) (Rev 1)" id="1730" cloneofid="0282">
+	<game name="Fish Eyes 3D (Japan) (Rev 1)" id="1730" cloneofid="1867">
+		<category>Games</category>
 		<description>Fish Eyes 3D (Japan) (Rev 1)</description>
 		<game_id>0004000000049600</game_id>
 		<rom name="Fish Eyes 3D (Japan) (Rev 1).3ds" size="536870912" crc="3c15d6e8" md5="0059027a2015d99d3d983edc51df3f1f" sha1="2ea3625a71bc9474970e90211fa6dc1576816610" serial="CTR-P-ARFJ"/>
 	</game>
-	<game name="Fish Eyes 3D (Japan)" id="0943" cloneofid="0282">
+	<game name="Fish Eyes 3D (Japan)" id="0943" cloneofid="1867">
+		<category>Games</category>
 		<description>Fish Eyes 3D (Japan)</description>
 		<game_id>0004000000049600</game_id>
 		<rom name="Fish Eyes 3D (Japan).3ds" size="536870912" crc="c191fdea" md5="dee732d881addd3035ca687803ea37fe" sha1="e4302d00c2128fe2d65778f9c3e02de11eea101e" serial="CTR-P-ARFJ"/>
@@ -2941,21 +2957,25 @@
 		<rom name="Games Festival 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="66e63a04" md5="5cf8edc8105514c76a202645b4c6e797" sha1="99aabbbe21a9a485f9bccfe304498399bb406b5e" sha256="f4da5ec188d287a9256b8cdf941d1ea66f83968b655074dd424b3072b46012bb" status="verified" serial="CTR-P-AAFP"/>
 	</game>
 	<game name="Gardening Mama - Forest Friends (Europe) (En,Fr,De,Es,It)" id="1199">
+		<category>Games</category>
 		<description>Gardening Mama - Forest Friends (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000155C00</game_id>
-		<rom name="Gardening Mama - Forest Friends (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="0b658e27" md5="62e9229b0ac818cd6613325c794ca8d3" sha1="52aab7b24fcf117b1352cb4092a7f9b0aa07a827" serial="CTR-P-BGMP"/>
+		<rom name="Gardening Mama - Forest Friends (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="0b658e27" md5="62e9229b0ac818cd6613325c794ca8d3" sha1="52aab7b24fcf117b1352cb4092a7f9b0aa07a827" sha256="f34b2649514d04536112ed3c8aa6cf6608eec76e0c5315319e286a10b6e23890" status="verified" serial="CTR-P-BGMP"/>
 	</game>
 	<game name="Gardening Mama - Mama to Mori no Nakama-tachi (Japan)" id="0817" cloneofid="1199">
+		<category>Games</category>
 		<description>Gardening Mama - Mama to Mori no Nakama-tachi (Japan)</description>
 		<game_id>00040000000F4900</game_id>
 		<rom name="Gardening Mama - Mama to Mori no Nakama-tachi (Japan).3ds" size="268435456" crc="19692f61" md5="0ed98f5e3c097232a906e087e28e52b2" sha1="3fc10c81db020eecd4109bd470b2a4418cb90be5" serial="CTR-P-BGMJ"/>
 	</game>
 	<game name="Gardening Mama - Mamawa Sup Sok Chingudeul (Korea)" id="z116" cloneofid="1199">
+		<category>Games</category>
 		<description>Gardening Mama - Mamawa Sup Sok Chingudeul (Korea)</description>
 		<game_id>0004000000155E00</game_id>
 		<rom name="Gardening Mama - Mamawa Sup Sok Chingudeul (Korea).3ds" size="268435456" crc="d4dcca48" md5="48cf78a4259fd985620d4f8c2fd8198c" sha1="2f6a6af8cdec149be58128990896faeab61b0a8d" sha256="23742187a4ba2acb473cde4c9ea321acdc85fda29c60005eba9c9fec1bafdadf" serial="CTR-P-BGMK"/>
 	</game>
 	<game name="Gardening Mama 2 - Forest Friends (USA)" id="0910" cloneofid="1199">
+		<category>Games</category>
 		<description>Gardening Mama 2 - Forest Friends (USA)</description>
 		<game_id>000400000012D700</game_id>
 		<rom name="Gardening Mama 2 - Forest Friends (USA).3ds" size="268435456" crc="8e18a35b" md5="4e6b62a03648ef910010a03f347e891e" sha1="7eb67df0153a62bbc922a7a53a89dd61f180ba2b" serial="CTR-P-BGME"/>
@@ -3018,7 +3038,8 @@
 		<game_id>0004000000065900</game_id>
 		<rom name="Girls RPG - Cinderellife (Japan).3ds" size="536870912" crc="fccb89dd" md5="0ae701089a2af3acb2bd4c18a0f7184d" sha1="671f9c93684937277334782fca9ea47e384aec3f" serial="CTR-P-ACJJ"/>
 	</game>
-	<game name="Girls Style - Fashion Leader Seoneon! (Korea)" id="z157" cloneofid="0704">
+	<game name="Girls Style - Fashion Leader Seoneon! (Korea)" id="z157" cloneofid="1255">
+		<category>Games</category>
 		<description>Girls Style - Fashion Leader Seoneon! (Korea)</description>
 		<game_id>00040000000C4F00</game_id>
 		<game_id>CTR-P-ACLK</game_id>
@@ -3252,26 +3273,31 @@
 		<rom name="Harvest Moon 3D - The Lost Valley (USA).3ds" size="134217728" crc="4d6c9cde" md5="12979f33e07a3076621d7ae7b725c123" sha1="98287fb1bafbc31c55d26bb62682fde87da75bb7" serial="CTR-P-AVME"/>
 	</game>
 	<game name="Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 2)" id="1675" cloneofid="1684">
+		<category>Games</category>
 		<description>Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 2)</description>
 		<game_id>0004000000047900</game_id>
 		<rom name="Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 2).3ds" size="536870912" crc="f07e203c" md5="7a07c187f3ecb0e4342ec00bb317201a" sha1="089dcb01680650df534a62d73f603ab29800a300" serial="CTR-P-AT2E"/>
 	</game>
 	<game name="Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De) (Rev 1)" id="1684">
+		<category>Games</category>
 		<description>Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De) (Rev 1)</description>
 		<game_id>000400000007A300</game_id>
-		<rom name="Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De) (Rev 1).3ds" size="536870912" crc="20f75642" md5="89f1afa2f5ce10b8952318d744696cea" sha1="adb443698d9daa824245647f46031fa65c19a1d4" serial="CTR-P-AT2P"/>
+		<rom name="Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De) (Rev 1).3ds" size="536870912" crc="20f75642" md5="89f1afa2f5ce10b8952318d744696cea" sha1="adb443698d9daa824245647f46031fa65c19a1d4" sha256="b56995ad575ac8957e934b6247fc75afe0487c81d1ef5bba01e859326c7b3119" status="verified" serial="CTR-P-AT2P"/>
 	</game>
 	<game name="Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 1)" id="z061" cloneofid="1684">
+		<category>Games</category>
 		<description>Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 1)</description>
 		<game_id>0004000000047900</game_id>
 		<rom name="Harvest Moon 3D - The Tale of Two Towns (USA) (Rev 1).3ds" size="536870912" crc="f0ba9b15" md5="ecfb75be9b6b7b1bd53982400dd2ded5" sha1="6b8eef916afff38bccdcddc61137eb4062e81340" sha256="9ba0bddee24fdc3a6d9891669bc26cfd04b6e72301f155ee0f0f9d9725a1aac6" serial="CTR-P-AT2E"/>
 	</game>
 	<game name="Harvest Moon 3D - The Tale of Two Towns (USA)" id="0050" cloneofid="1684">
+		<category>Games</category>
 		<description>Harvest Moon 3D - The Tale of Two Towns (USA)</description>
 		<game_id>0004000000047900</game_id>
 		<rom name="Harvest Moon 3D - The Tale of Two Towns (USA).3ds" size="536870912" crc="bcd688b1" md5="1440659dee8393f015aa7542c7b82481" sha1="a87e6449f9b821df6231cf8df9d3150118c4f7f1" serial="CTR-P-AT2E"/>
 	</game>
 	<game name="Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De)" id="0337" cloneofid="1684">
+		<category>Games</category>
 		<description>Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De)</description>
 		<game_id>000400000007A300</game_id>
 		<rom name="Harvest Moon 3D - The Tale of Two Towns (Europe) (En,Fr,De).3ds" size="536870912" crc="f2eef7e9" md5="3642560016598e05a7d9cd66ec7a6caf" sha1="5fd69c90b6649201cd8445d319a1ed43e983d029" sha256="579a725875c15b84746753553e8ed651a6493a579aed55bd82140083fc6c404d" status="verified" serial="CTR-P-AT2P"/>
@@ -3472,12 +3498,14 @@
 		<game_id>0004000000121000</game_id>
 		<rom name="Hometown Story (Europe) (En,Fr,De).3ds" size="1073741824" crc="619b8a43" md5="f54c5064739890c1bd50b351c6b07edc" sha1="4133cbbe07aacc2d64cc037031c9d3c01215ede7" sha256="25a7babd12dcc7796e36150a70da8520241a2cbec370b8a20159875e94b2207c" status="verified" serial="CTR-P-AHXP"/>
 	</game>
-	<game name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1)" id="z213" cloneofid="1006">
+	<game name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1)" id="z213">
+		<category>Games</category>
 		<description>Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1)</description>
 		<game_id>000400000012A800</game_id>
 		<rom name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan) (Rev 1).3ds" size="536870912" crc="321a61d1" md5="89be7b525c9a90a3e995b1feedeb213a" sha1="3aa2502c3af539d049d3a2686ed6825a0a40133d" sha256="fa0c90d0d5c2bff2c208ecd57e9e6010bc6ad896fc01ad88260b4d40de559691" status="verified" serial="CTR-P-BH2J"/>
 	</game>
-	<game name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)" id="1006">
+	<game name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)" id="1006" cloneofid="z213">
+		<category>Games</category>
 		<description>Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)</description>
 		<game_id>000400000012A800</game_id>
 		<rom name="Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan).3ds" size="536870912" crc="fc93b019" md5="9e786e0730e0ca9f3e90a60fa21b930b" sha1="ebb8d08522d737f4e872ef564aee1508d341905b" serial="CTR-P-BH2J"/>
@@ -3899,22 +3927,26 @@
 		<game_id>0004000000060800</game_id>
 		<rom name="Jewel Pet - Mahou no Rhythm de Ieie! (Japan).3ds" size="134217728" crc="bac587c1" md5="48846a03f225ecbf175aeea59180e387" sha1="6151d28d54521013a2e1b0dd4d064950832bc7fe" sha256="ecd8f4c54d28f5e8451602705637d3e53a86499ef7f5e631f88c1747f972828f" serial="CTR-P-AJPJ"/>
 	</game>
-	<game name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z212" cloneofid="0879">
+	<game name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z212">
+		<category>Games</category>
 		<description>Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<game_id>000400000006CF00</game_id>
 		<rom name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="268435456" crc="d78e1f1d" md5="b087302b548d06cb154f2bcdbdfade0b" sha1="0203a4beefec0e6a5edcd9eeed9ddc245ff6f2ac" sha256="74e56ed80b1b2f49e04978ba4ce029490c3f40405799c7f0873196e76db89f09" serial="CTR-P-AJ6P"/>
 	</game>
-	<game name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl)" id="0879">
+	<game name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl)" id="0879" cloneofid="z212">
+		<category>Games</category>
 		<description>Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000006CF00</game_id>
 		<rom name="Jewel Quest - The Sapphire Dragon (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="b54bc38e" md5="0db4fbab7c1949fc68f67f1cd74d67eb" sha1="ca448876a7f8c8018dbf33d6ee8fc3481e53c805" status="verified" serial="CTR-P-AJ6P"/>
 	</game>
-	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl)" id="0592">
+	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl)" id="0592" cloneofid="z225">
+		<category>Games</category>
 		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000006CE00</game_id>
 		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="475ae0ad" md5="661aecfa9af0fd3f93a3cd64c84bc350" sha1="24459ae336c856e5c7d885ee94ad2253f6475b73" sha256="a271ef820c4f26faa80a95c63469e45ec480789b88b09aee80b3e65e688fc0e3" status="verified" serial="CTR-P-AJ4P"/>
 	</game>
-	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z225" cloneofid="0592">
+	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="z225">
+		<category>Games</category>
 		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<game_id>000400000006CE00</game_id>
 		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="fa4f3702" md5="fc7524faebb81c1d9eda94eda056f076" sha1="d042fe9d108b23bdf668f434d7b1724e19022309" sha256="0c0f85e80fb91a98fd2fa5b83e16d33fe17d2f37abd522f7e904877bea295fbd" status="verified" serial="CTR-P-AJ4P"/>
@@ -4269,7 +4301,7 @@
 		<game_id>0004000000152C00</game_id>
 		<rom name="Kouenji Joshi Soccer 3 - Koisuru Eleven Itsuka wa Heaven (Japan).3ds" size="536870912" crc="7c829085" md5="9476b36b2d6b54a4368aa729212a8299" sha1="bea2348675aa24dd9ae201fca5fedcb20c733ba9" serial="CTR-P-BKJJ"/>
 	</game>
-	<game name="Kuma Tomo (Japan) (Rev 1)" id="0665">
+	<game name="Kuma Tomo (Japan) (Rev 1)" id="0665" cloneofid="1538">
 		<description>Kuma Tomo (Japan) (Rev 1)</description>
 		<game_id>00040000000AC900</game_id>
 		<rom name="Kuma Tomo (Japan) (Rev 1).3ds" size="536870912" crc="60e9f4e9" md5="eaeb1cbb5edd556cc7e47b88fb0991f9" sha1="9c4e67229bd3856111c1f9ff2a2cef698169443d" status="verified" serial="CTR-P-AKMJ"/>
@@ -4344,7 +4376,8 @@
 		<game_id>00040000000C0200</game_id>
 		<rom name="Layton Kyouju to Choubunmei A no Isan (Japan).3ds" size="1073741824" crc="196c40f8" md5="882f19cb415ac6334148dce5a18b9ffb" sha1="df2a8bcfb8ea6ebfddf6de486023555102447560" sha256="afc9a59d496ef8bb8728b5a1482fbd1cc48fedbf61ba0f664c47c19dd458dc98" serial="CTR-P-AL6J"/>
 	</game>
-	<game name="Layton Kyouju to Kiseki no Kamen (Japan)" id="0064" cloneofid="0582">
+	<game name="Layton Kyouju to Kiseki no Kamen (Japan)" id="0064" cloneofid="z175">
+		<category>Games</category>
 		<description>Layton Kyouju to Kiseki no Kamen (Japan)</description>
 		<game_id>0004000000031F00</game_id>
 		<rom name="Layton Kyouju to Kiseki no Kamen (Japan).3ds" size="1073741824" crc="41698163" md5="9f6a65c6f9fe7e7490ae746ab6fec39f" sha1="2f99e3c13f392deb4613889138961639b88d77b2" sha256="e1fd39060e17db1f090d37312044bf1dd7e63def3af3c7148d7cde595421d7ca" serial="CTR-P-AKKJ"/>
@@ -4460,42 +4493,50 @@
 		<game_id>0004000000125600</game_id>
 		<rom name="Legend of Zelda, The - Majora's Mask 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="1073741824" crc="3a87abac" md5="4e18a5c0d8d635d7cc069d9a70cb476c" sha1="7b058bd36680b3cf0dc87f912354b2a920ad27fe" sha256="4b3274a70097f956df5394850f78bbfc1a688641d84fbdd7f0afe3ea38ae573d" status="verified" serial="CTR-P-AJRP"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1168" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<game_id>0004000000033600</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="536870912" crc="431bca88" md5="5b00b6143c5d43d25f186f455f23d982" sha1="43dc87494690361fab8846b5aa2946fb009470f4" sha256="e8b705bd5f9fad637f65ab4deca69683dfc642eb824cd5ee7fd7e5e7b2fe0d27" status="verified" serial="CTR-P-AQEP"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)" id="1259" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)" id="1259" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000033500</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="a689a053" md5="3f24013bcfa789f4d7fdab8e1ab3f4c1" sha1="50d6b33de7298d397fa9f0dde78f8b0f23256564" status="verified" serial="CTR-P-AQEE"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (Korea)" id="1519" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (Korea)" id="1519" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (Korea)</description>
 		<game_id>000400000008F800</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (Korea).3ds" size="536870912" crc="fe24edaf" md5="9dee1adac0da2446da336ef081df3bef" sha1="6c2a6f5129220ff884fe31fe000058828489f281" serial="CTR-P-AQEK"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It)" id="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It)" id="0004" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000033600</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="704f766d" md5="2d5e050996d10c0a4cbc317978b6c3fc" sha1="8a1875bd21a47fad2b6de2e20637376563077729" sha256="b14626b70330fe3c700d2472e3fb8377142418ab9e4f255bba5210053a3557fd" status="verified" serial="CTR-P-AQEP"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es)" id="0033" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es)" id="0033" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es)</description>
 		<game_id>0004000000033500</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es).3ds" size="536870912" crc="2ac8aa30" md5="0984d51928ce80623354c820c74f3a16" sha1="71d872eecd859b68153edbf12c19edfcead22c18" sha256="6510135ae6c385994fccdf525824abdf6be7aa473ed11ef5a07ff4601b7b3288" status="verified" serial="CTR-P-AQEE"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (Taiwan) (Tw, Cn Region Lock)" id="0230" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (Taiwan) (Tw, Cn Region Lock)" id="0230" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (Taiwan) (Tw, Cn Region Lock)</description>
 		<game_id>000400000008F900</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="2bded018" md5="ed99b6b7b72e9b3262e85cc418967145" sha1="6ad4ad1e6b3d5756f99960b55747ae80bc3cf720" serial="CTR-P-AQEW"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x002" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x002" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000057300</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="268435456" crc="8f8d00c5" md5="4a44e15cbc66a70da6ef1e724c75bd17" sha1="763764e7be8dd77183d9b28ad3156e39175cd374" status="verified" serial="CTR-B-AQEP"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x028" cloneofid="0004">
+	<game name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x028" cloneofid="1168">
+		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000057400</game_id>
 		<rom name="Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="177a6ff7" md5="a6ad17632939eda3f3cc57f1890f412f" sha1="b46518b88e3575225e2c1f8b7df5c7ae15d4b16e" sha256="dd30a67f0d5ed4d60885e40145560e3aebf6ae4791038dad4f39ae96b9d19857" status="verified" serial="CTR-B-AQEE"/>
@@ -4710,22 +4751,26 @@
 		<game_id>00040000000B5000</game_id>
 		<rom name="LEGO Le Seigneur des Anneaux (France) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="75aae4a7" md5="0e65c824f92d3a049704d522cc61cdee" sha1="f5baad25ef576a88d73a6e63804dbf278d7e3035" sha256="439a5aff1747a37ead06034087c78ce1ce196512625e8c662dca11231a1c6d8c" status="verified" serial="CTR-P-ALAF"/>
 	</game>
-	<game name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da)" id="0289">
+	<game name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da)" id="0289" cloneofid="1249">
+		<category>Games</category>
 		<description>LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
 		<game_id>00040000000AF700</game_id>
 		<rom name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da).3ds" size="536870912" crc="736f09e3" md5="6d0bed351e5733b7925e28d7ec859a21" sha1="0c02f6410458548a62b2a090695f6fca50c4f7da" sha256="ab10286a4c075e6ae5420b3474c9b3f3e3663a148c7be33c70533d3eb50684f5" status="verified" serial="CTR-P-APRP"/>
 	</game>
-	<game name="LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)" id="0599" cloneofid="0289">
+	<game name="LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)" id="0599" cloneofid="1249">
+		<category>Games</category>
 		<description>LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt)</description>
 		<game_id>00040000000AF800</game_id>
 		<rom name="LEGO Legends of Chima - Laval's Journey (USA) (En,Fr,Es,Pt).3ds" size="536870912" crc="b13ec11a" md5="31cc7940dce18a61dce68147e9953b8c" sha1="38244edf7219fe208bc993b5a63e9af75302dc89" serial="CTR-P-APRE"/>
 	</game>
-	<game name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)" id="1249" cloneofid="0289">
+	<game name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)" id="1249">
+		<category>Games</category>
 		<description>LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1)</description>
 		<game_id>00040000000AF700</game_id>
 		<rom name="LEGO Legends of Chima - Laval's Journey (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1).3ds" size="536870912" crc="5d2b2b30" md5="0eea5e02fe3af926fa1b4c2f31088231" sha1="c9cc0db8aaed2f724d716d1ea573e58dab38b2fe" sha256="a2571d26227f9b4d05f2b85ae97c79719539b8cfd9e80afe80bb59968fc0fec2" serial="CTR-P-APRP"/>
 	</game>
-	<game name="LEGO Legends of Chima - Lavalui Yeohaeng (Korea)" id="z112" cloneofid="0289">
+	<game name="LEGO Legends of Chima - Lavalui Yeohaeng (Korea)" id="z112" cloneofid="1249">
+		<category>Games</category>
 		<description>LEGO Legends of Chima - Lavalui Yeohaeng (Korea)</description>
 		<game_id>0004000000115E00</game_id>
 		<rom name="LEGO Legends of Chima - Lavalui Yeohaeng (Korea).3ds" size="536870912" crc="b98bcef4" md5="6e3eb5e51e1af399364ad5ce09863a88" sha1="884a64d80ffbabb7474b540421c788f7af16ecb8" sha256="5abb9fab6dba22e639bd7bed3ed5adf75e64fd83b62b4f701f54a389752b940c" serial="CTR-P-APRK"/>
@@ -4988,22 +5033,27 @@
 		<game_id>000400000017EE00</game_id>
 		<rom name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da) (Beta) (2016-04-17).3ds" size="536870912" crc="4c7d0589" md5="f23558650fdafe95e063c349036660ab" sha1="6a4aef8b748d4354956cf3ec0a1e86cc25a36189" sha256="45c74f12c400903050e557ef4b7366f9daa2832981ae9dacc7c87936d64f4aaf" serial="CTR-P-BLWF"/>
 	</game>
-	<game name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da)" id="0003">
+	<game name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da)" id="0003" cloneofid="0841">
+		<category>Games</category>
 		<description>LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da)</description>
 		<game_id>0004000000038C00</game_id>
 		<rom name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da).3ds" size="536870912" crc="b37fb646" md5="72899049c778c544609cb49a74f6db89" sha1="33f4be1b1bba1c372d1a8b95345488f79b95f54b" sha256="9976098dd3f907de670f9f99b471fedad9df32343904cbff1227596a837407ca" status="verified" serial="CTR-P-ALGP"/>
 	</game>
-	<game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es)" id="0075" cloneofid="0003">
+	<game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es)" id="0075" cloneofid="0841">
+		<category>Games</category>
 		<description>LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es)</description>
 		<game_id>0004000000035400</game_id>
 		<rom name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es).3ds" size="536870912" crc="57ee7186" md5="726f7fc0ecf96f55764d83e90cc74372" sha1="b53d2748e52af1f9eae8beed91fe94d94defe8a8" sha256="e1ad5fd725a4a1bb4bfc1572b2522b66c9affd4891d4e0c015f772345ceb4906" status="verified" serial="CTR-P-ALGE"/>
 	</game>
-	<game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x020" cloneofid="0003">
+	<game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x020" cloneofid="0841">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000038300</game_id>
 		<rom name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="536870912" crc="ac42305b" md5="c37b67eff1d3aad82bf9433439661948" sha1="03f86fb9309e3d789d27bce3b921c7962de7b431" serial="CTR-B-ALGE"/>
 	</game>
-	<game name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da) (Rev 1)" id="0841" cloneofid="0003">
+	<game name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da) (Rev 1)" id="0841">
+		<category>Games</category>
 		<description>LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da) (Rev 1)</description>
 		<game_id>0004000000038C00</game_id>
 		<rom name="LEGO Star Wars III - The Clone Wars (Europe) (En,Fr,De,Es,It,Da) (Rev 1).3ds" size="536870912" crc="55b2fcb7" md5="fdefc22d05e711f065d03bfc08c3befc" sha1="87e45a2b566bf3732b6f72cca755bf40f8cf5379" sha256="660d9ba1f75e0bba3ccb2e3c84e369d889ca1f927d715545958bc1c090f161ad" status="verified" serial="CTR-P-ALGP"/>
@@ -5163,17 +5213,19 @@
 		<game_id>00040000000C0100</game_id>
 		<rom name="Magi - Hajimari no Meikyuu (Japan).3ds" size="536870912" crc="f4f07cef" md5="635a03959488cf5c5eba07b1d8beb1b3" sha1="4d3959c651a39d638432086378b38db4d0a2f44e" serial="CTR-P-ALMJ"/>
 	</game>
-	<game name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es)" id="0168">
+	<game name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es)" id="0168" cloneofid="z224">
+		<category>Games</category>
 		<description>Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es)</description>
 		<game_id>0004000000064F00</game_id>
 		<rom name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es).3ds" size="134217728" crc="5572646c" md5="16ed9e57d573d865cdd47bc8bea74de5" sha1="ec13f5ee0bf64dbe9adaf6ca1eb2005b646acfaf" sha256="3ca2bb2ba60ca8f37631ac2f597525e3cd55f696c3c08d270f4370d4b97b19e0" status="verified" serial="CTR-P-AMZP"/>
 	</game>
-	<game name="Mahjong 3D - Warriors of the Emperor (USA)" id="0635" cloneofid="0168">
+	<game name="Mahjong 3D - Warriors of the Emperor (USA)" id="0635" cloneofid="z224">
+		<category>Games</category>
 		<description>Mahjong 3D - Warriors of the Emperor (USA)</description>
 		<game_id>000400000007A700</game_id>
 		<rom name="Mahjong 3D - Warriors of the Emperor (USA).3ds" size="134217728" crc="12969920" md5="d0a1cf8bc1b0471cad6cb3b412652066" sha1="d69223fd62868c4dc0b46f46a0bd36b18c412ee5" serial="CTR-P-AMZE"/>
 	</game>
-	<game name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es) (Rev 2)" id="z224" cloneofid="0168">
+	<game name="Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es) (Rev 2)" id="z224">
 		<category>Games</category>
 		<description>Mahjong 3D - Warriors of the Emperor (Europe) (En,Fr,De,Es) (Rev 2)</description>
 		<game_id>0004000000064F00</game_id>
@@ -5249,27 +5301,33 @@
 		<game_id>00040000001D1500</game_id>
 		<rom name="Mario &amp; Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="9e6168d5" md5="10994ba3ebbf087bfa64519c3a1fa9ae" sha1="500e6a7037a9a4d4e4a38c315e2a3f31c4e315e8" sha256="538f1dbb6d85e6d010f2e4cc9af5e48e7710bdce5e973d7ec12ff91281e43ced" status="verified" serial="CTR-P-A3RP"/>
 	</game>
-	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1)" id="1672" cloneofid="0295">
+	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1)" id="1672" cloneofid="1462">
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>00040000000D5A00</game_id>
 		<rom name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1).3ds" size="1073741824" crc="5c5eb548" md5="7be1494691babcd3c20708e723dc060e" sha1="57bc840c14c712dc56df1037d52a4d269048dbea" serial="CTR-P-AYME"/>
 	</game>
-	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es)" id="0485" cloneofid="0295">
+	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es)" id="0485" cloneofid="1462">
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es)</description>
 		<game_id>00040000000D5A00</game_id>
 		<rom name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es).3ds" size="1073741824" crc="788ca78f" md5="c68a85fb2afca682db668113ae8e6dda" sha1="c8e135b9141127dab4210200972c64c820a4dafa" sha256="f1a045d1ff4db96badb1df1f92ad55743bb99ffd32602994040f08e470026fa3" status="verified" serial="CTR-P-AYME"/>
 	</game>
-	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x015" cloneofid="0295">
+	<game name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x015" cloneofid="1462">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000104D00</game_id>
 		<rom name="Mario &amp; Luigi - Dream Team (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="2083f25f" md5="78c00334ca5ed79856c56432d5b7c810" sha1="99f16ed1a88dd67240a42a0d95f1925c632a9993" serial="CTR-B-AYME"/>
 	</game>
-	<game name="Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0295">
+	<game name="Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0295" cloneofid="1462">
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>00040000000D9000</game_id>
 		<rom name="Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="1073741824" crc="429900aa" md5="1689613e0932b5875e41d7c268724e40" sha1="f03a20b34aabd9ba0b13582e2cbce3e15d475be2" sha256="62ce7426d35c35c0a18a6143ab916a8a3446990e88e2e5fa03d88885735cfbfc" status="verified" serial="CTR-P-AYMP"/>
 	</game>
-	<game name="Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1462" cloneofid="0295">
+	<game name="Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1462">
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>00040000000D9000</game_id>
 		<rom name="Mario &amp; Luigi - Dream Team Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="1073741824" crc="d85e7b05" md5="1add12f281182f3a7a2ca8ca33c26acc" sha1="2eaadbe70f07ebd607643f01255fa4d362691f19" serial="CTR-P-AYMP"/>
@@ -5285,6 +5343,8 @@
 		<rom name="Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="1073741824" crc="78f65e61" md5="f65751bcd0f929e2945a680208572e71" sha1="51eb05b745ac03506af87e30c89766c598831978" sha256="5a527402dc0429f7bf0bf1f440a8d926a8ff50f52108f6c5f6f1755e5024aafe" status="verified" serial="CTR-P-AYNP"/>
 	</game>
 	<game name="Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x044" cloneofid="1410">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>000400000018A100</game_id>
 		<rom name="Mario &amp; Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="536870912" crc="ee161cb2" md5="a2b7315296a6c73f0daa408fe8a7f5fc" sha1="6021e0e6ebbb9b57f2feefb881f8b2d214441bb9" serial="CTR-B-AYNP"/>
@@ -5319,13 +5379,14 @@
 		<game_id>0004000000188900</game_id>
 		<rom name="Mario &amp; Luigi RPG - Paper Mario MIX (Korea).3ds" size="536870912" crc="e852d7d9" md5="8aed9eae2acaa8c46e7ffcc90f13059d" sha1="08d77342edbf8a6b886bf77e5355a3145e6908d4" sha256="5e19594e2d0fdd507b5f52ddf86d83697e59833c0dfa05790c3a41ac482512d2" serial="CTR-P-AYNK"/>
 	</game>
-	<game name="Mario &amp; Luigi RPG 4 - Dream Adventure (Korea)" id="z100" cloneofid="0295">
+	<game name="Mario &amp; Luigi RPG 4 - Dream Adventure (Korea)" id="z100" cloneofid="1462">
 		<category>Games</category>
 		<description>Mario &amp; Luigi RPG 4 - Dream Adventure (Korea)</description>
 		<game_id>00040000000FCD00</game_id>
 		<rom name="Mario &amp; Luigi RPG 4 - Dream Adventure (Korea).3ds" size="1073741824" crc="de13e58e" md5="ffbd80922fb0cdb258c40f20e770b907" sha1="493e21d5f9d509bc7bbe06d1bd9397b3b226cce6" sha256="17510010b4b08bac2225fbaf27d9c3c5d1c947de72bdefe9074cd53d9cc3f115" serial="CTR-P-AYMK"/>
 	</game>
-	<game name="Mario &amp; Luigi RPG 4 - Dream Adventure (Japan)" id="0701" cloneofid="0295">
+	<game name="Mario &amp; Luigi RPG 4 - Dream Adventure (Japan)" id="0701" cloneofid="1462">
+		<category>Games</category>
 		<description>Mario &amp; Luigi RPG 4 - Dream Adventure (Japan)</description>
 		<game_id>0004000000060600</game_id>
 		<rom name="Mario &amp; Luigi RPG 4 - Dream Adventure (Japan).3ds" size="1073741824" crc="6b9d5277" md5="834e0f9a1aaf4c2a5fb5b0a8e32fbabd" sha1="347a0892dc49fa61eec4543217c93407a4470f49" serial="CTR-P-AYMJ"/>
@@ -5376,6 +5437,8 @@
 		<rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (En,Fr,De,Es,It,Nl).3ds" size="1073741824" crc="0f74d05a" md5="5c3b2fa0fe3e22fa60536ce628e384ca" sha1="d3158c7e06bcaf655a2159dc56b489753aa9a975" serial="CTR-P-BGXP"/>
 	</game>
 	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (Demo) (Kiosk)" id="x048" cloneofid="1473">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (Demo) (Kiosk)</description>
 		<game_id>0004000000192400</game_id>
 		<rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (Demo) (Kiosk).3ds" size="536870912" crc="841ecaaf" md5="4c807fabbde9da57eebb8621a92eb3e9" sha1="f509ce9cdcbf11eadd1c717997de9b97c36968f0" serial="CTR-B-BGXP"/>
@@ -5405,62 +5468,76 @@
 		<game_id>00040000000DCD00</game_id>
 		<rom name="Mario Golf - World Tour (USA) (En,Fr,Es).3ds" size="1073741824" crc="2e519f45" md5="20e7c4f7d281f228e74d094a7574db05" sha1="a7eedaeda553208ffda162c26ec17cbd9b5c0d35" sha256="d3f2ddb6b8b9577a54c85636ed491470627104ee8eb25d61f92fb547cd3aff03" status="verified" serial="CTR-P-AJ3E"/>
 	</game>
-	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0016">
+	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0016" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>0004000000030700</game_id>
 		<rom name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="1073741824" crc="c1de31d8" md5="12bc55d066ef27764c43789d829e5fc3" sha1="6b37984e099d7f9bd940c9d4eb6138f5170c44d8" sha256="1cd4168fcc7c4222f3587b8e0d05b930f05be1bcb41b38e5d958f2b702733ac0" status="verified" serial="CTR-P-AMKP"/>
 	</game>
-	<game name="Mario Kart 7 (USA) (En,Fr,Es)" id="0040" cloneofid="0016">
+	<game name="Mario Kart 7 (USA) (En,Fr,Es)" id="0040" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (USA) (En,Fr,Es)</description>
 		<game_id>0004000000030800</game_id>
 		<rom name="Mario Kart 7 (USA) (En,Fr,Es).3ds" size="1073741824" crc="ed9d4190" md5="28d497a1cb7cfb225d7a4cc0c01d68e3" sha1="858f85ef67dd996a9f8f56b84d1c2cc4ee369dde" sha256="78b38322fb08a61e6b65bdfa994c6dbca0f1aede826941590031f746f8d09135" status="verified" serial="CTR-P-AMKE"/>
 	</game>
-	<game name="Mario Kart 7 (Japan)" id="0211" cloneofid="0016">
+	<game name="Mario Kart 7 (Japan)" id="0211" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Japan)</description>
 		<game_id>0004000000030600</game_id>
 		<rom name="Mario Kart 7 (Japan).3ds" size="1073741824" crc="c9b8bf28" md5="3226378670c82806bc694fad77a1fc07" sha1="10fb0da461efb717b31e377490f348770a817399" serial="CTR-P-AMKJ"/>
 	</game>
-	<game name="Mario Kart 7 (Taiwan)" id="0228" cloneofid="0016">
+	<game name="Mario Kart 7 (Taiwan)" id="0228" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Taiwan)</description>
 		<game_id>000400000008B400</game_id>
 		<rom name="Mario Kart 7 (Taiwan).3ds" size="1073741824" crc="b0b98e02" md5="1f794fde6037b8a16195e1bbe3b1142f" sha1="6a7efcf157569e000b92cc437b7e2f365784dbaa" serial="CTR-P-AMKW"/>
 	</game>
-	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x003" cloneofid="0016">
+	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x003" cloneofid="0762">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000081600</game_id>
 		<rom name="Mario Kart 7 (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="134217728" crc="01d4c440" md5="492fb7895f1edd62377d50fa466824df" sha1="99fbffc13b3f6546dabe9765a86935c704918ae0" serial="CTR-B-AMKP"/>
 	</game>
-	<game name="Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x017" cloneofid="0016">
+	<game name="Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x017" cloneofid="0762">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000081500</game_id>
 		<rom name="Mario Kart 7 (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="134217728" crc="bfbb4b66" md5="b278671231a8a3c4e35f92a7fb3d3561" sha1="377d6c71740796d9fc1d5bea0fc64c7abed0db5c" sha256="11b95317e146a95629127ac1a170767da0e7ac16c0014dff143e13e801a5bbda" serial="CTR-B-AMKE"/>
 	</game>
-	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="0762" cloneofid="0016">
+	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000030700</game_id>
 		<rom name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="1073741824" crc="c6f90629" md5="d3d4c8717ba0efaf627bf8664a5b6a39" sha1="903878c3d56b752e8e9ee4187d8d85c19250b8da" sha256="fdf4e4dd29f621871077166f8ac621e05422fa1bf1b242ac6ddde68a1816f1ca" status="verified" serial="CTR-P-AMKP"/>
 	</game>
-	<game name="Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)" id="0852" cloneofid="0016">
+	<game name="Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)" id="0852" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000030800</game_id>
 		<rom name="Mario Kart 7 (USA) (En,Fr,Es) (Rev 1).3ds" size="1073741824" crc="7c332cd9" md5="f0dc677f77c49375d6053878ec15728d" sha1="bde5e5b0a197fb30af9dbb92fb547acd8bb6ce00" sha256="6b378a54eb154c174d91c38a0337c931410bc1eee7ce5e857ee1ac6b68cbc65c" status="verified" serial="CTR-P-AMKE"/>
 	</game>
-	<game name="Mario Kart 7 (Japan) (Rev 2)" id="1164" cloneofid="0016">
+	<game name="Mario Kart 7 (Japan) (Rev 2)" id="1164" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Japan) (Rev 2)</description>
 		<game_id>0004000000030600</game_id>
 		<rom name="Mario Kart 7 (Japan) (Rev 2).3ds" size="1073741824" crc="1a8ed81c" md5="72a5df66eb2100f8e39d66ed01658b53" sha1="43f85fd8b7e93c01fa86a29370721c27c74f4edd" serial="CTR-P-AMKJ"/>
 	</game>
-	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1321" cloneofid="0016">
+	<game name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1321" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>0004000000030700</game_id>
 		<rom name="Mario Kart 7 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="1073741824" crc="eb2d7677" md5="90036a80fe81f27650c01d9274f82ef8" sha1="1d7e1c8746d4209950cf289186bce07ede712609" serial="CTR-P-AMKP"/>
 	</game>
-	<game name="Mario Kart 7 (Japan) (Rev 1)" id="1715" cloneofid="0016">
+	<game name="Mario Kart 7 (Japan) (Rev 1)" id="1715" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Japan) (Rev 1)</description>
 		<game_id>0004000000030600</game_id>
 		<rom name="Mario Kart 7 (Japan) (Rev 1).3ds" size="1073741824" crc="bdfbe04d" md5="c1f6bbf506b1380c7e63a59dce69ae4d" sha1="18dbd15b549f9db0e12739cb6a68e9fe2157834c" serial="CTR-P-AMKJ"/>
 	</game>
-	<game name="Mario Kart 7 (Korea)" id="z031" cloneofid="0016">
+	<game name="Mario Kart 7 (Korea)" id="z031" cloneofid="0762">
+		<category>Games</category>
 		<description>Mario Kart 7 (Korea)</description>
 		<game_id>0004000000030A00</game_id>
 		<rom name="Mario Kart 7 (Korea).3ds" size="1073741824" crc="fc5dec6d" md5="1256a43ae8e562ba9119e5aa3a075b77" sha1="9076ed4b01ff86e5273878c1a419f1bd3a6e2253" sha256="5c4128fba109d2eabc667e01e2019f9aa44c9e3ba3ef002571d36d0816a56c36" serial="CTR-P-AMKK"/>
@@ -5541,52 +5618,64 @@
 		<game_id>CTR-P-AUNK</game_id>
 		<rom name="Mario Sports Superstars (Korea).3ds" size="1073741824" crc="c997a5be" md5="7edc5a0457acd2b3867bad604fffe4e1" sha1="f8a606799887a27a9e675823f68cfdf1767d254f" sha256="d43ae1417490600f0a0de37bb8b3b9145a1deaa95306e8fe2b0af07cdded6fa2" serial="CTR-P-AUNK"/>
 	</game>
-	<game name="Mario Tennis Open (Korea)" id="z104" cloneofid="0185">
+	<game name="Mario Tennis Open (Korea)" id="z104" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (Korea)</description>
 		<game_id>00040000000B8800</game_id>
 		<rom name="Mario Tennis Open (Korea).3ds" size="536870912" crc="6e3b4cc1" md5="c1b9bb9b9743028a51d0049f98a0542c" sha1="42e01f3151b7d859e25984d337975c2f2694724c" sha256="5f65b95c4265072f7f917be39e683b6ce9cd56ac0f68b8c830fb8f78b905b44b" serial="CTR-P-AGAK"/>
 	</game>
-	<game name="Mario Tennis Open (USA) (Demo) (Kiosk)" id="x039" cloneofid="0185">
+	<game name="Mario Tennis Open (USA) (Demo) (Kiosk)" id="x039" cloneofid="1446">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario Tennis Open (USA) (Demo) (Kiosk)</description>
 		<game_id>00040000000A2400</game_id>
 		<rom name="Mario Tennis Open (USA) (Demo) (Kiosk).3ds" size="134217728" crc="ec6d6a32" md5="49fecb26a294c16b342f837fe0544ebe" sha1="deed957a2b60e3c440e8a9980931ef30c203bcd3" sha256="06ebd07f88078b51efd9c18460b7ddb77520cfbbdb5ce1f52afe7aa98366c250" serial="CTR-B-AGAE"/>
 	</game>
-	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1446" cloneofid="0185">
+	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>000400000007C800</game_id>
 		<rom name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="2f482c43" md5="899500f31a3b94e85d015f650af7c178" sha1="a188921d99b09a81794170c7a403a08f9f05a246" sha256="8dfafb0236eb0befdfbfffc48bf94e90be6c33cd0bfa992ccf04c10df22eecba" status="verified" serial="CTR-P-AGAP"/>
 	</game>
-	<game name="Mario Tennis Open (USA) (En,Fr,Es)" id="1673" cloneofid="0185">
+	<game name="Mario Tennis Open (USA) (En,Fr,Es)" id="1673" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (USA) (En,Fr,Es)</description>
 		<game_id>000400000007C700</game_id>
 		<rom name="Mario Tennis Open (USA) (En,Fr,Es).3ds" size="536870912" crc="d878bafa" md5="f2a06cf19e66adfcd9b87d2fa6884305" sha1="2fcf22168416d73b367879f31353776efbf12dbe" status="verified" serial="CTR-P-AGAE"/>
 	</game>
-	<game name="Mario Tennis Open (Japan) (Rev 1)" id="1548" cloneofid="0185">
+	<game name="Mario Tennis Open (Japan) (Rev 1)" id="1548" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (Japan) (Rev 1)</description>
 		<game_id>0004000000064D00</game_id>
 		<rom name="Mario Tennis Open (Japan) (Rev 1).3ds" size="536870912" crc="452f132f" md5="8f581cf406fdee8bb7ae6d52fcc77481" sha1="c9644feda73f2e97f914576f92090bfa635e4af1" serial="CTR-P-AGAJ"/>
 	</game>
-	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0185">
+	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0185" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>000400000007C800</game_id>
 		<rom name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="721a6a0e" md5="042a1b419c386541bb716b8bff15b943" sha1="5d16cafdca155eb251f4e3573c0312570f15fa0c" sha256="50201ce82801fb473ce53d65712ddcd1419faf5024f56b031cd3c90b3148fea3" status="verified" serial="CTR-P-AGAP"/>
 	</game>
-	<game name="Mario Tennis Open (USA) (En,Fr,Es) (Rev 1)" id="0257" cloneofid="0185">
+	<game name="Mario Tennis Open (USA) (En,Fr,Es) (Rev 1)" id="0257" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>000400000007C700</game_id>
 		<rom name="Mario Tennis Open (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="8471d08a" md5="d6bdbe3aa9a906ba6d9b1831e9db8c7a" sha1="b5364dcef3e663124fb375e84f5de5e1383c8f0a" serial="CTR-P-AGAE"/>
 	</game>
-	<game name="Mario Tennis Open (Taiwan) (Tw, Cn Region Lock)" id="0379" cloneofid="0185">
+	<game name="Mario Tennis Open (Taiwan) (Tw, Cn Region Lock)" id="0379" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (Taiwan) (Tw, Cn Region Lock)</description>
 		<game_id>00040000000B9100</game_id>
 		<rom name="Mario Tennis Open (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="5b8f7519" md5="7dbffe431ca1ae9701f202565be38d7d" sha1="6bf8601aa478b17699d4dd9d85f74524738a6ff8" serial="CTR-P-AGAW"/>
 	</game>
-	<game name="Mario Tennis Open (Japan)" id="0679" cloneofid="0185">
+	<game name="Mario Tennis Open (Japan)" id="0679" cloneofid="1446">
+		<category>Games</category>
 		<description>Mario Tennis Open (Japan)</description>
 		<game_id>0004000000064D00</game_id>
 		<rom name="Mario Tennis Open (Japan).3ds" size="536870912" crc="c80fd41a" md5="5def4631a221c89d174a455def6673dc" sha1="aaaa14144a4cfd599e1024a25e43a6715ff2f39b" serial="CTR-P-AGAJ"/>
 	</game>
-	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk)" id="x024" cloneofid="0185">
+	<game name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk)" id="x024" cloneofid="1446">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk)</description>
 		<game_id>00040000000A2500</game_id>
 		<rom name="Mario Tennis Open (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo) (Kiosk).3ds" size="134217728" crc="3ae016ae" md5="8853d2cd8f62c81a346ff6781e34ed2f" sha1="1a41c4621580b4b499c4faa42e9a3d79a78318f1" serial="CTR-B-AGAP"/>
@@ -5897,22 +5986,26 @@
 		<game_id>000400000016DA00</game_id>
 		<rom name="Monster High - New Ghoul in School (USA).3ds" size="268435456" crc="968dbe0f" md5="278b43b48609e469d7017e7e7d18c08a" sha1="1132669662463572466f1278d1c2c0e40b28ec09" sha256="7d1e2aa231f2c5b4ad42b0025edaa83c54252d515c232b05488d89f7f299a8b5" serial="CTR-P-BMSE"/>
 	</game>
-	<game name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1)" id="1341" cloneofid="0306">
+	<game name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1)" id="1341">
+		<category>Games</category>
 		<description>Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1)</description>
 		<game_id>00040000000C8D00</game_id>
 		<rom name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rev 1).3ds" size="134217728" crc="b2888491" md5="750ba1c5e6272c15936808535cd45fc6" sha1="6b2c668d521b520fd3596cae5e5546ee6bb787e4" sha256="e6b79461aef9a79702a37970095fb80f92fd893f636a5a817d5f288f5e3ac5bc" status="verified" serial="CTR-P-AH5P"/>
 	</game>
-	<game name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es) (Rev 1)" id="z014" cloneofid="0306">
+	<game name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es) (Rev 1)" id="z014" cloneofid="1341">
+		<category>Games</category>
 		<description>Monster High - Skultimate Roller Maze (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>00040000000AAB00</game_id>
 		<rom name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es) (Rev 1).3ds" size="134217728" crc="5e303ecd" md5="dcaf58508564f92a9ce54f2937229c03" sha1="6e0a6ca38efa6a44402e05e235db53bbf3800efc" sha256="2fe322b1765e93c65c7c5fd59ac4d0055e4efbe59dea2e1ebe176bc608091bf2" status="verified" serial="CTR-P-AH5E"/>
 	</game>
-	<game name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0306">
+	<game name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" id="0306" cloneofid="1341">
+		<category>Games</category>
 		<description>Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
 		<game_id>00040000000C8D00</game_id>
 		<rom name="Monster High - Skultimate Roller Maze (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).3ds" size="134217728" crc="5ce427ac" md5="20c1eb672bb8517a242b6029dff24cde" sha1="ae8b96ba22c16f5ade7d5da376f6e32e74e904fe" sha256="e93cd8d680e86b48cf822f6d38f99ffb7b7e9c32d7c10028a25647f9e37972a8" status="verified" serial="CTR-P-AH5P"/>
 	</game>
-	<game name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)" id="0629" cloneofid="0306">
+	<game name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)" id="0629" cloneofid="1341">
+		<category>Games</category>
 		<description>Monster High - Skultimate Roller Maze (USA) (En,Fr,Es)</description>
 		<game_id>00040000000AAB00</game_id>
 		<rom name="Monster High - Skultimate Roller Maze (USA) (En,Fr,Es).3ds" size="134217728" crc="d526ab24" md5="96870c63132a4a790dcb560a7563a152" sha1="0122f05009a7f9dadf6af2a172a0341fedf2c3f7" sha256="54ad24f7e1bbcc4c0c825a14f4dcb10d6f226618382c5448c107ef316a8b5e7a" serial="CTR-P-AH5E"/>
@@ -5988,6 +6081,8 @@
 		<rom name="Monster Hunter Generations (USA).3ds" size="2147483648" crc="fc9ba342" md5="ecee415b0092476d4eadbbec3b692fce" sha1="145af9eb59db998466b18d34f88003749d87995c" serial="CTR-P-BXXE"/>
 	</game>
 	<game name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x051" cloneofid="1545">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000196400</game_id>
 		<rom name="Monster Hunter Generations (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="536870912" crc="0e7f3581" md5="44701d52159667310c50279c5bcbbe06" sha1="ee51fafb0167dde27d78b7fcdf9f10dc15761a43" serial="CTR-B-BXXP"/>
@@ -6077,27 +6172,32 @@
 		<game_id>00040000000C7500</game_id>
 		<rom name="My Farm 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).3ds" size="134217728" crc="b4bdb0db" md5="c3e3163c329f496c5c246528d046e791" sha1="54657b5c465d3ebe5c9e95a946c98e62788bf614" sha256="ae6e707d742c8d60a9477c3a10fcd211589d41320a1a2db82056badbb974ef63" status="verified" serial="CTR-P-ANJP"/>
 	</game>
-	<game name="My Foal 3D (Europe) (En,Fr,De,Es,It)" id="0296" cloneofid="0799">
+	<game name="My Foal 3D (Europe) (En,Fr,De,Es,It)" id="0296" cloneofid="1046">
+		<category>Games</category>
 		<description>My Foal 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000073C00</game_id>
-		<rom name="My Foal 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="abc49784" md5="5fb33ad4c369235edb8d8c6de32a271c" sha1="9c24163be5605b9b33d4ced1b3db81d917e95a9c" serial="CTR-P-AM3Z"/>
+		<rom name="My Foal 3D (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="abc49784" md5="5fb33ad4c369235edb8d8c6de32a271c" sha1="9c24163be5605b9b33d4ced1b3db81d917e95a9c" sha256="bb1883045a5b5c7881d44434300b446d2b80e4d03f619594a8544ec6f12da537" status="verified" serial="CTR-P-AM3Z"/>
 	</game>
-	<game name="My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)" id="1046" cloneofid="0799">
+	<game name="My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)" id="1046">
+		<category>Games</category>
 		<description>My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)</description>
 		<game_id>0004000000073C00</game_id>
 		<rom name="My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).3ds" size="134217728" crc="b3919bd8" md5="b4be2ffa4a1b861311043aeb0cf60bca" sha1="89336080d1aac50396e24ba8be64dd9aecd616b2" sha256="dfcdc55349a2220f962f079ec8af6416f63638879b815967ae3191f9370e2bcd" status="verified" serial="CTR-P-AM3Z"/>
 	</game>
-	<game name="My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="1250" cloneofid="0799">
+	<game name="My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="1250" cloneofid="1046">
+		<category>Games</category>
 		<description>My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<game_id>0004000000073C00</game_id>
 		<rom name="My Foal 3D (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="134217728" crc="a19743ce" md5="adb64cdd334da85fac02508369f96402" sha1="65b5ba40a9735c91c9b3f88234c7b6ee42d38baa" status="verified" serial="CTR-P-AM3Z"/>
 	</game>
-	<game name="My Life on a Farm 3D (Europe) (En,Fr,De,It)" id="1121">
+	<game name="My Life on a Farm 3D (Europe) (En,Fr,De,It)" id="1121" cloneofid="1369">
+		<category>Games</category>
 		<description>My Life on a Farm 3D (Europe) (En,Fr,De,It)</description>
 		<game_id>000400000014A000</game_id>
 		<rom name="My Life on a Farm 3D (Europe) (En,Fr,De,It).3ds" size="134217728" crc="e41f9c55" md5="2ca5f900ffb74d12811c45718c29164c" sha1="c220147944dc09d212739960096f99109241394e" sha256="41adf8794a6b499d1f5dc227aadbff58fe8932d5c0771d27f9b3bd876798956a" status="verified" serial="CTR-P-BHFP"/>
 	</game>
-	<game name="My Life on a Farm 3D (Europe) (En,Fr,De,It,Nl) (Rev 1)" id="1369" cloneofid="1121">
+	<game name="My Life on a Farm 3D (Europe) (En,Fr,De,It,Nl) (Rev 1)" id="1369">
+		<category>Games</category>
 		<description>My Life on a Farm 3D (Europe) (En,Fr,De,It,Nl) (Rev 1)</description>
 		<game_id>000400000014A000</game_id>
 		<rom name="My Life on a Farm 3D (Europe) (En,Fr,De,It,Nl) (Rev 1).3ds" size="268435456" crc="b535deaa" md5="9d0a71262831ad82c1d9fef6931f4a79" sha1="29e55e4a6fb1fd5d2d44a3b97e536482507f4dbd" sha256="f7f994f1b8e56a1822f4d2ae8b335c5c3dc3420cb170462238525f2a2f9b6b7b" status="verified" serial="CTR-P-BHFP"/>
@@ -6267,12 +6367,14 @@
 		<game_id>000400000015EE00</game_id>
 		<rom name="Navy Commander (Europe) (En,Fr,De,Es,It,Nl).3ds" size="134217728" crc="d2d3a5dc" md5="a83563fdfd8c0128451b39d599b8618f" sha1="c3f496561a6eea7c78d237cbcdfdc1435ec27ad9" sha256="cd25e4af8b9beb63efbc5dd0c86fa803c70899ff6a2333eff79ec830b0593ec2" status="verified" serial="CTR-P-BNCP"/>
 	</game>
-	<game name="Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan) (Rev 1)" id="1497" cloneofid="0691">
+	<game name="Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan) (Rev 1)" id="1497">
+		<category>Games</category>
 		<description>Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan) (Rev 1)</description>
 		<game_id>0004000000053200</game_id>
 		<rom name="Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan) (Rev 1).3ds" size="1073741824" crc="04263a08" md5="f722bf43f74daad93e0e6042f8d549ca" sha1="0adbe8973109abe5a32c8b1a30fd698b1573caee" serial="CTR-P-ANWJ"/>
 	</game>
-	<game name="Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan)" id="0691">
+	<game name="Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan)" id="0691" cloneofid="1497">
+		<category>Games</category>
 		<description>Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan)</description>
 		<game_id>0004000000053200</game_id>
 		<rom name="Nazo Waku Yakata - Oto no Ma ni Ma ni (Japan).3ds" size="1073741824" crc="411f2771" md5="5a82e2985aa1aa10bf1a73fe65247dd5" sha1="f369210433b68b502f75d0ba56535b20edebcc27" serial="CTR-P-ANWJ"/>
@@ -6465,12 +6567,14 @@
 		<game_id>00040000000CBA00</game_id>
 		<rom name="Nintendo 3DS Guide - Louvre (Korea).3ds" size="2147483648" crc="eeb167db" md5="d093468b7fd2c0563bb66ea508bfeb00" sha1="2d01422b1436c890a3122259b6cde38dbcd0248e" serial="CTR-P-AL8K"/>
 	</game>
-	<game name="Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It)" id="0704">
+	<game name="Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It)" id="0704" cloneofid="1255">
+		<category>Games</category>
 		<description>Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>00040000000A9000</game_id>
 		<rom name="Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It).3ds" size="2147483648" crc="326e8f45" md5="7ff66f282ec346e132645c7fd0b459af" sha1="8faa88a65a2673d021b5f34a991059e34921fa95" sha256="e2a313641200bb0e008345a28dc71394fffb0e569e7773e6364bb460dea30418" status="verified" serial="CTR-P-ACLP"/>
 	</game>
-	<game name="Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1255" cloneofid="0704">
+	<game name="Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1255">
+		<category>Games</category>
 		<description>Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<game_id>00040000000A9000</game_id>
 		<rom name="Nintendo presents - New Style Boutique (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="2147483648" crc="4f7c253b" md5="66d71779b5a81bb4c0a196c940c9c75e" sha1="7193b3edc61991e84f6308f6049002c49b387352" sha256="684150e91b4c12758652600ab1668239a67475e296b3d3c15e61eefde17240d1" status="verified" serial="CTR-P-ACLP"/>
@@ -6490,174 +6594,211 @@
 		<game_id>00040000001C2600</game_id>
 		<rom name="Nintendo presents - New Style Boutique 3 - Styling Star (Europe) (En,Fr,De,Es,It,Nl).3ds" size="1073741824" crc="f4317890" md5="947863c54ec397c98370bf4190d82f7a" sha1="c6e2619b8ad37737ad4e7b11c86752a26455f839" status="verified" serial="CTR-P-AJBP"/>
 	</game>
-	<game name="Nintendogs + Cats (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x007" cloneofid="1262">
+	<game name="Nintendogs + Cats (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x007" cloneofid="1263">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Nintendogs + Cats (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000046100</game_id>
 		<rom name="Nintendogs + Cats (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="536870912" crc="cfc08329" md5="daebd23f269ab7b897c5ea3b68d56499" sha1="6ae423ce22f0f1ead681463f8bc7af936eec29b0" serial="CTR-B-ADAP"/>
 	</game>
-	<game name="Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x023" cloneofid="1262">
+	<game name="Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x023" cloneofid="1263">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000046200</game_id>
 		<rom name="Nintendogs + Cats (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="536870912" crc="3b452544" md5="ac2fa2ac9346f82c927452c1326e283f" sha1="5bc6ef4bdeb4e8b1355549ad08142ff6ab44d29e" serial="CTR-B-ADAE"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bull &amp; New Chingudeul (Korea)" id="z142" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bull &amp; New Chingudeul (Korea)" id="z142" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bull &amp; New Chingudeul (Korea)</description>
 		<game_id>0004000000031400</game_id>
 		<game_id>CTR-P-ADBK</game_id>
 		<rom name="Nintendogs + Cats - French Bull &amp; New Chingudeul (Korea).3ds" size="536870912" crc="6fb0e185" md5="65a1d335a04525752d11728d54232f2a" sha1="de2dd30b7792a2d0d99afc044e3971fc52400fa2" sha256="492d38e0462f3a665e4878b3430c3a22c621114724d6a6fc8c79f2d0cdf66d84" serial="CTR-P-ADBK"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)" id="0113" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)" id="0113" cloneofid="1317">
+		<category>Games</category>
+		<category>Multimedia</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es)</description>
 		<game_id>0004000000031200</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="d919c475" md5="7eeeae35da4313cdc1f193bc901b1560" sha1="d900d0fca54da1927b7fa4be0f4e928475d413d1" sha256="88d7ba717fe5d7ad23121d0671f968f6cf4ab4ddd44974e1cf293345bdd8bd38" status="verified" serial="CTR-P-ADBE"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0199" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>0004000000031100</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="3488fe85" md5="fb6830b2cb676d48bea6df4ecf319ba2" sha1="86185597f23dcc18ba694512605512cf491271eb" sha256="ed63fc2196e552067b3e3e5e709a1416bffcdef067cf88cf745692810184323d" status="verified" serial="CTR-P-ADBP"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0374" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0374" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
 		<game_id>0004000000090800</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="8e0df94f" md5="876f8d916ed30e05765ff8bca4f7e898" sha1="fda9a341e09b5b0911abb6fb5be5a8f38282ebfb" serial="CTR-P-ADBW"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)" id="0708" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)" id="0708" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Japan)</description>
 		<game_id>0004000000031000</game_id>
-		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan).3ds" size="536870912" crc="827b903a" md5="37799231c31633f0dfdd933a6bca05c6" sha1="4921933545f7e6d39642d6e9dd7b12f2275b2c39" serial="CTR-P-ADBJ"/>
+		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan).3ds" size="536870912" crc="827b903a" md5="37799231c31633f0dfdd933a6bca05c6" sha1="4921933545f7e6d39642d6e9dd7b12f2275b2c39" status="verified" serial="CTR-P-ADBJ"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1317" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000031100</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="723578f7" md5="e9b60d00e8cda9c0a8f064dcdae81bd5" sha1="e9f5885f69e04d4bb3cf760d8f256c8a87933165" sha256="fc1f6411ad2d9e9108421c87fd08917b331d860c690385cdd61291796b5b9c26" status="verified" serial="CTR-P-ADBP"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1261" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1261" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>0004000000031100</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="90bae265" md5="8e4237c62fb1c98fe0f9b37b29838283" sha1="efdcab01200ced99f367b3fbe7baed04e4ec4b86" status="verified" serial="CTR-P-ADBP"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan) (Rev 2)" id="1516" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan) (Rev 2)" id="1516" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (Japan) (Rev 2)</description>
 		<game_id>0004000000031000</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="2126833e" md5="b7e28cb98fad5cd418c4bcbb359168e4" sha1="a7f65bf5b0b854229ed7f509766602bca1aaf092" serial="CTR-P-ADBJ"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z015" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z015" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000031200</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="5d681c71" md5="1fc4ab45d473a877bd5cd97d567bf5c3" sha1="a2a64abb6d6c7a1bb1c09e99ebd1f85c7980fa0c" serial="CTR-P-ADBE"/>
 	</game>
-	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 2)" id="z048" cloneofid="0199">
+	<game name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 2)" id="z048" cloneofid="1317">
+		<category>Games</category>
 		<description>Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 2)</description>
 		<game_id>0004000000031200</game_id>
 		<rom name="Nintendogs + Cats - French Bulldog &amp; New Friends (USA) (En,Fr,Es) (Rev 2).3ds" size="536870912" crc="3bc32668" md5="10b9c3c409524f9faf4848ae139503e1" sha1="8d83f1eebf4d18faf8fa3a4d1baf0b9adc845b28" sha256="8be4a56d955808af422df245d35a34806e0c4ed1a0f30af2b292336ab1fa86f7" serial="CTR-P-ADBE"/>
 	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1263" cloneofid="1262">
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000030C00</game_id>
-		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="b9edf586" md5="0f6fd950ad07e8ab2241ab63a5490cfd" sha1="94465dc200e594b5cf8573b4039d8bd2f7b4f35f" serial="CTR-P-ADAP"/>
+		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="b9edf586" md5="0f6fd950ad07e8ab2241ab63a5490cfd" sha1="94465dc200e594b5cf8573b4039d8bd2f7b4f35f" status="verified" serial="CTR-P-ADAP"/>
 	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="1262">
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="1262" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>0004000000030C00</game_id>
 		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="b46f61fa" md5="3f6bbe6feb5c1dc1d75c70ff27ebb5ab" sha1="00332007ace82252f12a7a9c9bc0bf6fbfa6d534" status="verified" serial="CTR-P-ADAP"/>
 	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 2)" id="1582" cloneofid="1262">
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 2)" id="1582" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 2)</description>
 		<game_id>0004000000030D00</game_id>
 		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 2).3ds" size="536870912" crc="5aca6d29" md5="7f496aa6983f65685f5a12ecc6b36bc2" sha1="3166557862dfdc4c0732cf82d403d891a0b79289" serial="CTR-P-ADAE"/>
 	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z214" cloneofid="1262">
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z214" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000030D00</game_id>
 		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="255b9422" md5="2afbcf79412bb95804409b7547a59b5c" sha1="7987f3f0ecce88963a348d8164d4aca9c63eae58" sha256="5e424efa3e7fcff700a89e91ff0a68d39defc1f5cf4e17764c684cca282565eb" serial="CTR-P-ADAE"/>
 	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)" id="0096" cloneofid="1262">
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)" id="0096" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es)</description>
 		<game_id>0004000000030D00</game_id>
 		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="cbade778" md5="8bc99a9ab6b889c6100dc899b1770438" sha1="04139e5ab8400a374ca685bf3e2a68a1d6114a37" sha256="7904b11e1f26e5a2a40fcae6c6c3c91fa9ce5532d536175050b036f5302d6572" serial="CTR-P-ADAE"/>
 	</game>
-	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="0133" cloneofid="1262">
+	<game name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="0133" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>0004000000030C00</game_id>
 		<rom name="Nintendogs + Cats - Golden Retriever &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="42a75634" md5="f3aae2c02e507187db258d104506a0b6" sha1="653fd16511ad681957c16f349ebffefe14ab48ea" sha256="bb3eea6cd58e700d93749b238d6d8214f64c130a00da382bca7c6dafeecdcfc0" status="verified" serial="CTR-P-ADAP"/>
 	</game>
-	<game name="Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea)" id="z143" cloneofid="0159">
+	<game name="Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea)" id="z143" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea)</description>
 		<game_id>0004000000031900</game_id>
 		<game_id>CTR-P-ADCK</game_id>
 		<rom name="Nintendogs + Cats - Poodle &amp; New Chingudeul (Korea).3ds" size="536870912" crc="bf292dc2" md5="1aea6f33666d3f02f475fd5079aaae02" sha1="4d6aeada5558f019fe344213c6f6ed6afc161e3b" sha256="e2c9e85501c527cf36a1c033af736fe4f3d86ffb272ac740eed2171be88eb188" serial="CTR-P-ADCK"/>
 	</game>
-	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)" id="1423" cloneofid="1262">
+	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)" id="1423" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2)</description>
 		<game_id>0004000000030B00</game_id>
 		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="549e2b7a" md5="1c7ae11806f937868acfbea42e800e26" sha1="67266e34813eaca6c7a2c274335c07c2be67901c" serial="CTR-P-ADAJ"/>
 	</game>
-	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)" id="z067" cloneofid="1262">
+	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)" id="z067" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1)</description>
 		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan) (Rev 1).3ds" size="536870912" crc="a9b1a382" md5="6849d1dea8d4e6a3dac792e33382a0dc" sha1="b591a55540d3e1f9ee3df9d2eae33d31587f3b14" sha256="d83ea997a061925a6da7c6355c1f6ac588f9989f801a0511c28588fe1f8c4569" serial="CTR-P-ADAJ"/>
 	</game>
-	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0375" cloneofid="1262">
+	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0375" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Shiba &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
 		<game_id>0004000000090700</game_id>
 		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="b7044ecf" md5="2a3919a0bc95f41611085cfb6d6cabd2" sha1="e60eff809312be345e2479297b3d0d9e42e8f396" serial="CTR-P-ADAW"/>
 	</game>
-	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan)" id="0743" cloneofid="1262">
+	<game name="Nintendogs + Cats - Shiba &amp; New Friends (Japan)" id="0743" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Shiba &amp; New Friends (Japan)</description>
 		<game_id>0004000000030B00</game_id>
 		<rom name="Nintendogs + Cats - Shiba &amp; New Friends (Japan).3ds" size="536870912" crc="bd8e49b9" md5="e3a688100de706bf470dbad7567de751" sha1="6dd4e998c31a0978909d9fd066b6b2d8100819e4" serial="CTR-P-ADAJ"/>
 	</game>
-	<game name="Nintendogs + Cats - Shiba Inu &amp; New Chingudeul (Korea)" id="z141" cloneofid="1262">
+	<game name="Nintendogs + Cats - Shiba Inu &amp; New Chingudeul (Korea)" id="z141" cloneofid="1263">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Shiba Inu &amp; New Chingudeul (Korea)</description>
 		<game_id>0004000000030F00</game_id>
 		<game_id>CTR-P-ADAK</game_id>
 		<rom name="Nintendogs + Cats - Shiba Inu &amp; New Chingudeul (Korea).3ds" size="536870912" crc="c532c572" md5="68d9a9ef0e96e22b1fe17939bfb42694" sha1="dae5cb5fbf9e5ce05eabb4b55ce5597b4b6175cd" sha256="83258af9a3e9a93d349e87a2abea08d3a899639ae086dceeecb88d5f0d838e5e" serial="CTR-P-ADAK"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 2)" id="z095" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 2)" id="z095" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 2)</description>
 		<game_id>0004000000031700</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 2).3ds" size="536870912" crc="e53f3950" md5="fe7fa84bbf7187477247c3d746f3a76f" sha1="a1617f29cc6f6a513a0462410fcbb345bb8b9ac1" sha256="71a329ee90df051b338dc9965e08e89a0dc895cb1b83e330ced6316ae33164ae" serial="CTR-P-ADCE"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z232" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 1)" id="z232" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000031700</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="fca322a1" md5="96272db71658e0a0932fbcc336a8953a" sha1="44f0062ec5b029aac9da50b78006d66ac3d2ae40" sha256="5be6f307b43389a9b0a265921e4a3d2ecca1109b087e3e54ceed8744ce5d0d44" status="verified" serial="CTR-P-ADCE"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es)" id="0035" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es)" id="0035" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es)</description>
 		<game_id>0004000000031700</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (USA) (En,Fr,Es).3ds" size="536870912" crc="7c849740" md5="357d6cc8aa241e4813ee5178f62b8a11" sha1="25b804cdcf395ededf2755bee01cc7c3ed183640" sha256="4e5c2a1f9a0f47675635c3ca477e8bee50353700db790d36fce42e3e631ac491" serial="CTR-P-ADCE"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0159" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>0004000000031600</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="418805d9" md5="c4e2c6212c34a8e59190c32aa464445d" sha1="f6a718ca64f243ec842ba4a14acf71ad49aa4a89" sha256="8da5d1b93dd6f4499b5e9e53ba3145065c81c4b2089bbe8cb32db12fdb7e1202" status="verified" serial="CTR-P-ADCP"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan)" id="0347" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan)" id="0347" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan)</description>
 		<game_id>0004000000031500</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan).3ds" size="536870912" crc="2819727e" md5="4f12720d2fc6a92496ef521edb20d7bf" sha1="d7d359cadbde30cb587076f630249924e88df10a" status="verified" serial="CTR-P-ADCJ"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0376" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Taiwan) (Tw, Cn Region Lock)" id="0376" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Taiwan) (Tw, Cn Region Lock)</description>
 		<game_id>0004000000090900</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Taiwan) (Tw, Cn Region Lock).3ds" size="536870912" crc="d8872596" md5="0fb249619d064b03632677c772ffa397" sha1="82cde8457bf6d83cd718e6ebdd88c0b1fc607c6d" serial="CTR-P-ADCW"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1274" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000031600</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="2cea4c17" md5="cf6fa92737819aa706862c3268537669" sha1="72d6d3d9cda922bcc0182f3913c1735d9a72ff1c" sha256="e69395d8ede729ed2491651ffb09adbb814e81ffe844eb9937fed2c7f806a9f4" status="verified" serial="CTR-P-ADCP"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)" id="1271" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)" id="1271" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2)</description>
 		<game_id>0004000000031500</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 2).3ds" size="536870912" crc="c074599c" md5="04e61d07fbb505be8608f59139f192d0" sha1="53a3cf675774a20e46104689f17b145f7545e5ba" serial="CTR-P-ADCJ"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1629" cloneofid="0159">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1629" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>0004000000031600</game_id>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="aa82e8f0" md5="cf9cbcbd3306b1d32eac18e115098bbc" sha1="be617d3dc2827d608811be70619ccb112b2fd316" sha256="77b107077f360c751b6a3d89c61fb71546e049cb16de9525e35f8946b1a1173d" status="verified" serial="CTR-P-ADCP"/>
 	</game>
-	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)" id="z055" cloneofid="0199">
+	<game name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)" id="z055" cloneofid="1274">
+		<category>Games</category>
 		<description>Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1)</description>
 		<rom name="Nintendogs + Cats - Toy Poodle &amp; New Friends (Japan) (Rev 1).3ds" size="536870912" crc="ebb4255e" md5="826b170d78b39109cd3d37ac1c0721d6" sha1="c46aa59b025fd756e6beb32666e88b611d710457" sha256="dac46d99df32bea3d2149ac4ff716984417887ad44bdb8b615b4785faccb0c1f" status="verified" serial="CTR-P-ADCJ"/>
 	</game>
@@ -7126,44 +7267,54 @@
 		<game_id>00040000000ADA00</game_id>
 		<rom name="Pika Pika Nurse Monogatari 2 (Japan).3ds" size="536870912" crc="81f3df79" md5="311ad4434610e441bd9fa5bf118c088d" sha1="fa5147ebf6254586e5b57a1cc4aa743e37216756" sha256="1ea444557156629ddc5e90c4d48cbd2789e650ef457d65769a2d00a51dc96859" status="verified" serial="CTR-P-ANAJ"/>
 	</game>
-	<game name="Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1268" cloneofid="0007">
+	<game name="Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1268">
+		<category>Games</category>
 		<description>Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<game_id>0004000000031D00</game_id>
 		<rom name="Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="134217728" crc="fd144f35" md5="5585a00a011f1f99b32e1bb6c748a875" sha1="cb941d0aca01bbada4408d4043f83fb7ce9b14dc" serial="CTR-P-AWAP"/>
 	</game>
-	<game name="Pilotwings Resort (Japan) (Rev 1)" id="1177" cloneofid="0007">
+	<game name="Pilotwings Resort (Japan) (Rev 1)" id="1177" cloneofid="1268">
+		<category>Games</category>
 		<description>Pilotwings Resort (Japan) (Rev 1)</description>
 		<game_id>0004000000031B00</game_id>
 		<rom name="Pilotwings Resort (Japan) (Rev 1).3ds" size="134217728" crc="dfaeec96" md5="b3cd4ee19fb5bb9f966beb90b03b1465" sha1="79ab43b12638e2a2a56fca52a5ef2da05aa791c7" serial="CTR-P-AWAJ"/>
 	</game>
-	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)" id="z034" cloneofid="0007">
+	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)" id="z034" cloneofid="1268">
+		<category>Games</category>
 		<description>Pilotwings Resort (USA) (En,Fr,Es) (Rev 1)</description>
 		<rom name="Pilotwings Resort (USA) (En,Fr,Es) (Rev 1).3ds" size="134217728" crc="9fad1d06" md5="cf34797c3142163f117b8410f4887d5f" sha1="15c62fd4a1688f916572b233ca9ed21283de3bea" sha256="02173fc835063f3a83e68b0aa2c32fa2955d5c49e4d43ae69585c1128f715a35" serial="CTR-P-AWAE"/>
 	</game>
-	<game name="Pilotwings Resort (Europe) (En,Fr,De,Es,It)" id="0007">
+	<game name="Pilotwings Resort (Europe) (En,Fr,De,Es,It)" id="0007" cloneofid="1268">
+		<category>Games</category>
 		<description>Pilotwings Resort (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000031D00</game_id>
 		<rom name="Pilotwings Resort (Europe) (En,Fr,De,Es,It).3ds" size="134217728" crc="77db38b5" md5="0a2338b26451c38a39de2a44f236c311" sha1="c3ccda1558b1b65e42644cbdfe64b46955a92796" status="verified" serial="CTR-P-AWAP"/>
 	</game>
-	<game name="Pilotwings Resort (USA) (En,Fr,Es)" id="0032" cloneofid="0007">
+	<game name="Pilotwings Resort (USA) (En,Fr,Es)" id="0032" cloneofid="1268">
+		<category>Games</category>
 		<description>Pilotwings Resort (USA) (En,Fr,Es)</description>
 		<game_id>0004000000031C00</game_id>
 		<rom name="Pilotwings Resort (USA) (En,Fr,Es).3ds" size="134217728" crc="47b9251c" md5="ae52f48405ec1358e0ea59ba326bd78b" sha1="dd47db5b3e98770ec86290ad1774fe88f3195426" status="verified" serial="CTR-P-AWAE"/>
 	</game>
-	<game name="Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x005" cloneofid="0007">
+	<game name="Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x005" cloneofid="1268">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>0004000000038200</game_id>
 		<rom name="Pilotwings Resort (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="134217728" crc="7ee91a2c" md5="9fac08fe92484574bd7ab3be56b11a85" sha1="f6beea2316d7f0b2e288242b331b8ef9ea04cfc4" serial="CTR-B-AWAP"/>
 	</game>
-	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x018" cloneofid="0007">
+	<game name="Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x018" cloneofid="1268">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>0004000000038100</game_id>
 		<rom name="Pilotwings Resort (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="134217728" crc="8b4fa38f" md5="5f623882ea02636cba6dcb3be80be19c" sha1="3fa9cb920566b03f4223554e565b7cb954d6e7c3" status="verified" serial="CTR-B-AWAE"/>
 	</game>
-	<game name="Pilotwings Resort (Japan)" id="0711" cloneofid="0007">
+	<game name="Pilotwings Resort (Japan)" id="0711" cloneofid="1268">
+		<category>Games</category>
 		<description>Pilotwings Resort (Japan)</description>
 		<game_id>0004000000031B00</game_id>
-		<rom name="Pilotwings Resort (Japan).3ds" size="134217728" crc="3f5216be" md5="7765bcb8779816b30248e435d3ef2c50" sha1="51a5955371499c55fb0b8c3779130ccf61d5b785" sha256="7cb31aca74d326a10c0a4cb898f4938db8d6e3ba3ddb4729c2a1e1d0e519bc9b" serial="CTR-P-AWAJ"/>
+		<rom name="Pilotwings Resort (Japan).3ds" size="134217728" crc="3f5216be" md5="7765bcb8779816b30248e435d3ef2c50" sha1="51a5955371499c55fb0b8c3779130ccf61d5b785" sha256="7cb31aca74d326a10c0a4cb898f4938db8d6e3ba3ddb4729c2a1e1d0e519bc9b" status="verified" serial="CTR-P-AWAJ"/>
 	</game>
 	<game name="Pinball Hall of Fame - The Williams' Collection (USA)" id="0139" cloneofid="0281">
 		<description>Pinball Hall of Fame - The Williams' Collection (USA)</description>
@@ -7488,6 +7639,8 @@
 		<rom name="Poochy &amp; Yoshi's Woolly World (USA) (Demo) (Kiosk).3ds" size="268435456" crc="ea9ae4f3" md5="b2ec9cba0ec45e94884c5a8a23d70bff" sha1="05d1e7778173ce88499b1e8d4a4e72fcbb692c95" serial="CTR-B-AJNE"/>
 	</game>
 	<game name="Poochy &amp; Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)" id="x055" cloneofid="1644">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Poochy &amp; Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)</description>
 		<game_id>00040000001B6D00</game_id>
 		<rom name="Poochy &amp; Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk).3ds" size="268435456" crc="46c45752" md5="1e26caf77f830b0c93d44d73e8a1751c" sha1="ff89e3885eb4f272ca157e640ac46efb68dce9e0" serial="CTR-B-AJNP"/>
@@ -7628,12 +7781,14 @@
 		<game_id>0004000000039600</game_id>
 		<rom name="Pro Yakyuu Famista 2011 (Japan).3ds" size="268435456" crc="05eb9591" md5="8ca885583e1de3124d2c4b1cdd004be6" sha1="93a4bf306cd6fea0878d4df42085755fba8216e4" sha256="a853596c6414e1dd0f4e0028628285ab155c0fcbeb8090729557e5a671e8b409" serial="CTR-P-AFSJ"/>
 	</game>
-	<game name="Pro Yakyuu Famista Climax (Japan)" id="1693">
+	<game name="Pro Yakyuu Famista Climax (Japan)" id="1693" cloneofid="1695">
+		<category>Games</category>
 		<description>Pro Yakyuu Famista Climax (Japan)</description>
 		<game_id>00040000001B3F00</game_id>
 		<rom name="Pro Yakyuu Famista Climax (Japan).3ds" size="268435456" crc="c32fe2ae" md5="92b3e11735418393c3eaaa59e93cc54d" sha1="163b9a5cefda3bd617544ed1bb2cb1e4fafd34fd" serial="CTR-P-BYFJ"/>
 	</game>
-	<game name="Pro Yakyuu Famista Climax (Japan) (Rev 1)" id="1695" cloneofid="1693">
+	<game name="Pro Yakyuu Famista Climax (Japan) (Rev 1)" id="1695">
+		<category>Games</category>
 		<description>Pro Yakyuu Famista Climax (Japan) (Rev 1)</description>
 		<game_id>00040000001B3F00</game_id>
 		<rom name="Pro Yakyuu Famista Climax (Japan) (Rev 1).3ds" size="268435456" crc="90b092b3" md5="a1d3b5f707e297a5c866c1c5d7c43c12" sha1="bfe230085e15a16194a2bd298f46de8262f551e4" serial="CTR-P-BYFJ"/>
@@ -7653,12 +7808,13 @@
 		<game_id>00040000000F3300</game_id>
 		<rom name="Profesor Layton y el Legado de los Ashalanti, El (Spain).3ds" size="1073741824" crc="5bc7fb12" md5="5eb097c9adf4993a2aaf3e1f0b958b2e" sha1="33c98b0465550b9a5a792fbc4fc132b2060c234e" serial="CTR-P-AL6S"/>
 	</game>
-	<game name="Profesor Layton y la Mascara de los Prodigios, El (Spain)" id="0336" cloneofid="0582">
+	<game name="Profesor Layton y la Mascara de los Prodigios, El (Spain)" id="0336" cloneofid="z175">
+		<category>Games</category>
 		<description>Profesor Layton y la Mascara de los Prodigios, El (Spain)</description>
 		<game_id>00040000000A8900</game_id>
 		<rom name="Profesor Layton y la Mascara de los Prodigios, El (Spain).3ds" size="1073741824" crc="ddf83a5a" md5="5e21102c9cc76f7d20f04130c53d595b" sha1="a584dce2e001b398d721a26816b034b710ae2059" sha256="225aad135cada84919edcb6e316c0468cce86485da83aba226f9a2ca89474691" status="verified" serial="CTR-P-AKKS"/>
 	</game>
-	<game name="Profesor Layton y la Mascara de los Prodigios, El (Spain) (Rev 1)" id="z098" cloneofid="0582">
+	<game name="Profesor Layton y la Mascara de los Prodigios, El (Spain) (Rev 1)" id="z098" cloneofid="z175">
 		<category>Games</category>
 		<description>Profesor Layton y la Mascara de los Prodigios, El (Spain) (Rev 1)</description>
 		<game_id>00040000000A8900</game_id>
@@ -7669,17 +7825,21 @@
 		<game_id>00040000000F3200</game_id>
 		<rom name="Professeur Layton et l'Heritage des Aslantes (France).3ds" size="1073741824" crc="258e21b7" md5="3935a843be16a54116f20b0800727166" sha1="b6b52cd34106030100e5a6a6122668dbc1ce63e3" status="verified" serial="CTR-P-AL6F"/>
 	</game>
-	<game name="Professeur Layton et le Masque des Miracles (France)" id="0217" cloneofid="0582">
+	<game name="Professeur Layton et le Masque des Miracles (France)" id="0217" cloneofid="z175">
+		<category>Games</category>
 		<description>Professeur Layton et le Masque des Miracles (France)</description>
 		<game_id>00040000000A8800</game_id>
 		<rom name="Professeur Layton et le Masque des Miracles (France).3ds" size="1073741824" crc="916f7992" md5="2a550ba039b5dbc3d9bccf885ecce6b6" sha1="db6b4a01e5ba4623ba50dc3bedfda9b44b85e4d8" status="verified" serial="CTR-P-AKKF"/>
 	</game>
-	<game name="Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)" id="x056" cloneofid="0582">
+	<game name="Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)" id="x056" cloneofid="z175">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)</description>
 		<game_id>00040000000B1300</game_id>
 		<rom name="Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk).3ds" size="1073741824" crc="2093d7c8" md5="7b224602cb09dc45b78917bd8c31e219" sha1="df6afdb697753b1163fcf90fa3bf9255cbdd2d38" serial="CTR-B-AKKF"/>
 	</game>
-	<game name="Professeur Layton et le Masque des Miracles (France) (Rev 1)" id="1869" cloneofid="0582">
+	<game name="Professeur Layton et le Masque des Miracles (France) (Rev 1)" id="1869" cloneofid="z175">
+		<category>Games</category>
 		<description>Professeur Layton et le Masque des Miracles (France) (Rev 1)</description>
 		<game_id>00040000000A8800</game_id>
 		<rom name="Professeur Layton et le Masque des Miracles (France) (Rev 1).3ds" size="1073741824" crc="ee3bde23" md5="44f1eedd9e748055e06e2fcab3617680" sha1="73c2d1684265339fe4e847ea5b5e0d0278c3db22" sha256="4c2c08faea5984dfa7ad7fad0a6d49985b440cfde13e8cac2e6084931f468222" serial="CTR-P-AKKF"/>
@@ -7699,27 +7859,32 @@
 		<game_id>000400000010CC00</game_id>
 		<rom name="Professor Layton and the Azran Legacy (Europe) (Demo) (Kiosk).3ds" size="1073741824" crc="b7bd8be4" md5="cea455b52e5a9e60844099e58dc7b29d" sha1="f48e906d3fbfe5d84be45362438c5cf50a918242" serial="CTR-B-AL6P"/>
 	</game>
-	<game name="Professor Layton and the Miracle Mask (USA) (Rev 1)" id="1681" cloneofid="0582">
+	<game name="Professor Layton and the Miracle Mask (USA) (Rev 1)" id="1681" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton and the Miracle Mask (USA) (Rev 1)</description>
 		<game_id>00040000000A8500</game_id>
 		<rom name="Professor Layton and the Miracle Mask (USA) (Rev 1).3ds" size="1073741824" crc="08fcf61b" md5="3c9d477e109183a531e7e48ea76d1107" sha1="21bfbe91ceb8a13b3a3f8e464b6b6f94c621ca29" sha256="0c10245ad0bc25ef62c3f2b2a30c65b67c9788b09fa61a07bc67292088d2cced" status="verified" serial="CTR-P-AKKE"/>
 	</game>
-	<game name="Professor Layton and the Miracle Mask (Australia) (Rev 1)" id="z175" cloneofid="0582">
+	<game name="Professor Layton and the Miracle Mask (Australia) (Rev 1)" id="z175">
 		<category>Games</category>
 		<description>Professor Layton and the Miracle Mask (Australia) (Rev 1)</description>
 		<rom name="Professor Layton and the Miracle Mask (Australia) (Rev 1).3ds" size="1073741824" crc="5a39adca" md5="ab18067b035442fe93fea0781fd05541" sha1="869969ad23c1a89960717a1f5e7436a3909def77" sha256="9c1736a83e723674c87d9889e7dc2ae1de03da4d532dfb2193ef5a35f42d4efe" status="verified" serial="CTR-P-AKKP"/>
 	</game>
-	<game name="Professor Layton and the Miracle Mask (USA)" id="0253" cloneofid="0582">
+	<game name="Professor Layton and the Miracle Mask (USA)" id="0253" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton and the Miracle Mask (USA)</description>
 		<game_id>00040000000A8500</game_id>
 		<rom name="Professor Layton and the Miracle Mask (USA).3ds" size="1073741824" crc="52aad8d8" md5="3a686b7f8fc86e51c436e898e440b462" sha1="552bbf13c58ba67388927191380dab32de431dd9" sha256="ebc2d5480c1be7373a029f7f740d86cd398df6b75fae4bd2b366cd2abe71ba52" status="verified" serial="CTR-P-AKKE"/>
 	</game>
-	<game name="Professor Layton and the Miracle Mask (Europe)" id="0582">
+	<game name="Professor Layton and the Miracle Mask (Europe)" id="0582" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton and the Miracle Mask (Europe)</description>
 		<game_id>00040000000A8600</game_id>
 		<rom name="Professor Layton and the Miracle Mask (Europe).3ds" size="1073741824" crc="4d38d1a4" md5="43e78520338c6c4439d55bf5ae567eac" sha1="b213c5cd593bf1b47352c571d3b1b0f3749b7f66" sha256="112c1519b52ff892c5ef27e5a45f3db322a870f8325877dc5c620cdffffd5a64" status="verified" serial="CTR-P-AKKP"/>
 	</game>
-	<game name="Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)" id="x025" cloneofid="0582">
+	<game name="Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)" id="x025" cloneofid="z175">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk)</description>
 		<game_id>00040000000B1100</game_id>
 		<rom name="Professor Layton and the Miracle Mask (Europe) (Demo) (Kiosk).3ds" size="1073741824" crc="c3b8d310" md5="cb8d0ede4ff1394d418d603813a421a5" sha1="5a0369765449430502be23a92e4043f4d7c47ae8" serial="CTR-B-AKKP"/>
@@ -7729,12 +7894,14 @@
 		<game_id>00040000000F3400</game_id>
 		<rom name="Professor Layton e l'Eredita' degli Aslant, Il (Italy).3ds" size="1073741824" crc="1b97e346" md5="a1b20be29c19e3db49af9a4105382627" sha1="18e3423ee686faccd9c3c7f95fba26730732726e" sha256="a7ad972e916d234a9832f6874e312c68763606889050575d4fcaa2c4a32d7f0a" status="verified" serial="CTR-P-AL6I"/>
 	</game>
-	<game name="Professor Layton e la Maschera dei Miracoli, Il (Italy)" id="0338" cloneofid="0582">
+	<game name="Professor Layton e la Maschera dei Miracoli, Il (Italy)" id="0338" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton e la Maschera dei Miracoli, Il (Italy)</description>
 		<game_id>00040000000A8A00</game_id>
 		<rom name="Professor Layton e la Maschera dei Miracoli, Il (Italy).3ds" size="1073741824" crc="a49d72b8" md5="f72a88f3550934be4046f61d7ffe381f" sha1="b6572d4c1f6eea871e0e8f0f20601f308f4a0def" sha256="0d3e9aac0eec4aa5fe163c26eb775306aba36e3f5b675159e91b26a5e773b3bc" status="verified" serial="CTR-P-AKKI"/>
 	</game>
-	<game name="Professor Layton e la Maschera dei Miracoli, Il (Italy) (Rev 1)" id="z205" cloneofid="0582">
+	<game name="Professor Layton e la Maschera dei Miracoli, Il (Italy) (Rev 1)" id="z205" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton e la Maschera dei Miracoli, Il (Italy) (Rev 1)</description>
 		<game_id>00040000000A8A00</game_id>
 		<rom name="Professor Layton e la Maschera dei Miracoli, Il (Italy) (Rev 1).3ds" size="1073741824" crc="abaf5b89" md5="8e800d7c173c772ad534d1e436810921" sha1="ca929544ee47267b8edea74d43a932069c3138ac" sha256="38b49c1a86cb8edb99ab82d5bef7c5846a32b3cd0c9d1282df0856c5495eb810" serial="CTR-P-AKKI"/>
@@ -7744,12 +7911,14 @@
 		<game_id>00040000000F3500</game_id>
 		<rom name="Professor Layton en de Erfenis van de Azran (Netherlands).3ds" size="1073741824" crc="79270993" md5="69c98fe356c7b4f85324a03b913a752c" sha1="a441be3caf21a7ca9d9279a733e708b787846aa2" serial="CTR-P-AL6H"/>
 	</game>
-	<game name="Professor Layton en het Masker der Wonderen (Netherlands)" id="0698" cloneofid="0582">
+	<game name="Professor Layton en het Masker der Wonderen (Netherlands)" id="0698" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton en het Masker der Wonderen (Netherlands)</description>
 		<game_id>00040000000A8B00</game_id>
 		<rom name="Professor Layton en het Masker der Wonderen (Netherlands).3ds" size="1073741824" crc="16a01918" md5="cbe1cb5feed7a93ab2e22bcac607d74d" sha1="20825c183ad8da7ebe29d101a79ef5a2fc4797f3" status="verified" serial="CTR-P-AKKH"/>
 	</game>
-	<game name="Professor Layton en het Masker der Wonderen (Netherlands) (Rev 1)" id="z207" cloneofid="0582">
+	<game name="Professor Layton en het Masker der Wonderen (Netherlands) (Rev 1)" id="z207" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton en het Masker der Wonderen (Netherlands) (Rev 1)</description>
 		<game_id>00040000000A8B00</game_id>
 		<rom name="Professor Layton en het Masker der Wonderen (Netherlands) (Rev 1).3ds" size="1073741824" crc="c31bd016" md5="f7c336e72a5200dc5545bee3473bac3c" sha1="aff4399a7b325653906600b442486c2768e98c7c" sha256="f13e8e022fa0c084ab4b5708881dc28c4d1a7a909a1896597b43b91c383098d7" serial="CTR-P-AKKH"/>
@@ -7763,7 +7932,8 @@
 		<game_id>00040000000F3100</game_id>
 		<rom name="Professor Layton und das Vermaechtnis von Aslant (Germany).3ds" size="1073741824" crc="39cc38e6" md5="2a786e8390761aea3326fc9b6d25d42e" sha1="97ecc70f416efc93ce37da7c90093216b29415e2" serial="CTR-P-AL6D"/>
 	</game>
-	<game name="Professor Layton und die Maske der Wunder (Germany)" id="0290" cloneofid="0582">
+	<game name="Professor Layton und die Maske der Wunder (Germany)" id="0290" cloneofid="z175">
+		<category>Games</category>
 		<description>Professor Layton und die Maske der Wunder (Germany)</description>
 		<game_id>00040000000A8700</game_id>
 		<rom name="Professor Layton und die Maske der Wunder (Germany).3ds" size="1073741824" crc="71ef8de8" md5="e02b83532f233dd3efa179dd95261f49" sha1="ce43cc42c2e9b6ef9d95fd3382f202b9b0ba115a" serial="CTR-P-AKKD"/>
@@ -7998,17 +8168,20 @@
 		<game_id>0004000000178400</game_id>
 		<rom name="Raishi - Konpeki no Shou (Japan).3ds" size="1073741824" crc="a71e9ee1" md5="bab48b3edae6eda12e5033a69fa65d3c" sha1="5655eded055e78f82f041e937c957068fbfb3e47" serial="CTR-P-ARPJ"/>
 	</game>
-	<game name="Rayman 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1700" cloneofid="0010">
+	<game name="Rayman 3D (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1700">
+		<category>Games</category>
 		<description>Rayman 3D (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<game_id>0004000000033900</game_id>
 		<rom name="Rayman 3D (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="268435456" crc="c521dcd1" md5="9c975e5b8269f84e1370cbd377309a9a" sha1="3684dc8813158ef2f1eb86bbbf93d7f9a22111b5" serial="CTR-P-ARYP"/>
 	</game>
-	<game name="Rayman 3D (Europe) (En,Fr,De,Es,It)" id="0010">
+	<game name="Rayman 3D (Europe) (En,Fr,De,Es,It)" id="0010" cloneofid="1700">
+		<category>Games</category>
 		<description>Rayman 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000033900</game_id>
 		<rom name="Rayman 3D (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="7746bdb6" md5="401591e0ca29ac9211f6bfab77de0291" sha1="ac7fed41c6f3c1b070e968e54aba5314e5c4aaac" sha256="1fdc5f44465d1327fc3cd2080bffddf37a90f41cd225eeb5ff8aac82ca7087e4" status="verified" serial="CTR-P-ARYP"/>
 	</game>
-	<game name="Rayman 3D (USA) (En,Fr,De,Es,It)" id="0114" cloneofid="0010">
+	<game name="Rayman 3D (USA) (En,Fr,De,Es,It)" id="0114" cloneofid="1700">
+		<category>Games</category>
 		<description>Rayman 3D (USA) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000036400</game_id>
 		<rom name="Rayman 3D (USA) (En,Fr,De,Es,It).3ds" size="268435456" crc="4d1aee61" md5="464e3676898ff23eaa873f9b78d39f20" sha1="7a5371bb0e87cf78534c6166194e7e126e43c7f1" status="verified" serial="CTR-P-ARYE"/>
@@ -8058,17 +8231,20 @@
 		<game_id>00040000000B9900</game_id>
 		<rom name="Real Heroes - Firefighter 3D (Germany) (En,Fr,De,Es,It).3ds" size="1073741824" crc="1b55a3d2" md5="00e2b7a4be56b326c85b8d67f306f7cd" sha1="21cdf969aedbc0f8637f7308aa8b4d277b0d8859" sha256="ce8b88a2a0d19358f6803535750f31595c2824f3422eabdfcae0ebd2742f5d9b" status="verified" serial="CTR-P-ARHD"/>
 	</game>
-	<game name="Reel Fishing Paradise 3D (USA)" id="0126" cloneofid="0282">
+	<game name="Reel Fishing Paradise 3D (USA)" id="0126" cloneofid="1867">
+		<category>Games</category>
 		<description>Reel Fishing Paradise 3D (USA)</description>
 		<game_id>0004000000048D00</game_id>
 		<rom name="Reel Fishing Paradise 3D (USA).3ds" size="536870912" crc="e8679413" md5="05cee1219c98e2b0fd91d7843ba14441" sha1="5dbf2fd199c5c2ea919cc942dd9f664d64645fa7" serial="CTR-P-ARFE"/>
 	</game>
-	<game name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt)" id="0282">
+	<game name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt)" id="0282" cloneofid="1867">
+		<category>Games</category>
 		<description>Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt)</description>
 		<game_id>000400000005F600</game_id>
 		<rom name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt).3ds" size="536870912" crc="0b456311" md5="e8f18a41721a74528e171f733114f81a" sha1="b2e266210ee40350ec86721382b23dd72e220013" serial="CTR-P-ARFP"/>
 	</game>
-	<game name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1)" id="1867" cloneofid="0282">
+	<game name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1)" id="1867">
+		<category>Games</category>
 		<description>Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1)</description>
 		<game_id>000400000005F600</game_id>
 		<rom name="Reel Fishing Paradise 3D (Europe) (En,Fr,De,Es,It,Pt) (Rev 1).3ds" size="536870912" crc="acd2d6d2" md5="7a96e63259d8dd77db319b192676d2ab" sha1="6e611f57728d109bb62983aa655cfd88fd3d1bfa" sha256="f003d35b0daf73cfb6e0585dd2e13653d18d115e19c629485229a5e0405dd635" status="verified" serial="CTR-P-ARFP"/>
@@ -8174,15 +8350,16 @@
 		<game_id>0004000000032800</game_id>
 		<rom name="Ridge Racer 3D (Japan) (Rev 2).3ds" size="1073741824" crc="d93362ff" md5="08a15266146422bca883f4a7bdd7ae7e" sha1="eef3e7d15b204ed7cbd147619c944b67b963fdf5" serial="CTR-P-ARRJ"/>
 	</game>
-	<game name="Riding Stables 3D (Europe) (En,Fr,De,It,Nl,Sv,No,Da)" id="0267" cloneofid="1008">
-		<description>Riding Stables 3D (Europe) (En,Fr,De,It,Nl,Sv,No,Da)</description>
-		<game_id>000400000009D300</game_id>
-		<rom name="Riding Stables 3D (Europe) (En,Fr,De,It,Nl,Sv,No,Da).3ds" size="134217728" crc="e52fe013" md5="4ce7fae9889cf364fe3869c26e55ee2c" sha1="5d55eb098574329b616ecde931ebde4d2684c7f4" sha256="8bca7d3f7da46b2d8cba54b42e68ee737ad84bfe11d7dfff711ff1f614c4b191" status="verified" serial="CTR-P-AMUP"/>
-	</game>
 	<game name="Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,It,Nl,Sv,No,Da) (Rev 1)" id="1008">
 		<description>Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,It,Nl,Sv,No,Da) (Rev 1)</description>
 		<game_id>000400000009D300</game_id>
 		<rom name="Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,It,Nl,Sv,No,Da) (Rev 1).3ds" size="134217728" crc="f28471b9" md5="0b34990f30cdcf8aa780cf473282ede6" sha1="4def4a8286984877d2d582693408cc119311e6f6" sha256="f958fda6d8e115fd9a34374706cc4ebcb5bc04908da14077c5a5d9a584a537ab" status="verified" serial="CTR-P-AMUP"/>
+	</game>
+	<game name="Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,It,Nl,Sv,No,Da)" id="0267" cloneofid="1008">
+		<category>Games</category>
+		<description>Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,It,Nl,Sv,No,Da)</description>
+		<game_id>000400000009D300</game_id>
+		<rom name="Riding Stables 3D - Rivals in the Saddle (Europe) (En,Fr,De,It,Nl,Sv,No,Da).3ds" size="134217728" crc="e52fe013" md5="4ce7fae9889cf364fe3869c26e55ee2c" sha1="5d55eb098574329b616ecde931ebde4d2684c7f4" sha256="8bca7d3f7da46b2d8cba54b42e68ee737ad84bfe11d7dfff711ff1f614c4b191" status="verified" serial="CTR-P-AMUP"/>
 	</game>
 	<game name="Riding Star 3D (Europe) (En,Fr,De,Es,It)" id="1103">
 		<description>Riding Star 3D (Europe) (En,Fr,De,Es,It)</description>
@@ -8264,7 +8441,8 @@
 		<game_id>000400000018B300</game_id>
 		<rom name="RPG Tsukuru Fes (Japan).3ds" size="268435456" crc="65283f7c" md5="de324b15d515f46439c4130e9e320387" sha1="68904850d9dae749e8f9d434ea4a485ddfc64a9c" serial="CTR-P-BRPJ"/>
 	</game>
-	<game name="Runabout 3D - Drive Impossible (Japan)" id="0674">
+	<game name="Runabout 3D - Drive Impossible (Japan)" id="0674" cloneofid="0495">
+		<category>Games</category>
 		<description>Runabout 3D - Drive Impossible (Japan)</description>
 		<game_id>0004000000049300</game_id>
 		<rom name="Runabout 3D - Drive Impossible (Japan).3ds" size="536870912" crc="8f743c7a" md5="d0ea8ab55885176022482f691898aaa7" sha1="95b9e5b3c9316f015cea2b05008fec2065c1321d" serial="CTR-P-ARNJ"/>
@@ -8495,6 +8673,7 @@
 		<rom name="Sentouchu - Densetsu no Shinobi to Survival Battle! (Japan).3ds" size="268435456" crc="0754375a" md5="9de0fd8fd4a3f64c6186c0fe3b9c2e50" sha1="8c1b30ad9f0c9af12180abdd010e0f1ad1e02c08" serial="CTR-P-BCBJ"/>
 	</game>
 	<game name="Shakedown - Hawaii (USA) (Rev 1)" id="z176">
+		<category>Games</category>
 		<description>Shakedown - Hawaii (USA) (Rev 1)</description>
 		<game_id>00040000001a9600</game_id>
 		<rom name="Shakedown - Hawaii (USA) (Rev 1).3ds" size="134217728" crc="a33fadb2" md5="766c86c271051caa1d0ea0fb713df033" sha1="7657667a53b2fc5734ab3bffebf2a485b6b93e3e" sha256="4dc875a7d95dfbb959cdb11b0219e88bcc358b859c1670fe8c0b98b4cd966969" status="verified" serial="CTR-P-AHYE"/>
@@ -8589,22 +8768,26 @@
 		<game_id>000400000016E600</game_id>
 		<rom name="Shin Megami Tensei - Devil Survivor 2 - Record Breaker (Europe).3ds" size="4294967296" crc="fc280282" md5="d4c634eef5131d9c7a9cdc2ad57ecf4a" sha1="8c8cc31199e956dad25c5fc2925ed0179bc49d92" serial="CTR-P-ADXP"/>
 	</game>
-	<game name="Shin Megami Tensei - Devil Survivor Overclocked (Europe) (Rev 1)" id="z072" cloneofid="0310">
+	<game name="Shin Megami Tensei - Devil Survivor Overclocked (Europe) (Rev 1)" id="z072">
+		<category>Games</category>
 		<description>Shin Megami Tensei - Devil Survivor Overclocked (Europe) (Rev 1)</description>
 		<game_id>000400000009C000</game_id>
 		<rom name="Shin Megami Tensei - Devil Survivor Overclocked (Europe) (Rev 1).3ds" size="2147483648" crc="fa033be8" md5="8e264cf42b885477adf95d7fd5d547b1" sha1="b75b1110ab24b5d738e0a1306c09fe8dcd0df90b" sha256="dd3962d7ce335062ebcd8fc0eb1b91c5a2339d374be83f1b2754f0fc892ade01" serial="CTR-P-AMTP"/>
 	</game>
-	<game name="Shin Megami Tensei - Devil Survivor Overclocked (USA)" id="0053" cloneofid="0310">
+	<game name="Shin Megami Tensei - Devil Survivor Overclocked (USA)" id="0053" cloneofid="z072">
+		<category>Games</category>
 		<description>Shin Megami Tensei - Devil Survivor Overclocked (USA)</description>
 		<game_id>0004000000038800</game_id>
 		<rom name="Shin Megami Tensei - Devil Survivor Overclocked (USA).3ds" size="2147483648" crc="a02b7af6" md5="9a2820c0532f19fc28eef2d55e7773af" sha1="96c411e8d5698468675689494e27e79911096818" status="verified" serial="CTR-P-AMTE"/>
 	</game>
-	<game name="Shin Megami Tensei - Devil Survivor Overclocked (Europe)" id="0310">
+	<game name="Shin Megami Tensei - Devil Survivor Overclocked (Europe)" id="0310" cloneofid="z072">
+		<category>Games</category>
 		<description>Shin Megami Tensei - Devil Survivor Overclocked (Europe)</description>
 		<game_id>000400000009C000</game_id>
 		<rom name="Shin Megami Tensei - Devil Survivor Overclocked (Europe).3ds" size="2147483648" crc="9ee90b8d" md5="77959e5468c09d22341d0b45fabb7939" sha1="0211046d29e709acd77250bcafc73ceed65825f8" serial="CTR-P-AMTP"/>
 	</game>
-	<game name="Shin Megami Tensei - Devil Survivor Overclocked (USA) (Rev 1)" id="z071" cloneofid="0310">
+	<game name="Shin Megami Tensei - Devil Survivor Overclocked (USA) (Rev 1)" id="z071" cloneofid="z072">
+		<category>Games</category>
 		<description>Shin Megami Tensei - Devil Survivor Overclocked (USA) (Rev 1)</description>
 		<game_id>0004000000038800</game_id>
 		<rom name="Shin Megami Tensei - Devil Survivor Overclocked (USA) (Rev 1).3ds" size="2147483648" crc="04a7f40d" md5="e3dc207dfbbeb8476baec8a4e85225d5" sha1="049a0357a5f6211796c8f8ea152f279436202329" sha256="d75fb82af20cbd76af6e3e678796cc8310c20d29c09eb01fb057d54bc1201af3" status="verified" serial="CTR-P-AMTE"/>
@@ -8684,12 +8867,12 @@
 		<game_id>00040000000DF800</game_id>
 		<rom name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa (Japan).3ds" size="2147483648" crc="2e90c334" md5="f7289bdb29b174cd8287004a812f117f" sha1="e76673c224c1773ace44197688491f7d4c650346" sha256="89694c21e94649fe0765f7aca9694a60c148bce1e4d6a4199145d908c0a188d4" status="verified" serial="CTR-P-BGAJ"/>
 	</game>
-	<game name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan)" id="1143">
+	<game name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan)" id="1143" cloneofid="1716">
 		<description>Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan)</description>
 		<game_id>0004000000134500</game_id>
 		<rom name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan).3ds" size="2147483648" crc="941bca4a" md5="94c633a63a74939c51bd610a0599fca6" sha1="496e2ae168301cbbd2f46f375c8ea0b6b3424abb" serial="CTR-P-BG2J"/>
 	</game>
-	<game name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan) (Rev 1)" id="1716" cloneofid="1143">
+	<game name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan) (Rev 1)" id="1716">
 		<description>Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan) (Rev 1)</description>
 		<game_id>0004000000134500</game_id>
 		<rom name="Shingeki no Kyojin - Jinrui Saigo no Tsubasa CHAIN (Japan) (Rev 1).3ds" size="2147483648" crc="9452f7fa" md5="67006be76da0d0f0dc94fac54743e3e3" sha1="71ce8c36e8b83c4b914f71e82441165411929d9b" serial="CTR-P-BG2J"/>
@@ -8926,27 +9109,32 @@
 		<game_id>000400000012C200</game_id>
 		<rom name="Sonic Boom - Shattered Crystal (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="7c0d963c" md5="1695b710e8b9c4fa67c7149f6e13c810" sha1="05562100cae9094adbbe9e0f3378686d296e0eaf" sha256="1335eae215b234a395074fafb83dc185114d3eda05765921d7e1f96fa0801bae" status="verified" serial="CTR-P-BSYP"/>
 	</game>
-	<game name="Sonic Generations (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1445" cloneofid="0147">
+	<game name="Sonic Generations (Europe) (En,Fr,De,Es,It) (Rev 1)" id="1445">
+		<category>Games</category>
 		<description>Sonic Generations (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<game_id>0004000000062200</game_id>
 		<rom name="Sonic Generations (Europe) (En,Fr,De,Es,It) (Rev 1).3ds" size="1073741824" crc="2260e6d2" md5="65d8281a6ca080d309e7b9c96b5c8049" sha1="46faa7c8db5206431552cb1e27807b040bda84f7" serial="CTR-P-ASNP"/>
 	</game>
-	<game name="Sonic Generations (USA) (En,Fr,Es) (Rev 1)" id="1670" cloneofid="0147">
+	<game name="Sonic Generations (USA) (En,Fr,Es) (Rev 1)" id="1670" cloneofid="1445">
+		<category>Games</category>
 		<description>Sonic Generations (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000062300</game_id>
 		<rom name="Sonic Generations (USA) (En,Fr,Es) (Rev 1).3ds" size="1073741824" crc="0a819cdd" md5="be916aac15f3c0294d3ecd8a0916877a" sha1="32710fce8770e7754ab85cc1d65fa9480798ab5f" sha256="90003cf99d2d84057fe66719fb57f0f2869bb710b92a251ecbb6842196e3b441" serial="CTR-P-ASNE"/>
 	</game>
-	<game name="Sonic Generations (USA) (En,Fr,Es)" id="0043" cloneofid="0147">
+	<game name="Sonic Generations (USA) (En,Fr,Es)" id="0043" cloneofid="1445">
+		<category>Games</category>
 		<description>Sonic Generations (USA) (En,Fr,Es)</description>
 		<game_id>0004000000062300</game_id>
 		<rom name="Sonic Generations (USA) (En,Fr,Es).3ds" size="1073741824" crc="e912cb52" md5="4727587c8da6a06fe3302423aacb801a" sha1="198d88550b05174d991b34dbdf806974a24b05f8" serial="CTR-P-ASNE"/>
 	</game>
-	<game name="Sonic Generations (Europe) (En,Fr,De,Es,It)" id="0147">
+	<game name="Sonic Generations (Europe) (En,Fr,De,Es,It)" id="0147" cloneofid="1445">
+		<category>Games</category>
 		<description>Sonic Generations (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000062200</game_id>
 		<rom name="Sonic Generations (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="d36f300d" md5="97013946a304b84cb357ae54dcab5464" sha1="d2b0fb125697f5b36bc0d19ce453b18a05082b12" serial="CTR-P-ASNP"/>
 	</game>
-	<game name="Sonic Generations - Ao no Bouken (Japan)" id="0696" cloneofid="0147">
+	<game name="Sonic Generations - Ao no Bouken (Japan)" id="0696" cloneofid="1445">
+		<category>Games</category>
 		<description>Sonic Generations - Ao no Bouken (Japan)</description>
 		<game_id>000400000004CA00</game_id>
 		<rom name="Sonic Generations - Ao no Bouken (Japan).3ds" size="1073741824" crc="8781dc91" md5="a7f16378eb96681b5d54d62c7b7c38f8" sha1="7af61d8321067eed4eb28ad1481c22cf7a7aa381" serial="CTR-P-ASNJ"/>
@@ -9045,22 +9233,26 @@
 		<game_id>00040000000F4400</game_id>
 		<rom name="SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds" size="536870912" crc="7d0fa6ef" md5="4241dfcc4a9c261a4570336fc5cc70d8" sha1="c5f938f6c112f7fb85bc3e12d6644944317f2c95" sha256="88d7941c7d000883fe7903f81235c176f845210105199a988180cdf2c0e02316" status="verified" serial="CTR-P-ANXP"/>
 	</game>
-	<game name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl)" id="0047">
+	<game name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl)" id="0047" cloneofid="1664">
+		<category>Games</category>
 		<description>SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<game_id>000400000004EA00</game_id>
 		<rom name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl).3ds" size="268435456" crc="aa920916" md5="f32fc1c9f5bbdd7695d8b52e8ded7827" sha1="bdabce68026078a17803c822b657ce17e664b13b" sha256="c6bedc287f1a1a62ed4bbd9f2ef7fba4413f3df4f7a1514f5a1fd54080434331" status="verified" serial="CTR-P-ASGP"/>
 	</game>
-	<game name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="1664" cloneofid="0047">
+	<game name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="1664">
+		<category>Games</category>
 		<description>SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<game_id>000400000004EA00</game_id>
 		<rom name="SpongeBob SquigglePants (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).3ds" size="268435456" crc="ae5017a8" md5="f5382b499599ea4e84e198495a251438" sha1="4f1142981f6ecd971fb2c8d796ff4abebe0373aa" status="verified" serial="CTR-P-ASGP"/>
 	</game>
-	<game name="SpongeBob SquigglePants 3D (USA) (En,Fr,Es) (Rev 1)" id="1665" cloneofid="0047">
+	<game name="SpongeBob SquigglePants 3D (USA) (En,Fr,Es) (Rev 1)" id="1665" cloneofid="1664">
+		<category>Games</category>
 		<description>SpongeBob SquigglePants 3D (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000044500</game_id>
 		<rom name="SpongeBob SquigglePants 3D (USA) (En,Fr,Es) (Rev 1).3ds" size="268435456" crc="8d7f23e3" md5="6e29ce7c719b2fc765c617d0e6d9d452" sha1="35cf8c28807b3512dbae672e1970500f98553493" serial="CTR-P-ASGE"/>
 	</game>
-	<game name="SpongeBob SquigglePants 3D (USA) (En,Fr,Es)" id="0087" cloneofid="0047">
+	<game name="SpongeBob SquigglePants 3D (USA) (En,Fr,Es)" id="0087" cloneofid="1664">
+		<category>Games</category>
 		<description>SpongeBob SquigglePants 3D (USA) (En,Fr,Es)</description>
 		<game_id>0004000000044500</game_id>
 		<rom name="SpongeBob SquigglePants 3D (USA) (En,Fr,Es).3ds" size="268435456" crc="be44937f" md5="fc9f5b8f625a3fc71d8708d53e216976" sha1="3a4f6c1d95b7c47b8a9242067092c6d253dea933" sha256="6d5dcea2cdfc0d71e81332fa537312cb9b54eb4e73697f8c86558c7dbcbe1ccf" serial="CTR-P-ASGE"/>
@@ -9085,52 +9277,64 @@
 		<game_id>000400000009C900</game_id>
 		<rom name="Spy Hunter (USA) (En,Fr,Es).3ds" size="536870912" crc="1bc6ad47" md5="55d9705f62835ac47bc32a5a424f28e0" sha1="af6365b6d83554fa0fc6c20f49f8da40a3abe4e3" sha256="81ce8bca2c2d058a28c2c0f4dbc9977c472d91a856217f3e3f1c541b0ffe9a42" serial="CTR-P-AHEE"/>
 	</game>
-	<game name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 2)" id="0006">
+	<game name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 2)" id="0006" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 2)</description>
 		<game_id>0004000000049100</game_id>
 		<rom name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 2).3ds" size="1073741824" crc="d20552e1" md5="9625c81fa707312e2b9bf3a5c63a32d7" sha1="5c2b0bdcacd9bc8209cc5fe3618dc745fb8ed93a" status="verified" serial="CTR-P-ANRP"/>
 	</game>
-	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 2)" id="0044" cloneofid="0006">
+	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 2)" id="0044" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (USA) (En,Fr,Es) (Rev 2)</description>
 		<game_id>0004000000049000</game_id>
 		<rom name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 2).3ds" size="1073741824" crc="3ddfc339" md5="3bcc634a96fecaf00bd94b2d25038107" sha1="b2f7354f3a43c5a3e625126f131c7a8a567af099" sha256="13e923e4984fff916ce46700fef61bbf3984d6204fbe5626157630c6d4192ebd" status="verified" serial="CTR-P-ANRE"/>
 	</game>
-	<game name="Star Fox 64 3D (Taiwan) (Rev 1) (Tw, Cn Region Lock)" id="0380" cloneofid="0006">
+	<game name="Star Fox 64 3D (Taiwan) (Rev 1) (Tw, Cn Region Lock)" id="0380" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (Taiwan) (Rev 1) (Tw, Cn Region Lock)</description>
 		<game_id>0004000000080A00</game_id>
 		<rom name="Star Fox 64 3D (Taiwan) (Rev 1) (Tw, Cn Region Lock).3ds" size="1073741824" crc="e30e43ab" md5="08c9be9abe98539219780e9ccec6b6bc" sha1="c37a8284ceb7840bb071dd566736c2eca0a96267" serial="CTR-P-ANRW"/>
 	</game>
-	<game name="Star Fox 64 3D (Japan) (Rev 1)" id="0422" cloneofid="0006">
+	<game name="Star Fox 64 3D (Japan) (Rev 1)" id="0422" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (Japan) (Rev 1)</description>
 		<game_id>0004000000030400</game_id>
 		<rom name="Star Fox 64 3D (Japan) (Rev 1).3ds" size="1073741824" crc="19020082" md5="2a1ff21d601f318bd93fedf9013a23d2" sha1="ae8c795841c93c3ac4df500c7e1b93149bb89178" serial="CTR-P-ANRJ"/>
 	</game>
-	<game name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 1) (Demo) (Kiosk)" id="x008" cloneofid="0006">
+	<game name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 1) (Demo) (Kiosk)" id="x008" cloneofid="1368">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 1) (Demo) (Kiosk)</description>
 		<game_id>000400000005CD00</game_id>
 		<rom name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 1) (Demo) (Kiosk).3ds" size="536870912" crc="caceb2f2" md5="4d4b6eb7afdbd778c538510dbac9560b" sha1="35b5f05cc3f10f6deece4beb1da9a00c82c6b2ec" serial="CTR-B-ANRP"/>
 	</game>
-	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk)" id="x019" cloneofid="0006">
+	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk)" id="x019" cloneofid="1368">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk)</description>
 		<game_id>000400000005CC00</game_id>
 		<rom name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 1) (Demo) (Kiosk).3ds" size="268435456" crc="ed16c776" md5="c333b4619897bfc766a4a5ab2a0db6a4" sha1="64e3c899b744ebb0b86042eadbf80a9c80c3689b" sha256="3629e8a9b195fee7e8532de2cb10a37e99c6fd2c94543e114934945171941893" status="verified" serial="CTR-B-ANRE"/>
 	</game>
-	<game name="Star Fox 64 3D (Korea)" id="z102" cloneofid="0006">
+	<game name="Star Fox 64 3D (Korea)" id="z102" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (Korea)</description>
 		<game_id>0004000000080E00</game_id>
 		<rom name="Star Fox 64 3D (Korea).3ds" size="1073741824" crc="22a8ad44" md5="45628226dde3edf406e6f00a961dc459" sha1="6368d5d815d8d5da2c5207b5735a3d04110362b8" sha256="978463088009b57e534674f97b92bed8d26abf86f192441e2bc522df96875f53" serial="CTR-P-ANRK"/>
 	</game>
-	<game name="Star Fox 64 3D (Japan) (Rev 3)" id="1228" cloneofid="0006">
+	<game name="Star Fox 64 3D (Japan) (Rev 3)" id="1228" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (Japan) (Rev 3)</description>
 		<game_id>0004000000030400</game_id>
 		<rom name="Star Fox 64 3D (Japan) (Rev 3).3ds" size="1073741824" crc="083d1b44" md5="867d6bad3ce163f1c9e356cf057d2b8b" sha1="c0ec510ad2e20e836c4582b5e124a3400594dcd7" serial="CTR-P-ANRJ"/>
 	</game>
-	<game name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 3)" id="1368" cloneofid="0006">
+	<game name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 3)" id="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 3)</description>
 		<game_id>0004000000049100</game_id>
 		<rom name="Star Fox 64 3D (Europe) (En,Fr,De,Es,It) (Rev 3).3ds" size="1073741824" crc="e4a95cb2" md5="c0bfc3dd9d6e9e1e7dcf08c730b02c75" sha1="9d6e8de15f5062bb3256a49e7dbb2398d787e930" sha256="e4a570e6bef56c5cf6c73d5defeb6533745233fad061e020492fbfba31e3771c" status="verified" serial="CTR-P-ANRP"/>
 	</game>
-	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)" id="z016" cloneofid="0006">
+	<game name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)" id="z016" cloneofid="1368">
+		<category>Games</category>
 		<description>Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)</description>
 		<game_id>0004000000049000</game_id>
 		<rom name="Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3).3ds" size="1073741824" crc="607e7c58" md5="c41993f91e62ad318fae7ef4e28f9210" sha1="32c17c972e8365ef33ab95e45e002e419fd9ed47" sha256="fbc20d5f9ab5def2139bb49fa33f503bb7322237a4a39d75116f4524a50d370d" status="verified" serial="CTR-P-ANRE"/>
@@ -9225,12 +9429,15 @@
 		<game_id>0004000000196500</game_id>
 		<rom name="Style Savvy - Fashion Forward (USA).3ds" size="1073741824" crc="06999a8a" md5="c7d66165c9d7331c5328af33b70d0a98" sha1="184cf7800bea9890b72fdec5d4ca72e4c68db872" serial="CTR-P-ECDE"/>
 	</game>
-	<game name="Style Savvy - Trendsetters (USA)" id="0416" cloneofid="0704">
+	<game name="Style Savvy - Trendsetters (USA)" id="0416" cloneofid="1255">
+		<category>Games</category>
 		<description>Style Savvy - Trendsetters (USA)</description>
 		<game_id>00040000000A9100</game_id>
 		<rom name="Style Savvy - Trendsetters (USA).3ds" size="2147483648" crc="0deb5695" md5="3e5f8e3e91c6f0673fc0f6a65ecf69e6" sha1="9fe57f5be4c2e4170236ef5156ae49fcfc96d48a" serial="CTR-P-ACLE"/>
 	</game>
-	<game name="Style Savvy - Trendsetters (USA) (Demo) (Kiosk)" id="x014" cloneofid="0704">
+	<game name="Style Savvy - Trendsetters (USA) (Demo) (Kiosk)" id="x014" cloneofid="1255">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Style Savvy - Trendsetters (USA) (Demo) (Kiosk)</description>
 		<game_id>00040000000BB600</game_id>
 		<rom name="Style Savvy - Trendsetters (USA) (Demo) (Kiosk).3ds" size="134217728" crc="f7381ca1" md5="836bafe9a219ab6c5d840e937115660a" sha1="36b2a2473f6423ea7e3d505dd5e0def8aa58b007" serial="CTR-B-ACLE"/>
@@ -9255,12 +9462,12 @@
 		<game_id>00040000001C3000</game_id>
 		<rom name="SuiChara - Sweets Gakkou e Youkoso! (Japan).3ds" size="268435456" crc="d1ec1431" md5="c59a05792940435c3bb460802889fbf7" sha1="33d497760577f6a3fb803cde0b0ddb7b853f7dd4" serial="CTR-P-B2SJ"/>
 	</game>
-	<game name="Sumikko Gurashi - Koko ga Ochitsukundesu (Japan)" id="1161">
+	<game name="Sumikko Gurashi - Koko ga Ochitsukundesu (Japan)" id="1161" cloneofid="1717">
 		<description>Sumikko Gurashi - Koko ga Ochitsukundesu (Japan)</description>
 		<game_id>0004000000152A00</game_id>
 		<rom name="Sumikko Gurashi - Koko ga Ochitsukundesu (Japan).3ds" size="268435456" crc="6869d494" md5="43da2154abe6b2f189cca0cf6927be12" sha1="1e3abb5373357585c4d33eb49b79a10df79d21b1" serial="CTR-P-BCNJ"/>
 	</game>
-	<game name="Sumikko Gurashi - Koko ga Ochitsukundesu (Japan) (Rev 2)" id="1717" cloneofid="1161">
+	<game name="Sumikko Gurashi - Koko ga Ochitsukundesu (Japan) (Rev 2)" id="1717">
 		<description>Sumikko Gurashi - Koko ga Ochitsukundesu (Japan) (Rev 2)</description>
 		<game_id>0004000000152A00</game_id>
 		<rom name="Sumikko Gurashi - Koko ga Ochitsukundesu (Japan) (Rev 2).3ds" size="268435456" crc="d62a5dc1" md5="6aa24ae5530911530996ffcc2db2d185" sha1="f6bf804b01461d69d1f79c070a6acb6b804b7509" serial="CTR-P-BCNJ"/>
@@ -9279,12 +9486,12 @@
 		<game_id>0004000000197600</game_id>
 		<rom name="Sumikko Gurashi - Mura o Tsukurundesu (Japan).3ds" size="536870912" crc="d33b7a43" md5="29f385b77ded466a897dafa70a44ecbd" sha1="d05f0fd93a855ed3cb7a7a763690a8c3d2763b0d" serial="CTR-P-BVSJ"/>
 	</game>
-	<game name="Sumikko Gurashi - Omise Hajimerundesu (Japan)" id="1412">
+	<game name="Sumikko Gurashi - Omise Hajimerundesu (Japan)" id="1412" cloneofid="1718">
 		<description>Sumikko Gurashi - Omise Hajimerundesu (Japan)</description>
 		<game_id>0004000000178500</game_id>
 		<rom name="Sumikko Gurashi - Omise Hajimerundesu (Japan).3ds" size="536870912" crc="b72b8266" md5="543d1a2f8e83feaa09ebd030dd9355cd" sha1="688f77d89d5e666fad7077ddee1c679b265ac305" serial="CTR-P-BSVJ"/>
 	</game>
-	<game name="Sumikko Gurashi - Omise Hajimerundesu (Japan) (Rev 1)" id="1718" cloneofid="1412">
+	<game name="Sumikko Gurashi - Omise Hajimerundesu (Japan) (Rev 1)" id="1718">
 		<description>Sumikko Gurashi - Omise Hajimerundesu (Japan) (Rev 1)</description>
 		<game_id>0004000000178500</game_id>
 		<rom name="Sumikko Gurashi - Omise Hajimerundesu (Japan) (Rev 1).3ds" size="536870912" crc="8c99bf99" md5="cb20290e22a754565e1a0185189e239f" sha1="7aa042e937cdd58e1bb8cd7df42ec78906290fac" serial="CTR-P-BSVJ"/>
@@ -9304,67 +9511,82 @@
 		<game_id>0004000000072100</game_id>
 		<rom name="Super Black Bass 3D (Europe) (En,Fr,De).3ds" size="268435456" crc="c4a0cfa9" md5="5444a0da0b395abe5c71d1c3c86632be" sha1="613323778cce61f2aa66c6e4815d9bc01d3f0d7c" serial="CTR-P-ASBP"/>
 	</game>
-	<game name="Super Mario (USA) (Beta) (E3 2011 demo)" id="z009" cloneofid="0005">
+	<game name="Super Mario (USA) (Beta) (E3 2011 demo)" id="z009" cloneofid="1264">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Super Mario (USA) (Beta) (E3 2011 demo)</description>
 		<game_id>000400000F7FFF00</game_id>
-		<rom name="Super Mario (USA) (Beta) (E3 2011 demo).3ds" size="2147483648" crc="9e40f11c" md5="a6b0f31a165fccee1793ac2eaec394f7" sha1="ff51f2447e3fd076e682ef75e50e0e69600d6d3f" sha256="ebaa719b78139a40d3e64ba456cb927a4c37b8075dda6d033cbc9e3d6a61a803" serial="CTR-P-CTAP"/>
+		<rom name="Super Mario (USA) (Beta) (E3 2011 demo).3ds" size="2147483648" crc="9e40f11c" md5="a6b0f31a165fccee1793ac2eaec394f7" sha1="ff51f2447e3fd076e682ef75e50e0e69600d6d3f" sha256="ebaa719b78139a40d3e64ba456cb927a4c37b8075dda6d033cbc9e3d6a61a803" status="verified" serial="CTR-P-CTAP"/>
 	</game>
-	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1246" cloneofid="0005">
+	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1246" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>0004000000053F00</game_id>
 		<rom name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="536870912" crc="16baedd4" md5="2341bf64003169993de00ae63550a5f6" sha1="742683d9253576dc0b67c23bfa8828d01ef676f3" status="verified" serial="CTR-P-AREP"/>
 	</game>
-	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1264" cloneofid="0005">
+	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>0004000000053F00</game_id>
 		<rom name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="536870912" crc="a5042d66" md5="d92c6456e8cbd8dcb37d6382807df80c" sha1="fca885ebb2fa5b9d94ad8a4f636e8c8699e440f5" sha256="c83f9175208b3d60898d3a6d60451bee3108521e409cace362f63b46dda8c976" status="verified" serial="CTR-P-AREP"/>
 	</game>
-	<game name="Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)" id="1669" cloneofid="0005">
+	<game name="Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)" id="1669" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>0004000000054000</game_id>
 		<rom name="Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1).3ds" size="536870912" crc="a1fd8df5" md5="4f28fb97ef0199479ccb17802fc615d7" sha1="52bd0337ceef3f1278a400d17cfb99db0b849c0a" sha256="002da038529ce5467b14aa2461dce3304ab53260fd984e259e8814b98fd4d0fd" status="verified" serial="CTR-P-AREE"/>
 	</game>
-	<game name="Super Mario 3D Land (Japan) (Rev 1)" id="1696" cloneofid="0005">
+	<game name="Super Mario 3D Land (Japan) (Rev 1)" id="1696" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Japan) (Rev 1)</description>
 		<game_id>0004000000054100</game_id>
 		<rom name="Super Mario 3D Land (Japan) (Rev 1).3ds" size="536870912" crc="ca5bb6a4" md5="896bb00e519d992117f3728dd74fccf1" sha1="4c5c5f3a4cd98400c7b805317fff5c3c6b14b604" serial="CTR-P-AREJ"/>
 	</game>
-	<game name="Super Mario 3D Land (Japan) (Rev 2)" id="1697" cloneofid="0005">
+	<game name="Super Mario 3D Land (Japan) (Rev 2)" id="1697" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Japan) (Rev 2)</description>
 		<game_id>0004000000054100</game_id>
 		<rom name="Super Mario 3D Land (Japan) (Rev 2).3ds" size="536870912" crc="77774cdc" md5="59a6793ab3dee20322faf9bf5d4d28ad" sha1="681167e99cf4d6ef3ed556aaabd5846203b44da9" serial="CTR-P-AREJ"/>
 	</game>
-	<game name="Super Mario 3D Land (Taiwan) (Jp Region Lock)" id="z020" cloneofid="0005">
+	<game name="Super Mario 3D Land (Taiwan) (Jp Region Lock)" id="z020" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Taiwan) (Jp Region Lock)</description>
 		<game_id>00040000001B7D00</game_id>
 		<rom name="Super Mario 3D Land (Taiwan) (Jp Region Lock).3ds" size="536870912" crc="4162a5ed" md5="70eecaa019ce5721dd387a9904d9586d" sha1="d1435ef47c945f16b84556f989f4aa87565de486" sha256="d4b603c9e4bf5b9762f89c565b4402d14278530a30e8e3d777cc33832b19fb56" status="verified" serial="CTR-P-AREZ"/>
 	</game>
-	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0005">
+	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="0005" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>0004000000053F00</game_id>
 		<rom name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="536870912" crc="cdd0c322" md5="84b26ac0fbedc01d81ddc78d26778384" sha1="d4bd0cb5ce94fdc0db7c3ecefbec29d6adbf20be" sha256="f348c13c2aaa3dedf33e4a8ceee1d61e1e7d58c7bd98831c2f52aad913f712c7" status="verified" serial="CTR-P-AREP"/>
 	</game>
-	<game name="Super Mario 3D Land (USA) (En,Fr,Es)" id="0041" cloneofid="0005">
+	<game name="Super Mario 3D Land (USA) (En,Fr,Es)" id="0041" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (USA) (En,Fr,Es)</description>
 		<game_id>0004000000054000</game_id>
 		<rom name="Super Mario 3D Land (USA) (En,Fr,Es).3ds" size="536870912" crc="af06abe0" md5="6814d29195420715e310228280d9d90d" sha1="c4f029ddb7665eafee92b9533e41ae7e8d6773b4" sha256="614799dff59a3608a90cabc4fe120348690c179aba6216ebec063a73abdaf756" status="verified" serial="CTR-P-AREE"/>
 	</game>
-	<game name="Super Mario 3D Land (Japan)" id="0226" cloneofid="0005">
+	<game name="Super Mario 3D Land (Japan)" id="0226" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Japan)</description>
 		<game_id>0004000000054100</game_id>
 		<rom name="Super Mario 3D Land (Japan).3ds" size="536870912" crc="f31a9da3" md5="dc2a478635683d35407b7c0742ac0516" sha1="26c4bf6dd56d9cf69413ebd206e29f4c6a2a9ef2" serial="CTR-P-AREJ"/>
 	</game>
-	<game name="Super Mario 3D Land (Korea)" id="0225" cloneofid="0005">
+	<game name="Super Mario 3D Land (Korea)" id="0225" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Korea)</description>
 		<game_id>0004000000089D00</game_id>
 		<rom name="Super Mario 3D Land (Korea).3ds" size="536870912" crc="9a91b72e" md5="695c3f429d9103cc161d3e499364db99" sha1="c98ecd927edd98e9092d4391b761ce0475d2c4cb" sha256="e7aba405ddcd2ba3e87b5f105b805e4890619ec7c7e2aa0a1997dbefca6b8466" status="verified" serial="CTR-P-AREK"/>
 	</game>
-	<game name="Super Mario 3D Land (Taiwan)" id="0377" cloneofid="0005">
+	<game name="Super Mario 3D Land (Taiwan)" id="0377" cloneofid="1264">
+		<category>Games</category>
 		<description>Super Mario 3D Land (Taiwan)</description>
 		<game_id>0004000000089E00</game_id>
 		<rom name="Super Mario 3D Land (Taiwan).3ds" size="536870912" crc="4a7ee9fb" md5="9a6dd0c06efe8e9c6b9bbccd0f190e14" sha1="2bea0ee28469eaa74b3ae2306a40b1ed5a13d80d" serial="CTR-P-AREW"/>
 	</game>
-	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x004" cloneofid="0005">
+	<game name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x004" cloneofid="1264">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>000400000007D500</game_id>
 		<rom name="Super Mario 3D Land (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="134217728" crc="a2fcf574" md5="497a3293f69756e8af63afb919e01fcd" sha1="4dd6e57074c08bb9d169bc5c4ac36f7005371948" serial="CTR-B-AREP"/>
@@ -9477,107 +9699,130 @@
 		<game_id>0004000000078A00</game_id>
 		<rom name="Super Robot Taisen UX (Japan).3ds" size="2147483648" crc="304425dd" md5="a846a52775c5cb0e6ba23ddd95b73039" sha1="ea4b526d60426e00d3d6e7af89f621d8127da605" serial="CTR-P-AS6J"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)" id="1049" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).3ds" size="2147483648" crc="fdf7711e" md5="486640abdfd67cfd603a6150ffb6e1dd" sha1="6854a1656f9b3148fe6bbe950d47a5e9fe80228c" sha256="32472075f5686bc5747ee20aa02c7f86c586a5714f7232abd4feb3b80e5efd72" status="verified" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es)" id="1051" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es)" id="1051" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es).3ds" size="2147483648" crc="9e3746f5" md5="a56ac7ee7af2ef2c301181839cba4064" sha1="82468c68db7fa39b179a880677f7c4d5e387919c" sha256="a50e8e259fd91f8d0c7c678fcd92c959e9e9a7708e6ea095e2fc308c0b4bac1c" status="verified" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x035" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x035" cloneofid="z078">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<game_id>000400000014E600</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).3ds" size="268435456" crc="ba7b5cfb" md5="48ce70e5d5fc8ef872b3e4e37d67fde3" sha1="61f676c0d38e3b6d0c69bdd538323e6f0a4956a0" serial="CTR-B-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x036" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk)" id="x036" cloneofid="z078">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk)</description>
 		<game_id>000400000014E500</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Demo) (Kiosk).3ds" size="268435456" crc="8a0f85b4" md5="c38a421643e2e0aa9f7a0f6f0b333698" sha1="c938e252ba0bacc47b28f7dd83e915cee623cfee" sha256="e9326090bd55d48c78d130966557cb400340bdf60c872690a7413ea91eec7035" status="verified" serial="CTR-B-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)" id="1201" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)" id="1201" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2).3ds" size="2147483648" crc="36db7b9b" md5="3fc1bc333826c04baa3491ccd0841599" sha1="0fa6ac95e596aaf409a4c56d9973b252033f2fff" sha256="8ccdc22d181a130667fa43e2cf1f9ab3697dae707aa462b95d7f4e86f0d0012a" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1244" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)" id="1244" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).3ds" size="2147483648" crc="b48f2f85" md5="70ff95e877e4298b1426d2ee344bc203" sha1="a017140030e71ead9a7170401e7cd22ccfaeeb7a" sha256="c3b8b51e22590e3671c8f2401f0458cfc241599d1aade97000ffbe5ea8b6a338" status="verified" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 5)" id="1447" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 5)" id="1447" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 5)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 5).3ds" size="2147483648" crc="fc953c10" md5="5555b672f8ce59c2dbddb423fc8c8691" sha1="06d1548eced5aafb44490174c031bdec1730f79b" sha256="0be54e9d8e66695faf3f132ca49d38760274fbb6c2bb6af3fecfcebafa13104d" status="verified" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 1)" id="1678" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 1)" id="1678" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 1)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 1).3ds" size="2147483648" crc="d37d40ac" md5="12e32ea0f1a67951cdbd00f97719ae01" sha1="ff8882544760bfe14f697da5563b7e3df014b58d" sha256="f63064d2a267b59365d41565f6af2e589c3f12b84a4cc47fb01b0189d0a26fa7" status="verified" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Korea)" id="z007" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Korea)" id="z007" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Korea)</description>
 		<game_id>0004000000167C00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Korea).3ds" size="2147483648" crc="7c04769d" md5="77d6bc992acf952d2ea11e6f1dc2afac" sha1="b232b2cde8914d96d9cd175aa21c29a4bf280f6a" sha256="8629d44323ee705fdc46377cb00b34675eb054bb80b7dcb38ffd753aa41f08f4" serial="CTR-P-AXCK"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)" id="1628" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)" id="1628" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4).3ds" size="2147483648" crc="af4a8865" md5="a087df43be55d4adfbbb1c809a8c1dea" sha1="51bcb6e8ba5f8a438a5a2e640cb16d1304f74c8a" sha256="5972e168c44c137785dd7c75c4aab5955e8fe96473677f9233d4b310c4e8c406" status="verified" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 10)" id="1641" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 10)" id="1641" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 10)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 10).3ds" size="2147483648" crc="dba6f4cd" md5="3e8f1e4a3d1eeeae539b7494b568b1a0" sha1="7de4fab03b11e0d7b4f316c5706f80bdda34a3f4" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3)" id="1659" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3)" id="1659" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3).3ds" size="2147483648" crc="d04b7ec7" md5="9a8ec9a25979af4388ad465aa1eff080" sha1="676fb2a3e6f7cb7c66ca9f1dffdfacda8f1a0327" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 5)" id="1666" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 5)" id="1666" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 5)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 5).3ds" size="2147483648" crc="b5f8001e" md5="b231bd1c5c4d0b4d897869742c033184" sha1="ab62cf2058063130afc633f063ec7a3d1d3b1a27" sha256="f6a41fd6ed11993af1cfa09a7c255e6c88f0573fad92d33c346caa17bb21d5dd" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 6)" id="1667" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 6)" id="1667" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 6)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 6).3ds" size="2147483648" crc="399d3987" md5="e37569c32ca84c1ac17ab70fff017e4c" sha1="4d3691a786975e907171918bacd7591e32bd6966" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 10)" id="1668" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 10)" id="1668" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 10)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 10).3ds" size="2147483648" crc="527cbd61" md5="13c6bb663a44d625686ea6d38039665a" sha1="704cbfb31a4ae1715e2b895715d65bc45f404851" sha256="31de98778ccd72f99dec56230aa7727dd6c5dfe137d601e31e75f9e4ffffa669" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 7)" id="1677" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 7)" id="1677" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 7)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 7).3ds" size="2147483648" crc="f9a4ea81" md5="2cfe55f43df7b20614546d833bb6742a" sha1="7aa97a04f43efde1152ba3341d9a8e048cea1bce" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)" id="1679" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)" id="1679" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3).3ds" size="2147483648" crc="9eebc4ae" md5="0161bf67bbc440d177ea66ac8d59f5b2" sha1="bc025afa9c907ba76d65211c9a0cb1a18f06d9d6" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 4)" id="1685" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 4)" id="1685" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 4)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 4).3ds" size="2147483648" crc="3c5e6bf4" md5="6b93e7c31a68c451c780a7f4d9f7ee24" sha1="797dd6468dd925b87d322daabc6a21ea9fff03d1" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 11)" id="z030" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 11)" id="z030" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 11)</description>
 		<game_id>00040000000EDF00</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 11).3ds" size="2147483648" crc="5df6a754" md5="b6c2c34121dcb83e15aad6fdaf238254" sha1="f905b275685449e893bf15a21671d6c95773ba83" sha256="cbfd4403f1346d80f002fe14f732b95277161b47eefa3115df0f26d2c16e6da7" serial="CTR-P-AXCE"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 11)" id="z078" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 11)" id="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 11)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 11).3ds" size="2147483648" crc="b46e5ab2" md5="c9f1c163f2d7e11380f504dc0755e3c5" sha1="c9769d5c4e4ac38357bc7d3090bd26a4c5cf36d4" sha256="25c4ee29323f4afe3d9c4f574f0d18ee4c84798a0ee733e746c964499b97befe" status="verified" serial="CTR-P-AXCP"/>
 	</game>
-	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="z204" cloneofid="1049">
+	<game name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)" id="z204" cloneofid="z078">
+		<category>Games</category>
 		<description>Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</description>
 		<game_id>00040000000EE000</game_id>
 		<rom name="Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2).3ds" size="2147483648" crc="5de35a6e" md5="f4220c7d97d9d380102a5ab3592e8726" sha1="56ad613bf3eec65a38e259d8bd22622ff8b89f3a" sha256="36168458eca8f6a491ba59ca57e278134cf281416f7a24873dbbbbccafd915e3" serial="CTR-P-AXCP"/>
@@ -9732,17 +9977,19 @@
 		<game_id>00040000001BF400</game_id>
 		<rom name="Tantei Jinguuji Saburou - Ghost of the Dusk (Japan).3ds" size="536870912" crc="d7941cc5" md5="0bc0a1f033bb49dae82a570cc0371a1b" sha1="edc3476d0c75a9f8eba5c19a708f7233e0545f66" serial="CTR-P-BG9J"/>
 	</game>
-	<game name="Teddy Together (Europe) (En,Fr,De,Es,It)" id="1538" cloneofid="0665">
+	<game name="Teddy Together (Europe) (En,Fr,De,Es,It)" id="1538">
 		<description>Teddy Together (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000179300</game_id>
 		<rom name="Teddy Together (Europe) (En,Fr,De,Es,It).3ds" size="536870912" crc="bcbfc350" md5="bbc7fdcd8f3514a7f29e2239ae7bf0ba" sha1="a1ab0e5d9a89684b55e35914615959c375d843b9" sha256="dd2ae3d57673cd34b18ef4a80f8293dc114932144992112cecf7f6a8d5e28f70" status="verified" serial="CTR-P-AKMP"/>
 	</game>
-	<game name="Teenage Mutant Ninja Turtles (USA) (En,Fr)" id="1015">
+	<game name="Teenage Mutant Ninja Turtles (USA) (En,Fr)" id="1015" cloneofid="1024">
+		<category>Games</category>
 		<description>Teenage Mutant Ninja Turtles (USA) (En,Fr)</description>
 		<game_id>000400000012D400</game_id>
 		<rom name="Teenage Mutant Ninja Turtles (USA) (En,Fr).3ds" size="134217728" crc="3772cd44" md5="db0f9cb754b418b2bd456862c32ff347" sha1="6e0096c31c20846c7d6799c38f1c25cb3937739c" serial="CTR-P-BNTE"/>
 	</game>
 	<game name="Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv)" id="1024">
+		<category>Games</category>
 		<description>Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
 		<game_id>000400000012E100</game_id>
 		<rom name="Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It,Nl,Sv).3ds" size="134217728" crc="3cc47d15" md5="be3e2c4b865fd7e3c836d97ea351bdef" sha1="2b61cc91c0466d099e4feb31d050a8fd5834dad9" sha256="54920b476383348d634a4692153d629d27f27d737fbaab0fdf06c31c1530791c" status="verified" serial="CTR-P-BTWP"/>
@@ -9788,6 +10035,7 @@
 		<rom name="Tekken 3D - Prime Edition (Japan).3ds" size="2147483648" crc="1de798fb" md5="4a2a443e9dfb92d1af43f7d69e127617" sha1="e6f499f9e4cee17a5a030686435faff7fc18cd5f" serial="CTR-P-ATKJ"/>
 	</game>
 	<game name="Tenkai Knights - Brave Battle (Europe) (En,Fr,De,Es,It)" id="1044">
+		<category>Games</category>
 		<description>Tenkai Knights - Brave Battle (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>000400000012AF00</game_id>
 		<rom name="Tenkai Knights - Brave Battle (Europe) (En,Fr,De,Es,It).3ds" size="268435456" crc="f29c60f6" md5="f51387d2ca22d835d5c0b8cb3e11e6a5" sha1="a41b14bf2631de8edd7363a609b1921c8563d361" sha256="640f2d0e4b2a5431c8bb44cb44133a679b5dcfde8fac1712ab6a84285b565cec" status="verified" serial="CTR-P-BTKP"/>
@@ -10242,12 +10490,14 @@
 		<game_id>0004000000104900</game_id>
 		<rom name="Vitamin Z Revolution (Japan).3ds" size="2147483648" crc="278f64f1" md5="c3a254d8c71873ea27ef2814d91a7a15" sha1="5c9d213355e809912d34062bb513a2f7fbacab2b" serial="CTR-P-BVZJ"/>
 	</game>
-	<game name="Wagamama Fashion - GirlsMode - Yokubari Sengen (Japan) (Rev 1)" id="0699" cloneofid="0704">
+	<game name="Wagamama Fashion - GirlsMode - Yokubari Sengen (Japan) (Rev 1)" id="0699" cloneofid="1255">
+		<category>Games</category>
 		<description>Wagamama Fashion - GirlsMode - Yokubari Sengen (Japan) (Rev 1)</description>
 		<game_id>000400000005D100</game_id>
-		<rom name="Wagamama Fashion - GirlsMode - Yokubari Sengen (Japan) (Rev 1).3ds" size="2147483648" crc="c7e549ab" md5="9e01ec7cbb32e5040ee116d27867f397" sha1="4adef74fbec28beae3eaf8c2bee6e5ed24415f15" serial="CTR-P-ACLJ"/>
+		<rom name="Wagamama Fashion - GirlsMode - Yokubari Sengen (Japan) (Rev 1).3ds" size="2147483648" crc="c7e549ab" md5="9e01ec7cbb32e5040ee116d27867f397" sha1="4adef74fbec28beae3eaf8c2bee6e5ed24415f15" status="verified" serial="CTR-P-ACLJ"/>
 	</game>
-	<game name="Wagamama Fashion - GirlsMode - Yokubari Sengen! Tokimeki Up! (Japan) (Rev 3)" id="0890" cloneofid="0704">
+	<game name="Wagamama Fashion - GirlsMode - Yokubari Sengen! Tokimeki Up! (Japan) (Rev 3)" id="0890" cloneofid="1255">
+		<category>Games</category>
 		<description>Wagamama Fashion - GirlsMode - Yokubari Sengen! Tokimeki Up! (Japan) (Rev 3)</description>
 		<game_id>000400000005D100</game_id>
 		<rom name="Wagamama Fashion - GirlsMode - Yokubari Sengen! Tokimeki Up! (Japan) (Rev 3).3ds" size="2147483648" crc="6c80ee46" md5="3ced625bacf7fe442fe62bed934a43a5" sha1="03c892d46c69780629bf0136912f9bf1b8344522" serial="CTR-P-ACLJ"/>
@@ -10300,7 +10550,8 @@
 		<description>WarioWare Gold (USA) (Rev 1)</description>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="9eca8de4" md5="e6ee5b0bfb73179fc9628dc6d49fb1dd" sha1="6ba9d94ac9798ebfa9788566d8153b7f4022938d" sha256="03fc72045e50c196576f8b554247fd2090830e99babd3e52b71f8d8e9f45c41d" serial="CTR-P-AWXA"/>
 	</game>
-	<game name="Whitakers Present, The - Milton &amp; Friends 3D (Europe)" id="0799">
+	<game name="Whitakers Present, The - Milton &amp; Friends 3D (Europe)" id="0799" cloneofid="1046">
+		<category>Games</category>
 		<description>Whitakers Present, The - Milton &amp; Friends 3D (Europe)</description>
 		<game_id>0004000000064E00</game_id>
 		<rom name="Whitakers Present, The - Milton &amp; Friends 3D (Europe).3ds" size="134217728" crc="358aa45b" md5="439e9a4366bc6f807359e966d9967ac3" sha1="bbff5760145a16bd1ef6eb57609e1dde2a734796" serial="CTR-P-AM3P"/>
@@ -10797,12 +11048,14 @@
 		<game_id>00040000000D6E00</game_id>
 		<rom name="Zelda no Densetsu - Mujura no Kamen 3D (Japan) (Rev 1).3ds" size="1073741824" crc="26ff27d2" md5="e217b92ca1386e410798159514e5bc10" sha1="e1f4057eab002d0cfa4667a17d9dfd3ad117c7bb" serial="CTR-P-AJRJ"/>
 	</game>
-	<game name="Zelda no Densetsu - Toki no Ocarina 3D (Japan) (Rev 1)" id="1171" cloneofid="0004">
+	<game name="Zelda no Densetsu - Toki no Ocarina 3D (Japan) (Rev 1)" id="1171" cloneofid="1168">
+		<category>Games</category>
 		<description>Zelda no Densetsu - Toki no Ocarina 3D (Japan) (Rev 1)</description>
 		<game_id>0004000000033400</game_id>
 		<rom name="Zelda no Densetsu - Toki no Ocarina 3D (Japan) (Rev 1).3ds" size="536870912" crc="8109afea" md5="69b3a67e31f5abe87eb64409a845d1a8" sha1="3ab17e24ad3ae7ad331327d7e423c7c5ead6a0f9" serial="CTR-P-AQEJ"/>
 	</game>
-	<game name="Zelda no Densetsu - Toki no Ocarina 3D (Japan)" id="0206" cloneofid="0004">
+	<game name="Zelda no Densetsu - Toki no Ocarina 3D (Japan)" id="0206" cloneofid="1168">
+		<category>Games</category>
 		<description>Zelda no Densetsu - Toki no Ocarina 3D (Japan)</description>
 		<game_id>0004000000033400</game_id>
 		<rom name="Zelda no Densetsu - Toki no Ocarina 3D (Japan).3ds" size="536870912" crc="1397bf62" md5="8124ef27a6f2e4033c54b8d4a898fd91" sha1="51c2d669ede49a1db3e7022aeafe7a8349f363de" serial="CTR-P-AQEJ"/>

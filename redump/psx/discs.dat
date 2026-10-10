@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10981) (2026-10-09 01-31-36)</description>
-		<version>2026-10-09 01-31-36</version>
-		<date>2026-10-09 01-31-36</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-10 01-11-36)</description>
+		<version>2026-10-10 01-11-36</version>
+		<date>2026-10-10 01-11-36</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -98334,6 +98334,24 @@
 		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 11).bin" size="31265136" crc="d42e5244" md5="2ede03d67b6dd298f86ff7e8160c3aaf" sha1="a5ef29b8b36fc1fd3dc3a273a118f2dab7cfb60a"/>
 		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 12).bin" size="28376880" crc="3d7cd6bc" md5="85f26678f1f42cdaa63f2509c10590de" sha1="67961f6d852e6e5b299c4e289e7cc877d04a9cc5"/>
 		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 13).bin" size="28694400" crc="8c9d583e" md5="968336ced21542ead7fbf8b81dd44328" sha1="626e19d841ef0b888ed0986ac3eea71dd10dd814"/>
+	</game>
+	<game name="Vigilante 8 (USA) (Beta) (1998-03-25)" id="139266">
+		<category>Preproduction</category>
+		<description>Vigilante 8 (USA) (Beta) (1998-03-25)</description>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25).cue" size="1698" crc="32ecfd66" md5="bf016ca1dbc26b8c2e868f1b086b7cc0" sha1="00aea53cf7f9c2a06c686b105627fe6d00bd8cdb"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 01).bin" size="257202960" crc="a55d0910" md5="09e00b3e2817a8b2cfc592e9829c8ff8" sha1="e79e18e44f3cffb1826e9578478519cbd0427e88"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 02).bin" size="26913936" crc="46260256" md5="5c3cf4d389d39a60c281d4e1f67d5ac6" sha1="67be2b81efc02eca428653955c4bad79a4c87170"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 03).bin" size="29298864" crc="050c245a" md5="d84af365dfa253e9499a3c0bbf55f1d6" sha1="c70864d4b5a7561469de73c8779dec915ad4e18e"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 04).bin" size="29047200" crc="19c56052" md5="08bb925dbbb70338d69e37ffc29d828b" sha1="63b63503a4c8195a3bedf0dc8f4b6b5af4dae791"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 05).bin" size="28616784" crc="1e6c94ab" md5="0558663b5692108739843e571e0fbe64" sha1="50be49c66a41cf534ed632526819b1eb71b68369"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 06).bin" size="29639904" crc="f0d545ca" md5="32c06474bf39d2a61dbdbe8986a5ebcd" sha1="f06b390d39c5474d356745757f6a2ec15e083f85"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 07).bin" size="27690096" crc="81dda273" md5="b9c084b760d71fd1c7aea0faef72e406" sha1="7c67db41b4f1deb243e5a2c6a25a12b35b867860"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 08).bin" size="28866096" crc="6eb82a67" md5="af31044f7a76559c7e4e3ffa6ab9297e" sha1="e82fc82839e933d082112fd4d42de287c8dd0731"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 09).bin" size="31617936" crc="28c6e6d9" md5="73d70f44eb16ee1d551a7e9f09f6df61" sha1="9cde384083dca1effcb68e227b34f858c6d506ac"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 10).bin" size="28228704" crc="df78cb86" md5="d481900dd9ce1c9e41adb6b97ea79a5f" sha1="bfefd4af00c08f38954e0f4d960e993dfcd78301"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 11).bin" size="27640704" crc="f87ec2bb" md5="c301ca8983149b01c6063f4175c158f4" sha1="925537a6c96f3fa46fb82237a8d36ff384f83cef"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 12).bin" size="28581504" crc="f1cb5129" md5="c10d297ac2117d1feac814e052f2e834" sha1="60d4b6e7efb223b4123fb18713cd9f66262a4b84"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 13).bin" size="33772368" crc="2d7c2e8a" md5="b3d95753aad64c79762a4f6cd4cf0e67" sha1="688e73c6865adccf8150222627f64aee42cdd3b9"/>
 	</game>
 	<game name="Vigilante 8 (USA) (Beta) (1998-03-30)" id="89699">
 		<category>Preproduction</category>
