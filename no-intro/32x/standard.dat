@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
-<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v4.xsd">
 	<header>
 		<id>17</id>
 		<name>Sega - 32X</name>
 		<description>Sega - 32X</description>
-		<version>20260317-140429</version>
-		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
+		<version>20261010-152927</version>
+		<author>1988reload, bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
+		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] 32X M68000 (USA)" id="0002">
@@ -1141,10 +1143,10 @@
 		<description>Virtua Hamster (USA) (Proto)</description>
 		<rom name="Virtua Hamster (USA) (Proto).32x" size="2097152" crc="cd54ac37" md5="b3a4929fcb61bc9ecdfd9ac453860fc1" sha1="c10f98d9db73ae90be5e5d556b663a5aff015cef" sha256="5ac6524ba0b7dc32d83f373b63ae4e808834d87b0254f196460c71b74de10275" serial="G-xxxx"/>
 	</game>
-	<game name="Virtua Racing Deluxe (Japan)" id="0055" cloneofid="0054">
+	<game name="Virtua Racing Deluxe (Japan) (En)" id="0055" cloneofid="0054">
 		<category>Games</category>
-		<description>Virtua Racing Deluxe (Japan)</description>
-		<rom name="Virtua Racing Deluxe (Japan).32x" size="3145728" crc="0908e888" md5="08cae0a96d9ee07001c6e1c247d407c6" sha1="1c64e80eb164ca8d6c6587a55ad60385ba1daf27" sha256="5c4264e1e020db5d08c55f32afc811b07ab808700abe19d0d9c5a81a77867783" status="verified" serial="GX5001-00"/>
+		<description>Virtua Racing Deluxe (Japan) (En)</description>
+		<rom name="Virtua Racing Deluxe (Japan) (En).32x" size="3145728" crc="0908e888" md5="08cae0a96d9ee07001c6e1c247d407c6" sha1="1c64e80eb164ca8d6c6587a55ad60385ba1daf27" sha256="5c4264e1e020db5d08c55f32afc811b07ab808700abe19d0d9c5a81a77867783" status="verified" serial="GX5001-00"/>
 	</game>
 	<game name="Virtua Racing Deluxe (USA)" id="0056" cloneofid="0054">
 		<category>Games</category>

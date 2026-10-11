@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn</name>
-		<description>Sega - Saturn - Datfile (2464) (2026-10-09 00-01-36)</description>
-		<version>2026-10-09 00-01-36</version>
-		<date>2026-10-09 00-01-36</date>
+		<description>Sega - Saturn - Datfile (2464) (2026-10-11 03-43-15)</description>
+		<version>2026-10-11 03-43-15</version>
+		<date>2026-10-11 03-43-15</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -19838,7 +19838,7 @@
 	<game name="Mortal Kombat II (Europe)" id="2210">
 		<category>Games</category>
 		<description>Mortal Kombat II (Europe)</description>
-		<rom name="Mortal Kombat II (Europe).cue" size="220" crc="3bfc9778" md5="895db9262d29ebd102e896de8f2f92de" sha1="0e9cc3843b891e5a32c7a362c7c41a84ca5114c6"/>
+		<rom name="Mortal Kombat II (Europe).cue" size="243" crc="a6447a88" md5="c5cb7fb3d6d116bb0f3654e1f33d12f6" sha1="186f1cb8a692d52a1ea9641fe3b52c37d1723810"/>
 		<rom name="Mortal Kombat II (Europe) (Track 1).bin" size="30782976" crc="7bdc26fb" md5="1abaa22c4fa542356218866d2ef9e9ca" sha1="ffbea9f1230a1592e023b680858b5e7eb464ed96"/>
 		<rom name="Mortal Kombat II (Europe) (Track 2).bin" size="1056048" crc="a8bfd17e" md5="d982b419e558da63a6305c4cb9ba4915" sha1="34d8ad0005ea6bc89a74cbc904cd41e62ead23e2"/>
 	</game>

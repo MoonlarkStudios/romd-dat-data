@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20261007-215717</version>
+		<version>20261010-010858</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -35670,11 +35670,29 @@
 		<description>Chessmaster, The (Asia) (En) (Pirate)</description>
 		<rom name="Chessmaster, The (Asia) (En) (Pirate).nes" size="163856" crc="69ec0ad8" md5="bbffe25aa653a783e368ef0cff056abf" sha1="b032c0627e1089b2da6ac53594406e039b38fb1e" sha256="60f5797489a8c52f3e98f4ba8ae7def61358704bedced699e7cbe8b2c2f334fb" header="4E 45 53 1A 08 04 40 08 00 00 07 00 00 00 00 01"/>
 	</game>
-	<game name="Chiller (USA) (Beta) (1989-12-24) (Unl)" id="8472" cloneofid="0387">
+	<game name="Chiller (USA) (Beta 1) (Unl)" id="8472" cloneofid="0387">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Chiller (USA) (Beta) (1989-12-24) (Unl)</description>
-		<rom name="Chiller (USA) (Beta) (1989-12-24) (Unl).nes" size="16400" crc="4FA4452D" md5="3bdf6794ba2cf268751ae908fcd9d4b8" sha1="614d0fd5e9efe49a2cf0846ff12a5f043ebecd1b" sha256="b28cf1f8074fe6dd9c1eb5d623b49e588a49f20172baa252de1fa72336a3004d" header="4E 45 53 1A 34 01 B1 08 00 0F 00 00 00 00 00 08"/>
+		<description>Chiller (USA) (Beta 1) (Unl)</description>
+		<rom name="Chiller (USA) (Beta 1) (Unl).nes" size="16400" crc="4FA4452D" md5="3bdf6794ba2cf268751ae908fcd9d4b8" sha1="614d0fd5e9efe49a2cf0846ff12a5f043ebecd1b" sha256="b28cf1f8074fe6dd9c1eb5d623b49e588a49f20172baa252de1fa72336a3004d" header="4E 45 53 1A 34 01 B1 08 00 0F 00 00 00 00 00 08"/>
+	</game>
+	<game name="Chiller (USA) (Beta 2) (Unl)" id="8692" cloneofid="0387">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Chiller (USA) (Beta 2) (Unl)</description>
+		<rom name="Chiller (USA) (Beta 2) (Unl).nes" size="65552" crc="c4ce671e" md5="6bd140b46b0c26d7395941fa71331436" sha1="43a0cc392193e08751185f6dce7c67861d2202e1" sha256="5d50a347c69c9879e2e0f90b69fce35351a81cb8167c9a7df1ee4d90272e8f7b" header="4E 45 53 1A 02 04 B1 08 00 00 00 00 02 00 00 09"/>
+	</game>
+	<game name="Chiller (USA) (Beta 3) (Unl)" id="8693" cloneofid="0387">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Chiller (USA) (Beta 3) (Unl)</description>
+		<rom name="Chiller (USA) (Beta 3) (Unl).nes" size="65552" crc="ab501741" md5="db8fe00132e7d269567815d7f651673c" sha1="fe23409f2dbcff290f0a26f6b6e3ce5bba9c742d" sha256="7e9c95f78962b1e6326c780373c484b7659631811de2b90fa413120fc4a1b517" header="4E 45 53 1A 02 04 B1 08 00 00 00 00 02 00 00 09"/>
+	</game>
+	<game name="Chiller (USA) (Beta 4) (Unl)" id="8694" cloneofid="0387">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Chiller (USA) (Beta 4) (Unl)</description>
+		<rom name="Chiller (USA) (Beta 4) (Unl).nes" size="65552" crc="89de3a32" md5="55f59b898d93aad00f0be478c77cf62a" sha1="9e5f3f9bee517e924632e0d835d4a84f2d8be008" sha256="83349d65aaa45698ebe502bd0a303054e0d831252c4c9818a0986a883409ce43" header="4E 45 53 1A 02 04 B1 08 00 00 00 00 02 00 00 09"/>
 	</game>
 	<game name="Chocoblip (World) (Demo 2) (Aftermarket) (Unl)" id="8269">
 		<category>Demos</category>
@@ -36261,11 +36279,6 @@
 		<description>Haunted - Halloween '86 (World) (Demo) (Remastered Onslaught Edition) (Aftermarket) (Unl)</description>
 		<rom name="Haunted - Halloween '86 (World) (Demo) (Remastered Onslaught Edition) (Aftermarket) (Unl).nes" size="262160" crc="57f41df5" md5="0b7ca03f5e9c938c5e1bb7b6d9611e38" sha1="f0c12d5d76f047b100f6066cec60f70574abb04a" sha256="91466896cfbb7b101655481ead04a2ee28066540bb1e0bcf9dfeb814fc327e84" header="4E 45 53 1A 10 00 40 08 00 00 00 09 00 00 00 01"/>
 	</game>
-	<game name="Haunted - Halloween '87 - Year of the Witch (World) (Aftermarket) (Unl)" id="8418">
-		<category>Games</category>
-		<description>Haunted - Halloween '87 - Year of the Witch (World) (Aftermarket) (Unl)</description>
-		<rom name="Haunted - Halloween '87 - Year of the Witch (World) (Aftermarket) (Unl).nes" size="524304" crc="a18824fc" md5="d96661f0d6a5e709b05e59de809169c7" sha1="5dfe81a0437672b2588eeb136b739aa91f96be78" sha256="c78757160513feff62458666df78d847c1b9f128ea5d45e5faec1c4115e9ca7d" header="4E 45 53 1A 20 00 40 08 00 00 00 09 00 00 00 01"/>
-	</game>
 	<game name="Hazard - Let us Out! (World) (Proto) (Aftermarket) (Unl)" id="8208">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -36389,10 +36402,15 @@
 		<description>Invaders (World) (Aftermarket) (Unl)</description>
 		<rom name="Invaders (World) (Aftermarket) (Unl).nes" size="40976" crc="75bbfe13" md5="120e4ad07ef6b3b6e46fc18db90fd13b" sha1="79eb6b0cf335adce6e2f6fc6b6776d48d9e143b4" sha256="2d6a3f9e0187bf887d9b8a17e146167339c5594f0ae10c60c89961fb646efc30" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Jacobs Elevator (World) (Aftermarket) (Unl)" id="8642">
+	<game name="Jacob's Elevator (World) (v1.1) (Aftermarket) (Unl)" id="8642">
 		<category>Games</category>
-		<description>Jacobs Elevator (World) (Aftermarket) (Unl)</description>
-		<rom name="Jacobs Elevator (World) (Aftermarket) (Unl).nes" size="40976" crc="45a38d68" md5="6e1670245622be9bc08e53bc3f29ba5a" sha1="58febe9731bb5d6b24fab96ef408891afd807020" sha256="5ece66ee5848f9693bb3365e17af8841b0815a0d1ad223e466576df5c6edf10a" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+		<description>Jacob's Elevator (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Jacob's Elevator (World) (v1.1) (Aftermarket) (Unl).nes" size="40976" crc="45a38d68" md5="6e1670245622be9bc08e53bc3f29ba5a" sha1="58febe9731bb5d6b24fab96ef408891afd807020" sha256="5ece66ee5848f9693bb3365e17af8841b0815a0d1ad223e466576df5c6edf10a" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Jacob's Elevator (World) (Aftermarket) (Unl)" id="8691" cloneofid="8642">
+		<category>Games</category>
+		<description>Jacob's Elevator (World) (Aftermarket) (Unl)</description>
+		<rom name="Jacob's Elevator (World) (Aftermarket) (Unl).nes" size="40976" crc="9440814a" md5="ad26701dbc94896eaef3ba0f0f7cf4ad" sha1="cda88e63059d1e35dc3a67276fd2b0be5bec99a3" sha256="8258193129adc8381a61b9599a9b54a745c0228412536eea1fb5f7df5ee84352" mia="yes" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Jajamaru no Daibouken (Asia) (Ja) (Pirate)" id="8076" cloneofid="1088">
 		<category>Games</category>
@@ -36832,15 +36850,15 @@
 		<description>Nanaca Crash (World) (Aftermarket) (Unl)</description>
 		<rom name="Nanaca Crash (World) (Aftermarket) (Unl).nes" size="73744" crc="d8f1068a" md5="7e77b3c3170fc81e3466ff8d18478fd1" sha1="dcc0708b17c01671c4c2cd3f96d7b82e7e5c5f3f" sha256="ce1b7e1d3e54b56749b56cbac2d0c6722db4576c028032f2caf2aabb67ed667e" header="4E 45 53 1A 02 05 42 08 00 00 70 00 00 00 00 01"/>
 	</game>
-	<game name="Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Unl)" id="8649">
+	<game name="Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Pirate)" id="8649">
 		<category>Games</category>
-		<description>Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Unl)</description>
-		<rom name="Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Unl).nes" size="9027600" crc="8c725947" md5="bb808ce85b801fc99dadfdeb7263002d" sha1="6f158415860d7b76dc1dc368a97431c979dbaabd" sha256="f7152f3068a7b2732923e68e61542f954c708ac56909c341a50bc2ace36e8f53" header="4E 45 53 1A 27 00 C0 08 01 02 07 0C 00 00 00 01"/>
+		<description>Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Pirate)</description>
+		<rom name="Nature Clan All-Stars (World) (KR-001X1) (Aftermarket) (Pirate).nes" size="9027600" crc="8c725947" md5="bb808ce85b801fc99dadfdeb7263002d" sha1="6f158415860d7b76dc1dc368a97431c979dbaabd" sha256="f7152f3068a7b2732923e68e61542f954c708ac56909c341a50bc2ace36e8f53" header="4E 45 53 1A 27 00 C0 08 01 02 07 0C 00 00 00 01"/>
 	</game>
-	<game name="Nature Clan All-Stars (World) (Aftermarket) (Unl)" id="8650" cloneofid="8649">
+	<game name="Nature Clan All-Stars (World) (Aftermarket) (Pirate)" id="8650" cloneofid="8649">
 		<category>Games</category>
-		<description>Nature Clan All-Stars (World) (Aftermarket) (Unl)</description>
-		<rom name="Nature Clan All-Stars (World) (Aftermarket) (Unl).nes" size="3047440" crc="db08a2df" md5="7cc189aadc0772ee85f33e8e023adc4c" sha1="19fb335636de2a7be9096705fbaac32baf727e2e" sha256="50edd10bef4e81f0f5f41c9e03ca28531f35788b595bb4d5f3ac926db5b87f3f" header="4E 45 53 1A BA 00 C0 08 01 00 07 0C 00 00 00 01"/>
+		<description>Nature Clan All-Stars (World) (Aftermarket) (Pirate)</description>
+		<rom name="Nature Clan All-Stars (World) (Aftermarket) (Pirate).nes" size="3047440" crc="db08a2df" md5="7cc189aadc0772ee85f33e8e023adc4c" sha1="19fb335636de2a7be9096705fbaac32baf727e2e" sha256="50edd10bef4e81f0f5f41c9e03ca28531f35788b595bb4d5f3ac926db5b87f3f" header="4E 45 53 1A BA 00 C0 08 01 00 07 0C 00 00 00 01"/>
 	</game>
 	<game name="Necro Nancy - Nightmare Mode (World) (Demo) (Aftermarket) (Unl)" id="8339">
 		<category>Demos</category>
@@ -37314,6 +37332,11 @@
 		<description>Roof Hockey (World) (Aftermarket) (Unl)</description>
 		<rom name="Roof Hockey (World) (Aftermarket) (Unl).nes" size="32784" crc="f3a995d8" md5="ec2a3cc4805c7e0607905c0c3810e1cd" sha1="2f0e9911e8b7421457e8dd7493395e4a9aaee7bc" sha256="ec213963370b5107256e2f683c897afcefb8c88586a342afba8ce96bad27ff15" header="4E 45 53 1A 02 00 01 08 00 00 00 07 00 00 00 01"/>
 	</game>
+	<game name="Rooftop Ninja (World) (Aftermarket) (Unl)" id="8690">
+		<category>Games</category>
+		<description>Rooftop Ninja (World) (Aftermarket) (Unl)</description>
+		<rom name="Rooftop Ninja (World) (Aftermarket) (Unl).nes" size="32784" crc="f1baa57a" md5="3b9d4b3db2a0ba4580bafc3ee0632a87" sha1="830d4ede225642890d8f0b591437bd5e3f3ca48a" sha256="89cf5898387c853e3e76c5a961fd1d05155a4eea847881dd7b0065ddece26052" header="4E 45 53 1A 02 00 A1 D8 00 00 00 00 00 00 00 01"/>
+	</game>
 	<game name="Route-16 Turbo (Japan) (En) (Rev 1)" id="8540">
 		<category>Games</category>
 		<description>Route-16 Turbo (Japan) (En) (Rev 1)</description>
@@ -37621,11 +37644,6 @@
 		<description>Summer Island Battle Tactics (World) (Demo 31) (Aftermarket) (Unl)</description>
 		<rom name="Summer Island Battle Tactics (World) (Demo 31) (Aftermarket) (Unl).nes" size="786448" crc="f5ff0a7a" md5="88e5db1b1b3242c9a4564fbb16592f1b" sha1="047701de1a3c0317b7440cdb24e2c915af659d9b" sha256="5642dee1e149aff1ff81d0a45270cf9e2fb6c6049288f52b2133937e4aa89259" header="4E 45 53 1A 20 20 40 08 00 00 07 00 00 00 00 01"/>
 	</game>
-	<game name="Sunset Land (World) (Aftermarket) (Unl)" id="8665">
-		<category>Games</category>
-		<description>Sunset Land (World) (Aftermarket) (Unl)</description>
-		<rom name="Sunset Land (World) (Aftermarket) (Unl).nes" size="524304" crc="66c97ea1" md5="2f352bdbd5b786bb6a675bf971378203" sha1="39340e920bbdd7c3a7f90b0fd6ca0cfe5e02809c" sha256="7e8c4ffdc32856471a386ef1efbc874d64d3d7ce9f2421c09fe944dfc1498ee0" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
-	</game>
 	<game name="Sunset Land (World) (Demo 8) (Aftermarket) (Unl)" id="8666" cloneofid="8665">
 		<category>Demos</category>
 		<category>Games</category>
@@ -37807,11 +37825,6 @@
 		<category>Games</category>
 		<description>Tank 1990 (China) (En) (Pirate)</description>
 		<rom name="Tank 1990 (China) (En) (Pirate).nes" size="24592" crc="dddd46e4" md5="2f5317479fd2b1b0847254ce3559ef4d" sha1="97a9ae8836316b459545604b293a1cfde3214db0" sha256="4e1d9f800eb8710b831f5b9a2b29d21aea9e7fe9feac8e1b36ff285a66231bc2" header="4E 45 53 1A 01 01 00 08 00 00 00 00 00 00 00 01"/>
-	</game>
-	<game name="Tanker (World) (Aftermarket) (Unl)" id="8668">
-		<category>Games</category>
-		<description>Tanker (World) (Aftermarket) (Unl)</description>
-		<rom name="Tanker (World) (Aftermarket) (Unl).nes" size="40976" crc="8263b3b6" md5="61de8cb385613d05ed070542b8083e59" sha1="96e12c70dfa4a1288cdf330428f71c6663c7379c" sha256="868bd973d4f4cfbb8b256ba717e6a706988d3845c23d24c5be486778af40608d" header="4E 45 53 1A 02 01 01 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Tanker (World) (Demo) (Aftermarket) (Unl)" id="8669" cloneofid="8668">
 		<category>Demos</category>
@@ -38082,6 +38095,12 @@
 		<category>Games</category>
 		<description>Willow Chuanqi (China) (Aftermarket) (Pirate)</description>
 		<rom name="Willow Chuanqi (China) (Aftermarket) (Pirate).nes" size="524304" crc="77239dbb" md5="db3945537f877b5eff05028f70b9d3f4" sha1="b9ef097ead31afc13cfbc37d6416dc7b685ce134" sha256="b53a59c4a5ecd40b9f506dbe765c8941b935ad8102e26483264a02fc30b5c87e" header="4E 45 53 1A 10 20 A0 48 00 00 07 05 00 00 00 01"/>
+	</game>
+	<game name="Xiao Mali (USA) (Proto) (Unl)" id="8689" cloneofid="2781">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Xiao Mali (USA) (Proto) (Unl)</description>
+		<rom name="Xiao Mali (USA) (Proto) (Unl).nes" size="16400" crc="d25a09e0" md5="c7596a98acac434dedd555dba7989d61" sha1="9aa8b817d224128f8073742ef79e5cc9d13c05d4" sha256="8be943900f12e66c016af6f149bc8e66bb58948af37cfae93ed51c9f783c1d13" header="4E 45 53 1A 34 01 01 08 00 0F 00 00 00 00 00 01"/>
 	</game>
 	<game name="Yan Shan Cup, The (China) (Pirate)" id="8277" cloneofid="2823">
 		<category>Games</category>

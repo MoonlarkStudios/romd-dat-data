@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4519) (2026-10-10 09-11-36)</description>
-		<version>2026-10-10 09-11-36</version>
-		<date>2026-10-10 09-11-36</date>
+		<description>Sony - PlayStation 3 - Datfile (4519) (2026-10-11 10-22-05)</description>
+		<version>2026-10-11 10-22-05</version>
+		<date>2026-10-11 10-22-05</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1407,10 +1407,10 @@
 		<description>Baja - Edge of Control (USA)</description>
 		<rom name="Baja - Edge of Control (USA).iso" size="5949751296" crc="774a720f" md5="3a7ecc5ff8179787c146c7c777078fd0" sha1="bf064329cca5f31333ad7162fee0aec493b0cf4d"/>
 	</game>
-	<game name="Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv)" id="54975">
+	<game name="Bakugan - Battle Brawlers (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv)" id="54975">
 		<category>Games</category>
-		<description>Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
-		<rom name="Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size="4571856896" crc="c4789c2e" md5="17d56f2c1c934020298823a1246e2d86" sha1="c026178a8c022bd7cf555ee18b8d574e207552ee"/>
+		<description>Bakugan - Battle Brawlers (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv)</description>
+		<rom name="Bakugan - Battle Brawlers (Europe, Australia) (En,Fr,De,Es,It,Nl,Sv).iso" size="4571856896" crc="c4789c2e" md5="17d56f2c1c934020298823a1246e2d86" sha1="c026178a8c022bd7cf555ee18b8d574e207552ee"/>
 	</game>
 	<game name="Bakugan - Battle Brawlers (USA) (En,Fr)" id="32577">
 		<category>Games</category>
@@ -2352,10 +2352,10 @@
 		<description>Borderlands - The Pre-Sequel! (USA, Asia) (En,Fr,De,Es,It)</description>
 		<rom name="Borderlands - The Pre-Sequel! (USA, Asia) (En,Fr,De,Es,It).iso" size="6148390912" crc="4ad7e0e8" md5="7b921333f3f04544333ebd6811a9b7ab" sha1="222f365d4b16a1f1f7605b268b6c121b7f0e836c"/>
 	</game>
-	<game name="Borderlands 2 (Europe) (En,Fr,De,Es,It)" id="30865">
+	<game name="Borderlands 2 (Europe, Australia) (En,Fr,De,Es,It)" id="30865">
 		<category>Games</category>
-		<description>Borderlands 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Borderlands 2 (Europe) (En,Fr,De,Es,It).iso" size="5977997312" crc="7996cd34" md5="db07754430146cd7d6b2b55f7958ca8c" sha1="e1eff6ace94736211a0638b0c5b3344441b224ae"/>
+		<description>Borderlands 2 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Borderlands 2 (Europe, Australia) (En,Fr,De,Es,It).iso" size="5977997312" crc="7996cd34" md5="db07754430146cd7d6b2b55f7958ca8c" sha1="e1eff6ace94736211a0638b0c5b3344441b224ae"/>
 	</game>
 	<game name="Borderlands 2 (Japan)" id="63517">
 		<category>Games</category>
@@ -3982,10 +3982,10 @@
 		<description>Dark Souls (USA) (En,Fr,Es)</description>
 		<rom name="Dark Souls (USA) (En,Fr,Es).iso" size="5237571584" crc="928348b2" md5="32c280407aef2a2fa5250acf115ba4bb" sha1="31e67a2b195ec5ffe9f46be5024536e7fb70d45f"/>
 	</game>
-	<game name="Dark Souls - Prepare to Die Edition (Europe) (En,Fr,De,Es,It)" id="53566">
+	<game name="Dark Souls - Prepare to Die Edition (Europe, Australia) (En,Fr,De,Es,It)" id="53566">
 		<category>Games</category>
-		<description>Dark Souls - Prepare to Die Edition (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Dark Souls - Prepare to Die Edition (Europe) (En,Fr,De,Es,It).iso" size="5638914048" crc="a7f321c9" md5="563e49cd2b70d46c3afbffefa6810e49" sha1="283a045e75845820be1fd68014f5f028e6499eec"/>
+		<description>Dark Souls - Prepare to Die Edition (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Dark Souls - Prepare to Die Edition (Europe, Australia) (En,Fr,De,Es,It).iso" size="5638914048" crc="a7f321c9" md5="563e49cd2b70d46c3afbffefa6810e49" sha1="283a045e75845820be1fd68014f5f028e6499eec"/>
 	</game>
 	<game name="Dark Souls II (Asia) (En,Zh,Ko)" id="58945">
 		<category>Games</category>
@@ -4757,10 +4757,10 @@
 		<description>Disgaea D2 - A Brighter Darkness (USA)</description>
 		<rom name="Disgaea D2 - A Brighter Darkness (USA).iso" size="2561409024" crc="0b2af134" md5="8f30ce0ba17447aa900451bb1ca869ba" sha1="53166f4174eaca2a31d3a4120c88797c2fb78a06"/>
 	</game>
-	<game name="Disgaea Triple Play Collection, The (Europe) (En,Fr)" id="59964">
+	<game name="Disgaea Triple Play Collection, The (Europe, Australia) (En,Fr)" id="59964">
 		<category>Games</category>
-		<description>Disgaea Triple Play Collection, The (Europe) (En,Fr)</description>
-		<rom name="Disgaea Triple Play Collection, The (Europe) (En,Fr).iso" size="9320333312" crc="ac938aa2" md5="001f804a4da42f03d6918fa0634b7e0e" sha1="cfb3b7784148b31858122bd9fec78c25d5b26e28"/>
+		<description>Disgaea Triple Play Collection, The (Europe, Australia) (En,Fr)</description>
+		<rom name="Disgaea Triple Play Collection, The (Europe, Australia) (En,Fr).iso" size="9320333312" crc="ac938aa2" md5="001f804a4da42f03d6918fa0634b7e0e" sha1="cfb3b7784148b31858122bd9fec78c25d5b26e28"/>
 	</game>
 	<game name="Disgaea Triple Play Collection, The (USA)" id="51744">
 		<category>Games</category>
@@ -6657,15 +6657,15 @@
 		<description>F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)</description>
 		<rom name="F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).iso" size="14042923008" crc="9779a5c5" md5="ae8438648a0feb963d22501569d77af3" sha1="d2fb756707a48c8561404a06baf84f425e9a1af4"/>
 	</game>
-	<game name="F1 2010 (Europe) (En,Fr,De,Es,It)" id="28496">
-		<category>Games</category>
-		<description>F1 2010 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="F1 2010 (Europe) (En,Fr,De,Es,It).iso" size="5105188864" crc="652b0d98" md5="edd19020f4465fa9c320022d12e2e405" sha1="b0ab73903d28bac87fe4dc5c17e831a745267e84"/>
-	</game>
 	<game name="F1 2010 (Europe) (Pl,Ru)" id="90679">
 		<category>Games</category>
 		<description>F1 2010 (Europe) (Pl,Ru)</description>
 		<rom name="F1 2010 (Europe) (Pl,Ru).iso" size="4581031936" crc="794ac11b" md5="e323b406e017603e811e05331d10707e" sha1="32c8631ce837b038825b6bc77480e5fc4b280dfc"/>
+	</game>
+	<game name="F1 2010 (Europe, Australia) (En,Fr,De,Es,It)" id="28496">
+		<category>Games</category>
+		<description>F1 2010 (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="F1 2010 (Europe, Australia) (En,Fr,De,Es,It).iso" size="5105188864" crc="652b0d98" md5="edd19020f4465fa9c320022d12e2e405" sha1="b0ab73903d28bac87fe4dc5c17e831a745267e84"/>
 	</game>
 	<game name="F1 2010 (Japan)" id="101507">
 		<category>Games</category>
@@ -7067,10 +7067,10 @@
 		<description>Fallout 3 - Tsuika Contents Pack (Japan)</description>
 		<rom name="Fallout 3 - Tsuika Contents Pack (Japan).iso" size="10625613824" crc="5113433b" md5="bb0779837d2877394b796139b50dc7a2" sha1="dbde1da30e150f8117c1c3db7e60c469a3de5775"/>
 	</game>
-	<game name="Family Game Night 4 - The Game Show (Europe)" id="63542">
+	<game name="Family Game Night 4 - The Game Show (Europe, Australia)" id="63542">
 		<category>Games</category>
-		<description>Family Game Night 4 - The Game Show (Europe)</description>
-		<rom name="Family Game Night 4 - The Game Show (Europe).iso" size="577110016" crc="b961b8a2" md5="88d468238ceed807b1a7ef7f18f3ad8d" sha1="28d72083ecbe5709b91e12b5ae20837ca1124d85"/>
+		<description>Family Game Night 4 - The Game Show (Europe, Australia)</description>
+		<rom name="Family Game Night 4 - The Game Show (Europe, Australia).iso" size="577110016" crc="b961b8a2" md5="88d468238ceed807b1a7ef7f18f3ad8d" sha1="28d72083ecbe5709b91e12b5ae20837ca1124d85"/>
 	</game>
 	<game name="Family Game Night 4 - The Game Show (USA)" id="30189">
 		<category>Games</category>
@@ -7272,11 +7272,6 @@
 		<description>FIFA 08 - World Class Soccer (Japan)</description>
 		<rom name="FIFA 08 - World Class Soccer (Japan).iso" size="5464915968" crc="b24a82be" md5="a54c49d85db25f687cd3548704f56e17" sha1="65707de8dbe6fcac7b226f1bc05e0d14f2b8766e"/>
 	</game>
-	<game name="FIFA 09 (Europe) (En,Nl,Sv,No,Da)" id="6528">
-		<category>Games</category>
-		<description>FIFA 09 (Europe) (En,Nl,Sv,No,Da)</description>
-		<rom name="FIFA 09 (Europe) (En,Nl,Sv,No,Da).iso" size="6866731008" crc="92f42d67" md5="6acd6d0148558c29b74f65d064c29445" sha1="2fb3adeef268be11c3a19941ce429535288c4a4c"/>
-	</game>
 	<game name="FIFA 09 (Europe) (Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu)" id="32415">
 		<category>Games</category>
 		<description>FIFA 09 (Europe) (Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu)</description>
@@ -7286,6 +7281,11 @@
 		<category>Demos</category>
 		<description>FIFA 09 (Europe) (Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu) (Demo)</description>
 		<rom name="FIFA 09 (Europe) (Fr,De,Es,It,Pt,Pl,Ru,Cs,Hu) (Demo).iso" size="1091502080" crc="8b91a54a" md5="d0712f9c5791e2cd49b71082445b784b" sha1="ff635a8d404cc8199d8041409ae9b73d99ee40f6"/>
+	</game>
+	<game name="FIFA 09 (Europe, Australia) (En,Nl,Sv,No,Da)" id="6528">
+		<category>Games</category>
+		<description>FIFA 09 (Europe, Australia) (En,Nl,Sv,No,Da)</description>
+		<rom name="FIFA 09 (Europe, Australia) (En,Nl,Sv,No,Da).iso" size="6866731008" crc="92f42d67" md5="6acd6d0148558c29b74f65d064c29445" sha1="2fb3adeef268be11c3a19941ce429535288c4a4c"/>
 	</game>
 	<game name="FIFA 09 (Korea) (En,Ko)" id="101554">
 		<category>Games</category>
