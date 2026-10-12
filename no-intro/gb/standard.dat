@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261009-032944</version>
+		<version>20261011-062600</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2811,6 +2811,11 @@
 		<description>Game Boy Gallery 2 (Japan) (SGB Enhanced)</description>
 		<rom name="Game Boy Gallery 2 (Japan) (SGB Enhanced).gb" size="524288" crc="9359a183" md5="3e35ece810eaa26bb027a18f58cf6dba" sha1="021c47f89fa975e4dc5cc32c61bf87b120a25c09" sha256="67e059d5e270c692250f0a69bd2f4d171b0d238ee0e6d7d28e139ef2ef9ffde0" status="verified"/>
 	</game>
+	<game name="Game Boy Hero (World) (Aftermarket) (Unl)" id="2628">
+		<category>Games</category>
+		<description>Game Boy Hero (World) (Aftermarket) (Unl)</description>
+		<rom name="Game Boy Hero (World) (Aftermarket) (Unl).gb" size="524288" crc="d6144de0" md5="abdeb88a2300954b53e9cd3da0737735" sha1="c48df5fa410873645bb66bcefeb21df76c235f05" sha256="94e0c88ce82de074be6fb1a7538958fa89e28f6aca3f3fc1ad2b031291fe80bc"/>
+	</game>
 	<game name="Game Boy Test Cartridge (USA, Europe) (Proto) (Test Program)" id="1643">
 		<description>Game Boy Test Cartridge (USA, Europe) (Proto) (Test Program)</description>
 		<rom name="Game Boy Test Cartridge (USA, Europe) (Proto) (Test Program).gb" size="32768" crc="ae13a5c3" md5="d36c2b60c8e71fd40b965ead209b2a1e" sha1="ce9c211852b4357b1356bb015db6f675def69c9f" sha256="d9df5f4a7885d567e7c51ead6ede5a2a9437448dca4d1f71714ab472f4dcb942" status="verified"/>
@@ -2900,24 +2905,24 @@
 		<description>Gas Station Story OST (World) (Album) (Aftermarket) (Unl)</description>
 		<rom name="Gas Station Story OST (World) (Album) (Aftermarket) (Unl).gb" size="262144" crc="0a2e342e" md5="6cd7c18f07541dc8ccaef00bf15faddb" sha1="9459cf9a49b517f3c5407f5affb6ab42c5b4aa29" sha256="4ef8334323fa8891c5d06580fad32336052357ecf4affb5ce9bfe73dbc5aec48"/>
 	</game>
-	<game name="Gauntlet II (USA, Europe) (Beta)" id="1868" cloneofid="0438">
-		<description>Gauntlet II (USA, Europe) (Beta)</description>
-		<rom name="Gauntlet II (USA, Europe) (Beta).gb" size="262144" crc="965bbe1f" md5="066c7301810022d1232386b4eeab6de3" sha1="53e6162e9276318f357a1e2e5bd706d4e4fd47d2" sha256="ae3c9347071afcb256342e80214eb542dce75f9ec96ccb0cec6b492de84ee50f"/>
-	</game>
 	<game name="Gauntlet II (USA, Europe)" id="0438">
 		<description>Gauntlet II (USA, Europe)</description>
 		<rom name="Gauntlet II (USA, Europe).gb" size="262144" crc="1907dac5" md5="cdca15cfd1645c02fe1cc327b772264e" sha1="dc37df322b54a5df5d04bc637e26b011b84598bf" sha256="b7774eb039d335d8870b28e05ff7bc0869c46d0accc0d7f467affd71bbae8871" status="verified"/>
 	</game>
-	<game name="GB Basketball (Japan) (En)" id="0439" cloneofid="1401">
-		<category>Games</category>
-		<description>GB Basketball (Japan) (En)</description>
-		<rom name="GB Basketball (Japan) (En).gb" size="131072" crc="d9b24d21" md5="f97902058640f3700b5acff422969ba3" sha1="65f73db2942d400a4c555fbcfd6313f07303d4e4" sha256="f846c4e1304e5b6a50d0f2c3d798ea6d2890c25eb058791408964f1b9b63a42c"/>
+	<game name="Gauntlet II (USA, Europe) (Beta)" id="1868" cloneofid="0438">
+		<description>Gauntlet II (USA, Europe) (Beta)</description>
+		<rom name="Gauntlet II (USA, Europe) (Beta).gb" size="262144" crc="965bbe1f" md5="066c7301810022d1232386b4eeab6de3" sha1="53e6162e9276318f357a1e2e5bd706d4e4fd47d2" sha256="ae3c9347071afcb256342e80214eb542dce75f9ec96ccb0cec6b492de84ee50f"/>
 	</game>
 	<game name="GB Basketball (Japan) (En) (Beta) (1992-12-10)" id="2473" cloneofid="1401">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>GB Basketball (Japan) (En) (Beta) (1992-12-10)</description>
 		<rom name="GB Basketball (Japan) (En) (Beta) (1992-12-10).gb" size="131072" crc="2eda2d4c" md5="3b3fa3dd77c2aec53856210d8311fa6d" sha1="40d9287267598c23b24300f7e9f6e11cbfcc53a2" sha256="58154e2958303e3ada7fe49c5e9379c4c8a4e176b642f48c97df4001e9d3bf17"/>
+	</game>
+	<game name="GB Basketball (Japan) (En)" id="0439" cloneofid="1401">
+		<category>Games</category>
+		<description>GB Basketball (Japan) (En)</description>
+		<rom name="GB Basketball (Japan) (En).gb" size="131072" crc="d9b24d21" md5="f97902058640f3700b5acff422969ba3" sha1="65f73db2942d400a4c555fbcfd6313f07303d4e4" sha256="f846c4e1304e5b6a50d0f2c3d798ea6d2890c25eb058791408964f1b9b63a42c"/>
 	</game>
 	<game name="GB Genjin (Japan)" id="0440" cloneofid="0077">
 		<description>GB Genjin (Japan)</description>
@@ -3083,6 +3088,11 @@
 	<game name="Gojira-kun - Kaijuu Daikoushin (Japan)" id="0468" cloneofid="0467">
 		<description>Gojira-kun - Kaijuu Daikoushin (Japan)</description>
 		<rom name="Gojira-kun - Kaijuu Daikoushin (Japan).gb" size="131072" crc="ed204600" md5="259aa674ac5634e47a642d024cfbdc66" sha1="4c03da759e5fb2ec06d286d5f0b52d64621fea41" sha256="1d02a9eb1b44b1a56301b4b9514c9ac1dd608871517612e69195fd9d39ae8978"/>
+	</game>
+	<game name="Golden Rays of Sunshine (World) (Aftermarket) (Unl)" id="2629">
+		<category>Games</category>
+		<description>Golden Rays of Sunshine (World) (Aftermarket) (Unl)</description>
+		<rom name="Golden Rays of Sunshine (World) (Aftermarket) (Unl).gb" size="1048576" crc="d1384f61" md5="4844345577e554eafb380beeb7c49c73" sha1="5775c9b517ac17212d83a8b48c3ab9382e002bb8" sha256="ccdbb9235cdfc1a3b61f6e434eb63da38b8789daf7f283e420bac64d5cf3c946"/>
 	</game>
 	<game name="Golf (World)" id="0469">
 		<description>Golf (World)</description>
@@ -3512,13 +3522,13 @@
 		<description>Hudson Hawk (Europe) (Proto)</description>
 		<rom name="Hudson Hawk (Europe) (Proto).gb" size="131072" crc="d4cd525d" md5="d736b55291d7dae4d9c3f1e74fbff0da" sha1="07c6a49f7c340d3cc78ca688eb1591853255a6c6" sha256="5f763afda7b8bb0d78761c883fd8cd41e79c12b51dd93b415fc2745d403f6a5d"/>
 	</game>
-	<game name="Hugo (Europe) (SGB Enhanced)" id="0543">
-		<description>Hugo (Europe) (SGB Enhanced)</description>
-		<rom name="Hugo (Europe) (SGB Enhanced).gb" size="131072" crc="74aa5e0f" md5="6c960f0e87a857a7b49ef08484f79ce0" sha1="d314dffcf5fb441d5d6d6419e01dc825e90cf0fc" sha256="34958460fc04be7e478b2b21e5cbf46ded6c5313eb195e04eb7de181280db0f3" status="verified"/>
-	</game>
 	<game name="Hugo (World) (Aftermarket) (Unl)" id="2062">
 		<description>Hugo (World) (Aftermarket) (Unl)</description>
 		<rom name="Hugo (World) (Aftermarket) (Unl).gb" size="262144" crc="8cc87f60" md5="9eb0a55ab94e3bd83d3cfc87c28c0107" sha1="53fac2774b29a32501788e1eac65db23bf5c7b8f" sha256="1ecfd175a750d7ab6b7c9e256308ac44db99f470d236fa54b3c0a7a59eccb797"/>
+	</game>
+	<game name="Hugo (Europe) (SGB Enhanced)" id="0543">
+		<description>Hugo (Europe) (SGB Enhanced)</description>
+		<rom name="Hugo (Europe) (SGB Enhanced).gb" size="131072" crc="74aa5e0f" md5="6c960f0e87a857a7b49ef08484f79ce0" sha1="d314dffcf5fb441d5d6d6419e01dc825e90cf0fc" sha256="34958460fc04be7e478b2b21e5cbf46ded6c5313eb195e04eb7de181280db0f3" status="verified"/>
 	</game>
 	<game name="Hugo 2 (Germany)" id="0544">
 		<description>Hugo 2 (Germany)</description>
@@ -9717,6 +9727,11 @@
 		<category>Preproduction</category>
 		<description>Year After, The (World) (Fr) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Year After, The (World) (Fr) (Proto) (Aftermarket) (Unl).gb" size="1048576" crc="fbc50ee8" md5="48fe5119e80f17e9663af671922abea2" sha1="52c27e64fb37412c97a53d5dde52c3803fd1e4f7" sha256="69a181b71ab4df1ffd568c68e32628c6f47d92fcdc2f3feb326063a48e20c7d7"/>
+	</game>
+	<game name="Year I Wrote You, The (World) (Aftermarket) (Unl)" id="2630">
+		<category>Games</category>
+		<description>Year I Wrote You, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Year I Wrote You, The (World) (Aftermarket) (Unl).gb" size="1048576" crc="51f849a6" md5="871724e97b36c2587b8f2fe8651c0d65" sha1="add6a6223d6d64a13cd2b461c0df6d0ff3bab17e" sha256="719473bcd176657b5696a59ebb664c3f9889c78217dc2148f3fd92356c00845b"/>
 	</game>
 	<game name="Yelu Wangzi (Prince Yeh Rude) (Taiwan) (En) (Unl)" id="2280">
 		<category>Games</category>

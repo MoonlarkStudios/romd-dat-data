@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261010-134001</version>
+		<version>20261011-202841</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14260,7 +14260,7 @@
 		<description>Learn Geography (USA) (En,Fr,Es)</description>
 		<rom name="Learn Geography (USA) (En,Fr,Es).nds" size="33554432" crc="d32dc40f" md5="468654b8bd03fca1b0ccd651f8387beb" sha1="68d19a5943b1ae1444c2d39f7a834f1c5509840a" serial="BGGE"/>
 	</game>
-	<game name="Learn Math (USA) (En,Es)" id="4444" cloneofid="3214">
+	<game name="Learn Math (USA) (En,Es)" id="4444" cloneofid="6757">
 		<description>Learn Math (USA) (En,Es)</description>
 		<rom name="Learn Math (USA) (En,Es).nds" size="67108864" crc="e3d8ccae" md5="1b90069cd7da966d7f7ae34c559375f8" sha1="113a0a9b9f86bf300078e7773df9e2862bbccdc4" serial="CLGE"/>
 	</game>
@@ -14276,7 +14276,7 @@
 		<description>Learn with Pokemon - Typing Adventure (Europe)</description>
 		<rom name="Learn with Pokemon - Typing Adventure (Europe).nds" size="134217728" crc="73d4ad7a" md5="99655f755f06c3ca400bb9e080d25231" sha1="45184ec8998ca6fe4641df154820ad6923b7db1f" sha256="82ede14d93b6f1a6a56d53061f21e832511da90040a6353f1b514ecf73e36765" status="verified" serial="UZPP"/>
 	</game>
-	<game name="Learning Maths (Europe) (En,Fr,It)" id="3214">
+	<game name="Learning Maths (Europe) (En,Fr,It)" id="3214" cloneofid="6757">
 		<description>Learning Maths (Europe) (En,Fr,It)</description>
 		<rom name="Learning Maths (Europe) (En,Fr,It).nds" size="67108864" crc="68123f3f" md5="f6366c7610b7b1df36e3cb997b776175" sha1="3f5e5e86d8d3ede9376a5d30a577d6e553833a44" sha256="dbb4434efd623eff476bb190b722adff63d586204a958924142cad4b4e991a75" status="verified" serial="CLGY"/>
 	</game>
@@ -14757,7 +14757,7 @@
 		<description>Lernerfolg Grundschule - Konzentration - Der Aufmerksamkeitstrainer (Europe) (En,De,Tr)</description>
 		<rom name="Lernerfolg Grundschule - Konzentration - Der Aufmerksamkeitstrainer (Europe) (En,De,Tr).nds" size="33554432" crc="d9e3b7ec" md5="f0fe783c0aff3ac8defb51cb0323ef66" sha1="9c2bacda895c9395643d9f3a5a233add9722bf26" serial="BLQX"/>
 	</game>
-	<game name="Lernerfolg Grundschule - Mathematik (Germany)" id="3284" cloneofid="3214">
+	<game name="Lernerfolg Grundschule - Mathematik (Germany)" id="3284" cloneofid="6757">
 		<description>Lernerfolg Grundschule - Mathematik (Germany)</description>
 		<rom name="Lernerfolg Grundschule - Mathematik (Germany).nds" size="67108864" crc="aa93f2d2" md5="76cc283fd8eb0664424b06f9858d704c" sha1="451797efe05a0b20591fad25cc492c021bade0d1" sha256="9102151233d6f2a5150a94279ecd9ae1e887e148a8745f8bea76600cf35cdae5" status="verified" serial="CLGD"/>
 	</game>
@@ -17365,11 +17365,11 @@
 		<description>Minna de Flash Anzan DS (Japan) (Rev 1)</description>
 		<rom name="Minna de Flash Anzan DS (Japan) (Rev 1).nds" size="16777216" crc="78227689" md5="ef6e6db6aea0fbc6337ce3f725ba0775" sha1="ec6aaf52fdeedf8a522625910fe82a59fe5d50a5" sha256="a17882d690572c8b69dbec94e1afb2bafee95d5ef4dab544f6dfd8f8733a8dad" serial="AVFJ"/>
 	</game>
-	<game name="Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan) (Rev 1)" id="z265" cloneofid="3233">
+	<game name="Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan) (Rev 1)" id="z265">
 		<description>Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan) (Rev 1)</description>
 		<rom name="Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan) (Rev 1).nds" size="67108864" crc="f55aa3e4" md5="74b759bdb90eb0dc926a4c9b5c7027e1" sha1="38099fec840fa8697eba06bac3c8cd26bdacae93" sha256="84a57e5b8f38eae7a3cf8df35b489e0681661395c74011caed3dbc080696da9d" serial="CJ8J"/>
 	</game>
-	<game name="Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan)" id="3233">
+	<game name="Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan)" id="3233" cloneofid="z265">
 		<description>Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan)</description>
 		<rom name="Minna de Jibun no Setsumeisho - B-Gata, A-Gata, AB-Gata, O-Gata (Japan).nds" size="67108864" crc="d01d2952" md5="4841f7478bf95e6cc25b1ebec993e616" sha1="595e9b01970470f634da31f46f734825b186000e" status="verified" serial="CJ8J"/>
 	</game>
@@ -19904,11 +19904,11 @@
 		<description>Ochaken no Daibouken 2 - Yume Ippai no Omocha Bako (Japan)</description>
 		<rom name="Ochaken no Daibouken 2 - Yume Ippai no Omocha Bako (Japan).nds" size="33554432" crc="598c6a39" md5="a7db277d4f58482c2155b6c0f15131d3" sha1="5ce6e4b7203443b8e502a0eb3e5cb77a580c8336" serial="C2WJ"/>
 	</game>
-	<game name="Ochaken no Heya DS (Japan)" id="0423">
+	<game name="Ochaken no Heya DS (Japan)" id="0423" cloneofid="6723">
 		<description>Ochaken no Heya DS (Japan)</description>
 		<rom name="Ochaken no Heya DS (Japan).nds" size="16777216" crc="386278b6" md5="4298510fa7ac5fbbddc750fe112fa0f3" sha1="89103312928c04bbc21b3519186f446b0e8a9ed7" serial="AOCJ"/>
 	</game>
-	<game name="Ochaken no Heya DS (Japan) (Rev 1)" id="6723" cloneofid="0423">
+	<game name="Ochaken no Heya DS (Japan) (Rev 1)" id="6723">
 		<description>Ochaken no Heya DS (Japan) (Rev 1)</description>
 		<rom name="Ochaken no Heya DS (Japan) (Rev 1).nds" size="16777216" crc="aa00eeb0" md5="1a56ed2eed938059e842d6a8dd536911" sha1="7f01fcc9fee09746a2e182bc1125e16f446dcffe" serial="AOCJ"/>
 	</game>
@@ -22810,11 +22810,11 @@
 		<description>Pururun! Shizuku-chan Aha - DS Drill Kokugo (Japan)</description>
 		<rom name="Pururun! Shizuku-chan Aha - DS Drill Kokugo (Japan).nds" size="33554432" crc="02994104" md5="c4c76037bbb23d23c5bf33f49ea72c83" sha1="03e8cbc69eb6c9c22247a3136c939ddedb1a0993" serial="CZ5J"/>
 	</game>
-	<game name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan)" id="3173">
+	<game name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan)" id="3173" cloneofid="z359">
 		<description>Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan)</description>
 		<rom name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan).nds" size="33554432" crc="89ace37b" md5="01b680fa2de48cffb80fc7e6fb1ee78f" sha1="78cca1ea2e13ec52685818a5e053bccbb937fdf0" serial="CZ3J"/>
 	</game>
-	<game name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1)" id="z359" cloneofid="3173">
+	<game name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1)" id="z359">
 		<description>Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1)</description>
 		<rom name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1).nds" size="33554432" crc="42e9d3da" md5="20129e42e18f1efd85b26b985443b698" sha1="e38f6e909acaeb1df7db14e98ed57c27416ee546" sha256="d2992497a3229435b44ac329ef02db1c4fddc72e2dde9bf20463991feb6f9b00" serial="CZ3J"/>
 	</game>
@@ -23695,15 +23695,15 @@
 		<description>Road to Vegas (Europe)</description>
 		<rom name="Road to Vegas (Europe).nds" size="33554432" crc="804cd016" md5="bb26995161c2b51d966d0c7a0e05731f" sha1="a768b260ee43844ec2a7d02111165a57c404b25d" serial="CRVP"/>
 	</game>
-	<game name="Roary the Racing Car (United Kingdom) (Rev 1)" id="z184" cloneofid="4214">
+	<game name="Roary the Racing Car (United Kingdom) (Rev 1)" id="z184">
 		<description>Roary the Racing Car (United Kingdom) (Rev 1)</description>
 		<rom name="Roary the Racing Car (United Kingdom) (Rev 1).nds" size="8388608" crc="01d6d1f5" md5="c6bcadbe0a48f3c5a0976967bfc0081e" sha1="abb5e1579db6a132184d8a6c108acac97fbd135e" serial="C7RP"/>
 	</game>
-	<game name="Roary the Racing Car (Europe) (En,Fr)" id="5928" cloneofid="4214">
+	<game name="Roary the Racing Car (Europe) (En,Fr)" id="5928" cloneofid="z184">
 		<description>Roary the Racing Car (Europe) (En,Fr)</description>
 		<rom name="Roary the Racing Car (Europe) (En,Fr).nds" size="8388608" crc="6746dd3e" md5="a3554bd713df9476f27c7803ca35b071" sha1="f5ed9f4c913feef502b0ae3e95fd245a6b38e955" serial="C7RX"/>
 	</game>
-	<game name="Roary the Racing Car (United Kingdom)" id="4214">
+	<game name="Roary the Racing Car (United Kingdom)" id="4214" cloneofid="z184">
 		<description>Roary the Racing Car (United Kingdom)</description>
 		<rom name="Roary the Racing Car (United Kingdom).nds" size="8388608" crc="9748881c" md5="5e42af531107c190213cf9375fc37824" sha1="471941759c41730cb38582ed4a07d7c5b061113d" sha256="14a1dc19cff4945a015f5eb5116792a84c4aed05b568da4cadd5923ae4256a39" status="verified" serial="C7RP"/>
 	</game>
@@ -26545,11 +26545,11 @@
 		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr)</description>
 		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Tr).nds" size="16777216" crc="c8403ada" md5="af1b641e54ab99c5f0d87a8df08b24b1" sha1="1a875e22bfbfb5ae9a52b966e3f5e9ccfd2f63ea" sha256="a3613116efd7f7ffa2357b5513e34539e22d0e7c1ec9b57c7fc3c3d5baa6e9af" serial="BLMX"/>
 	</game>
-	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1)" id="6757" cloneofid="3214">
+	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1)" id="6757">
 		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1)</description>
 		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru,Tr) (Rev 1).nds" size="16777216" crc="f01d18cc" md5="b6f810022fcfeaf889f0b46770b21531" sha1="55cfd09249c08fb6eb443e419027b8e04d58d673" sha256="0962096434114695216a095bd3d0dc1d352cc08e287bb4f74995860a8b076fe0" serial="CLGW"/>
 	</game>
-	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru)" id="4120" cloneofid="3214">
+	<game name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru)" id="4120" cloneofid="6757">
 		<description>Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru)</description>
 		<rom name="Successfully Learning Mathematics (Europe) (En,Fr,De,Es,It,Ru).nds" size="67108864" crc="1bab670e" md5="8309d0e476bf9ab901222f7db0e98b0e" sha1="83ca0702f86ae1e881e2f01e2e9ad43c867e87c8" sha256="5244db01728d26bfc196325b454f2fc2922e3196b7b25cc725930e5510ef7e62" status="verified" serial="CLGW"/>
 	</game>
@@ -26947,19 +26947,19 @@
 		<description>Supervivientes (Spain)</description>
 		<rom name="Supervivientes (Spain).nds" size="16777216" crc="1727624e" md5="578c1a1372ebe850b8c446c97a7b41fc" sha1="565609120477ccf284c2ed96fe20513866a408dc" serial="C5VS"/>
 	</game>
-	<game name="Surf's Up (USA) (En,Fr,Es) (Rev 1)" id="6558" cloneofid="1277">
+	<game name="Surf's Up (USA) (En,Fr,Es) (Rev 1)" id="6558" cloneofid="1418">
 		<description>Surf's Up (USA) (En,Fr,Es) (Rev 1)</description>
 		<rom name="Surf's Up (USA) (En,Fr,Es) (Rev 1).nds" size="33554432" crc="9f88388e" md5="57eb0301b81d81ec98f5c461702282b5" sha1="4c540d394c62f283299c68140dd4795ce0ca97de" serial="AXUE"/>
 	</game>
-	<game name="Surf's Up (USA) (En,Fr,Es)" id="1115" cloneofid="1277">
+	<game name="Surf's Up (USA) (En,Fr,Es)" id="1115" cloneofid="1418">
 		<description>Surf's Up (USA) (En,Fr,Es)</description>
 		<rom name="Surf's Up (USA) (En,Fr,Es).nds" size="33554432" crc="f46529d4" md5="6e7566d4223eb6b036691c25a6cb9f4d" sha1="ba12aa0018d515dd3336f6350a740d03cca975c3" serial="AXUE"/>
 	</game>
-	<game name="Surf's Up (Europe) (En,Fr,Es)" id="1277">
+	<game name="Surf's Up (Europe) (En,Fr,Es)" id="1277" cloneofid="1418">
 		<description>Surf's Up (Europe) (En,Fr,Es)</description>
 		<rom name="Surf's Up (Europe) (En,Fr,Es).nds" size="33554432" crc="6d45d4a7" md5="fc30fbb5adaba1f594b95df39a24b1d6" sha1="cc1f13002fb7517bdeeea7d77e4561cb6e59f130" sha256="e229c65903f7b7d908ba55952c2d3319069edc9dea248db7fcc1b91e0368a3d3" status="verified" serial="AXUP"/>
 	</game>
-	<game name="Surf's Up (Europe) (En,Fr,De,Es,It)" id="1418" cloneofid="1277">
+	<game name="Surf's Up (Europe) (En,Fr,De,Es,It)" id="1418">
 		<description>Surf's Up (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Surf's Up (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="fb4f67fb" md5="b96db8626bf1c867c7aba7da051259c2" sha1="8be693ba0db3bf2a613c0bfaabca03afc769397a" sha256="108be9c7cd68fc2b8f099affa1b2c43a251e9a88d10639731a1fd15d0aea2126" status="verified" serial="AXUX"/>
 	</game>
@@ -28177,11 +28177,11 @@
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 3 Rika (Japan)</description>
 		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 3 Rika (Japan).nds" size="33554432" crc="0fab0068" md5="bc71ccf85df662fe104eac94678d6cbc" sha1="08580ae74612b7368142fcdfff87e35ee634db4f" serial="TQBJ"/>
 	</game>
-	<game name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan)" id="4718">
+	<game name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan)" id="4718" cloneofid="z305">
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan)</description>
 		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan).nds" size="33554432" crc="3be50adb" md5="a477594e4f8233c6061c4794406bd632" sha1="a2c4376e01aadfad4f51b4384a606bbec10a2a63" serial="YXIJ"/>
 	</game>
-	<game name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1)" id="z305" cloneofid="4718">
+	<game name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1)" id="z305">
 		<description>Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1)</description>
 		<rom name="Tokuten Ryoku Gakushuu DS - Chuu 3 Suugaku (Japan) (Rev 1).nds" size="33554432" crc="be8f712b" md5="51cfdc9a0ba83d40d1e55e139f0fc5a3" sha1="f5b7a53c23df83e1890cb7e9bce3fbfc21fe0432" sha256="f47e0a7874eff4e3863278d38669613fdf767816c1b74a9bf5ef7cf7dc8d0b51" serial="YXIJ"/>
 	</game>
@@ -30709,11 +30709,11 @@
 		<description>Yomesou de Yomenai Kanji DS (Japan)</description>
 		<rom name="Yomesou de Yomenai Kanji DS (Japan).nds" size="16777216" crc="ffad1d20" md5="e3d23fd2ecc7b1a099a4afbf6ecfae16" sha1="76c4c710ecad459629884bed3100dc29798674dc" serial="YK7J"/>
 	</game>
-	<game name="Yoshi Island DS (Japan)" id="0877" cloneofid="0716">
+	<game name="Yoshi Island DS (Japan)" id="0877" cloneofid="6480">
 		<description>Yoshi Island DS (Japan)</description>
 		<rom name="Yoshi Island DS (Japan).nds" size="33554432" crc="cc75fc0a" md5="ca9db157f0bd8bc12e5e280a902cff8d" sha1="03f7d1a806fd332f7c982cc0318a1d970cb84a86" sha256="b07cd452c428e8bc41d68d0e43db89a28c3c792be12c49b86c62032f1582cbba" status="verified" serial="AYWJ"/>
 	</game>
-	<game name="Yoshi Island DS (Japan) (Wii U Virtual Console)" id="z437" cloneofid="0716">
+	<game name="Yoshi Island DS (Japan) (Wii U Virtual Console)" id="z437" cloneofid="6480">
 		<category>Games</category>
 		<description>Yoshi Island DS (Japan) (Wii U Virtual Console)</description>
 		<rom name="Yoshi Island DS (Japan) (Wii U Virtual Console).nds" size="33554432" crc="78ec945a" md5="15d6b914d11f87552ed360ea768c1b5f" sha1="d3242acbafb88ae95be8899ea5383f5b4e1f2cbc" serial="WUP-N-DAEJ"/>
@@ -30740,41 +30740,45 @@
 		<description>Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<rom name="Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).nds" size="16777216" crc="c0825500" md5="74f9261842763652c02e2d479d82bf48" sha1="6c2e7bf85ba150f87404772d0c078545c30f6319" serial="A27P"/>
 	</game>
-	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x065" cloneofid="0716">
+	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)" id="x065" cloneofid="6480">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk)</description>
 		<rom name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Demo) (Kiosk).nds" size="33554432" crc="e7e13faa" md5="28e58a5a55c6db0ff127d2e6adfd7c61" sha1="2398ebdd33c1b0253af52fbede6fe74eb60a3bf9" status="verified" serial="Y28P"/>
 	</game>
-	<game name="Yoshi's Island DS (USA) (Demo) (Kiosk)" id="x091" cloneofid="0716">
+	<game name="Yoshi's Island DS (USA) (Demo) (Kiosk)" id="x091" cloneofid="6480">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Yoshi's Island DS (USA) (Demo) (Kiosk)</description>
 		<rom name="Yoshi's Island DS (USA) (Demo) (Kiosk).nds" size="33554432" crc="036c2993" md5="3aaec4a6d58ac87baa2d77d97d42860c" sha1="767c752cd00b59280aacca07bfb532ea622a2515" serial="Y28E"/>
 	</game>
-	<game name="Yoshi's Island DS (USA)" id="0661" cloneofid="0716">
+	<game name="Yoshi's Island DS (USA)" id="0661" cloneofid="6480">
 		<description>Yoshi's Island DS (USA)</description>
 		<rom name="Yoshi's Island DS (USA).nds" size="33554432" crc="c9964ee1" md5="fefb5eb6cbb6487fba47ab23a35f3da0" sha1="c1bfacef2daf516e358bcf6c43462eb912569347" sha256="c75bf32c31f7b5f02c4ed08102c421d243cfb3226d4f89d2819e645b531f6507" status="verified" serial="AYWE"/>
 	</game>
-	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It)" id="0716">
+	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It)" id="0716" cloneofid="6480">
 		<description>Yoshi's Island DS (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="c97c2ae8" md5="0a938477869feea3b22f3ec9f36554f5" sha1="425b5402af510091a03815af01cac3fd25bdcb77" status="verified" serial="AYWP"/>
 	</game>
-	<game name="Yoshi's Island DS (USA) (Rev 1) (Wii U Virtual Console)" id="z438" cloneofid="0716">
+	<game name="Yoshi's Island DS (USA) (Rev 1) (Wii U Virtual Console)" id="z438" cloneofid="6480">
 		<category>Games</category>
 		<description>Yoshi's Island DS (USA) (Rev 1) (Wii U Virtual Console)</description>
 		<rom name="Yoshi's Island DS (USA) (Rev 1) (Wii U Virtual Console).nds" size="33554432" crc="a04499ee" md5="6e258355e969ecf6af631eb3d9c16bf2" sha1="8849371dbb336b358b36b5843c4341ceac95dc42" serial="WUP-N-DAEE"/>
 	</game>
-	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)" id="z473" cloneofid="0716">
+	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)" id="z473" cloneofid="6480">
 		<category>Games</category>
 		<description>Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)</description>
 		<rom name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console).nds" size="33554432" crc="5b155f28" md5="a7d22aeff3c30a5992cc5531038b004f" sha1="3cc7eac310586713cfaddadbd56d07ec915965d7" serial="WUP-N-DAEP"/>
 	</game>
-	<game name="Yoshi's Island DS (Korea)" id="1640" cloneofid="0716">
+	<game name="Yoshi's Island DS (Korea)" id="1640" cloneofid="6480">
 		<description>Yoshi's Island DS (Korea)</description>
 		<rom name="Yoshi's Island DS (Korea).nds" size="33554432" crc="599e4ea4" md5="a73f8c05ed2d1541e032d494b8f7544e" sha1="c684284970eea6ff234b3295ce06e88f0c40dc1c" serial="AYWK"/>
 	</game>
-	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1)" id="6480" cloneofid="0716">
+	<game name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1)" id="6480">
 		<description>Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<rom name="Yoshi's Island DS (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="33554432" crc="b0d274a7" md5="a47e2ffdd0ef32b649eaf761024e8fbb" sha1="f15df96d67699fd0aea9854e4a72657c73fb57fe" serial="AYWP"/>
 	</game>
-	<game name="Yoshi's Island DS (USA) (Rev 1)" id="5645" cloneofid="0716">
+	<game name="Yoshi's Island DS (USA) (Rev 1)" id="5645" cloneofid="6480">
 		<description>Yoshi's Island DS (USA) (Rev 1)</description>
 		<rom name="Yoshi's Island DS (USA) (Rev 1).nds" size="33554432" crc="f0f66880" md5="0c576abebc99f32326a49650db923f15" sha1="513d3d758e1e73dc7979e97b770a4ed18e591bb3" sha256="686453346777cb3dc4db49b0348425dca1f8cd61bb9762ec7990879b4e413b34" status="verified" serial="AYWE"/>
 	</game>
@@ -31034,13 +31038,13 @@
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 200 Mannin no Kanken - Tokoton Kanji Nou (Japan)</description>
 		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 200 Mannin no Kanken - Tokoton Kanji Nou (Japan).nds" size="16777216" crc="9eb2b11e" md5="d68f4224e727de97033764398bdb5d4a" sha1="6bf47856140df769d3240bf2276f2a7c926f74ea" sha256="f674237ebb9faffd020e689004b98ba9353a7b8f012409baec0c1728c0c261a4" status="verified" serial="AK9J"/>
 	</game>
+	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)" id="1825" cloneofid="z151">
+		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)</description>
+		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan).nds" size="33554432" crc="faeb371c" md5="d4afb9ec40267c243efde462f45259b5" sha1="b8b10fb1a1ab661acdd7b71d7e48ec81baff2a9a" serial="AIJJ"/>
+	</game>
 	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1)" id="z151">
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1)</description>
 		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou - 47,000 + Jouyou Kanji Jiten, Yoji Jukugo Jiten (Japan) (Rev 1).nds" size="33554432" crc="d94662d2" md5="344d218ba55acbe624dabbcf5c412eb2" sha1="6b87b61e91e2a14eefca1d0705d6b40f42c2edab" sha256="593c64e86e0fb4dea6358fb014b5fbb928ca3f84df350367894887421de415d2" status="verified" serial="AIJJ"/>
-	</game>
-	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)" id="1825" cloneofid="z151">
-		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan)</description>
-		<rom name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken - Shin Tokoton Kanji Nou 47,000 + Jouyou Kanji Jiten Yoji Jukugo Jiten (Japan).nds" size="33554432" crc="faeb371c" md5="d4afb9ec40267c243efde462f45259b5" sha1="b8b10fb1a1ab661acdd7b71d7e48ec81baff2a9a" serial="AIJJ"/>
 	</game>
 	<game name="Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken Premium - Zenkyuu Zen-Kanji Kanzen Seiha (Japan)" id="z044">
 		<description>Zaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai Koushiki Soft - 250 Mannin no Kanken Premium - Zenkyuu Zen-Kanji Kanzen Seiha (Japan)</description>
@@ -31340,21 +31344,21 @@
 		<description>Zoroark Distribution 2011 (Europe) (En,Fr,De,Es,It) (Wi-Fi Kiosk) (Save Data)</description>
 		<rom name="Zoroark Distribution 2011 (Europe) (En,Fr,De,Es,It) (Wi-Fi Kiosk) (Save Data).nds" size="8388608" crc="a292bb74" md5="f80fa2ac315b9bfb0d7ab8ad9687148f" sha1="0bc6030550f90cdf2d268cad23d7e67b4e7089ac" serial="Y85P"/>
 	</game>
-	<game name="Zorro - Quest for Justice (USA) (En,Fr,De,Es,It)" id="5471" cloneofid="4198">
-		<description>Zorro - Quest for Justice (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Zorro - Quest for Justice (USA) (En,Fr,De,Es,It).nds" size="67108864" crc="2d55f68f" md5="6c1b51bb8f5c64fe020415de004df30a" sha1="c75e043987772f80a7a0df0003f07bdd769e519b" serial="CZ4E"/>
-	</game>
 	<game name="Zorro - Quest for Justice (Europe) (En,Fr,De,Es,It)" id="4198">
 		<description>Zorro - Quest for Justice (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Zorro - Quest for Justice (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="96d5e6f7" md5="182340894f324ba3860642a3b29e39a9" sha1="a596d10810fa2f073bf1ff31d1f45c1901638023" serial="CZ4P"/>
 	</game>
-	<game name="Zubo (Europe) (En,Fr,De,Es,It,Nl,Sv)" id="2742">
-		<description>Zubo (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
-		<rom name="Zubo (Europe) (En,Fr,De,Es,It,Nl,Sv).nds" size="67108864" crc="e9ce7ea2" md5="8d100092ea133bfd9a95446408e70c04" sha1="6f2a9589e8e68d00d37845dd3961436b5c8e5153" sha256="0d801cf16db397b228497abf44941b32f758f3ae473ad80c0c68aaf55dfcdd93" serial="YWZP"/>
+	<game name="Zorro - Quest for Justice (USA) (En,Fr,De,Es,It)" id="5471" cloneofid="4198">
+		<description>Zorro - Quest for Justice (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Zorro - Quest for Justice (USA) (En,Fr,De,Es,It).nds" size="67108864" crc="2d55f68f" md5="6c1b51bb8f5c64fe020415de004df30a" sha1="c75e043987772f80a7a0df0003f07bdd769e519b" serial="CZ4E"/>
 	</game>
 	<game name="Zubo (USA) (En,Fr,Es)" id="3686" cloneofid="2742">
 		<description>Zubo (USA) (En,Fr,Es)</description>
 		<rom name="Zubo (USA) (En,Fr,Es).nds" size="67108864" crc="c8efdffd" md5="a40b12868f455593685661a2f040ef90" sha1="5aabd189f7de53fe719ac93dc4eb2755cb9da62e" serial="YWZE"/>
+	</game>
+	<game name="Zubo (Europe) (En,Fr,De,Es,It,Nl,Sv)" id="2742">
+		<description>Zubo (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+		<rom name="Zubo (Europe) (En,Fr,De,Es,It,Nl,Sv).nds" size="67108864" crc="e9ce7ea2" md5="8d100092ea133bfd9a95446408e70c04" sha1="6f2a9589e8e68d00d37845dd3961436b5c8e5153" sha256="0d801cf16db397b228497abf44941b32f758f3ae473ad80c0c68aaf55dfcdd93" serial="YWZP"/>
 	</game>
 	<game name="Zuma's Revenge (USA)" id="5991">
 		<description>Zuma's Revenge (USA)</description>
