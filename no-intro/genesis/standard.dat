@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20261009-003527</version>
+		<version>20261013-003501</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -9634,7 +9634,7 @@
 	<game name="Misplaced (World) (Ru) (Aftermarket) (Unl)" id="2508" cloneofid="2507">
 		<category>Games</category>
 		<description>Misplaced (World) (Ru) (Aftermarket) (Unl)</description>
-		<rom name="Misplaced (World) (Ru) (Aftermarket) (Unl).md" size="917504" crc="1997b949" md5="329974a6315d191b7a9e7292f6a71133" sha1="d114faaf71d462221beea585b7fd2720b3768d47" serial="RS333444-01"/>
+		<rom name="Misplaced (World) (Ru) (Aftermarket) (Unl).md" size="917504" crc="1997b949" md5="329974a6315d191b7a9e7292f6a71133" sha1="d114faaf71d462221beea585b7fd2720b3768d47" sha256="00726c8828fa5057658ef64481b357ed545c1156e11f38c6f6506811ae7c421d" serial="RS333444-01"/>
 	</game>
 	<game name="Mission - Cleanup (World) (Aftermarket) (Unl)" id="3812">
 		<category>Games</category>

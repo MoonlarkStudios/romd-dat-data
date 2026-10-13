@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-12 08-56-17)</description>
-		<version>2026-10-12 08-56-17</version>
-		<date>2026-10-12 08-56-17</date>
+		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-13 11-10-32)</description>
+		<version>2026-10-13 11-10-32</version>
+		<date>2026-10-13 11-10-32</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -16023,10 +16023,10 @@
 		<description>Ratchet &amp; Clank - Tools of Destruction (Europe) (Beta) (2007-09-20)</description>
 		<rom name="Ratchet &amp; Clank - Tools of Destruction (Europe) (Beta) (2007-09-20).iso" size="24141234176" crc="2773018d" md5="45ccfe7651c4cec122355a32f0de324d" sha1="94cdcd0313b4acae22e6fb7e6ba487d97e60c402"/>
 	</game>
-	<game name="Ratchet &amp; Clank - Tools of Destruction (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)" id="6485">
+	<game name="Ratchet &amp; Clank - Tools of Destruction (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)" id="6485">
 		<category>Games</category>
-		<description>Ratchet &amp; Clank - Tools of Destruction (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)</description>
-		<rom name="Ratchet &amp; Clank - Tools of Destruction (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko).iso" size="24164171776" crc="8504e2ec" md5="398e0a798648dfb9375987c7dade0997" sha1="f8505b503ca547e38055567266a70aaa3a4d5bca"/>
+		<description>Ratchet &amp; Clank - Tools of Destruction (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko)</description>
+		<rom name="Ratchet &amp; Clank - Tools of Destruction (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko).iso" size="24164171776" crc="8504e2ec" md5="398e0a798648dfb9375987c7dade0997" sha1="f8505b503ca547e38055567266a70aaa3a4d5bca"/>
 	</game>
 	<game name="Ratchet &amp; Clank 1, 2, 3 - Ginga Saikyou Gorgeous Pack (Japan)" id="66945">
 		<category>Games</category>
@@ -16383,10 +16383,10 @@
 		<description>Resistance 2 (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)</description>
 		<rom name="Resistance 2 (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).iso" size="23598333952" crc="acce29db" md5="5e29121edc638c50d73fcb3fa70231ac" sha1="2235292fa4ea3ae0f8ae5690b2a86b57c1637a3c"/>
 	</game>
-	<game name="Resistance 2 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)" id="28507">
+	<game name="Resistance 2 (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)" id="28507">
 		<category>Games</category>
-		<description>Resistance 2 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)</description>
-		<rom name="Resistance 2 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).iso" size="23598333952" crc="1a6f5337" md5="728783fb7eb824f29f514b83540e7b3f" sha1="6ffe602ecadc1461fb6b98cf11c36af612bfa4d4"/>
+		<description>Resistance 2 (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)</description>
+		<rom name="Resistance 2 (Europe, Australia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).iso" size="23598333952" crc="1a6f5337" md5="728783fb7eb824f29f514b83540e7b3f" sha1="6ffe602ecadc1461fb6b98cf11c36af612bfa4d4"/>
 	</game>
 	<game name="Resistance 2 (Japan) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)" id="58528">
 		<category>Games</category>
@@ -17293,10 +17293,10 @@
 		<description>Section 8 - Prejudice (World) (Beta) (2010-07-08)</description>
 		<rom name="Section 8 - Prejudice (World) (Beta) (2010-07-08).iso" size="3866951680" crc="021d1efd" md5="256fb90048c4b5ee3d1356bb6378eb54" sha1="b32d0e203a350a13b75d7ba030965d8bee88e6a9"/>
 	</game>
-	<game name="Sega Mega Drive Ultimate Collection (Europe) (En,Fr,De,Es,It)" id="31538">
+	<game name="Sega Mega Drive Ultimate Collection (Europe, Australia) (En,Fr,De,Es,It)" id="31538">
 		<category>Games</category>
-		<description>Sega Mega Drive Ultimate Collection (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Sega Mega Drive Ultimate Collection (Europe) (En,Fr,De,Es,It).iso" size="1250033664" crc="746dc6de" md5="aaa6546c60ff82551cb05f546eceb82a" sha1="5da8ffd5b9865e9a11e108f54deb1753179ae2b0"/>
+		<description>Sega Mega Drive Ultimate Collection (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Sega Mega Drive Ultimate Collection (Europe, Australia) (En,Fr,De,Es,It).iso" size="1250033664" crc="746dc6de" md5="aaa6546c60ff82551cb05f546eceb82a" sha1="5da8ffd5b9865e9a11e108f54deb1753179ae2b0"/>
 	</game>
 	<game name="Sega Rally (Europe) (En,Ja,Fr,De,Es,It,Ru)" id="52907">
 		<category>Games</category>
@@ -18288,10 +18288,10 @@
 		<description>SingStar Vasco (Italy) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
 		<rom name="SingStar Vasco (Italy) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="8271364096" crc="58470b2f" md5="87060c441b33a8caab78353e2f6a6c97" sha1="a7313133531b83503120c5dd3c4bdd9abc4df615"/>
 	</game>
-	<game name="SingStar Vol. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="29213">
+	<game name="SingStar Vol. 2 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="29213">
 		<category>Games</category>
-		<description>SingStar Vol. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<rom name="SingStar Vol. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).iso" size="10479403008" crc="39b51f69" md5="d89299cefe2b5a326e8ce46630641ba9" sha1="3ec9710c180d366c3a17536f4885f3f9080c0ed6"/>
+		<description>SingStar Vol. 2 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
+		<rom name="SingStar Vol. 2 (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).iso" size="10479403008" crc="39b51f69" md5="d89299cefe2b5a326e8ce46630641ba9" sha1="3ec9710c180d366c3a17536f4885f3f9080c0ed6"/>
 	</game>
 	<game name="SingStar Vol. 2 (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" id="31572">
 		<category>Games</category>
@@ -18748,10 +18748,10 @@
 		<description>Soldier of Fortune - Payback (USA)</description>
 		<rom name="Soldier of Fortune - Payback (USA).iso" size="3045588992" crc="4fbcf09a" md5="4c84ca2e1c15e23e69204d8d0afcd414" sha1="033998bfe21258f26b595ac0e1069642682efd75"/>
 	</game>
-	<game name="Sonic &amp; All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It)" id="32369">
+	<game name="Sonic &amp; All-Stars Racing Transformed (Europe, Australia) (En,Fr,De,Es,It)" id="32369">
 		<category>Games</category>
-		<description>Sonic &amp; All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Sonic &amp; All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It).iso" size="6023479296" crc="50bb098a" md5="1fbee353102b8f030df31422479b7b19" sha1="f3573a91f14ea94abe05f87e8cf007e8928b9245"/>
+		<description>Sonic &amp; All-Stars Racing Transformed (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Sonic &amp; All-Stars Racing Transformed (Europe, Australia) (En,Fr,De,Es,It).iso" size="6023479296" crc="50bb098a" md5="1fbee353102b8f030df31422479b7b19" sha1="f3573a91f14ea94abe05f87e8cf007e8928b9245"/>
 	</game>
 	<game name="Sonic &amp; All-Stars Racing Transformed (Japan)" id="101814">
 		<category>Games</category>
@@ -18763,10 +18763,10 @@
 		<description>Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,De,Es,It).iso" size="6023479296" crc="9cb9f4be" md5="e30e85e1fef5574a64f89d34dbe9f1b4" sha1="41928feb2e45ead89b807242380c2e149f50e7a4"/>
 	</game>
-	<game name="Sonic &amp; Sega All-Stars Racing (Europe) (En,Fr,De,Es,It)" id="32473">
+	<game name="Sonic &amp; Sega All-Stars Racing (Europe, Australia) (En,Fr,De,Es,It)" id="32473">
 		<category>Games</category>
-		<description>Sonic &amp; Sega All-Stars Racing (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Sonic &amp; Sega All-Stars Racing (Europe) (En,Fr,De,Es,It).iso" size="4225826816" crc="f19bb918" md5="2eb0255e31947c20f9db35e98058a0de" sha1="dd31192336e581a3fcd369543545afd0f1451456"/>
+		<description>Sonic &amp; Sega All-Stars Racing (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Sonic &amp; Sega All-Stars Racing (Europe, Australia) (En,Fr,De,Es,It).iso" size="4225826816" crc="f19bb918" md5="2eb0255e31947c20f9db35e98058a0de" sha1="dd31192336e581a3fcd369543545afd0f1451456"/>
 	</game>
 	<game name="Sonic &amp; Sega All-Stars Racing (USA, Asia) (En,Fr,Es)" id="39517">
 		<category>Games</category>
@@ -19338,10 +19338,10 @@
 		<description>Stormrise (USA) (En,Fr,Es,It)</description>
 		<rom name="Stormrise (USA) (En,Fr,Es,It).iso" size="3933863936" crc="59641201" md5="b2d51ee5b78af0e2fa94505840797df0" sha1="f638541f67fe547b8b56a7fdcc3de80ad09c53c9"/>
 	</game>
-	<game name="Street Fighter IV (Europe) (En,Fr,De,Es,It)" id="28086">
+	<game name="Street Fighter IV (Europe, Australia) (En,Fr,De,Es,It)" id="28086">
 		<category>Games</category>
-		<description>Street Fighter IV (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Street Fighter IV (Europe) (En,Fr,De,Es,It).iso" size="11387011072" crc="000a33e3" md5="73611fbd095dbcf989a398a2d584861b" sha1="aa852a8d0ac1c049249a16176755e3afa10100b1"/>
+		<description>Street Fighter IV (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Street Fighter IV (Europe, Australia) (En,Fr,De,Es,It).iso" size="11387011072" crc="000a33e3" md5="73611fbd095dbcf989a398a2d584861b" sha1="aa852a8d0ac1c049249a16176755e3afa10100b1"/>
 	</game>
 	<game name="Street Fighter IV (Japan)" id="67809">
 		<category>Games</category>
@@ -19628,10 +19628,10 @@
 		<description>Tales of Vesperia (Japan, Asia)</description>
 		<rom name="Tales of Vesperia (Japan, Asia).iso" size="8854437888" crc="dc7e5a0f" md5="09fac2f564ac40452f81b919772c73b6" sha1="984251ac2b45770a171c7cfff5fa2d1bc8817bd7"/>
 	</game>
-	<game name="Tales of Xillia (Europe) (En,Fr,De,Es,It)" id="57191">
+	<game name="Tales of Xillia (Europe, Australia) (En,Fr,De,Es,It)" id="57191">
 		<category>Games</category>
-		<description>Tales of Xillia (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tales of Xillia (Europe) (En,Fr,De,Es,It).iso" size="6912475136" crc="ef5eda81" md5="dad4d98dee7845009b76617a03cdff19" sha1="aee74561a53c61b14fcb88ecd48e54d7cfd3dd65"/>
+		<description>Tales of Xillia (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Tales of Xillia (Europe, Australia) (En,Fr,De,Es,It).iso" size="6912475136" crc="ef5eda81" md5="dad4d98dee7845009b76617a03cdff19" sha1="aee74561a53c61b14fcb88ecd48e54d7cfd3dd65"/>
 	</game>
 	<game name="Tales of Xillia (Japan, Asia)" id="32643">
 		<category>Games</category>
@@ -19993,15 +19993,15 @@
 		<description>Tiger Woods PGA Tour 12 (USA) (Collector's Edition)</description>
 		<rom name="Tiger Woods PGA Tour 12 (USA) (Collector's Edition).iso" size="6780026880" crc="d2e3eea4" md5="63fe18be9633316b8ddb39c42258d64e" sha1="732595854064d4cef611f5e2adaa600e06df73cf"/>
 	</game>
-	<game name="Tiger Woods PGA Tour 13 (Europe)" id="31221">
-		<category>Games</category>
-		<description>Tiger Woods PGA Tour 13 (Europe)</description>
-		<rom name="Tiger Woods PGA Tour 13 (Europe).iso" size="5414387712" crc="ce2d78d8" md5="782f92c2c817cef6251dcd078ad508e2" sha1="da763c7252b4bb1b40a9d9ced03f0231ac59a854"/>
-	</game>
 	<game name="Tiger Woods PGA Tour 13 (Europe) (Masters Collector's Edition)" id="63908">
 		<category>Games</category>
 		<description>Tiger Woods PGA Tour 13 (Europe) (Masters Collector's Edition)</description>
 		<rom name="Tiger Woods PGA Tour 13 (Europe) (Masters Collector's Edition).iso" size="6278676480" crc="3a01f317" md5="955641244fc515ba116adc0cd0f9ed34" sha1="bca1ca8f72ebef3d9856e62b09b3d75d9862ecab"/>
+	</game>
+	<game name="Tiger Woods PGA Tour 13 (Europe, Australia)" id="31221">
+		<category>Games</category>
+		<description>Tiger Woods PGA Tour 13 (Europe, Australia)</description>
+		<rom name="Tiger Woods PGA Tour 13 (Europe, Australia).iso" size="5414387712" crc="ce2d78d8" md5="782f92c2c817cef6251dcd078ad508e2" sha1="da763c7252b4bb1b40a9d9ced03f0231ac59a854"/>
 	</game>
 	<game name="Tiger Woods PGA Tour 13 (USA)" id="40148">
 		<category>Games</category>
@@ -21153,10 +21153,10 @@
 		<description>Uncharted 3 - Drake's Deception (Asia) (En,Zh,Ko)</description>
 		<rom name="Uncharted 3 - Drake's Deception (Asia) (En,Zh,Ko).iso" size="49747525632" crc="430d7726" md5="959ffc2827f774a5e66dfa026e71216b" sha1="2c249295e32609d3ae14a0a1f42ffdd9c0df197d"/>
 	</game>
-	<game name="Uncharted 3 - Drake's Deception (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Tr)" id="54089">
+	<game name="Uncharted 3 - Drake's Deception (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Tr)" id="54089">
 		<category>Games</category>
-		<description>Uncharted 3 - Drake's Deception (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Tr)</description>
-		<rom name="Uncharted 3 - Drake's Deception (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Tr).iso" size="49747525632" crc="6e136b47" md5="1b82a3b4d37f21b7f7199cc8c187db45" sha1="8569123aa507cc76f56f738cb6f357693a2cba0e"/>
+		<description>Uncharted 3 - Drake's Deception (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Tr)</description>
+		<rom name="Uncharted 3 - Drake's Deception (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Tr).iso" size="49747525632" crc="6e136b47" md5="1b82a3b4d37f21b7f7199cc8c187db45" sha1="8569123aa507cc76f56f738cb6f357693a2cba0e"/>
 	</game>
 	<game name="Uncharted 3 - Drake's Deception (UK)" id="29177">
 		<category>Games</category>
@@ -21943,10 +21943,10 @@
 		<description>Wonderbook - Book of Spells (Europe) (Beta) (2012-09-25)</description>
 		<rom name="Wonderbook - Book of Spells (Europe) (Beta) (2012-09-25).iso" size="10426515456" crc="4c58b142" md5="2c4adc891eaa587ea46f76f80db882eb" sha1="86bdd5ea27cce836174725d2c910cb9915f222b4"/>
 	</game>
-	<game name="Wonderbook - Book of Spells (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Hr,Cs,Hu,Tr,Ro,Bg)" id="29146">
+	<game name="Wonderbook - Book of Spells (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Hr,Cs,Hu,Tr,Ro,Bg)" id="29146">
 		<category>Games</category>
-		<description>Wonderbook - Book of Spells (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Hr,Cs,Hu,Tr,Ro,Bg)</description>
-		<rom name="Wonderbook - Book of Spells (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Hr,Cs,Hu,Tr,Ro,Bg).iso" size="10427301888" crc="0835e544" md5="bab4133e9c51495654a88d8f975e25a0" sha1="38a77d40b4e1f46df82432ee55ac37638bd04e03"/>
+		<description>Wonderbook - Book of Spells (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Hr,Cs,Hu,Tr,Ro,Bg)</description>
+		<rom name="Wonderbook - Book of Spells (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Hr,Cs,Hu,Tr,Ro,Bg).iso" size="10427301888" crc="0835e544" md5="bab4133e9c51495654a88d8f975e25a0" sha1="38a77d40b4e1f46df82432ee55ac37638bd04e03"/>
 	</game>
 	<game name="Wonderbook - Book of Spells (Japan)" id="102315">
 		<category>Games</category>

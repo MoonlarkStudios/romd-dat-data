@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20261010-010858</version>
+		<version>20261012-015604</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14558,10 +14558,10 @@
 		<description>Darkwing Duck (World) (The Disney Afternoon Collection)</description>
 		<rom name="Darkwing Duck (World) (The Disney Afternoon Collection).nes" size="262160" crc="115e2340" md5="5a302015f6a79b86577fd58625dd257a" sha1="bb735be99fff148e6ce2d252b9c48a7e18043813" sha256="851bd59d21b317842e777d88e296200bf77bd4d61e583a5f81a135eaec38bd0b" status="verified" header="4E 45 53 1A 08 10 10 08 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Data East All-Star Collection (USA) (Retro-Bit)" id="3828">
+	<game name="Data East All-Star Collection (USA) (Retro-Bit) (Aftermarket) (Unl)" id="3828">
 		<category>Games</category>
-		<description>Data East All-Star Collection (USA) (Retro-Bit)</description>
-		<rom name="Data East All-Star Collection (USA) (Retro-Bit).nes" size="2097168" crc="1fd40c5d" md5="f0cc941ac00a3774e0cddd756d8c8b81" sha1="7d60928474930a90fa4187c6adf40cba886945f2" sha256="284746c32d129fa00e25a44d74a353a4c5f41b2e11361e4412af0a65d9006775" header="4E 45 53 1A 80 00 C0 08 01 00 00 0B 00 00 00 01"/>
+		<description>Data East All-Star Collection (USA) (Retro-Bit) (Aftermarket) (Unl)</description>
+		<rom name="Data East All-Star Collection (USA) (Retro-Bit) (Aftermarket) (Unl).nes" size="2097168" crc="1fd40c5d" md5="f0cc941ac00a3774e0cddd756d8c8b81" sha1="7d60928474930a90fa4187c6adf40cba886945f2" sha256="284746c32d129fa00e25a44d74a353a4c5f41b2e11361e4412af0a65d9006775" header="4E 45 53 1A 80 00 C0 08 01 00 00 0B 00 00 00 01"/>
 	</game>
 	<game name="Days of Thunder (USA) (Proto)" id="3078">
 		<description>Days of Thunder (USA) (Proto)</description>
@@ -21717,10 +21717,10 @@
 		<description>Bonza (Russia) (Unl)</description>
 		<rom name="Bonza (Russia) (Unl).nes" size="131088" crc="f56f01bd" md5="3ed3e313dc424f27a1179974f373aff5" sha1="aa8daba3beeee0575956c66c3a59d97ba4623210" sha256="b1ab60bd5830a24092cd85b78bef2103d71d93fbb5fe001623225d3d6917af6b" header="4E 45 53 1A 04 08 80 D8 00 00 00 00 03 00 00 01"/>
 	</game>
-	<game name="Boomerang Kid (World) (Unl)" id="5546">
+	<game name="Boomerang Kid (World) (Aftermarket) (Unl)" id="5546">
 		<category>Games</category>
-		<description>Boomerang Kid (World) (Unl)</description>
-		<rom name="Boomerang Kid (World) (Unl).nes" size="262160" crc="956ae487" md5="c792e6997e74aac23f1e4b5cab43cb9b" sha1="acfed6b9e82840034d454e27530bf18007ac71f1" sha256="f65e3a97f8208f02f65545b8222f4cdbb9fb74236b30585226615202e70b62a5" header="4E 45 53 1A 10 00 81 E8 00 00 00 07 02 00 00 01"/>
+		<description>Boomerang Kid (World) (Aftermarket) (Unl)</description>
+		<rom name="Boomerang Kid (World) (Aftermarket) (Unl).nes" size="262160" crc="956ae487" md5="c792e6997e74aac23f1e4b5cab43cb9b" sha1="acfed6b9e82840034d454e27530bf18007ac71f1" sha256="f65e3a97f8208f02f65545b8222f4cdbb9fb74236b30585226615202e70b62a5" header="4E 45 53 1A 10 00 81 E8 00 00 00 07 02 00 00 01"/>
 	</game>
 	<game name="Bowels of the Beast (World) (Aftermarket) (Unl)" id="5263">
 		<category>Games</category>

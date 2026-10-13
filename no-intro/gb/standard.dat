@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261011-062600</version>
+		<version>20261012-103405</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1581,6 +1581,16 @@
 		<description>Ciao Nonna (World) (Aftermarket) (Unl)</description>
 		<rom name="Ciao Nonna (World) (Aftermarket) (Unl).gb" size="1048576" crc="dd7576d6" md5="20ff18d9957c612ac6fb0fa688d2ea1e" sha1="0556eb6160fdca6e7959bba1a619b8e34d974375" sha256="8e089063ad9761486e844618d0d452fb09c879e9a3de8c2c4443344628bf3670"/>
 	</game>
+	<game name="Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl)" id="2635">
+		<category>Games</category>
+		<description>Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl)</description>
+		<rom name="Ciao Nonna (World) (En,It) (v2.2) (Aftermarket) (Unl).gb" size="262144" crc="6b19820a" md5="2d6b629ac9898b7688fcc21ad3548ebc" sha1="7d83cb9a091cfbe58eeeb70fa43c35697b82aea3" sha256="e3252a01bf56409f9dd90e5e18916f7b7b7594fb016fe91d9ca519283dfc02a7"/>
+	</game>
+	<game name="Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl)" id="2636">
+		<category>Games</category>
+		<description>Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl)</description>
+		<rom name="Ciao Nonna (World) (Es,Eu) (v2.2) (Aftermarket) (Unl).gb" size="262144" crc="e7cbfffe" md5="90ff156a9f31dab82ac604f3830edc13" sha1="d14f426c46c93e775caff33e51e4adc2b0d61ff4" sha256="39f7ec4cb03bb4edefab775e837fbbd235657e48347765f1e17e4f5b04a72d4e"/>
+	</game>
 	<game name="Cliffhanger (USA, Europe)" id="0246">
 		<description>Cliffhanger (USA, Europe)</description>
 		<rom name="Cliffhanger (USA, Europe).gb" size="131072" crc="aa133439" md5="b33d6f65f4a566d715ce480bffd004ad" sha1="c74f85035842f8a2d9560066d7065ff86d9107e2" sha256="b1f7be786b9a61277360c9a076e54e55fe6ee49a465c10593a6cd7c79711c58c" status="verified"/>
@@ -1628,13 +1638,13 @@
 		<description>Conefuse (World) (Aftermarket) (Unl)</description>
 		<rom name="Conefuse (World) (Aftermarket) (Unl).gb" size="1048576" crc="f4f55d48" md5="cc9d6b3915a86013599fcb30b75cc237" sha1="c6aee5677eef50ab4123442a9a6ad191554e425a" sha256="bf910fa2675928af5d6dd4faa85c7337afaf6dbdc680c226cbcb957160776ff8"/>
 	</game>
-	<game name="Contra (Japan) (En)" id="0249" cloneofid="1072">
-		<description>Contra (Japan) (En)</description>
-		<rom name="Contra (Japan) (En).gb" size="131072" crc="cde6de15" md5="2cc322a27530f6aaa09a35b2f14aebd5" sha1="c8b34b5aba3d448e357b59cdf106ee9b134713db" sha256="8e765a4e381462a29632b7a3c5421080be3e8445e5913d7e904a8e80d688ca81"/>
-	</game>
 	<game name="Contra (World) (Contra Anniversary Collection)" id="1682" cloneofid="1072">
 		<description>Contra (World) (Contra Anniversary Collection)</description>
 		<rom name="Contra (World) (Contra Anniversary Collection).gb" size="131072" crc="cc67a046" md5="62d484bc4988823a143e50fddaadae2f" sha1="6fea1350ac04f418095cca5f157a9c770a0505bc" sha256="1f35e2a662b9379ad9bdae8b7495e4b58d12d3c29206bb6e1e461a4d8b5f994e" status="verified"/>
+	</game>
+	<game name="Contra (Japan) (En)" id="0249" cloneofid="1072">
+		<description>Contra (Japan) (En)</description>
+		<rom name="Contra (Japan) (En).gb" size="131072" crc="cde6de15" md5="2cc322a27530f6aaa09a35b2f14aebd5" sha1="c8b34b5aba3d448e357b59cdf106ee9b134713db" sha256="8e765a4e381462a29632b7a3c5421080be3e8445e5913d7e904a8e80d688ca81"/>
 	</game>
 	<game name="Contra - The Alien Wars (USA) (SGB Enhanced)" id="0250" cloneofid="1073">
 		<description>Contra - The Alien Wars (USA) (SGB Enhanced)</description>
@@ -1861,6 +1871,10 @@
 		<description>Dead Heat Scramble (USA)</description>
 		<rom name="Dead Heat Scramble (USA).gb" size="65536" crc="9e3e3656" md5="c2212d75077638539d6af4673b4939e6" sha1="71e560dd2b5f5c4f4dcca0837c74bb1b843a15aa" sha256="d534102be843dc15a465709164e09e82c6bdf6df2ac440930af2e34c2f0e01ce"/>
 	</game>
+	<game name="Dead Names (World) (Aftermarket) (Unl)" id="2637">
+		<description>Dead Names (World) (Aftermarket) (Unl)</description>
+		<rom name="Dead Names (World) (Aftermarket) (Unl).gb" size="524288" crc="5baf24f7" md5="b920efd0d74e6a1f57a5237f4ff0c361" sha1="982f4d1e3acbf9200169b52eff2ce4f79114aeed" sha256="05e3a9d98f2e47b912d6f41047df85f3103078258dbabc9c029d0ccf9f752322"/>
+	</game>
 	<game name="Deadeus (World) (v1.3.8) (Aftermarket) (Unl)" id="1787">
 		<category>Games</category>
 		<description>Deadeus (World) (v1.3.8) (Aftermarket) (Unl)</description>
@@ -1875,6 +1889,11 @@
 		<category>Games</category>
 		<description>Deadeus (World) (v1.1.0) (Aftermarket) (Unl)</description>
 		<rom name="Deadeus (World) (v1.1.0) (Aftermarket) (Unl).gb" size="1048576" crc="818a7db7" md5="b5136b95183959944f06e000f10dde07" sha1="43a93dc6f7bef002271e583edaeaf2e7162b8af4" sha256="4c3350c6dcffb0d3b1047ebb88920a56960c3014cf9b031060eb2970f3ec954d"/>
+	</game>
+	<game name="Death of Me, The (World) (v1.0.1) (Aftermarket) (Unl)" id="2638">
+		<category>Games</category>
+		<description>Death of Me, The (World) (v1.0.1) (Aftermarket) (Unl)</description>
+		<rom name="Death of Me, The (World) (v1.0.1) (Aftermarket) (Unl).gb" size="262144" crc="4a4f6ccf" md5="846e26403bd93302969e43e2b40d60e2" sha1="4846dcd154268285fc61f31d9a774fd5de76bea3" sha256="011ca9f6c640e47623fd4498f0a13b3a90cf04a4085d811acdcdb33de4746623"/>
 	</game>
 	<game name="Death Planet (World) (Aftermarket) (Unl)" id="2436">
 		<category>Games</category>
@@ -2116,6 +2135,21 @@
 		<description>Doraemon no Study Boy 6 - Gakushuu Kanji Master 1006 (Japan)</description>
 		<rom name="Doraemon no Study Boy 6 - Gakushuu Kanji Master 1006 (Japan).gb" size="1048576" crc="5a16c88d" md5="5f2ee96647b5274d343db91f4561c628" sha1="1bfbd1aa188cfa1a2168b5e245b87bd67090d810" sha256="92a9ddafb3490a59e69120e16dd8e5c99c7cbb9e94f3b7128cea46e768982ef2" status="verified"/>
 	</game>
+	<game name="Dorotea (World) (v1.1) (Aftermarket) (Unl)" id="2631">
+		<category>Games</category>
+		<description>Dorotea (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Dorotea (World) (v1.1) (Aftermarket) (Unl).gb" size="524288" crc="5168164c" md5="2804c518978d94a3f5e66f13c101830b" sha1="fe842b546e6b77879d610fa6d4f2ef6032687f01" sha256="d5da803ac2c0f79417e0a9dcebf92621d33f91cbb52500b5cfe7b895bfbe7073"/>
+	</game>
+	<game name="Dorotea (World) (It) (v1.1) (Aftermarket) (Unl)" id="2632">
+		<category>Games</category>
+		<description>Dorotea (World) (It) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Dorotea (World) (It) (v1.1) (Aftermarket) (Unl).gb" size="524288" crc="9d4eeb38" md5="ce5b753589009ec21ffec01e3d2aba97" sha1="77f147b151c5d90d6231f98290829c51a1fd03e8" sha256="398a6fe067f305bb317466c66be87167af9df59d4087562b148b4e3c205ccd97"/>
+	</game>
+	<game name="Double Dragon (World) (Evercade)" id="2548" cloneofid="0317">
+		<category>Games</category>
+		<description>Double Dragon (World) (Evercade)</description>
+		<rom name="Double Dragon (World) (Evercade).gb" size="131072" crc="8ae3f5ed" md5="3e23955c66aff2441d67b74a56d442ce" sha1="5276714936edb5d536e6272ce0061a9d0c87976a" sha256="60cd2d9d25253ded4a70cf971de45da94003b6e039105d91f7004c084fe74802"/>
+	</game>
 	<game name="Double Dragon (Japan) (En)" id="0316" cloneofid="0317">
 		<category>Games</category>
 		<description>Double Dragon (Japan) (En)</description>
@@ -2124,11 +2158,6 @@
 	<game name="Double Dragon (USA, Europe)" id="0317">
 		<description>Double Dragon (USA, Europe)</description>
 		<rom name="Double Dragon (USA, Europe).gb" size="131072" crc="40a8bf12" md5="545de5c311259b7f7ec313a9d58cf4b4" sha1="6565a3d89827717d8e5d2e041c743266ba14b412" sha256="75f902ab8674c3cd379438fbd54cfe7e87ca3ddf9727679547261d1b77db720b" status="verified"/>
-	</game>
-	<game name="Double Dragon (World) (Evercade)" id="2548" cloneofid="0317">
-		<category>Games</category>
-		<description>Double Dragon (World) (Evercade)</description>
-		<rom name="Double Dragon (World) (Evercade).gb" size="131072" crc="8ae3f5ed" md5="3e23955c66aff2441d67b74a56d442ce" sha1="5276714936edb5d536e6272ce0061a9d0c87976a" sha256="60cd2d9d25253ded4a70cf971de45da94003b6e039105d91f7004c084fe74802"/>
 	</game>
 	<game name="Double Dragon 3 - The Arcade Game (USA, Europe)" id="0318">
 		<description>Double Dragon 3 - The Arcade Game (USA, Europe)</description>
@@ -2524,13 +2553,13 @@
 		<description>Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade)</description>
 		<rom name="Fidgetts, The (World) (En,Fr,De,Es,It,Nl,Sv) (Evercade).gb" size="262144" crc="87e018be" md5="bb120634ef25cfc43d8f31697348ad4e" sha1="775bffc187c225d8de4899d5f1d68901fb64f9db" sha256="9eff4e8a66b85a41715539239378007bd5c687082ec07cb0447453f71082280a"/>
 	</game>
-	<game name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)" id="1572">
-		<description>FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)</description>
-		<rom name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced).gb" size="524288" crc="8dc0d46c" md5="0980a1650ad5e23a27202a58fc792ec8" sha1="8dc3ab8f020e4377af1e1f636396cc3881268a1f" sha256="46bb9d0fdf07f4e5fedf785cb9fc1fd20345dd0f27c6ebed7c360f62acc9137d"/>
-	</game>
 	<game name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)" id="0381" cloneofid="1572">
 		<description>FIFA - Road to World Cup 98 (Europe) (SGB Enhanced)</description>
 		<rom name="FIFA - Road to World Cup 98 (Europe) (SGB Enhanced).gb" size="524288" crc="cdf6a5ac" md5="3552eada6ea2db722fab1048e3ec654f" sha1="5ef615a919ea967e749febb046f9d097d91fab0d" sha256="4d37b976bb21fb1e7bdeecf6e67e3ae7ee3fd34bb80b10cc921621b92140dee4" status="verified"/>
+	</game>
+	<game name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)" id="1572">
+		<description>FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced)</description>
+		<rom name="FIFA - Road to World Cup 98 (Europe) (Rev 1) (SGB Enhanced).gb" size="524288" crc="8dc0d46c" md5="0980a1650ad5e23a27202a58fc792ec8" sha1="8dc3ab8f020e4377af1e1f636396cc3881268a1f" sha256="46bb9d0fdf07f4e5fedf785cb9fc1fd20345dd0f27c6ebed7c360f62acc9137d"/>
 	</game>
 	<game name="FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)" id="0380">
 		<description>FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)</description>
@@ -3350,6 +3379,16 @@
 	<game name="Hayaoshi Quiz - Ouza Ketteisen (Japan) (SGB Enhanced)" id="0513">
 		<description>Hayaoshi Quiz - Ouza Ketteisen (Japan) (SGB Enhanced)</description>
 		<rom name="Hayaoshi Quiz - Ouza Ketteisen (Japan) (SGB Enhanced).gb" size="524288" crc="60727bf9" md5="da7f9623e0d544196747cfd2b79b5e78" sha1="7f0010677e3052c6b9caf41714e87d285ad45a91" sha256="8546cda2d41870a51dde2d8281e606c2bf7fe27b87324aad2362ad8f44e8e538"/>
+	</game>
+	<game name="He Fucked the Girl Out of Me (World) (Aftermarket) (Unl)" id="2639">
+		<category>Games</category>
+		<description>He Fucked the Girl Out of Me (World) (Aftermarket) (Unl)</description>
+		<rom name="He Fucked the Girl Out of Me (World) (Aftermarket) (Unl).gb" size="1048576" crc="b561c3ac" md5="5d90b043780f9310b5a0e817fc643014" sha1="3b47a95a195b73ad275392bf207be25c755d66d0" sha256="a705d9b69aee954f9b2d15acdfa8dea31fc4b1450a9d54081a0cb5bc37ae222b"/>
+	</game>
+	<game name="He Fucked the Girl Out of Me (World) (v1.1) (Aftermarket) (Unl)" id="2640">
+		<category>Games</category>
+		<description>He Fucked the Girl Out of Me (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="He Fucked the Girl Out of Me (World) (v1.1) (Aftermarket) (Unl).gb" size="1048576" crc="8862ab72" md5="7b0182410ff25d7240827bda438ef05f" sha1="21dd2fe314eaf104e3c5701b7fb87b9e11ee3992" sha256="11a7ee69a6dd5f2e0fae98333d63c82bdc28a9ed3707d6bed06e45212d8d1520"/>
 	</game>
 	<game name="Head On (Japan) (En)" id="0514" cloneofid="1059">
 		<category>Games</category>
@@ -6295,6 +6334,11 @@
 		<description>Phantom Air Mission (Europe)</description>
 		<rom name="Phantom Air Mission (Europe).gb" size="131072" crc="8aced4a6" md5="6560b1ba5589509eff4d1edf318fbe58" sha1="2a270597d7b814a1c8819a5698ab922200569206" sha256="ee32e46a01a051f271ee9bcfa816465e9d38c2af6dae79520170442e0eeb40a0" status="verified"/>
 	</game>
+	<game name="Phantom Pain (World) (v3.0) (Aftermarket) (Unl)" id="2633">
+		<category>Games</category>
+		<description>Phantom Pain (World) (v3.0) (Aftermarket) (Unl)</description>
+		<rom name="Phantom Pain (World) (v3.0) (Aftermarket) (Unl).gb" size="1048576" crc="a7555ee8" md5="936470182aed9dc6b44fde24411eb4b5" sha1="1d5e8dbdbf371e0036da3d6b336ebd4e690191bc" sha256="bfee497d1ef2fba9e0e2572ad18b139fbc41da50cf7b4bdf4d8f2aca7f4934ef"/>
+	</game>
 	<game name="Philip &amp; Marlowe in Bloomland (USA) (Proto)" id="1707" cloneofid="1347">
 		<description>Philip &amp; Marlowe in Bloomland (USA) (Proto)</description>
 		<rom name="Philip &amp; Marlowe in Bloomland (USA) (Proto).gb" size="131072" crc="32bae420" md5="6c06369e6d6ecbf2d7b5a5254a11e541" sha1="2f9e5cee29d0d578b2642ce8637f02fc567aebc5"/>
@@ -7509,6 +7553,11 @@
 	<game name="Schiffe Versenken (Germany) (En,Fr,De,Es)" id="1170" cloneofid="1180">
 		<description>Schiffe Versenken (Germany) (En,Fr,De,Es)</description>
 		<rom name="Schiffe Versenken (Germany) (En,Fr,De,Es).gb" size="131072" crc="1cb8bfc2" md5="c62460c4fb6430cb4d2c6a3902b5442d" sha1="00745f75877423494679bbc3912e58238ac399c3" sha256="a3fda1467029b1dfd58e836ffb35f511152dbf703d6faadce878baac53dc24b4" status="verified"/>
+	</game>
+	<game name="Scorching Light (World) (v1.0.1) (Aftermarket) (Unl)" id="2634">
+		<category>Games</category>
+		<description>Scorching Light (World) (v1.0.1) (Aftermarket) (Unl)</description>
+		<rom name="Scorching Light (World) (v1.0.1) (Aftermarket) (Unl).gb" size="262144" crc="f3a92936" md5="902535a05a271cf72c837dbfcc30ee05" sha1="8fdfabaf4f8ad893fcf2900f3c9d29c1a2fac63c" sha256="52c3669a986b7d720480799a18d9ba717af95ecc7d6ce6650c72a31d3e52d261"/>
 	</game>
 	<game name="Scotland Yard (Japan)" id="1171">
 		<description>Scotland Yard (Japan)</description>
@@ -9769,6 +9818,11 @@
 	<game name="Yoshi's Cookie (USA, Europe)" id="1534">
 		<description>Yoshi's Cookie (USA, Europe)</description>
 		<rom name="Yoshi's Cookie (USA, Europe).gb" size="131072" crc="75336712" md5="bc1a3848092bdc900c157996c29a7783" sha1="233dcc94d86951ddf167aaa82ec9b94b87b29e2d" sha256="fb29a19cae1b04bf0f3e20e9f9853d62a5b3bf536c8aece32943442d5bb0a049" status="verified"/>
+	</game>
+	<game name="You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl)" id="2641">
+		<category>Games</category>
+		<description>You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl)</description>
+		<rom name="You Are a Skeleton &amp; That Is a Problem (World) (Aftermarket) (Unl).gb" size="524288" crc="b5a7d219" md5="abbf60358879b6f47aa61e35695b4995" sha1="8e8248120652e22ebe59f7fa5be263e9f3d89b14" sha256="0c1fc1cd15c68fb2f1c54abafb56140464ae775a741148c57a6bbff75c2788fa"/>
 	</game>
 	<game name="Yousei Monogatari - Rod Land (Japan)" id="1149" cloneofid="1148">
 		<description>Yousei Monogatari - Rod Land (Japan)</description>
