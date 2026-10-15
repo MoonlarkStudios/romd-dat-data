@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261012-103405</version>
+		<version>20261014-091530</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4971,6 +4971,10 @@
 		<description>Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced)</description>
 		<rom name="Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced).gb" size="262144" crc="1dc5c31a" md5="f75fde95c0c8e957c9fe76d546e5180a" sha1="125db863bad5d48033d0bf94ed808b2b8d34ca2f" sha256="f2bc6aa3b75a69ee1d970218921fd8dec67d63231a1f8f32b6b0dbf18214e604"/>
 	</game>
+	<game name="Melanie and the Magic Forest (World) (2025 Update) (Aftermarket) (Unl)" id="2642">
+		<description>Melanie and the Magic Forest (World) (2025 Update) (Aftermarket) (Unl)</description>
+		<rom name="Melanie and the Magic Forest (World) (2025 Update) (Aftermarket) (Unl).gb" size="524288" crc="2d0b4ebf" md5="6669ba8e9dcd087124ab657c8a8ad0db" sha1="fe106123c88c965fa23304caddfbfa3f64a46a31" sha256="01c6e64fa3923b33cf536510e21858ddc808571e63a26f76e01cfd96941cf4d9"/>
+	</game>
 	<game name="Mercenary Force (USA, Europe)" id="0769">
 		<description>Mercenary Force (USA, Europe)</description>
 		<rom name="Mercenary Force (USA, Europe).gb" size="131072" crc="9bb5ba03" md5="bf3d90ff1c8d4827b5657d7b15d84fde" sha1="35bbde8934792588620d1c242dedef1da9097a2e" sha256="302a7555c6cc066192f9bcf6b0d737dac38266fa3cbbc64a425213eb3a61bec5" status="verified"/>
@@ -6250,6 +6254,18 @@
 	<game name="Paperboy 2 (USA, Europe)" id="0976">
 		<description>Paperboy 2 (USA, Europe)</description>
 		<rom name="Paperboy 2 (USA, Europe).gb" size="262144" crc="8ee404ca" md5="86e22a57cf0055f858acc9a4062ebc30" sha1="473d84e2bfdb2dc2615b2ea416188c62fedb4ecf" sha256="5c357df199e755eae719588a3424d49bc5212289922f11968e47954276941d6a"/>
+	</game>
+	<game name="Paramo Yermo (World) (Aftermarket) (Unl)" id="2643">
+		<description>Paramo Yermo (World) (Aftermarket) (Unl)</description>
+		<rom name="Paramo Yermo (World) (Aftermarket) (Unl).gb" size="2097152" crc="ed36f665" md5="1cf039797685a45f5ed64babf9890d77" sha1="bf6a4f2aa57eb09a11f760dc48a7e4cb9da8e48a" sha256="2e5c3a36d1f4e14258dfec5b79d8367365b65929a5ad30a0699311198a5c05f5"/>
+	</game>
+	<game name="Paramo Yermo (World) (Es) (Aftermarket) (Unl)" id="2644">
+		<description>Paramo Yermo (World) (Es) (Aftermarket) (Unl)</description>
+		<rom name="Paramo Yermo (World) (Es) (Aftermarket) (Unl).gb" size="2097152" crc="2ec2ecc6" md5="e26455fae5f0d9b03d33126809369e75" sha1="c68bf5ec9508bc72b5ddc4036e7a1b7ae4818590" sha256="d66030adcae0f2f4a2639db034426ad0fd15b8b8d64450255b302a2ffbf0fac2"/>
+	</game>
+	<game name="Paramo Yermo (World) (Fr-CA) (Aftermarket) (Unl)" id="2645">
+		<description>Paramo Yermo (World) (Fr-CA) (Aftermarket) (Unl)</description>
+		<rom name="Paramo Yermo (World) (Fr-CA) (Aftermarket) (Unl).gb" size="2097152" crc="e23eefa3" md5="edb99083d0260d3c0ab9446725d4f3fa" sha1="7b60ca219c3cc178e5c59b72801858c6a585b109" sha256="c3ed7b496580510431647245e067b3da4f144f5ee0dff9abec82e4a7c77cfef1"/>
 	</game>
 	<game name="Parasol Henbee (Japan)" id="0977">
 		<description>Parasol Henbee (Japan)</description>
@@ -7805,6 +7821,18 @@
 		<description>Skate or Die - Tour de Thrash (USA)</description>
 		<rom name="Skate or Die - Tour de Thrash (USA).gb" size="131072" crc="02b77c09" md5="f8d92a05c7be07964824830e9ce3ff30" sha1="6e1610450da0c836983a1c310524639fefcc304f" sha256="ed2947d152cb5d15209790e51103d797976e12e5aec194c2308a962b6d407e52"/>
 	</game>
+	<game name="Skinner &amp; The Superintendent (World) (Aftermarket) (Unl)" id="2646">
+		<description>Skinner &amp; The Superintendent (World) (Aftermarket) (Unl)</description>
+		<rom name="Skinner &amp; The Superintendent (World) (Aftermarket) (Unl).gb" size="524288" crc="c620e4e6" md5="df2e5192e40caf52dd514895255fd5e5" sha1="546ff05f5803a31936c403988b36a804ad1dccd7" sha256="e2e62b757e30ede7aa6d1088a336ef0e28d932fc556da2d78e0866a6e1f8568b"/>
+	</game>
+	<game name="Skinner &amp; The Superintendent (World) (Pt) (Aftermarket) (Unl)" id="2647">
+		<description>Skinner &amp; The Superintendent (World) (Pt) (Aftermarket) (Unl)</description>
+		<rom name="Skinner &amp; The Superintendent (World) (Pt) (Aftermarket) (Unl).gb" size="524288" crc="bce552a7" md5="ea90aa4b07d6e1e43434b1ed1b471f4e" sha1="a6a6e3fef9bd3d8344229b9654c8ee8c88f6a864" sha256="67034470a1c4974e698ceeda334dca4b0a9da11c55372b4d1947e0e8b1526214"/>
+	</game>
+	<game name="Slender - The 8 Pages (World) (Aftermarket) (Unl)" id="2648">
+		<description>Slender - The 8 Pages (World) (Aftermarket) (Unl)</description>
+		<rom name="Slender - The 8 Pages (World) (Aftermarket) (Unl).gb" size="524288" crc="350f7fe6" md5="4165032fb478ebda7e15d35deb5937a8" sha1="e864bd35bf80cf03a45f39111a6b9648df8b7f46" sha256="c9e57b0d2f8d95e1db0c76af2315aa9a46191a996ac61b632843e3958fc233bd"/>
+	</game>
 	<game name="Sloth Story (World) (Aftermarket) (Unl)" id="1980">
 		<description>Sloth Story (World) (Aftermarket) (Unl)</description>
 		<rom name="Sloth Story (World) (Aftermarket) (Unl).gb" size="262144" crc="c873f232" md5="836c4e027f8a2bfc593ce3032cbb40d9" sha1="369d2afec4ffb59d4f3a59ee684c5bfec0b34ff8" sha256="85ae0b68c89449d7189c9fd72e387006273bb9fb10f6bdd8ac5879697b76c1a6"/>
@@ -9309,6 +9337,10 @@
 	<game name="TV Champion (Japan) (SGB Enhanced)" id="1446">
 		<description>TV Champion (Japan) (SGB Enhanced)</description>
 		<rom name="TV Champion (Japan) (SGB Enhanced).gb" size="262144" crc="18f64779" md5="de0ff9f3ad6c9dfd3f83f18e5a931a77" sha1="eddc884ff0fea50dc059b650728d2d3507461dfe" sha256="e71079b68fcda10f581a6c3cf5be87ba94bc7a2213a9002d0e2d09bc5a7a7a03"/>
+	</game>
+	<game name="TV-Chan's Great Escape! (World) (Aftermarket) (Unl)" id="2649">
+		<description>TV-Chan's Great Escape! (World) (Aftermarket) (Unl)</description>
+		<rom name="TV-Chan's Great Escape! (World) (Aftermarket) (Unl).gb" size="524288" crc="146fa781" md5="1a3ddd2e8430ee7f754196f6b5202432" sha1="7d6c0b2fa6a211d1a9e3e41edeb3b9c921c4ceb3" sha256="b5d0dc6723d38b42387b0d872c212acfb6171cb4660e888b84fe49b9fceb39df"/>
 	</game>
 	<game name="Twin (Japan)" id="1447">
 		<description>Twin (Japan)</description>

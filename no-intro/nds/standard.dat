@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261013-004646</version>
+		<version>20261014-205438</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -484,6 +484,7 @@
 		<rom name="42 All-Time Classics (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="4205ac89" md5="9aad21c4cfa12adc4819c6f6dfb13882" sha1="23209a69980fb5bcaf134a0f249fe9df79a979c7" sha256="9a3f3001dee8acffdfb705ef89b36dfaeb9d6edcfb47cbb067f13375719bf1c9" status="verified" serial="ATDP"/>
 	</game>
 	<game name="42 All-Time Classics (Europe) (En,Fr,De,Es,It) (Rev 1)" id="3245">
+		<category>Games</category>
 		<description>42 All-Time Classics (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
 		<rom name="42 All-Time Classics (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="16777216" crc="b004d51c" md5="9ed7a943d20b6a8d37f3da342b2f040c" sha1="a3541f5dc4545916a410b08671bf44d75d7f4d00" sha256="1544595c57ac1e1d8ac6b38d50a5a78e5428b5a6b4e788c2ea31718c60d3d30e" status="verified" serial="ATDP"/>
 	</game>
@@ -853,10 +854,12 @@
 		<rom name="Akogare Girls Collection - Suteki ni Nurse Days (Japan).nds" size="8388608" crc="15d44146" md5="271c37d8c7faf2847a88eb3818e56a77" sha1="dd5ad2628b301f92ef03fa7e6bce01f0bb7609a6" status="verified" serial="B4NJ"/>
 	</game>
 	<game name="Akumajou Dracula - Gallery of Labyrinth (Japan) (Rev 1)" id="6081" cloneofid="0881">
+		<category>Games</category>
 		<description>Akumajou Dracula - Gallery of Labyrinth (Japan) (Rev 1)</description>
 		<rom name="Akumajou Dracula - Gallery of Labyrinth (Japan) (Rev 1).nds" size="67108864" crc="8708ece6" md5="6733f8b0170c9c51b79fbe024fef2223" sha1="05f3ecea560e1eac9cdf955aff59ab2ab8684fe9" serial="ACBJ"/>
 	</game>
 	<game name="Akumajou Dracula - Gallery of Labyrinth (Japan)" id="0676" cloneofid="0881">
+		<category>Games</category>
 		<description>Akumajou Dracula - Gallery of Labyrinth (Japan)</description>
 		<rom name="Akumajou Dracula - Gallery of Labyrinth (Japan).nds" size="67108864" crc="d97d85ae" md5="d035f4a5bd02c5cc25359a830fb01025" sha1="35fbae07fa24e0991ad1dd12717c84824081dde1" sha256="b6bf6a15d94803d67024acf50f45863a7766adccd1e8bba2254fd2eb8181b333" status="verified" serial="ACBJ"/>
 	</game>
@@ -869,26 +872,32 @@
 		<rom name="Akumajou Dracula - Ubawareta Kokuin (Japan).nds" size="67108864" crc="cfaed479" md5="e41352dcdaeca96f9f30f705f21979e5" sha1="33af5d6dc9fc2bb1c890d63d2e11cb959055748b" sha256="502d672335abbef1ef1ef181c606c59fcb9fcaec05159ac15c88aa72c191a283" status="verified" serial="YR9J"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Chuukyuu (Japan) (Rev 1)" id="z018">
+		<category>Educational</category>
 		<description>ALC no 10-punkan Eigo Master - Chuukyuu (Japan) (Rev 1)</description>
 		<rom name="ALC no 10-punkan Eigo Master - Chuukyuu (Japan) (Rev 1).nds" size="67108864" crc="664a8fc7" md5="525bcecaae7ac98277e99b426bd2718a" sha1="7ea721ed18bb50c9771b0187ce02e2214e0daffd" sha256="61b5268897523ed46cf457c6310c1ab8dc35307c8ed4af6d740a74f6c2c194a5" status="verified" serial="AQGJ"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Chuukyuu (Japan)" id="1155" cloneofid="z018">
+		<category>Educational</category>
 		<description>ALC no 10-punkan Eigo Master - Chuukyuu (Japan)</description>
 		<rom name="ALC no 10-punkan Eigo Master - Chuukyuu (Japan).nds" size="67108864" crc="17490ad0" md5="7d48be13f53d7fcce2028f1ab373f1d7" sha1="bb2ac0ad39b143caacdaa63e4bb63b62aabb1e3b" serial="AQGJ"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1)" id="1254">
+		<category>Educational</category>
 		<description>ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1)</description>
 		<rom name="ALC no 10-punkan Eigo Master - Joukyuu (Japan) (Rev 1).nds" size="67108864" crc="4a363f2e" md5="c263c80f3725b79b80d45ae760f5f437" sha1="56c0215accd51092d05f12179609ad9a519604e6" sha256="ad43d4cdffb7ba6ce7c3c83f51bceb46c412d00db1984ab6c515e866e5f19208" serial="AQHJ"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Joukyuu (Japan)" id="z348" cloneofid="1254">
+		<category>Educational</category>
 		<description>ALC no 10-punkan Eigo Master - Joukyuu (Japan)</description>
 		<rom name="ALC no 10-punkan Eigo Master - Joukyuu (Japan).nds" size="67108864" crc="e2c5a7c5" md5="c74bca7a749f2d0f118bffe3e63d1010" sha1="711d3c8e13b26c27dc82717713fe137303bc3b89" sha256="083b4bc7288752f035242f3660fcf296b6f54169df8eb431c34dab9762e8f6ca" serial="AQHJ"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1)" id="6752">
+		<category>Educational</category>
 		<description>ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1)</description>
 		<rom name="ALC no 10-punkan Eigo Master - Shokyuu (Japan) (Rev 1).nds" size="67108864" crc="01f4a24a" md5="f319ec0a77729d4add1fb13f076b6b2e" sha1="b8e0c8cb81ae4170056d3bca6f534da043816570" sha256="3cfaec41294b96577977c7f4ecf8593ca61261494ffe89834d8fa97c20f3d273" serial="AQFJ"/>
 	</game>
 	<game name="ALC no 10-punkan Eigo Master - Shokyuu (Japan)" id="1087" cloneofid="6752">
+		<category>Educational</category>
 		<description>ALC no 10-punkan Eigo Master - Shokyuu (Japan)</description>
 		<rom name="ALC no 10-punkan Eigo Master - Shokyuu (Japan).nds" size="67108864" crc="9ce76d7b" md5="a4d88c0b2cc80103c14052009b64f0ed" sha1="052561aaf4262ab5101035cdeebea2c5a6755497" sha256="a78ac0ab50cffeef0fb41c32f986c3308217edba73346d8dd03d90c42ae8feca" serial="AQFJ"/>
 	</game>
@@ -927,6 +936,7 @@
 		<rom name="Aliens - Infestation (USA) (En,Fr,De).nds" size="33554432" crc="ac03d612" md5="e6758e44deedd14639898faa26ea6985" sha1="a9a69b6259f06cd4ac5d0e53e5beb5141b124b2d" serial="CEYE"/>
 	</game>
 	<game name="Aliens in the Attic (USA) (En,Fr,De,Es,It,Nl)" id="4102" cloneofid="z410">
+		<category>Games</category>
 		<description>Aliens in the Attic (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Aliens in the Attic (USA) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="e391c0ba" md5="a86f2b0db00fbaa46431e108dbed939c" sha1="d0d2f86f5285573f1767698e33dd457bc708872a" serial="C4RE"/>
 	</game>
@@ -1225,14 +1235,17 @@
 		<rom name="Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console).nds" size="67108864" crc="c60cbcef" md5="63a77904bb57620b35ce7037f0eee77e" sha1="496eb5d80047abb25b4afd0da8bb822b4c85b93e" serial="WUP-N-DAYP"/>
 	</game>
 	<game name="Animal Crossing - Wild World (USA)" id="0223" cloneofid="0389">
+		<category>Games</category>
 		<description>Animal Crossing - Wild World (USA)</description>
 		<rom name="Animal Crossing - Wild World (USA).nds" size="33554432" crc="f24508aa" md5="8b69d0a78772a5d8df0fafd7b01169ab" sha1="f1bef752b30dc158d55b48518c80840a7c4586af" sha256="d9f101b4cfd714d78fe0554c2b5769fb0963a95d2bc7d42a9c3d951bea66440c" status="verified" serial="ADME"/>
 	</game>
 	<game name="Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It)" id="0389">
+		<category>Games</category>
 		<description>Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Animal Crossing - Wild World (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="c677970c" md5="9d0dda4ca7227c31bb31002342b8530e" sha1="858da57a18852e75304e423519dde6a548d5264b" sha256="658a6f35f1f6e4cb29faaf9d3c2d2b73664f3ae8a68c0c16435ae20c4d2ab240" status="verified" serial="ADMP"/>
 	</game>
 	<game name="Animal Crossing - Wild World (USA) (Rev 1)" id="1479" cloneofid="0389">
+		<category>Games</category>
 		<description>Animal Crossing - Wild World (USA) (Rev 1)</description>
 		<rom name="Animal Crossing - Wild World (USA) (Rev 1).nds" size="33554432" crc="7e62f586" md5="a5793ed9dde3a1918a2b91637d9baede" sha1="77fde3e30e1e6068395d1f96ea63be569b61c351" sha256="b2b7031f1d08dd0544952757a1ab2164501b16fae2a44b64954a03a76e31fb87" status="verified" serial="ADME"/>
 	</game>
@@ -1399,10 +1412,12 @@
 		<rom name="Anpanman to Asobo - ABC Kyoushitsu (Japan).nds" size="67108864" crc="492e09d2" md5="9adbd24236afb73755e945f7affa805e" sha1="b15e7d6f22239e4cea0d90177c8af7ae67b7f597" serial="APEJ"/>
 	</game>
 	<game name="Anpanman to Asobo - Aiueo Kyoushitsu (Japan)" id="0737" cloneofid="4758">
+		<category>Games</category>
 		<description>Anpanman to Asobo - Aiueo Kyoushitsu (Japan)</description>
 		<rom name="Anpanman to Asobo - Aiueo Kyoushitsu (Japan).nds" size="67108864" crc="fba9a90c" md5="7f5704039964a8b36a6335945670e842" sha1="925d7352edcb8303924738fe191855d3e08c475d" serial="APOJ"/>
 	</game>
 	<game name="Anpanman to Asobo - Aiueo Kyoushitsu (Japan) (Rev 1)" id="4758">
+		<category>Games</category>
 		<description>Anpanman to Asobo - Aiueo Kyoushitsu (Japan) (Rev 1)</description>
 		<rom name="Anpanman to Asobo - Aiueo Kyoushitsu (Japan) (Rev 1).nds" size="67108864" crc="c213c4ed" md5="0b95916dd77081e9e0003fdd2f3d435d" sha1="ce663df1dca596753711e783b4b03ef6081a126b" serial="APOJ"/>
 	</game>
@@ -1587,10 +1602,12 @@
 		<rom name="Army Men - Soldiers of Misfortune (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="d1c43500" md5="5bfb8b22c8a8e0e0c80d2ae19090d98f" sha1="18dd5381f16087d5d2bb7ba2edcc8a0fffcaa4fd" sha256="55e4d1308edd2f1c391106629c6e91807b861b1b70b855fd4d5d6bed15d23582" status="verified" serial="CAYP"/>
 	</game>
 	<game name="Around the World in 80 Days (Europe) (En,Fr,Nl)" id="5125" cloneofid="5854">
+		<category>Games</category>
 		<description>Around the World in 80 Days (Europe) (En,Fr,Nl)</description>
 		<rom name="Around the World in 80 Days (Europe) (En,Fr,Nl).nds" size="16777216" crc="3166565e" md5="82ff414bd9130214e4d0e528a157d66f" sha1="d3c5611000bf896b93fc0aed4db12c43f9b712e5" serial="BW8X"/>
 	</game>
 	<game name="Around the World in 80 Days (Europe) (En,Fr,De)" id="4425" cloneofid="5854">
+		<category>Games</category>
 		<description>Around the World in 80 Days (Europe) (En,Fr,De)</description>
 		<rom name="Around the World in 80 Days (Europe) (En,Fr,De).nds" size="16777216" crc="d7cffa81" md5="c5eb20d1d250cca2a829658b2582d5eb" sha1="4496521ead34913b04646e4304638a1a78ad5432" sha256="4db470bab8f748738551e970b935662b68fde627dc2911d32e801a0d7aecd25e" status="verified" serial="BW8P"/>
 	</game>
@@ -1767,10 +1784,12 @@
 		<rom name="Atlantic Quest + Galactic Quest (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="141eb2c9" md5="0b71ae05c7ad0a3534394c2c9fea68fa" sha1="26011fd7e2ba1a929c897070917bc26d97098b91" serial="TJDX"/>
 	</game>
 	<game name="Atsumare! Power Pro Kun no DS Koushien (Japan) (Rev 1)" id="3300">
+		<category>Games</category>
 		<description>Atsumare! Power Pro Kun no DS Koushien (Japan) (Rev 1)</description>
 		<rom name="Atsumare! Power Pro Kun no DS Koushien (Japan) (Rev 1).nds" size="67108864" crc="eb7e8f54" md5="515031803aea602e90a822432231405b" sha1="ec19244d3b2f37488484c47bf1e2185054520188" serial="APXJ"/>
 	</game>
 	<game name="Atsumare! Power Pro Kun no DS Koushien (Japan)" id="0515" cloneofid="3300">
+		<category>Games</category>
 		<description>Atsumare! Power Pro Kun no DS Koushien (Japan)</description>
 		<rom name="Atsumare! Power Pro Kun no DS Koushien (Japan).nds" size="67108864" crc="bf616e27" md5="90b1ff1874f65a205e0dcf1ec1bcaa83" sha1="67ce30e66b263204aad82cfa15dccfdc47321c32" serial="APXJ"/>
 	</game>
@@ -2182,10 +2201,12 @@
 		<rom name="Barbie - Groom and Glam Pups (Brazil) (En,Es,Pt).nds" size="67108864" crc="14c92710" md5="7c978df1fe11d8310786ae6051691ffc" sha1="09004589197db42bfde1de1b325a88645c279ecb" serial="BB7X"/>
 	</game>
 	<game name="Barbie - Jet, Set &amp; Style! (Europe) (En,Fr,Nl) (VMZY) (NDSi Enhanced)" id="z190" cloneofid="6483">
+		<category>Games</category>
 		<description>Barbie - Jet, Set &amp; Style! (Europe) (En,Fr,Nl) (VMZY) (NDSi Enhanced)</description>
 		<rom name="Barbie - Jet, Set &amp; Style! (Europe) (En,Fr,Nl) (VMZY) (NDSi Enhanced).nds" size="67108864" crc="2ea8ea4c" md5="0e774edf1fd4c6c01cfc2e78d73dd6ed" sha1="80d3bac19f029961712708183ac837df76d74d47" serial="VMZY"/>
 	</game>
 	<game name="Barbie - Jet, Set &amp; Style! (USA) (En,Fr) (Rev 1) (NDSi Enhanced)" id="z212" cloneofid="6483">
+		<category>Games</category>
 		<description>Barbie - Jet, Set &amp; Style! (USA) (En,Fr) (Rev 1) (NDSi Enhanced)</description>
 		<rom name="Barbie - Jet, Set &amp; Style! (USA) (En,Fr) (Rev 1) (NDSi Enhanced).nds" size="67108864" crc="4c3a2885" md5="ce1224d306134f0150327ad63d3f0e34" sha1="ca99edef43e5dadad0c8348eae95f1e42e9ca559" serial="VMZE"/>
 	</game>
@@ -2196,18 +2217,22 @@
 		<rom name="Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (Beta) (VMZP) (NDSi Enhanced).nds" size="67108864" crc="fe633331" md5="2eb991c22f25f37495b3f4c6bc418415" sha1="e68f18955083ece3f3274b01564c496a58e86842" sha256="afc5b317403a3d21d60ac61292460548539c931d685c7750977a761f007a6e56" serial="VMZP"/>
 	</game>
 	<game name="Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (VMZP) (NDSi Enhanced)" id="5835" cloneofid="6483">
+		<category>Games</category>
 		<description>Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (VMZP) (NDSi Enhanced)</description>
 		<rom name="Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (VMZP) (NDSi Enhanced).nds" size="67108864" crc="af0aa729" md5="769cb5feab1c05987c16cf70f149183f" sha1="b2f747bdfb94b730c27c4240c1767b2c0f18945c" serial="VMZP"/>
 	</game>
 	<game name="Barbie - Jet, Set &amp; Style! (USA) (En,Fr) (NDSi Enhanced)" id="5838" cloneofid="6483">
+		<category>Games</category>
 		<description>Barbie - Jet, Set &amp; Style! (USA) (En,Fr) (NDSi Enhanced)</description>
 		<rom name="Barbie - Jet, Set &amp; Style! (USA) (En,Fr) (NDSi Enhanced).nds" size="67108864" crc="b157ff00" md5="335364d5efc527ebcfb3726301d337a9" sha1="9e0a9a4238b14209ca9ece0bc53e1e07940d0da0" serial="VMZE"/>
 	</game>
 	<game name="Barbie - Jet, Set &amp; Style! (Europe) (En,Fr,Nl) (NDSi Enhanced)" id="6483">
+		<category>Games</category>
 		<description>Barbie - Jet, Set &amp; Style! (Europe) (En,Fr,Nl) (NDSi Enhanced)</description>
 		<rom name="Barbie - Jet, Set &amp; Style! (Europe) (En,Fr,Nl) (NDSi Enhanced).nds" size="67108864" crc="5c03b38c" md5="de3c1e05c87b9ad15e635da7503fe4c3" sha1="5b7f03c7c15614d4a13b62338cb39c66d0b2394a" serial="VMZV"/>
 	</game>
 	<game name="Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (VMZX) (NDSi Enhanced)" id="6501" cloneofid="6483">
+		<category>Games</category>
 		<description>Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (VMZX) (NDSi Enhanced)</description>
 		<rom name="Barbie - Jet, Set &amp; Style! (Europe) (De,Es,It) (VMZX) (NDSi Enhanced).nds" size="67108864" crc="33565b27" md5="aec524629c0695c8400bea20544adf61" sha1="2b1999137d32b36678558c0c72cf64c8daffad3e" sha256="a69a729ecb8d828f1a15536187912f55327c3e84b6d26f999d3cbeec061c1605" serial="VMZX"/>
 	</game>
@@ -2449,14 +2474,17 @@
 		<rom name="Bella Sara (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="d2f0a083" md5="a2fad470aed749f87881e025dc261a5b" sha1="f91947ae46d704c4f6a918ac9e4565f45a0b7cf9" serial="CB7E"/>
 	</game>
 	<game name="Ben 10 - Alien Force (USA) (En,Fr,De,Es,It) (Rev 1)" id="2973" cloneofid="3311">
+		<category>Games</category>
 		<description>Ben 10 - Alien Force (USA) (En,Fr,De,Es,It) (Rev 1)</description>
 		<rom name="Ben 10 - Alien Force (USA) (En,Fr,De,Es,It) (Rev 1).nds" size="33554432" crc="469c25d6" md5="c7051b0db6e614839fc3b3bec164c22d" sha1="c9cb13470b9acca34abce86d6d6b84a6e4d5aefb" status="verified" serial="CBQE"/>
 	</game>
 	<game name="Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It)" id="3311">
+		<category>Games</category>
 		<description>Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="ea0026a3" md5="b7a24f18ea33bf479ed45bac4f7b775f" sha1="ea92960f7ac01d5107fb363aa902a668b64c8912" sha256="295b70ca3468d7f6fb2f87ec650e0f8fb0c5ff630849804b66f02fec8df96332" status="verified" serial="CBQP"/>
 	</game>
 	<game name="Ben 10 - Alien Force (USA) (En,Fr,De,Es,It)" id="z333" cloneofid="3311">
+		<category>Games</category>
 		<description>Ben 10 - Alien Force (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Ben 10 - Alien Force (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="0dab90ae" md5="f381a3f5439d37f517ce67bcfc78ba3e" sha1="5c6848622f5d1a1ecfed20123b93e23d9ddeaa7f" sha256="3ad5dac582129b99991ca7b7acb6017359d03d0c93ee2740ba3383908a8a4655" serial="CBQE"/>
 	</game>
@@ -3104,10 +3132,12 @@
 		<rom name="Bokujou Monogatari - KiraKira Taiyou to Nakama-tachi (Japan).nds" size="67108864" crc="99ec5726" md5="f6893bb7775e64c5141ebe536b6236bc" sha1="ffcfcf48586f82791b461bd1b7ff10d6ceed84f2" sha256="29d0f555d986eb70b12813c4adb33ede7666d73ed71744b8187ec76824c638cc" status="verified" serial="YB3J"/>
 	</game>
 	<game name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan)" id="3182" cloneofid="5842">
+		<category>Games</category>
 		<description>Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan)</description>
 		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan).nds" size="134217728" crc="90c10bd9" md5="1c7bde5c345c4cd11d7e80b77b9b8cc5" sha1="93b159bbc3b4297a83f1a0bf078d9a2b301e557d" sha256="86d2721fa73e5a0c125959fd89f6ced959d7add839dec5edd467d2dc9817efce" serial="CB9J"/>
 	</game>
 	<game name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2)" id="z217" cloneofid="5842">
+		<category>Games</category>
 		<description>Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2)</description>
 		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 2).nds" size="134217728" crc="39a56711" md5="80ded54dbdcc594f9c9ef5ef5125b37f" sha1="50d388e9f79a2af35c01d12369d23a6a2881c041" serial="CB9J"/>
 	</game>
@@ -3117,10 +3147,12 @@
 		<rom name="Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan) (Rev 1).nds" size="134217728" crc="eaeac3f0" md5="992cab2931a8396f5fc3d21dc708a4a1" sha1="0e99c50dd4db0d1114bba8ff29b17a858480309f" sha256="467c5039e21cf4a93aa098d106f66b665769467cc298a501c98946cd6803f502" serial="CB9J"/>
 	</game>
 	<game name="Bokura no Taiyou - Django &amp; Sabata (Japan)" id="0697" cloneofid="0963">
+		<category>Games</category>
 		<description>Bokura no Taiyou - Django &amp; Sabata (Japan)</description>
 		<rom name="Bokura no Taiyou - Django &amp; Sabata (Japan).nds" size="134217728" crc="0f1f25da" md5="124c70b25bee08bac62e85fab636342e" sha1="71df723aa30290c93f07f4587ca59093627915ae" sha256="0918875a071382be3155be36de8a7cd34613eba250e0b32bc3be20b8998b550c" status="verified" serial="ALKJ"/>
 	</game>
 	<game name="Bokura no Taiyou - Django &amp; Sabata (Japan) (Rev 1)" id="z047" cloneofid="0963">
+		<category>Games</category>
 		<description>Bokura no Taiyou - Django &amp; Sabata (Japan) (Rev 1)</description>
 		<rom name="Bokura no Taiyou - Django &amp; Sabata (Japan) (Rev 1).nds" size="134217728" crc="24af8963" md5="8c26d36e44cf1a8186c5f110739d0511" sha1="0774a7195cef2815002449f991a1f2b67c633d03" serial="ALKJ"/>
 	</game>
@@ -3167,6 +3199,7 @@
 		<rom name="Bolt - Be-Awesome Edition (USA) (En,Fr,Es).nds" size="67108864" crc="a6f55c75" md5="81fd7ab321d0000f028c2b7c56475d45" sha1="de1e38613af93165e879dc953425b6d58129dd98" serial="CBDE"/>
 	</game>
 	<game name="Bomberman (Japan) (Rev 1)" id="3710" cloneofid="0079">
+		<category>Games</category>
 		<description>Bomberman (Japan) (Rev 1)</description>
 		<rom name="Bomberman (Japan) (Rev 1).nds" size="8388608" crc="29d01d9b" md5="970d56893331edafc5378f3c483e7cc5" sha1="3124d78125511e5eaaa3d389e05607c862ae1a41" serial="ABMJ"/>
 	</game>
@@ -3176,10 +3209,12 @@
 		<rom name="Bomberman (Japan).nds" size="8388608" crc="0f805b72" md5="79372425f5b033abd838706ccf6eeb1a" sha1="cf96e7fbb20d7e79c70fa7fc1eaba4b41eba82eb" serial="ABMJ"/>
 	</game>
 	<game name="Bomberman (USA)" id="0061" cloneofid="0079">
+		<category>Games</category>
 		<description>Bomberman (USA)</description>
 		<rom name="Bomberman (USA).nds" size="8388608" crc="4a51692e" md5="c51365d490391a1936b704b08ed596d9" sha1="c88a441cf460a8a863fc31719ef0f56ee86b4e05" serial="ABME"/>
 	</game>
 	<game name="Bomberman (Europe) (En,Fr,De,Es,It)" id="0079">
+		<category>Games</category>
 		<description>Bomberman (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Bomberman (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="b82c1a95" md5="43241fdafc7d54e6f0ef9e6089ee9c7b" sha1="68161caffb9f81be109c1335eef33e9eea63566d" status="verified" serial="ABMP"/>
 	</game>
@@ -3196,10 +3231,12 @@
 		<rom name="Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="7a3b375d" md5="a2d621ac47b4cd82927309348d8379d0" sha1="66bb2c3b8e5c2f20fbc19517d855b6767136a3cb" sha256="744537285498fe460e88bbb865a8edb60583148b4de3f7059ea6e00b8d3b0277" status="verified" serial="ABXP"/>
 	</game>
 	<game name="Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It)" id="2121">
+		<category>Games</category>
 		<description>Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="5cf64a5c" md5="42f984cfb3109394f56137cdbe35d19e" sha1="a6818fae967e9b9651e52d2a3ffa71d048f8a0e1" status="verified" serial="YB2P"/>
+		<rom name="Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="5cf64a5c" md5="42f984cfb3109394f56137cdbe35d19e" sha1="a6818fae967e9b9651e52d2a3ffa71d048f8a0e1" sha256="a72e3613d0e6e25f7a0e343a425183584961753dc9a279a27e63dbbf6eed04d3" status="verified" serial="YB2P"/>
 	</game>
 	<game name="Bomberman Land Touch! 2 (USA)" id="1984" cloneofid="2121">
+		<category>Games</category>
 		<description>Bomberman Land Touch! 2 (USA)</description>
 		<rom name="Bomberman Land Touch! 2 (USA).nds" size="33554432" crc="102574df" md5="32560afa2d0c36288af6ec3528d40523" sha1="5a878a94def8e5af94a176ad384fa5c0cb426aaf" serial="YB2E"/>
 	</game>
@@ -3228,10 +3265,12 @@
 		<rom name="Bookworm (USA).nds" size="8388608" crc="35f18a79" md5="9fc6a6b1ac2842c3a2ce7e45bfd711a7" sha1="6bf40fe60041ad469d4225aa74b11aa66a5db007" serial="BKWE"/>
 	</game>
 	<game name="Boshi Techou DS with 'Akachan Massage' (Japan) (NDSi Enhanced)" id="6661" cloneofid="6668">
+		<category>Games</category>
 		<description>Boshi Techou DS with 'Akachan Massage' (Japan) (NDSi Enhanced)</description>
 		<rom name="Boshi Techou DS with 'Akachan Massage' (Japan) (NDSi Enhanced).nds" size="33554432" crc="65d0a4e8" md5="d19c03bc9b151be918118b0d37d1bea2" sha1="5c433f6b1e9a91e0f8afe2ac5bf78cab50beb346" serial="VOSJ"/>
 	</game>
 	<game name="Boshi Techou DS with 'Akachan Massage' (Japan) (Rev 1) (NDSi Enhanced)" id="6668">
+		<category>Games</category>
 		<description>Boshi Techou DS with 'Akachan Massage' (Japan) (Rev 1) (NDSi Enhanced)</description>
 		<rom name="Boshi Techou DS with 'Akachan Massage' (Japan) (Rev 1) (NDSi Enhanced).nds" size="33554432" crc="6165a3b3" md5="f6634ce6e7948446996aeb3684b790fe" sha1="ebc0e4e49e5e3acdb65c9151fa2ec28944467f82" serial="VOSJ"/>
 	</game>
@@ -3248,6 +3287,7 @@
 		<rom name="Boule &amp; Bill - Vive les Vacances! (France).nds" size="16777216" crc="2c4581f3" md5="cc22e7b43c25693dbd18f2ae821a1a85" sha1="ab0f5a09c39753b89ff38cd2fab485bf5d65c34f" sha256="0052a2ad4f9ded6c1086ee021aafe0f4d6590cedff1c036e804a31f7731de00a" status="verified" serial="YY7F"/>
 	</game>
 	<game name="Brain Age - Train Your Brain in Minutes a Day! (USA)" id="0396" cloneofid="0457">
+		<category>Games</category>
 		<description>Brain Age - Train Your Brain in Minutes a Day! (USA)</description>
 		<rom name="Brain Age - Train Your Brain in Minutes a Day! (USA).nds" size="16777216" crc="40bb7a81" md5="77d2ae1df4367cdacdcf6b4d8d503ecd" sha1="2b2a701381b46ccb5f6f56de844ed087bc97b8db" sha256="1b66e461ec404edf504dedaa948edac71829c491f88dd0229be2741aecdbf301" status="verified" serial="ANDE"/>
 	</game>
@@ -3257,6 +3297,7 @@
 		<rom name="Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1) (Wii U Virtual Console).nds" size="16777216" crc="ba6ce57d" md5="83fea3d86a418e0668c17fb2a8427a2b" sha1="2b6c6ef17ad98566cc020bb0157b966f4db688cb" serial="WUP-N-DAAE"/>
 	</game>
 	<game name="Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1)" id="5171" cloneofid="0457">
+		<category>Games</category>
 		<description>Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1)</description>
 		<rom name="Brain Age - Train Your Brain in Minutes a Day! (USA) (Rev 1).nds" size="16777216" crc="10e8d76b" md5="6588b14b57c41efacc6850d07bf037e9" sha1="b8a105bacc3234dede8d4465df0869f2b922a0e2" sha256="ac83193346fdca6ea449a6cb60bbe44d327eeb66f2d619d9b1bf8f73600faf5e" status="verified" serial="ANDE"/>
 	</game>
@@ -3466,7 +3507,7 @@
 	</game>
 	<game name="Broken Sword - Shadow of the Templars - The Director's Cut (Europe) (En,Fr,De,Es,It)" id="3548">
 		<description>Broken Sword - Shadow of the Templars - The Director's Cut (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Broken Sword - Shadow of the Templars - The Director's Cut (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="b1188800" md5="2dab5b9c834a9020156d48895eb487e4" sha1="2674daaa397b28245daf1700d022737587b8d821" serial="YB7P"/>
+		<rom name="Broken Sword - Shadow of the Templars - The Director's Cut (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="b1188800" md5="2dab5b9c834a9020156d48895eb487e4" sha1="2674daaa397b28245daf1700d022737587b8d821" sha256="406aee99aaa954c7fde94e3f7bdf13b787fb50156224cbadc14a22e683dc616c" status="verified" serial="YB7P"/>
 	</game>
 	<game name="Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,De,Es,It)" id="3776" cloneofid="3548">
 		<description>Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,De,Es,It)</description>
@@ -3489,18 +3530,22 @@
 		<rom name="Bubble Bobble - Double Shot (USA) (En,Fr,Es).nds" size="16777216" crc="9dfda3ca" md5="a35c72d014fc96100208bccb76ac53f7" sha1="f5d709bd38a75c2afe542ad26fc702339e929f94" serial="AWHE"/>
 	</game>
 	<game name="Bubble Bobble DS (Japan)" id="0200" cloneofid="0218">
+		<category>Games</category>
 		<description>Bubble Bobble DS (Japan)</description>
 		<rom name="Bubble Bobble DS (Japan).nds" size="33554432" crc="d57d58f2" md5="16a62020a57e8fce8667978b2d01fbdf" sha1="3440e05dd48076615b9fb0a1be12fe2efd4ceb48" serial="AB6J"/>
 	</game>
 	<game name="Bubble Bobble Revolution (Europe) (En,Fr,De,Es,It)" id="0218">
+		<category>Games</category>
 		<description>Bubble Bobble Revolution (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Bubble Bobble Revolution (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="345fa696" md5="e27ae2681160e6ee948d85fac836e4c8" sha1="d7cf75db882ea887e355ba95181cc27451e90312" serial="AB6P"/>
 	</game>
 	<game name="Bubble Bobble Revolution (USA)" id="0588" cloneofid="0218">
+		<category>Games</category>
 		<description>Bubble Bobble Revolution (USA)</description>
 		<rom name="Bubble Bobble Revolution (USA).nds" size="33554432" crc="c434664f" md5="33f29dab971f48705058d4e9069ece2a" sha1="528a6365e50dd357829bd21e3e8858e4bd4ebc58" serial="AB6E"/>
 	</game>
 	<game name="Bubble Bobble Revolution (USA) (Rev 1)" id="1043" cloneofid="0218">
+		<category>Games</category>
 		<description>Bubble Bobble Revolution (USA) (Rev 1)</description>
 		<rom name="Bubble Bobble Revolution (USA) (Rev 1).nds" size="33554432" crc="77adda54" md5="371123bfcb82451b9e5f035f948715da" sha1="7af2896291fa0e0182d78d83133f5147b6d3e9e7" serial="AB6E"/>
 	</game>
@@ -3655,10 +3700,12 @@
 		<rom name="Cake Mania 3 (USA).nds" size="67108864" crc="2395a5e8" md5="0fdb47cb638bf4d4db870ce0d1e0c4c8" sha1="c800f54c4d44f93247f9df5bda64ae96fa86a15c" serial="B3ME"/>
 	</game>
 	<game name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl)" id="5390" cloneofid="5701">
+		<category>Games</category>
 		<description>Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="2d4c6a3a" md5="ca79a04eeaa53d45ccaa611e6d7d64ae" sha1="049bec33e2296e9d33fd44c83ebb5fafe66a753e" serial="BUTP"/>
 	</game>
 	<game name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="5701">
+		<category>Games</category>
 		<description>Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
 		<rom name="Call of Atlantis (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="33554432" crc="f2f1404c" md5="7dcf8cdfdd154a7c3383eff496874ee6" sha1="7d52e260c1d110504e34ad20941eb0fb46a9f9df" sha256="3b239f4a31f7dac5669967a9f4403b9d164e56019e4a242aed29354a45ea714c" serial="BUTP"/>
 	</game>
@@ -3787,14 +3834,17 @@
 		<rom name="Calvin Tucker's Redneck - Farm Animal Racing Tournament (USA) (En,Fr,De,Es,It).nds" size="16777216" crc="83f3f5a0" md5="24f3a37d01b5eb794fbad8a266fb2451" sha1="576cbe1f34ede27cbe679d1917198fe7ea685de5" serial="B2VE"/>
 	</game>
 	<game name="Camp Rock - The Final Jam (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="5274">
+		<category>Games</category>
 		<description>Camp Rock - The Final Jam (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
-		<rom name="Camp Rock - The Final Jam (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="67108864" crc="a6117e0c" md5="dbfa7186cf488ce815812a819d114f1e" sha1="eaa6356910fc735e8d4b6189073edadf99e7e1ec" sha256="8983ab3b24d6127cf6c93733b853f5d544f283dad1c4aef1275983ee380876f8" serial="VCMP"/>
+		<rom name="Camp Rock - The Final Jam (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="67108864" crc="a6117e0c" md5="dbfa7186cf488ce815812a819d114f1e" sha1="eaa6356910fc735e8d4b6189073edadf99e7e1ec" sha256="8983ab3b24d6127cf6c93733b853f5d544f283dad1c4aef1275983ee380876f8" status="verified" serial="VCMP"/>
 	</game>
 	<game name="Camp Rock - The Final Jam (Europe) (En,Sv,No,Da) (NDSi Enhanced)" id="5394" cloneofid="5274">
+		<category>Games</category>
 		<description>Camp Rock - The Final Jam (Europe) (En,Sv,No,Da) (NDSi Enhanced)</description>
 		<rom name="Camp Rock - The Final Jam (Europe) (En,Sv,No,Da) (NDSi Enhanced).nds" size="67108864" crc="8818859a" md5="0ad62d0b24a818a2a3420977fe89150d" sha1="e716d20297c7892afa525421d47483622315e9d9" sha256="c7164dc70244dcb59e33351956402e7f614d8cc988c497521e801c9097c7c891" serial="VCMV"/>
 	</game>
 	<game name="Camp Rock - The Final Jam (USA) (En,Fr,Es) (NDSi Enhanced)" id="5774" cloneofid="5274">
+		<category>Games</category>
 		<description>Camp Rock - The Final Jam (USA) (En,Fr,Es) (NDSi Enhanced)</description>
 		<rom name="Camp Rock - The Final Jam (USA) (En,Fr,Es) (NDSi Enhanced).nds" size="67108864" crc="07a01241" md5="7d713ff4ca4a469f7c1411cc047c7289" sha1="a4cd4df1624872aa1bb64ae57cd4dd7c0fc61bd6" serial="VCME"/>
 	</game>
@@ -4050,10 +4100,12 @@
 		<rom name="Castlevania - Order of Ecclesia (Korea).nds" size="67108864" crc="be134c8f" md5="d7bfcfbff2f3ce97c03c500e6186b3fd" sha1="94eedc3a9a9f816aa5de0ddd90fb73b5ef165923" sha256="3f375e3094ff4d2fb4778f1a976e4283c2ef04b6fae26ee36864e1a2dbd8e97b" serial="YR9K"/>
 	</game>
 	<game name="Castlevania - Portrait of Ruin (USA)" id="0735" cloneofid="0881">
+		<category>Games</category>
 		<description>Castlevania - Portrait of Ruin (USA)</description>
 		<rom name="Castlevania - Portrait of Ruin (USA).nds" size="67108864" crc="96df4c4d" md5="2edd57540cae45842fbd19c45a4214f9" sha1="382602e3615b2282eead584014125e71b5b0f033" status="verified" serial="ACBE"/>
 	</game>
 	<game name="Castlevania - Portrait of Ruin (Europe) (En,Fr,De,Es,It)" id="0881">
+		<category>Games</category>
 		<description>Castlevania - Portrait of Ruin (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Castlevania - Portrait of Ruin (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="772ba12a" md5="17a6618c3c7f5547d7c38fc04cb2666e" sha1="26fe05fa12019facea91556e4e6b00ba6989e15d" status="verified" serial="ACBP"/>
 	</game>
@@ -4084,6 +4136,7 @@
 		<rom name="Catch! Touch! Yoshi! (Japan) (Demo) (Kiosk).nds" size="16777216" crc="c1806b3d" md5="400a226364eb05a348bb521e3f0e89b7" sha1="b4ca3eb2c7b1167bd88ee1349c857c6312a3436c" sha256="306a61abdb9e6ec5cae5b66f87eb15a3d4605a406eefc4f413e1ac721ad76419" serial="A27J"/>
 	</game>
 	<game name="Catch! Touch! Yoshi! (Japan) (Rev 1)" id="z272" cloneofid="0013">
+		<category>Games</category>
 		<description>Catch! Touch! Yoshi! (Japan) (Rev 1)</description>
 		<rom name="Catch! Touch! Yoshi! (Japan) (Rev 1).nds" size="16777216" crc="5b92bb48" md5="735bc65773822ac6f38cedb937ee8c59" sha1="ab4523b274dd852173b668e285976a8e1658e24b" sha256="729b3ed60fdce2055b572bdf15212c875b3979d4f5d55da34baa55922f0c3752" serial="AYIJ"/>
 	</game>
@@ -4489,14 +4542,18 @@
 		<rom name="Chou Nekketsu Koukou Kunio-kun - Dodgeball-bu (Japan).nds" size="8388608" crc="53c3d27e" md5="2bffe8d331923df392f4b48541ed969c" sha1="bb69e30f247e51d048c0697769a7e692a2c5462e" serial="YD5J"/>
 	</game>
 	<game name="Chou Shittou Caduceus (Japan) (Rev 1)" id="1041" cloneofid="0428">
+		<category>Games</category>
 		<description>Chou Shittou Caduceus (Japan) (Rev 1)</description>
 		<rom name="Chou Shittou Caduceus (Japan) (Rev 1).nds" size="16777216" crc="60e5e85c" md5="638031989938f47e513f2a6e48bfc68b" sha1="af096c8150fad93e5ad4f8b659dfbd527cf8c28a" serial="AKDJ"/>
 	</game>
 	<game name="Chou Shittou Caduceus (Japan) (Demo) (Kiosk)" id="z340" cloneofid="0428">
+		<category>Demos</category>
+		<category>Games</category>
 		<description>Chou Shittou Caduceus (Japan) (Demo) (Kiosk)</description>
 		<rom name="Chou Shittou Caduceus (Japan) (Demo) (Kiosk).nds" size="8388608" crc="9d4b2c96" md5="93b56d820b92b3443ee35019a4859ad9" sha1="e0b9fb3fc5019d7bad0d0a5c167fb01385fa3bac" sha256="c534cfe37dc4b9b18e4478931bef43cfaae2e0dc3e2d1f0c8b3fea5fc586cd5f" serial="A38J"/>
 	</game>
 	<game name="Chou Shittou Caduceus (Japan)" id="0125" cloneofid="0428">
+		<category>Games</category>
 		<description>Chou Shittou Caduceus (Japan)</description>
 		<rom name="Chou Shittou Caduceus (Japan).nds" size="16777216" crc="7a5efcc4" md5="eefea8dd48ec1a4c31653fc3bd800756" sha1="0b070090233416f91e847054cb74f655c552a62d" serial="AKDJ"/>
 	</game>
@@ -5591,6 +5648,7 @@
 		<rom name="Danshaku (Japan).nds" size="16777216" crc="2dea3aff" md5="ff1802985d942ecf26e48ba609250b6d" sha1="fb85b8b9b8be6181c9dfa2b299eb13240a4b203e" serial="ANSJ"/>
 	</game>
 	<game name="Daredemo Asobi Taizen (Japan)" id="0155" cloneofid="3245">
+		<category>Games</category>
 		<description>Daredemo Asobi Taizen (Japan)</description>
 		<rom name="Daredemo Asobi Taizen (Japan).nds" size="8388608" crc="25faefa6" md5="d9a868fa944cf0dd3723f7a7b67c9ac9" sha1="4ed7791d03d2aea7d7b0879f5c6f04c91670ef34" sha256="2da0ce92c2d3c6aa7e20660456dd5e837e59b988913a5abd0751a2da1a28f753" status="verified" serial="ATGJ"/>
 	</game>
@@ -6644,6 +6702,7 @@
 		<rom name="Dowajwo! Rhythm Hero (Korea).nds" size="134217728" crc="7e059120" md5="12779c6602c26fc0da7bd5be5555681f" sha1="f2d554daa17e1904899a2bb878daef9fa5c0f3fd" serial="AOSK"/>
 	</game>
 	<game name="Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)" id="0457">
+		<category>Games</category>
 		<description>Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="fe158662" md5="588b392dfd20e8c670ab3a2b2ee79cd8" sha1="a4c8b20886cbfc44311658b97aeb23b407f7aba2" sha256="6b7beaf059af57c6b53717f851554aa83996d43b9d455dcc176a44fa55f75b43" status="verified" serial="ANDP"/>
 	</game>
@@ -8361,6 +8420,7 @@
 		<rom name="FIFA 07 (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="1cdbb270" md5="47efe8c132119f1a6a8c2d871da2ebcc" sha1="cebcee4330d145c2f475d7755426e5342f72a7ea" sha256="9dda9df821d27c67b9db8c902cb613da0012dd7cb5b64f9bac4abb09785c1804" status="verified" serial="AF7P"/>
 	</game>
 	<game name="FIFA 08 (Europe) (En,Fr,De,Es,It)" id="1441" cloneofid="6532">
+		<category>Games</category>
 		<description>FIFA 08 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="FIFA 08 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="ec8c7c32" md5="23087f5c580a9523ca74d96d67da134f" sha1="e69b8ca514e791872bc902280f422e94c6a1566d" sha256="6058aab29d89e0bfe9d5b4f4217bf169165a2ba625828bcb56e191efe4c3ee9d" status="verified" serial="YF8P"/>
 	</game>
@@ -8369,8 +8429,9 @@
 		<rom name="FIFA 08 (Korea).nds" size="33554432" crc="e1cdb95e" md5="f48e12fea04b7c41aa1a59c0d49cb1ff" sha1="f97bcabdcb81da841d72f844938321fc800e44de" serial="YF8K"/>
 	</game>
 	<game name="FIFA 08 (Europe) (En,Fr,De,Es,It) (Rev 1)" id="6532">
+		<category>Games</category>
 		<description>FIFA 08 (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
-		<rom name="FIFA 08 (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="33554432" crc="f746349e" md5="85b7de2a10f1fd99f246821cf1b1ab6b" sha1="66a213989db1f3b3bd4022c97757db7628e54e76" serial="YF8P"/>
+		<rom name="FIFA 08 (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="33554432" crc="f746349e" md5="85b7de2a10f1fd99f246821cf1b1ab6b" sha1="66a213989db1f3b3bd4022c97757db7628e54e76" sha256="f7aaa2b803041add287aa5782b6f96af84d6703c6ddf9240780ce1b16034dc9d" status="verified" serial="YF8P"/>
 	</game>
 	<game name="FIFA 09 (Korea)" id="3040" cloneofid="2731">
 		<description>FIFA 09 (Korea)</description>
@@ -8401,6 +8462,7 @@
 		<rom name="FIFA Soccer 07 (USA) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="f3a70ea4" md5="b8dc819a5ac34f2e9240f20ec647ff53" sha1="f4e1c62f96f1637105529773c7a3b0f74a699d2b" serial="AF7E"/>
 	</game>
 	<game name="FIFA Soccer 08 (USA) (En,Fr,De,Es,It)" id="1509" cloneofid="6532">
+		<category>Games</category>
 		<description>FIFA Soccer 08 (USA) (En,Fr,De,Es,It)</description>
 		<rom name="FIFA Soccer 08 (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="425eea5f" md5="18837cecb62423d7784777bb68bbfdef" sha1="ed90bc6af569dfd60a937ff715e36bfc9cdcaa8b" serial="YF8E"/>
 	</game>
@@ -9666,12 +9728,14 @@
 		<rom name="Golden Compass, The - The Official Videogame (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="95f32631" md5="63c2fe3975fb6e5195e724a3df09596d" sha1="382a43157831ec21223a7f6196c1e5f5886d3caa" sha256="d5e1b31d8f99c5cd4495cbb9988cbea463aabba643da114ff2e082d18d5b5e12" serial="A5AP"/>
 	</game>
 	<game name="Golden Nugget Casino DS (USA)" id="0214" cloneofid="0439">
+		<category>Games</category>
 		<description>Golden Nugget Casino DS (USA)</description>
 		<rom name="Golden Nugget Casino DS (USA).nds" size="33554432" crc="ec9da3ab" md5="3620edd4062106869a450d151c39350f" sha1="7b58e6a5e7ece9c9794e86713597034de14765ef" serial="AGNE"/>
 	</game>
 	<game name="Golden Nugget Casino DS (Europe) (En,Fr,De)" id="0439">
+		<category>Games</category>
 		<description>Golden Nugget Casino DS (Europe) (En,Fr,De)</description>
-		<rom name="Golden Nugget Casino DS (Europe) (En,Fr,De).nds" size="33554432" crc="3afa3e78" md5="02ed804568c49824710e3d50c644bc9c" sha1="a709bb25bd074bf74ea059aaa96fe106e310961c" serial="AGNP"/>
+		<rom name="Golden Nugget Casino DS (Europe) (En,Fr,De).nds" size="33554432" crc="3afa3e78" md5="02ed804568c49824710e3d50c644bc9c" sha1="a709bb25bd074bf74ea059aaa96fe106e310961c" sha256="5d90ec72a77eec18d1879f94f2ed589f131c76219047f5e03d76bc19a08de11f" serial="AGNP"/>
 	</game>
 	<game name="Golden Sun - Dark Dawn (USA) (Demo) (Kiosk)" id="z013" cloneofid="5387">
 		<description>Golden Sun - Dark Dawn (USA) (Demo) (Kiosk)</description>
@@ -10418,6 +10482,7 @@
 		<rom name="Harvest Moon DS (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="67108864" crc="0c2f12c7" md5="1fab25fc474ce028ae7a29938af5991d" sha1="98106e876db71627e5330fa288e2857b3cedd18e" serial="ABCP"/>
 	</game>
 	<game name="Harvest Moon DS (USA)" id="0561" cloneofid="6455">
+		<category>Games</category>
 		<description>Harvest Moon DS (USA)</description>
 		<rom name="Harvest Moon DS (USA).nds" size="67108864" crc="9590e91c" md5="41956b0494901c7d394cdb622a2c184a" sha1="857234a11b4a8bdb20ff60d0b83dbeb9d8e3512e" sha256="b3f031ca3f979bd886be1151ad5183c244a5542aa36ba1f61000fb32033139cc" serial="ABCE"/>
 	</game>
@@ -10427,14 +10492,17 @@
 		<rom name="Harvest Moon DS (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="ecce83f6" md5="936f5295e93b2956c621e057716b61a3" sha1="c7613da82c02d41607a5b4ba44d08cf0cbee8846" sha256="4d28f21a63cc464e378fb5efb9a10bdcb3d6b36a8451c33d0ba230325cfb94e9" status="verified" serial="ABCP"/>
 	</game>
 	<game name="Harvest Moon DS (USA) (Rev 1)" id="1395" cloneofid="6455">
+		<category>Games</category>
 		<description>Harvest Moon DS (USA) (Rev 1)</description>
 		<rom name="Harvest Moon DS (USA) (Rev 1).nds" size="67108864" crc="cea0fdcd" md5="0b943fd4bdca48ca8556615a592fd16e" sha1="3201e573c02319851b7f19cd87dae5817e63da14" serial="ABCE"/>
 	</game>
 	<game name="Harvest Moon DS - Grand Bazaar (Europe) (En,Fr,De,Es,It)" id="5842">
+		<category>Games</category>
 		<description>Harvest Moon DS - Grand Bazaar (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Harvest Moon DS - Grand Bazaar (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="fe57ec75" md5="6c09d7ee9ee064f5cfc6a47186b378f3" sha1="6d7012afa7feceb984610ed1d13ab139374b588d" serial="CB9P"/>
 	</game>
 	<game name="Harvest Moon DS - Grand Bazaar (USA)" id="5177" cloneofid="5842">
+		<category>Games</category>
 		<description>Harvest Moon DS - Grand Bazaar (USA)</description>
 		<rom name="Harvest Moon DS - Grand Bazaar (USA).nds" size="134217728" crc="86088faa" md5="16fad119e4cb5f7231c92b82569829fc" sha1="128157a4c615cdafb6583c394f7b1ea554a9afe5" serial="CB9E"/>
 	</game>
@@ -11468,10 +11536,12 @@
 		<rom name="iCarly - Groovy Foodie! (USA) (Beta 5).nds" size="33554432" crc="c3a46c07" md5="4b4c6a7bc4c3413c224fec74cb626948" sha1="621f6526666cd882359e8046bcb664121fa3b5c7" sha256="d690b4dd27f615cd32b1cb390d5c4a71f8e671eee496b4c1473b7a946112dd90" serial="TCLE"/>
 	</game>
 	<game name="iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced)" id="5339">
+		<category>Games</category>
 		<description>iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced)</description>
-		<rom name="iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced).nds" size="134217728" crc="82e9fe92" md5="dfa762da543ad25329cd108794e41265" sha1="2f428f3861a2518e4e6df1d8fef4cca2469a41f2" serial="VIJV"/>
+		<rom name="iCarly 2 - iJoin the Click! (Europe) (En,De,Es,It) (NDSi Enhanced).nds" size="134217728" crc="82e9fe92" md5="dfa762da543ad25329cd108794e41265" sha1="2f428f3861a2518e4e6df1d8fef4cca2469a41f2" sha256="ba4e56360d5584439c77268930a73474c052e9fd8e4db91719ffecaa211f8c92" serial="VIJV"/>
 	</game>
 	<game name="iCarly 2 - iJoin the Click! (USA) (NDSi Enhanced)" id="5789" cloneofid="5339">
+		<category>Games</category>
 		<description>iCarly 2 - iJoin the Click! (USA) (NDSi Enhanced)</description>
 		<rom name="iCarly 2 - iJoin the Click! (USA) (NDSi Enhanced).nds" size="67108864" crc="ca4eb115" md5="c5b9a2944a71c13975b2f5937d408dcf" sha1="608988b50b2c358749880bb0dd0b0492ec804b87" serial="VIJE"/>
 	</game>
@@ -12465,7 +12535,7 @@
 	<game name="Jewel Master - Cradle of Athena (Europe) (En,Fr,De,Es,It,Nl)" id="5207">
 		<category>Games</category>
 		<description>Jewel Master - Cradle of Athena (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Jewel Master - Cradle of Athena (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="fa65094a" md5="1f32e1db05404100918a89637230e497" sha1="ad5d6d5b5e45d49e7bccb8453e21d3cac992c627" serial="BJ7X"/>
+		<rom name="Jewel Master - Cradle of Athena (Europe) (En,Fr,De,Es,It,Nl).nds" size="8388608" crc="fa65094a" md5="1f32e1db05404100918a89637230e497" sha1="ad5d6d5b5e45d49e7bccb8453e21d3cac992c627" sha256="b5d775d33d1d2c535fb184a06968e01c61f5ab61277553c108d4a1a327172456" status="verified" serial="BJ7X"/>
 	</game>
 	<game name="Jewel Master - Cradle of Athena (USA) (En,Fr,Es)" id="5527" cloneofid="5207">
 		<category>Games</category>
@@ -14524,7 +14594,7 @@
 	</game>
 	<game name="Legend of Kay (Europe) (En,Fr,De,Es,It)" id="4998">
 		<description>Legend of Kay (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Legend of Kay (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="1059a815" md5="7143e11570cec746674aabe8b441e824" sha1="d280fca1de64b043e297240d9440fd4831737435" serial="BKYP"/>
+		<rom name="Legend of Kay (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="1059a815" md5="7143e11570cec746674aabe8b441e824" sha1="d280fca1de64b043e297240d9440fd4831737435" sha256="9fb15bcdfd49f23ad30fa70d16ff3eb8129730ee06eb83a2188dc1c5052f9b3e" serial="BKYP"/>
 	</game>
 	<game name="Legend of Kay (USA) (En,Fr,Es)" id="5064" cloneofid="4998">
 		<description>Legend of Kay (USA) (En,Fr,Es)</description>
@@ -14647,7 +14717,7 @@
 	</game>
 	<game name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)" id="2780">
 		<description>LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)</description>
-		<rom name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da).nds" size="67108864" crc="8b97d00b" md5="1f79cbfe29bc487279d6aa19107855f7" sha1="3016694e531b6cc144d6b98647f05f2a00e0bdab" sha256="d8ace3d1d454ff1fc2b64021c815e5ee3f054ad9b4b1ae15293d861c113442b6" serial="YJBP"/>
+		<rom name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da).nds" size="67108864" crc="8b97d00b" md5="1f79cbfe29bc487279d6aa19107855f7" sha1="3016694e531b6cc144d6b98647f05f2a00e0bdab" sha256="d8ace3d1d454ff1fc2b64021c815e5ee3f054ad9b4b1ae15293d861c113442b6" status="verified" serial="YJBP"/>
 	</game>
 	<game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1)" id="6744" cloneofid="6745">
 		<description>LEGO Batman 2 - DC Super Heroes (Europe) (En,De) (Rev 1)</description>
@@ -15022,6 +15092,7 @@
 		<rom name="Let's Play Fashion Designer (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="aeeade99" md5="d956e2aa3382397a1d3da0ed704ff02f" sha1="e49b27b2126631209e130765515cdca99f5ff595" sha256="f00ab4819a7d714b346c04e19ab8935fbb7cfb96485c3ccd5714295414438191" status="verified" serial="CJSP"/>
 	</game>
 	<game name="Let's Play Firemen (Europe) (En,Fr,De,Es,It)" id="3186">
+		<category>Games</category>
 		<description>Let's Play Firemen (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Let's Play Firemen (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="2138bc70" md5="168512122d63f529abc8895d36ae9556" sha1="0e73ae240892b4bc74e6d1318c1670f84eca865c" sha256="998b7afcf91f26621d9dbb5420aebc82a49233995b9f11cfbb1fb9ab4328d996" status="verified" serial="CHOP"/>
 	</game>
@@ -15581,10 +15652,12 @@
 		<rom name="Lunar - Genesis (Europe).nds" size="33554432" crc="54f63f15" md5="d297ec3bf20851d030531cef53fd1780" sha1="6a3f4d3309fe3863777ab89eebe62b828e0671a8" status="verified" serial="ALUP"/>
 	</game>
 	<game name="Lunar Knights (USA) (En,Es)" id="0847" cloneofid="0963">
+		<category>Games</category>
 		<description>Lunar Knights (USA) (En,Es)</description>
 		<rom name="Lunar Knights (USA) (En,Es).nds" size="134217728" crc="b74eb813" md5="609e9fba74129be31791362b80097343" sha1="d7fbb5ea424992e213a903b6aacacb549c1915e9" serial="ALKE"/>
 	</game>
 	<game name="Lunar Knights (Europe) (En,Fr,De,Es,It)" id="0963">
+		<category>Games</category>
 		<description>Lunar Knights (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Lunar Knights (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="84953087" md5="b84081fcccabf68ea08f8508ae526140" sha1="dabf63c779767f1e699c2f9e93ed88dc83b6ad4b" status="verified" serial="ALKP"/>
 	</game>
@@ -15805,6 +15878,7 @@
 		<rom name="Maeh Jongg DS (Germany).nds" size="8388608" crc="0fd23c4e" md5="22a0b45b6bc0c4833849d807f4506972" sha1="d73e23f2b7b32955f083e27e2960703b572d4436" sha256="1c1867c6d0731a8e97f2e9b0195078df4dacaf7e664760749f334318e8ff310c" serial="C4JD"/>
 	</game>
 	<game name="Maeilmaeil - DS Dunoe Training (Korea)" id="0822" cloneofid="0457">
+		<category>Games</category>
 		<description>Maeilmaeil - DS Dunoe Training (Korea)</description>
 		<rom name="Maeilmaeil - DS Dunoe Training (Korea).nds" size="16777216" crc="9a54ad4f" md5="8ffa99c9301b20170f7890e409fe4599" sha1="cf5357a3927131bf7038f64825ecfa59e72c3632" sha256="4f2b49b5757528d07ea384347ea9f573798e4ca0aa03749529164adfa6b7dab0" status="verified" serial="ANDK"/>
 	</game>
@@ -15863,7 +15937,7 @@
 	</game>
 	<game name="Magical Michael Pang (Europe) (En,Fr,De,Es,It)" id="5235">
 		<description>Magical Michael Pang (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Magical Michael Pang (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="62f28c32" md5="fb8db92623af8140348df6177ae2b581" sha1="77ec9c50983b8320122373125cdab11d166a953e" status="verified" serial="BR5P"/>
+		<rom name="Magical Michael Pang (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="62f28c32" md5="fb8db92623af8140348df6177ae2b581" sha1="77ec9c50983b8320122373125cdab11d166a953e" sha256="51ec70c9a1da7f8d7eb8a92b1bf437b4008fad448c57cf8cfd517343b0f19d98" status="verified" serial="BR5P"/>
 	</game>
 	<game name="Magical Starsign (USA)" id="0614" cloneofid="0845">
 		<description>Magical Starsign (USA)</description>
@@ -17028,7 +17102,7 @@
 	</game>
 	<game name="Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced)" id="3952" cloneofid="3939">
 		<description>Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced)</description>
-		<rom name="Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced).nds" size="134217728" crc="5ca9353d" md5="c415d3301fddddcafcd6cdd1405ad806" sha1="ea316fd9d0f8326a3bcfe6fb46bb2c4f6b72e9b6" serial="VCKD"/>
+		<rom name="Mein Koch-Coach - Gesund und Lecker Kochen (Germany) (NDSi Enhanced).nds" size="134217728" crc="5ca9353d" md5="c415d3301fddddcafcd6cdd1405ad806" sha1="ea316fd9d0f8326a3bcfe6fb46bb2c4f6b72e9b6" sha256="1da9e5bf2fbdbe1c01ebb0e8187c1589950e6d36dd7f9765d574ea6025ca8137" serial="VCKD"/>
 	</game>
 	<game name="Mein Traumjob - Kinderaerztin (Germany)" id="4774">
 		<description>Mein Traumjob - Kinderaerztin (Germany)</description>
@@ -17747,6 +17821,7 @@
 		<rom name="Mogitate Tingle no Barairo Rupee Land (Japan).nds" size="67108864" crc="01b44cba" md5="1935f531d76fbd879d7da8c43feb06eb" sha1="5e83bcdc711dbb3d5b674ccff2b4a1c878ffc6c5" status="verified" serial="ACHJ"/>
 	</game>
 	<game name="Mokjjangiyagi - Colobockle Station (Korea)" id="4187" cloneofid="6455">
+		<category>Games</category>
 		<description>Mokjjangiyagi - Colobockle Station (Korea)</description>
 		<rom name="Mokjjangiyagi - Colobockle Station (Korea).nds" size="33554432" crc="ee53096b" md5="f34db7779bf6a7dc1b1d830c1fb9c52d" sha1="557082b5234aba7ce6e4aa9a34f6c9797425034b" sha256="7d0153b941dbb7d45bdcc09ed2afdc86cde61cc00e253bdd21ba367271476893" serial="ABCK"/>
 	</game>
@@ -17763,6 +17838,7 @@
 		<rom name="Momo Waliou Zhizao (China) (iDS).ids" size="33554432" crc="29e379f3" md5="14a96756cebe139135a1e8c15f5998e9" sha1="53ff5abf025320891963321f89dfde7d03c2c4e0" serial="AZWC"/>
 	</game>
 	<game name="Momo Yaoxi - Yun Zhong Manbu (China) (iDS)" id="x022" cloneofid="0013">
+		<category>Games</category>
 		<description>Momo Yaoxi - Yun Zhong Manbu (China) (iDS)</description>
 		<rom name="Momo Yaoxi - Yun Zhong Manbu (China) (iDS).ids" size="16777216" crc="b9f7e087" md5="6e8ad5f94d2943eaddd1462c141b7ad8" sha1="0a42b24ebf8fbfdf9e0f68734828c15685c80447" serial="AYIC"/>
 	</game>
@@ -20048,6 +20124,7 @@
 		<rom name="Noddy in Toyland (Europe) (En,Fr).nds" size="8388608" crc="372086fd" md5="92fd65a0b303c4faa4fe3dc78b4c4bc5" sha1="adc4a01c10f9f9acd62c989e87449fe2e7d1aa69" serial="B2ZX"/>
 	</game>
 	<game name="Nolleooseyo Dongmurui Sup (Korea)" id="1775" cloneofid="0389">
+		<category>Games</category>
 		<description>Nolleooseyo Dongmurui Sup (Korea)</description>
 		<rom name="Nolleooseyo Dongmurui Sup (Korea).nds" size="33554432" crc="e1fac0da" md5="65ed817f2ba6aacfc713343e8b7162f6" sha1="1fffd601d3439e37cd934e72d08e487a93fc449b" sha256="3b46edb190102a30b05c66b63985254f2e55475204bb0ad4513a382b44766db1" status="verified" serial="ADMK"/>
 	</game>
@@ -20215,10 +20292,12 @@
 		<rom name="Oide yo Doubutsu no Mori (Japan) (Rev 1) (Wii U Virtual Console).nds" size="33554432" crc="38be9b9d" md5="72b706293d49a6c2ff678c02da00a296" sha1="30e9ab23d09e48fce5879eb8c7444072fc3f5523" serial="WUP-N-DAYJ"/>
 	</game>
 	<game name="Oide yo Doubutsu no Mori (Japan)" id="0193" cloneofid="0389">
+		<category>Games</category>
 		<description>Oide yo Doubutsu no Mori (Japan)</description>
 		<rom name="Oide yo Doubutsu no Mori (Japan).nds" size="33554432" crc="76e797d8" md5="86d62d7f11abab835f8450a7efb048b6" sha1="343335ca958158b0e55d594832a1eeb977a953cf" sha256="83c2617ce596ffee490efd701858179d850487350fa72cd21e9b17981f1972d6" status="verified" serial="ADMJ"/>
 	</game>
 	<game name="Oide yo Doubutsu no Mori (Japan) (Rev 1)" id="0989" cloneofid="0389">
+		<category>Games</category>
 		<description>Oide yo Doubutsu no Mori (Japan) (Rev 1)</description>
 		<rom name="Oide yo Doubutsu no Mori (Japan) (Rev 1).nds" size="33554432" crc="bc111d12" md5="b842b9a69c5148562e6432351b427988" sha1="db88f7949926994640763591e09e8f2b42b8ade2" sha256="ada2e46e74e060e30ed43eadfecec1bd394463142fd418802def74998ebef332" status="verified" serial="ADMJ"/>
 	</game>
@@ -21076,10 +21155,12 @@
 		<rom name="Petz - Hamsterz Superstars (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="4ded1d79" md5="9b21a02a1b3373b51c1e3680bea8e771" sha1="2c75e6b61f39be337b07f9bf591689e35c64e264" serial="BHZE"/>
 	</game>
 	<game name="Petz - Horseshoe Ranch (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3367" cloneofid="3536">
+		<category>Games</category>
 		<description>Petz - Horseshoe Ranch (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
 		<rom name="Petz - Horseshoe Ranch (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="d2ac5fb8" md5="57a2599564d2306fd1b31a1724605c14" sha1="6061ba40ad16b18fa49085a1c466416891beab3a" serial="CP8E"/>
 	</game>
 	<game name="Petz - Horsez - Kouma to Issho ni Tanoshiku Asobou (Japan)" id="4556" cloneofid="3536">
+		<category>Games</category>
 		<description>Petz - Horsez - Kouma to Issho ni Tanoshiku Asobou (Japan)</description>
 		<rom name="Petz - Horsez - Kouma to Issho ni Tanoshiku Asobou (Japan).nds" size="33554432" crc="499a3555" md5="01c78f0dc073efa041e27fba9ef7044b" sha1="220f6d856cb961dcd741a9f7e405cc77f37ce922" serial="CP8J"/>
 	</game>
@@ -21104,8 +21185,9 @@
 		<rom name="Petz - My Baby Panda (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="67108864" crc="bdb99285" md5="41f326920fa6a01b5a294578ec37523e" sha1="f39fcba346cd51a245ad3d648a6af8e121e3001d" sha256="24f49eed59ec35fe8f315554dd7872588ee1531365cd0e22504f8a8cc0a2acb3" status="verified" serial="YU6P"/>
 	</game>
 	<game name="Petz - My Horse Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3536">
+		<category>Games</category>
 		<description>Petz - My Horse Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
-		<rom name="Petz - My Horse Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="90de7ef3" md5="7990fba5d18ed8da8146db9c08b04622" sha1="3a9c597a2f623001daf2875cbe762880ea720eb0" serial="CP8P"/>
+		<rom name="Petz - My Horse Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).nds" size="33554432" crc="90de7ef3" md5="7990fba5d18ed8da8146db9c08b04622" sha1="3a9c597a2f623001daf2875cbe762880ea720eb0" sha256="14404020db84d285292c51df8e5c0ce8f5b02dabf959a890e237cd0b7dcdee84" status="verified" serial="CP8P"/>
 	</game>
 	<game name="Petz - My Kitten Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3416">
 		<description>Petz - My Kitten Family (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -22408,7 +22490,7 @@
 	</game>
 	<game name="Popstars (Germany) (NDSi Enhanced)" id="5242">
 		<description>Popstars (Germany) (NDSi Enhanced)</description>
-		<rom name="Popstars (Germany) (NDSi Enhanced).nds" size="33554432" crc="835b9220" md5="44a3c3113c39d7cf48193b49db7d1b89" sha1="4a093236c0cab4dc178cf665ca080d027982aa48" serial="VPOD"/>
+		<rom name="Popstars (Germany) (NDSi Enhanced).nds" size="33554432" crc="835b9220" md5="44a3c3113c39d7cf48193b49db7d1b89" sha1="4a093236c0cab4dc178cf665ca080d027982aa48" sha256="ba578f6031c71b1b53d7f0d92b1189955b155716203c0ee4c4f500f125db19b5" serial="VPOD"/>
 	</game>
 	<game name="Poptropica Adventures (USA) (En,Fr)" id="6128" cloneofid="6608">
 		<description>Poptropica Adventures (USA) (En,Fr)</description>
@@ -23072,10 +23154,12 @@
 		<rom name="Pururun! Shizuku-chan Aha - DS Drill Kokugo (Japan).nds" size="33554432" crc="02994104" md5="c4c76037bbb23d23c5bf33f49ea72c83" sha1="03e8cbc69eb6c9c22247a3136c939ddedb1a0993" serial="CZ5J"/>
 	</game>
 	<game name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan)" id="3173" cloneofid="z359">
+		<category>Games</category>
 		<description>Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan)</description>
 		<rom name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan).nds" size="33554432" crc="89ace37b" md5="01b680fa2de48cffb80fc7e6fb1ee78f" sha1="78cca1ea2e13ec52685818a5e053bccbb937fdf0" serial="CZ3J"/>
 	</game>
 	<game name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1)" id="z359">
+		<category>Games</category>
 		<description>Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1)</description>
 		<rom name="Pururun! Shizuku-chan Aha - DS Drill Sansuu (Japan) (Rev 1).nds" size="33554432" crc="42e9d3da" md5="20129e42e18f1efd85b26b985443b698" sha1="e38f6e909acaeb1df7db14e98ed57c27416ee546" sha256="d2992497a3229435b44ac329ef02db1c4fddc72e2dde9bf20463991feb6f9b00" serial="CZ3J"/>
 	</game>
@@ -26297,7 +26381,7 @@
 	</game>
 	<game name="Spielend Mathe Lernen (Germany)" id="5797">
 		<description>Spielend Mathe Lernen (Germany)</description>
-		<rom name="Spielend Mathe Lernen (Germany).nds" size="16777216" crc="2f9a2bc4" md5="f8f5c07770dfec46b3f66edb27b801b6" sha1="0481bec85511e92fdf4c3016d7d075a2efcc295f" serial="BSED"/>
+		<rom name="Spielend Mathe Lernen (Germany).nds" size="16777216" crc="2f9a2bc4" md5="f8f5c07770dfec46b3f66edb27b801b6" sha1="0481bec85511e92fdf4c3016d7d075a2efcc295f" sha256="2e06ee57418d85912a4f3b698c590689cf81c07693d06a7adc3baf902f83ceac" serial="BSED"/>
 	</game>
 	<game name="Spitfire Heroes - Tales of the Royal Air Force (USA)" id="2229">
 		<description>Spitfire Heroes - Tales of the Royal Air Force (USA)</description>
@@ -27235,6 +27319,7 @@
 		<rom name="Supervivientes (Spain).nds" size="16777216" crc="1727624e" md5="578c1a1372ebe850b8c446c97a7b41fc" sha1="565609120477ccf284c2ed96fe20513866a408dc" serial="C5VS"/>
 	</game>
 	<game name="Surf's Up (USA) (En,Fr,Es) (Rev 1)" id="6558" cloneofid="1418">
+		<category>Games</category>
 		<description>Surf's Up (USA) (En,Fr,Es) (Rev 1)</description>
 		<rom name="Surf's Up (USA) (En,Fr,Es) (Rev 1).nds" size="33554432" crc="9f88388e" md5="57eb0301b81d81ec98f5c461702282b5" sha1="4c540d394c62f283299c68140dd4795ce0ca97de" serial="AXUE"/>
 	</game>
@@ -27243,10 +27328,12 @@
 		<rom name="Surf's Up (USA) (En,Fr,Es).nds" size="33554432" crc="f46529d4" md5="6e7566d4223eb6b036691c25a6cb9f4d" sha1="ba12aa0018d515dd3336f6350a740d03cca975c3" serial="AXUE"/>
 	</game>
 	<game name="Surf's Up (Europe) (En,Fr,Es)" id="1277" cloneofid="1418">
+		<category>Games</category>
 		<description>Surf's Up (Europe) (En,Fr,Es)</description>
 		<rom name="Surf's Up (Europe) (En,Fr,Es).nds" size="33554432" crc="6d45d4a7" md5="fc30fbb5adaba1f594b95df39a24b1d6" sha1="cc1f13002fb7517bdeeea7d77e4561cb6e59f130" sha256="e229c65903f7b7d908ba55952c2d3319069edc9dea248db7fcc1b91e0368a3d3" status="verified" serial="AXUP"/>
 	</game>
 	<game name="Surf's Up (Europe) (En,Fr,De,Es,It)" id="1418">
+		<category>Games</category>
 		<description>Surf's Up (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Surf's Up (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="fb4f67fb" md5="b96db8626bf1c867c7aba7da051259c2" sha1="8be693ba0db3bf2a613c0bfaabca03afc769397a" sha256="108be9c7cd68fc2b8f099affa1b2c43a251e9a88d10639731a1fd15d0aea2126" status="verified" serial="AXUX"/>
 	</game>
@@ -27275,10 +27362,12 @@
 		<rom name="Survivor (USA).nds" size="16777216" crc="2a840d3d" md5="0f8444583d6c07740a617024888abd00" sha1="415c7a52c8507df143e73e0a9863d659e99aab9d" serial="YL8E"/>
 	</game>
 	<game name="Sushi Academy (Europe) (En,Fr,De,Es,It)" id="3084">
+		<category>Games</category>
 		<description>Sushi Academy (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Sushi Academy (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="4a498352" md5="f9c9a243d45e401f37b2441a9064cd5a" sha1="79918e35cc4b371746839adf3d20b6d269649f6b" serial="CSDP"/>
+		<rom name="Sushi Academy (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="4a498352" md5="f9c9a243d45e401f37b2441a9064cd5a" sha1="79918e35cc4b371746839adf3d20b6d269649f6b" sha256="8fc88cca2de71f6c32b94219954a033e1cc1d4e7413b8ee4681caa244a33a3f6" status="verified" serial="CSDP"/>
 	</game>
 	<game name="Sushi Academy (USA) (En,Fr,Es)" id="4656" cloneofid="3084">
+		<category>Games</category>
 		<description>Sushi Academy (USA) (En,Fr,Es)</description>
 		<rom name="Sushi Academy (USA) (En,Fr,Es).nds" size="16777216" crc="df4a1520" md5="d350fecfa3a185453d65265abd26402f" sha1="acc703cb8b9957a84d86229a23c2e2fc1edb1119" serial="CSDE"/>
 	</game>
@@ -28939,6 +29028,7 @@
 		<rom name="Touch! Bomberman Land (Japan).nds" size="33554432" crc="3d2056ef" md5="9027de15b58207c814470fa388090b1c" sha1="0d30bdcc8231bf4e0dae117e0f3f7923a4795705" serial="ABXJ"/>
 	</game>
 	<game name="Touch! Bomberman Land - Star Bomber no Miracle World (Japan)" id="1241" cloneofid="2121">
+		<category>Games</category>
 		<description>Touch! Bomberman Land - Star Bomber no Miracle World (Japan)</description>
 		<rom name="Touch! Bomberman Land - Star Bomber no Miracle World (Japan).nds" size="33554432" crc="fcb7875f" md5="431a347f2b91cbe2f9dec30b7758d4da" sha1="b9202894f6850b4fa82f7c61595268b89227953a" serial="YB2J"/>
 	</game>
@@ -29019,6 +29109,7 @@
 		<rom name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training (Japan).nds" size="33554432" crc="1eed6a32" md5="8ae36b5099a88c4422b8679fe391b148" sha1="660bdcf84ae126640b344439854d6ee345b2a607" sha256="60b3eaf2ef5cf6a36548e6df69a2d9d101ea12d0c6645caddab61168d8fc6a0d" status="verified" serial="ANMJ"/>
 	</game>
 	<game name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)" id="0067" cloneofid="0457">
+		<category>Games</category>
 		<description>Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)</description>
 		<rom name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan).nds" size="16777216" crc="6cf8dd39" md5="338f6427262409fddf806449ca57277a" sha1="fd557344b628030532d5f18c8aea811c4b917541" sha256="b056c1c5938e43b73ea0ca3944a143e2bfd1079ebf03e886220d8aae00206118" status="verified" serial="ANDJ"/>
 	</game>
@@ -29372,10 +29463,12 @@
 		<rom name="Trash Pack, The (Europe).nds" size="33554432" crc="f944b0f9" md5="43558898c46fb7431fe660f4b22adee0" sha1="9ae45ec4733d1982b7f95b221e29939f7c6dee15" serial="TPAP"/>
 	</game>
 	<game name="Trauma Center - Under the Knife (USA)" id="0122" cloneofid="0428">
+		<category>Games</category>
 		<description>Trauma Center - Under the Knife (USA)</description>
 		<rom name="Trauma Center - Under the Knife (USA).nds" size="16777216" crc="0622460a" md5="a60071bc7adc9bab2d64f454e49e118f" sha1="db9ae5a10471fd001dcec2b4d7303b40fc876c57" serial="AKDE"/>
 	</game>
 	<game name="Trauma Center - Under the Knife (Europe) (En,Fr,De,Es,It)" id="0428">
+		<category>Games</category>
 		<description>Trauma Center - Under the Knife (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Trauma Center - Under the Knife (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="8d818387" md5="8dad688cd785b93374f36cfc940b672e" sha1="9572fc4727f8ed6c65900c11e6d9b3f67243bfc5" sha256="2562845e0da2465519aeba8b3e3f029c7471bd5c8d82dd704abc12aa7609e2ce" status="verified" serial="AKDP"/>
 	</game>
@@ -30255,12 +30348,14 @@
 		<rom name="Whac-A-Mole (USA).nds" size="8388608" crc="27bb686d" md5="4f94f1ba4b6b708baa8fc6de57352c7d" sha1="31d66a5bcdf344bca610dabd1ae29767639c9498" serial="AWME"/>
 	</game>
 	<game name="What's Cooking - Jamie Oliver (USA) (En,Fr,Es)" id="2819" cloneofid="2862">
+		<category>Games</category>
 		<description>What's Cooking - Jamie Oliver (USA) (En,Fr,Es)</description>
 		<rom name="What's Cooking - Jamie Oliver (USA) (En,Fr,Es).nds" size="16777216" crc="6705cf4e" md5="04f4a8ae5a6ddcc7e481e83d5f5bdb86" sha1="cb4591a4735a67a5cfd5a8fb4bb3c8fa37660720" serial="YCVE"/>
 	</game>
 	<game name="What's Cooking - Jamie Oliver (Europe) (En,Fr,De,Es,It)" id="2862">
+		<category>Games</category>
 		<description>What's Cooking - Jamie Oliver (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="What's Cooking - Jamie Oliver (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="34458fcd" md5="bb385a5dec5734ff32d8c76027b3f632" sha1="1fdd5f9c4ba3442919f52a45b7d2303165ca6c61" serial="YCVP"/>
+		<rom name="What's Cooking - Jamie Oliver (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="34458fcd" md5="bb385a5dec5734ff32d8c76027b3f632" sha1="1fdd5f9c4ba3442919f52a45b7d2303165ca6c61" sha256="129c0b23cd3172941c207401c46de53842f4a679cd5edf9a2f7bde2aeed7b244" status="verified" serial="YCVP"/>
 	</game>
 	<game name="Wheel of Fortune (USA)" id="5430">
 		<description>Wheel of Fortune (USA)</description>
@@ -30311,6 +30406,7 @@
 		<rom name="Wi-Fi Taiou - Morita Shougi DS (Japan).nds" size="33554432" crc="d6280c96" md5="540627400021aa00563221d9e5da1cb7" sha1="37d706f134329d9bf9c1c2f4dd7f4b1411d77d4a" serial="A4UJ"/>
 	</game>
 	<game name="Wi-Fi Taiou - Sekai no Daredemo Asobi Taizen (Japan)" id="1007" cloneofid="3245">
+		<category>Games</category>
 		<description>Wi-Fi Taiou - Sekai no Daredemo Asobi Taizen (Japan)</description>
 		<rom name="Wi-Fi Taiou - Sekai no Daredemo Asobi Taizen (Japan).nds" size="16777216" crc="5e7c3501" md5="0c2148f1134375af8097848813a75175" sha1="ef1fb99a17107cf371603401b41208b7bab6574f" serial="ATDJ"/>
 	</game>
@@ -31051,10 +31147,12 @@
 		<rom name="Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console).nds" size="16777216" crc="360be52c" md5="8baf8e870d93c67bcdfef4331b3d3582" sha1="09360eaeb5c2faf1752c263bc9d00c51dd7e0f6f" serial="WUP-N-DABP"/>
 	</game>
 	<game name="Yoshi Touch &amp; Go (USA, Australia)" id="0003" cloneofid="0013">
+		<category>Games</category>
 		<description>Yoshi Touch &amp; Go (USA, Australia)</description>
 		<rom name="Yoshi Touch &amp; Go (USA, Australia).nds" size="16777216" crc="03d56334" md5="c8065c4b4a21337c2928a14973218d26" sha1="203e222326b8eb788c24c4a8a1805845d0fe99f5" status="verified" serial="AYIE"/>
 	</game>
 	<game name="Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It)" id="0013">
+		<category>Games</category>
 		<description>Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="1d829d6f" md5="99d550900ed349d2084723a65b1a67b2" sha1="9c0db52b0c70c3e159da161be9ecc216d2642953" sha256="a5b5516c861b6cb67ce0cd7f81f902e495c9109dbfe92d31f10683feb3cbf177" status="verified" serial="AYIP"/>
 	</game>
@@ -31145,8 +31243,9 @@
 		<rom name="Youda Legend - The Golden Bird of Paradise (Europe) (En,Fr,De) (NDSi Enhanced).nds" size="67108864" crc="a0066c47" md5="810228a21e228a9413fe0ff9ca718ec1" sha1="5259504cd1701c31020ba86e94347928b24707cd" sha256="b620a73a2cdb35303f8f362d56c639772eedee48e62bdd783bb414df4956d37b" serial="VYLP"/>
 	</game>
 	<game name="Youda Safari (Europe) (En,Fr,De)" id="6067">
+		<category>Games</category>
 		<description>Youda Safari (Europe) (En,Fr,De)</description>
-		<rom name="Youda Safari (Europe) (En,Fr,De).nds" size="8388608" crc="004d4dd9" md5="43a71bc729bbcdcf009991b103e2b5e7" sha1="5d529ff7dcf65a5b6abc82a9fb9e55007d21044d" serial="BYUP"/>
+		<rom name="Youda Safari (Europe) (En,Fr,De).nds" size="8388608" crc="004d4dd9" md5="43a71bc729bbcdcf009991b103e2b5e7" sha1="5d529ff7dcf65a5b6abc82a9fb9e55007d21044d" sha256="c0607b3aaba74e87156c6f38d01c38b2c2ae89b4475eac7ffcf0fab84a56dfad" serial="BYUP"/>
 	</game>
 	<game name="Yozemi no Center Shoujun Series - Eigo Hen (Japan)" id="3455">
 		<description>Yozemi no Center Shoujun Series - Eigo Hen (Japan)</description>

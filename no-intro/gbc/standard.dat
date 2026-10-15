@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261014-002320</version>
+		<version>20261014-091804</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -336,6 +336,10 @@
 	<game name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)" id="2688">
 		<description>AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl)</description>
 		<rom name="AJXI - Cosmic Climb (World) (v1.0.7) (Aftermarket) (Unl).gbc" size="524288" crc="f71042b8" md5="df0d1dba0a83f8d65e3bb7e6720ef8eb" sha1="c3f0296535e11fd6fb581c976e2cb98b0f15506b" sha256="a6e0ee1a797c73c3f127fb04134fc419a28340b1b142779f243a84a7ad89de1c"/>
+	</game>
+	<game name="Akumanor Gaiden DX (World) (Aftermarket) (Unl)" id="3016">
+		<description>Akumanor Gaiden DX (World) (Aftermarket) (Unl)</description>
+		<rom name="Akumanor Gaiden DX (World) (Aftermarket) (Unl).gbc" size="1048576" crc="66f59440" md5="396e507b1870779bd3c2aa7bd6f0132a" sha1="78331e3a6d3757eefb7696958ce854779878279e" sha256="efa5f389cc350261834420fc130a0da2bee95611b937592c1df7802722c28421"/>
 	</game>
 	<game name="Aladdin (Europe) (En,Fr,De,Es,It,Nl)" id="0019">
 		<description>Aladdin (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -2944,6 +2948,10 @@
 		<description>Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Fallen Crown, The (World) (v0.60) (Demo) (Aftermarket) (Unl).gbc" size="4194304" crc="ab96806a" md5="b90fae25ad1dbc7599758c1744287267" sha1="7c86eefe37b82d422327651b8761c1f8b0ca327d" sha256="e2c9d3a7ce8b43d1dc289fd35e8b9810483d3d50d071a3b066a91a7fcf445dd5"/>
 	</game>
+	<game name="Fear &amp; Hunger (World) (Aftermarket) (Unl)" id="3017">
+		<description>Fear &amp; Hunger (World) (Aftermarket) (Unl)</description>
+		<rom name="Fear &amp; Hunger (World) (Aftermarket) (Unl).gbc" size="524288" crc="656b42fe" md5="bbad259d61cfd1fee30578b6214d7891" sha1="735c786cbf8f60b51188527286b94ea31229e29e" sha256="9c88282279510f1cfc8b31c209e5bf7abf8521ea34e12e555623510f26d94cd9"/>
+	</game>
 	<game name="Featherless Cake Delivery (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)" id="2288">
 		<category>Games</category>
 		<description>Featherless Cake Delivery (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)</description>
@@ -5477,6 +5485,10 @@
 		<category>Games</category>
 		<description>Love is Dead (World) (Proto) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Love is Dead (World) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" crc="dd537a3b" md5="0c20aaf67ec47d173d7442370cc24237" sha1="f3e44fea9faed10c0aebaf11dd2f7821076a7315" sha256="be40040fd23efee62cb78d1346bfea28ead335b40833019140eed91a17cd316f"/>
+	</game>
+	<game name="Loveless Losers (World) (Aftermarket) (Unl)" id="3018">
+		<description>Loveless Losers (World) (Aftermarket) (Unl)</description>
+		<rom name="Loveless Losers (World) (Aftermarket) (Unl).gbc" size="1048576" crc="7db0a6ef" md5="75678f36af1d1678ee0c3e92ed9032e6" sha1="846593b915dc7961805b5f5cdabdba95d57bc047" sha256="2a9f4aa033f62bd069420a7448fe2ecca52c58199c901068dffcaa33131609ef"/>
 	</game>
 	<game name="Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)" id="0653">
 		<description>Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)</description>
@@ -11338,6 +11350,10 @@
 	<game name="Yuenan Zhanyi X - Shenru Dihou (Taiwan) (Unl)" id="1793">
 		<description>Yuenan Zhanyi X - Shenru Dihou (Taiwan) (Unl)</description>
 		<rom name="Yuenan Zhanyi X - Shenru Dihou (Taiwan) (Unl).gbc" size="2097152" crc="602951a6" md5="ba516f1573bd24659e6a73cfbd5da789" sha1="6703e9f68b989c976e93bd2eb63f884ceaff63f1" sha256="d8c83088f39895c68bc4bb97b93d819ec7932f7fc785c1384b5618ef57c8aba0"/>
+	</game>
+	<game name="Yume Tenshi (World) (v7.4.3) (Demo) (Aftermarket) (Unl)" id="3019">
+		<description>Yume Tenshi (World) (v7.4.3) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Yume Tenshi (World) (v7.4.3) (Demo) (Aftermarket) (Unl).gbc" size="4194304" crc="521109d4" md5="ec2544c37e506602eeacceaa2f7c843c" sha1="18e24d86c99b04224cdc0fa3c2ff8225eb72cbe4" sha256="c98a1af52d1476ff554b673faeebc8d18af44b4eae0ffa80b8fe52c2fc019e67"/>
 	</game>
 	<game name="Yurivania - Uhaul of the Night (World) (v1.5) (GB Compatible) (Aftermarket) (Unl)" id="2516">
 		<category>Games</category>

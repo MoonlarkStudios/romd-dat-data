@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3709) (2026-10-14 07-56-35)</description>
-		<version>2026-10-14 07-56-35</version>
-		<date>2026-10-14 07-56-35</date>
+		<description>Microsoft - Xbox 360 - Datfile (3709) (2026-10-15 09-19-27)</description>
+		<version>2026-10-15 09-19-27</version>
+		<date>2026-10-15 09-19-27</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1213,11 +1213,11 @@
 		<description>Batman: Arkham Asylum (World) (En,Fr,De,Es,It)</description>
 		<rom name="Batman - Arkham Asylum (World) (En,Fr,De,Es,It).iso" size="7838695424" crc="8433b6d9" md5="820c8bb14dbc7f4c6dc7f4b190c9e96c" sha1="8d4bd1c8bdba61077d18fb0648d8971b4fb380d1"/>
 	</game>
-	<game name="Batman - Arkham Asylum - Game of the Year Edition (Europe) (En,Fr,De,Es,It)" id="68344">
+	<game name="Batman - Arkham Asylum - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It)" id="68344">
 		<category>Games</category>
 		<serial>SC-2059</serial>
-		<description>Batman: Arkham Asylum: Game of the Year Edition (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Batman - Arkham Asylum - Game of the Year Edition (Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="5aa2020f" md5="848ea46cbee44ab0735a0f9e21f5ec36" sha1="59325b2b1ce9e45de48ac05117557549ac85ef60"/>
+		<description>Batman: Arkham Asylum: Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Batman - Arkham Asylum - Game of the Year Edition (Europe, Australia) (En,Fr,De,Es,It).iso" size="7838695424" crc="5aa2020f" md5="848ea46cbee44ab0735a0f9e21f5ec36" sha1="59325b2b1ce9e45de48ac05117557549ac85ef60"/>
 	</game>
 	<game name="Batman - Arkham Asylum - Game of the Year Edition (USA) (En,Fr,De,Es,It)" id="50243">
 		<category>Games</category>
