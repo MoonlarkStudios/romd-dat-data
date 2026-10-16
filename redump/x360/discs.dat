@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3709) (2026-10-15 09-19-27)</description>
-		<version>2026-10-15 09-19-27</version>
-		<date>2026-10-15 09-19-27</date>
+		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-15 23-44-49)</description>
+		<version>2026-10-15 23-44-49</version>
+		<date>2026-10-15 23-44-49</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -3113,11 +3113,11 @@
 		<description>Call of Duty 4: Modern Warfare (Spain)</description>
 		<rom name="Call of Duty 4 - Modern Warfare (Spain).iso" size="7835492352" crc="b900baff" md5="6cd92797424aae23bf9deca042a492b0" sha1="ad29829743796e02fefb947213d4f24b97639446"/>
 	</game>
-	<game name="Call of Duty 4 - Modern Warfare (World)" id="12660">
+	<game name="Call of Duty 4 - Modern Warfare (USA, Europe)" id="12660">
 		<category>Games</category>
 		<serial>AV-2022</serial>
-		<description>Call of Duty 4: Modern Warfare (World)</description>
-		<rom name="Call of Duty 4 - Modern Warfare (World).iso" size="7835492352" crc="47abcac5" md5="bf38caa830bf26e842451a24c910237b" sha1="d4100bf318fc667bba8b8dfe90d1e07550e4790a"/>
+		<description>Call of Duty 4: Modern Warfare (USA, Europe)</description>
+		<rom name="Call of Duty 4 - Modern Warfare (USA, Europe).iso" size="7835492352" crc="47abcac5" md5="bf38caa830bf26e842451a24c910237b" sha1="d4100bf318fc667bba8b8dfe90d1e07550e4790a"/>
 	</game>
 	<game name="Call of Juarez (Germany)" id="130835">
 		<category>Games</category>
@@ -6451,6 +6451,12 @@
 		<description>Elder Scrolls IV, The: Shivering Isles (USA)</description>
 		<rom name="Elder Scrolls IV, The - Shivering Isles (USA).iso" size="7835492352" crc="000f6250" md5="a6a1ed4e0149e9680038983009ebf130" sha1="d2fe78abf614498f4454c403fb6699c97fabfd5f"/>
 	</game>
+	<game name="Elder Scrolls V, The - Skyrim (Asia)" id="139414">
+		<category>Games</category>
+		<serial>BS-2022</serial>
+		<description>Elder Scrolls V, The: Skyrim (Asia)</description>
+		<rom name="Elder Scrolls V, The - Skyrim (Asia).iso" size="8738846720" crc="fa1b1e28" md5="56c458ea5a475f986d4eed94e576cee0" sha1="a10d2287222e29ffef8f14ef9efb1d9ec81b1f8e"/>
+	</game>
 	<game name="Elder Scrolls V, The - Skyrim (France, Canada)" id="123734">
 		<category>Games</category>
 		<serial>BS-2022</serial>
@@ -8715,17 +8721,17 @@
 		<description>Forza Motorsport 3 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)</description>
 		<rom name="Forza Motorsport 3 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc).iso" size="7838695424" crc="49a6ead1" md5="b08fee3013c7e57ce26768bfb1597d07" sha1="de814438513d3a7eaa65913edfdad7b4144acbef"/>
 	</game>
-	<game name="Forza Motorsport 3 - Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)" id="23451">
+	<game name="Forza Motorsport 3 - Ultimate Collection (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)" id="23451">
 		<category>Games</category>
 		<serial>MS-2125</serial>
-		<description>Forza Motorsport 3: Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)</description>
-		<rom name="Forza Motorsport 3 - Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc).iso" size="7838695424" crc="48bd8b32" md5="a0538702c6901b7a0b201fdb3d783603" sha1="2ae5d63208eb6632bb253c77783ec06e3f62ed22"/>
+		<description>Forza Motorsport 3: Ultimate Collection (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)</description>
+		<rom name="Forza Motorsport 3 - Ultimate Collection (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc).iso" size="7838695424" crc="48bd8b32" md5="a0538702c6901b7a0b201fdb3d783603" sha1="2ae5d63208eb6632bb253c77783ec06e3f62ed22"/>
 	</game>
-	<game name="Forza Motorsport 3 - Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)" id="23452">
+	<game name="Forza Motorsport 3 - Ultimate Collection (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)" id="23452">
 		<category>Games</category>
 		<serial>MS-2125</serial>
-		<description>Forza Motorsport 3: Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)</description>
-		<rom name="Forza Motorsport 3 - Ultimate Collection (Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc).iso" size="7838695424" crc="7e66ce99" md5="8d0fb42abe3106a05ff516f066621434" sha1="d739f3ad35b167a9091c2a798b901458476a3ca4"/>
+		<description>Forza Motorsport 3: Ultimate Collection (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc)</description>
+		<rom name="Forza Motorsport 3 - Ultimate Collection (Europe, Australia) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 2) (Content Install Disc).iso" size="7838695424" crc="7e66ce99" md5="8d0fb42abe3106a05ff516f066621434" sha1="d739f3ad35b167a9091c2a798b901458476a3ca4"/>
 	</game>
 	<game name="Forza Motorsport 3 - Ultimate Collection (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu) (Disc 1) (Play Disc)" id="62253">
 		<category>Games</category>
@@ -12291,6 +12297,12 @@
 		<description>Mass Effect (USA) (En,Fr,De,Es,It,Pl) (Bonus Content Disc) (Pre-Order Bonus)</description>
 		<rom name="Mass Effect (USA) (En,Fr,De,Es,It,Pl) (Bonus Content Disc) (Pre-Order Bonus).iso" size="7835492352" crc="4cf47708" md5="5db3b2693efafff291a59235c7e8a068" sha1="4bd6a41da7e0bb89fcb94e77df713fbae6a5861f"/>
 	</game>
+	<game name="Mass Effect (USA, Europe) (En,Es,Pl)" id="11416">
+		<category>Games</category>
+		<serial>MS-2024</serial>
+		<description>Mass Effect (USA, Europe) (En,Es,Pl)</description>
+		<rom name="Mass Effect (USA, Europe) (En,Es,Pl).iso" size="7835492352" crc="2247165b" md5="2cdc1805a6ad153d4802c91abb9ea656" sha1="3837b435a969455b7fbf015a9c2c3b1a5dbf9223"/>
+	</game>
 	<game name="Mass Effect (USA, Europe) (En,Es,Pl) (Rev 1)" id="38463">
 		<category>Games</category>
 		<serial>MS-2024</serial>
@@ -12309,12 +12321,6 @@
 		<serial>MS-2087</serial>
 		<description>Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pl) (Bonus Content Disc) (Limited Collector's Edition)</description>
 		<rom name="Mass Effect (USA, Europe) (En,Fr,De,Es,It,Pl) (Bonus Content Disc) (Limited Collector's Edition).iso" size="7835492352" crc="8931cce4" md5="09e5b312734346630268f093d4d5178b" sha1="e8246ce7d68e9f2be94c34e6c8e84dbd415e5e59"/>
-	</game>
-	<game name="Mass Effect (World) (En,Es,Pl)" id="11416">
-		<category>Games</category>
-		<serial>MS-2024</serial>
-		<description>Mass Effect (World) (En,Es,Pl)</description>
-		<rom name="Mass Effect (World) (En,Es,Pl).iso" size="7835492352" crc="2247165b" md5="2cdc1805a6ad153d4802c91abb9ea656" sha1="3837b435a969455b7fbf015a9c2c3b1a5dbf9223"/>
 	</game>
 	<game name="Mass Effect 2 (Canada) (Disque 1)" id="67846">
 		<category>Games</category>
