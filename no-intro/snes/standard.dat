@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20261013-100741</version>
+		<version>20261016-085514</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -22312,6 +22312,26 @@
 		<category>Games</category>
 		<description>Top Racer Crossroads (World) (v1.1) (QUByte Classics)</description>
 		<rom name="Top Racer Crossroads (World) (v1.1) (QUByte Classics).sfc" size="524288" crc="cabd55e6" md5="aad80d7cc6e801fe957e6c7cca441f49" sha1="7e742f3de39ef83ee33ccbc763ed6753d6e3ec23" sha256="a1a2c42da4b90a6977bf1c212f51fb7c1a114100e2c4045a36899e117f80790d"/>
+	</game>
+	<game name="Toy Story (USA) (Toy Story Retro Roundup!)" id="4611" cloneofid="3116">
+		<category>Games</category>
+		<description>Toy Story (USA) (Toy Story Retro Roundup!)</description>
+		<rom name="Toy Story (USA) (Toy Story Retro Roundup!).sfc" size="4194304" crc="f0c8007b" md5="57669e0551dbef2d3de11d166f00cde9" sha1="bb199c391df548893d19a6a5e25aa40cdb9205db" sha256="16fe7d5868fed3a77b7b506351bd251e1393b6cf45308bad34a8e8b357887d1d" status="verified"/>
+	</game>
+	<game name="Toy Story (Europe) (En,Fr,De) (Toy Story Retro Roundup!)" id="4612" cloneofid="3116">
+		<category>Games</category>
+		<description>Toy Story (Europe) (En,Fr,De) (Toy Story Retro Roundup!)</description>
+		<rom name="Toy Story (Europe) (En,Fr,De) (Toy Story Retro Roundup!).sfc" size="4194304" crc="477176b2" md5="7868b580fa19f11ee9d1a73b2414950a" sha1="51afe2130bb241f36f0540dbc693abd25af62ff6" sha256="ecb2b6365ff155821f900f361dc7ec12fe3772662c9f0996dffc7332e2123839" status="verified"/>
+	</game>
+	<game name="Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition)" id="4613" cloneofid="3116">
+		<category>Games</category>
+		<description>Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition)</description>
+		<rom name="Toy Story (USA) (En,Fr,De) (Toy Story Retro Roundup!) (Definitive Edition).sfc" size="4194304" crc="dc891e85" md5="a8dd17bbebd32c095e58db5d926ea40c" sha1="e63b21e73a3bf69c999b23554e98406099a75450" sha256="bffec7818476bd15fa9e8c1d0b7579e054248591ca635c9deca175ad3d9be6ff" status="verified"/>
+	</game>
+	<game name="Toy Story (Japan) (Toy Story Retro Roundup!)" id="4614" cloneofid="3116">
+		<category>Games</category>
+		<description>Toy Story (Japan) (Toy Story Retro Roundup!)</description>
+		<rom name="Toy Story (Japan) (Toy Story Retro Roundup!).sfc" size="4194304" crc="fd63567c" md5="f15e7e3ff01006493069d262d4f7c10d" sha1="a3d08182185d1b8bde4bececc9c1dbe610acdbca" sha256="1a437ec87ed4bd84112f0b905152ec6fb1369aebabce802eda17e28705f33f4a" status="verified"/>
 	</game>
 	<game name="Troddlers (Japan) (En) (Proto)" id="4112" cloneofid="3126">
 		<category>Games</category>

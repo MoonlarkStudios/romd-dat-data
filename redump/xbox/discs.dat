@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox</name>
-		<description>Microsoft - Xbox - Datfile (2689) (2026-10-15 23-01-07)</description>
-		<version>2026-10-15 23-01-07</version>
-		<date>2026-10-15 23-01-07</date>
+		<description>Microsoft - Xbox - Datfile (2689) (2026-10-16 22-33-48)</description>
+		<version>2026-10-16 22-33-48</version>
+		<date>2026-10-16 22-33-48</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -7109,11 +7109,11 @@
 		<description>Medal of Honor : Les Faucons de guerre (France)</description>
 		<rom name="Medal of Honor - Les Faucons de guerre (France).iso" size="7825162240" crc="a63e5d15" md5="7ca92c677d46bc58598ad1de31d32b3c" sha1="42d5516376c1ce45a1f6b275ed97a00c249ac4ec"/>
 	</game>
-	<game name="Medal of Honor - Rising Sun (Asia)" id="89641">
+	<game name="Medal of Honor - Rising Sun (Asia, Korea)" id="89641">
 		<category>Games</category>
 		<serial>EA-063</serial>
-		<description>Medal of Honor: Rising Sun (Asia)</description>
-		<rom name="Medal of Honor - Rising Sun (Asia).iso" size="7825162240" crc="f01d6663" md5="81dd14a3ae82cad90261046dd912e3e1" sha1="49a022de5bb3f1e11479f6dedf9e45736d7d777c"/>
+		<description>Medal of Honor: Rising Sun (Asia, Korea)</description>
+		<rom name="Medal of Honor - Rising Sun (Asia, Korea).iso" size="7825162240" crc="f01d6663" md5="81dd14a3ae82cad90261046dd912e3e1" sha1="49a022de5bb3f1e11479f6dedf9e45736d7d777c"/>
 	</game>
 	<game name="Medal of Honor - Rising Sun (Europe) (En,Es,It,Nl,Sv)" id="17913">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-15 23-44-49)</description>
-		<version>2026-10-15 23-44-49</version>
-		<date>2026-10-15 23-44-49</date>
+		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-17 00-05-04)</description>
+		<version>2026-10-17 00-05-04</version>
+		<date>2026-10-17 00-05-04</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -1818,7 +1818,6 @@
 	<game name="Black Eyed Peas Experience, The (USA, Europe)" id="52068">
 		<category>Games</category>
 		<serial>US-2189</serial>
-		<version>1913760</version>
 		<description>Black Eyed Peas Experience, The (USA, Europe)</description>
 		<rom name="Black Eyed Peas Experience, The (USA, Europe).iso" size="7838695424" crc="345cf155" md5="e7027196af19eaa939cf9a30e489826c" sha1="bb34e642b80b861c6fd3e168a6d9d3dc5790e111"/>
 	</game>

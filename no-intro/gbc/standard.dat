@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261016-010130</version>
+		<version>20261016-134916</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1171,7 +1171,7 @@
 	<game name="Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)" id="3022" cloneofid="0149">
 		<category>Games</category>
 		<description>Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="0da16009" md5="7106d41248b68f5c4cbdf562d20b19e9" sha1="9c5064f50bc9bc7b4ed65bbdd1dfdade5091842b" sha256="1df48e1ae9d379d7fcebc957b6d45dbfc4ed0e45494970a5aa590e0a9c67432c" mia="yes"/>
+		<rom name="Bug's Life, A (USA) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="0da16009" md5="7106d41248b68f5c4cbdf562d20b19e9" sha1="9c5064f50bc9bc7b4ed65bbdd1dfdade5091842b" sha256="1df48e1ae9d379d7fcebc957b6d45dbfc4ed0e45494970a5aa590e0a9c67432c" status="verified"/>
 	</game>
 	<game name="Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible)" id="0149">
 		<description>Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible)</description>
@@ -1245,7 +1245,7 @@
 	<game name="Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!)" id="3023" cloneofid="0163">
 		<category>Games</category>
 		<description>Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!)</description>
-		<rom name="Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!).gbc" size="524288" crc="31690de9" md5="e29197d4d0b7b0725b9c5f344c1d5c54" sha1="935ec6f59de206141023236eb23ad98b21823bb0" sha256="fa4c1e7bb5e96b5c54faddb6a65fca165def7c51a5a6ccfe33daa1f612b9e8da" mia="yes"/>
+		<rom name="Buzz Lightyear of Star Command (USA, Europe) (Toy Story Retro Roundup!).gbc" size="524288" crc="31690de9" md5="e29197d4d0b7b0725b9c5f344c1d5c54" sha1="935ec6f59de206141023236eb23ad98b21823bb0" sha256="fa4c1e7bb5e96b5c54faddb6a65fca165def7c51a5a6ccfe33daa1f612b9e8da" status="verified"/>
 	</game>
 	<game name="Bygone Choices (World) (GB Compatible) (Aftermarket) (Unl)" id="2387">
 		<category>Games</category>
@@ -9307,7 +9307,7 @@
 	</game>
 	<game name="Street Fighter Alpha - Warriors' Dreams (Europe)" id="1133">
 		<description>Street Fighter Alpha - Warriors' Dreams (Europe)</description>
-		<rom name="Street Fighter Alpha - Warriors' Dreams (Europe).gbc" size="1048576" crc="28a3ab3a" md5="2ffa53b90351c9a3390ca1f848435239" sha1="8baad8f1fe999d1ee352d534b1dbe6e10c0281fe" sha256="667f467a0e185946c176c6cc6e3bf0c3d129e97918f8fb6ebb7d88d5d093130c"/>
+		<rom name="Street Fighter Alpha - Warriors' Dreams (Europe).gbc" size="1048576" crc="28a3ab3a" md5="2ffa53b90351c9a3390ca1f848435239" sha1="8baad8f1fe999d1ee352d534b1dbe6e10c0281fe" sha256="667f467a0e185946c176c6cc6e3bf0c3d129e97918f8fb6ebb7d88d5d093130c" status="verified"/>
 	</game>
 	<game name="Street Fighter Alpha - Warriors' Dreams (Japan)" id="1134" cloneofid="1133">
 		<description>Street Fighter Alpha - Warriors' Dreams (Japan)</description>
@@ -10169,12 +10169,12 @@
 	<game name="Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)" id="3020" cloneofid="1246">
 		<category>Games</category>
 		<description>Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="e74f2992" md5="b9e5a4b19bd437ea288e5900922abb4e" sha1="793dba51275ec71dfaf9359785d945be728f0fbb" sha256="a723476a3776b344ecbd009bfdfeaafa668850d52a825f02d43d4d022703d947" mia="yes"/>
+		<rom name="Toy Story 2 (USA, Europe) (Toy Story Retro Roundup!) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="e74f2992" md5="b9e5a4b19bd437ea288e5900922abb4e" sha1="793dba51275ec71dfaf9359785d945be728f0fbb" sha256="a723476a3776b344ecbd009bfdfeaafa668850d52a825f02d43d4d022703d947" status="verified"/>
 	</game>
 	<game name="Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!)" id="3021" cloneofid="1248">
 		<category>Games</category>
 		<description>Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!)</description>
-		<rom name="Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!).gbc" size="2097152" crc="76b07643" md5="1be117e7628224b06aa4f597dfc9a7c2" sha1="eec8894e3df8056bf73603797c3e86bb2f3ab3d1" sha256="13d3e58b08ae76f10b2ea6f7611b1a9e1f6b8a97d63024e3c8b037a6c50d3400"/>
+		<rom name="Toy Story Racer (USA, Europe) (Toy Story Retro Roundup!).gbc" size="2097152" crc="76b07643" md5="1be117e7628224b06aa4f597dfc9a7c2" sha1="eec8894e3df8056bf73603797c3e86bb2f3ab3d1" sha256="13d3e58b08ae76f10b2ea6f7611b1a9e1f6b8a97d63024e3c8b037a6c50d3400" status="verified"/>
 	</game>
 	<game name="Toy Story Racer (Europe) (En,Fr,De)" id="1247" cloneofid="1248">
 		<description>Toy Story Racer (Europe) (En,Fr,De)</description>
