@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-16 22-23-46)</description>
-		<version>2026-10-16 22-23-46</version>
-		<date>2026-10-16 22-23-46</date>
+		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-17 21-35-17)</description>
+		<version>2026-10-17 21-35-17</version>
+		<date>2026-10-17 21-35-17</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -21349,12 +21349,12 @@
 		<description>PlayStation Move Heroes (Asia)</description>
 		<rom name="PlayStation Move Heroes (Asia).iso" size="11142692864" crc="5e96e483" md5="ec646f6feac1844dcd93ff7efa149e80" sha1="f56b73ba98a87b4544d319d90338fda25f0a7e24"/>
 	</game>
-	<game name="PlayStation Move Heroes (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="57162">
+	<game name="PlayStation Move Heroes (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)" id="57162">
 		<category>Games</category>
-		<serial>BCES-00956, BCES-00956/EXP, BCES-00956/RUS, BCES-00956/SCA</serial>
+		<serial>BCES-00956, BCES-00956/EXP, BCES-00956/RUS, BCES-00956/SCA, BCES-00956/ANZ</serial>
 		<version>01.00</version>
-		<description>PlayStation Move Heroes (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
-		<rom name="PlayStation Move Heroes (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="12216631296" crc="a7a8dfc8" md5="5f70a4af44910210cd6659532e4cb7cb" sha1="ab0faff47adf12081318d72904bf440711fd73e1"/>
+		<description>PlayStation Move Heroes (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)</description>
+		<rom name="PlayStation Move Heroes (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso" size="12216631296" crc="a7a8dfc8" md5="5f70a4af44910210cd6659532e4cb7cb" sha1="ab0faff47adf12081318d72904bf440711fd73e1"/>
 	</game>
 	<game name="PlayStation Move Heroes (UK)" id="34930">
 		<category>Games</category>
@@ -22399,12 +22399,12 @@
 		<description>Ratchet &amp; Clank Future 2 (Japan) (En,Ja)</description>
 		<rom name="Ratchet &amp; Clank Future 2 (Japan) (En,Ja).iso" size="20505559040" crc="f69f353c" md5="2c1ba8b5036beacefddbb2475336ce2f" sha1="1ea459c74c97a93409c9fb4a5902df019d776e1e"/>
 	</game>
-	<game name="Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It)" id="47911">
+	<game name="Ratchet &amp; Clank Trilogy, The (Europe, Korea) (En,Fr,De,Es,It)" id="47911">
 		<category>Games</category>
 		<serial>BCES-01503, BCKS 10221</serial>
 		<version>01.01</version>
-		<description>Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It)</description>
-		<rom name="Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It).iso" size="10877075456" crc="dde15fd8" md5="6d706037847e92809ee9119748dd7912" sha1="547c712c7999a56076df3bad45228a204456db71"/>
+		<description>Ratchet &amp; Clank Trilogy, The (Europe, Korea) (En,Fr,De,Es,It)</description>
+		<rom name="Ratchet &amp; Clank Trilogy, The (Europe, Korea) (En,Fr,De,Es,It).iso" size="10877075456" crc="dde15fd8" md5="6d706037847e92809ee9119748dd7912" sha1="547c712c7999a56076df3bad45228a204456db71"/>
 	</game>
 	<game name="Rayman Legends (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl)" id="32402">
 		<category>Games</category>
