@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-17 22-13-35)</description>
-		<version>2026-10-17 22-13-35</version>
-		<date>2026-10-17 22-13-35</date>
+		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-18 21-17-24)</description>
+		<version>2026-10-18 21-17-24</version>
+		<date>2026-10-18 21-17-24</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -7934,17 +7934,17 @@
 		<description>FIFA 11 (Europe) (En,Es,Sv,No,Da)</description>
 		<rom name="FIFA 11 (Europe) (En,Es,Sv,No,Da).iso" size="7838695424" crc="9102be13" md5="951f86628bac54d5de4d5a50492f31a4" sha1="691b657c1ec3cd0c1c595a596f8638c130f95e65"/>
 	</game>
-	<game name="FIFA 11 (Europe) (En,Fr,Nl)" id="35746">
-		<category>Games</category>
-		<serial>EA-2291</serial>
-		<description>FIFA 11 (Europe) (En,Fr,Nl)</description>
-		<rom name="FIFA 11 (Europe) (En,Fr,Nl).iso" size="7838695424" crc="8e8dd07e" md5="87f9485157b5101e9af555feb87d0165" sha1="bdf96020aa67b1dc0bfe6aa085d0a65ba2e24c64"/>
-	</game>
 	<game name="FIFA 11 (Europe) (Pl,Ru,Cs)" id="72390">
 		<category>Games</category>
 		<serial>EA-2291</serial>
 		<description>FIFA 11 (Europe) (Pl,Ru,Cs)</description>
 		<rom name="FIFA 11 (Europe) (Pl,Ru,Cs).iso" size="7838695424" crc="92d9959b" md5="a5363278dd967f03418722017e8a6d20" sha1="8f3ab10a5d07e07be3d4aa017b9053472189093f"/>
+	</game>
+	<game name="FIFA 11 (Europe, Asia) (En,Fr,Nl)" id="35746">
+		<category>Games</category>
+		<serial>EA-2291</serial>
+		<description>FIFA 11 (Europe, Asia) (En,Fr,Nl)</description>
+		<rom name="FIFA 11 (Europe, Asia) (En,Fr,Nl).iso" size="7838695424" crc="8e8dd07e" md5="87f9485157b5101e9af555feb87d0165" sha1="bdf96020aa67b1dc0bfe6aa085d0a65ba2e24c64"/>
 	</game>
 	<game name="FIFA 11 - World Class Soccer (Japan)" id="69831">
 		<category>Games</category>
@@ -7964,11 +7964,11 @@
 		<description>FIFA 12 (Europe) (En,Es,Sv,No,Da)</description>
 		<rom name="FIFA 12 (Europe) (En,Es,Sv,No,Da).iso" size="7838695424" crc="2c2d701f" md5="f6311c70d2bcf4283114c87ae728e3c9" sha1="b3b62ce248ddb9a3e6c1bf49b60edda9aa7d02b3"/>
 	</game>
-	<game name="FIFA 12 (Europe) (En,Fr,Nl)" id="22199">
+	<game name="FIFA 12 (Europe, Asia) (En,Fr,Nl)" id="22199">
 		<category>Games</category>
 		<serial>EA-2407</serial>
-		<description>FIFA 12 (Europe) (En,Fr,Nl)</description>
-		<rom name="FIFA 12 (Europe) (En,Fr,Nl).iso" size="7838695424" crc="8e223e4e" md5="5f5dc00b74692a6a057755b696e91270" sha1="e6664c880a3925d449eeecd68f44e061b0555b1d"/>
+		<description>FIFA 12 (Europe, Asia) (En,Fr,Nl)</description>
+		<rom name="FIFA 12 (Europe, Asia) (En,Fr,Nl).iso" size="7838695424" crc="8e223e4e" md5="5f5dc00b74692a6a057755b696e91270" sha1="e6664c880a3925d449eeecd68f44e061b0555b1d"/>
 	</game>
 	<game name="FIFA 12 (Russia) (Pl,Ru,Cs)" id="75005">
 		<category>Games</category>
@@ -8252,11 +8252,11 @@
 		<description>FIFA Soccer 08 (USA) (En,Es)</description>
 		<rom name="FIFA Soccer 08 (USA) (En,Es).iso" size="7835492352" crc="d6581ff3" md5="3439755df1af5d3491e0e82aac07e629" sha1="f56d0d3debcb76dc025c2f2932a79a573042540e"/>
 	</game>
-	<game name="FIFA Soccer 09 (USA) (En,Fr,Es)" id="55408">
+	<game name="FIFA Soccer 09 (USA, Asia) (En,Fr,Es)" id="55408">
 		<category>Games</category>
 		<serial>EA-2139</serial>
-		<description>FIFA Soccer 09 (USA) (En,Fr,Es)</description>
-		<rom name="FIFA Soccer 09 (USA) (En,Fr,Es).iso" size="7835492352" crc="902d5d8b" md5="c68ce81b97dc79519cdc7a661fbac259" sha1="4bd892b67c49c6c42ff0db101548c9acab342d4f"/>
+		<description>FIFA Soccer 09 (USA, Asia) (En,Fr,Es)</description>
+		<rom name="FIFA Soccer 09 (USA, Asia) (En,Fr,Es).iso" size="7835492352" crc="902d5d8b" md5="c68ce81b97dc79519cdc7a661fbac259" sha1="4bd892b67c49c6c42ff0db101548c9acab342d4f"/>
 	</game>
 	<game name="FIFA Soccer 10 (USA) (En,Fr,Es)" id="14048">
 		<category>Games</category>
@@ -13265,11 +13265,11 @@
 		<description>Mushihimesama HD (Japan)</description>
 		<rom name="Mushihimesama HD (Japan).iso" size="7838695424" crc="99368edd" md5="5bb86a0b3ab1f1807029710a12ca830f" sha1="994a4e7089f789d160b42b512a6db2857ac3e0ef"/>
 	</game>
-	<game name="Musou Orochi (Japan, Korea)" id="75028">
+	<game name="Musou Orochi (Japan, Asia)" id="75028">
 		<category>Games</category>
 		<serial>KO-2009</serial>
-		<description>Musou Orochi (Japan, Korea)</description>
-		<rom name="Musou Orochi (Japan, Korea).iso" size="7835492352" crc="4e1277bb" md5="4b86789c78cece3da8e78c966de8065b" sha1="51325ba579227cb922c9b3df2f08a05c7901bc4f"/>
+		<description>Musou Orochi (Japan, Asia)</description>
+		<rom name="Musou Orochi (Japan, Asia).iso" size="7835492352" crc="4e1277bb" md5="4b86789c78cece3da8e78c966de8065b" sha1="51325ba579227cb922c9b3df2f08a05c7901bc4f"/>
 	</game>
 	<game name="Musou Orochi - Maou Sairin (Japan)" id="76253">
 		<category>Games</category>
@@ -13772,11 +13772,11 @@
 		<description>NBA 2K8 (USA) (Demo)</description>
 		<rom name="NBA 2K8 (USA) (Demo).iso" size="7835492352" crc="9e66c8b2" md5="b53f9acbb9ce4126ac5714c0306fe15a" sha1="55800da55beb5940607eb6d67762868661c2d1ce"/>
 	</game>
-	<game name="NBA 2K9 (USA, Europe)" id="60057">
+	<game name="NBA 2K9 (World)" id="60057">
 		<category>Games</category>
 		<serial>TT-2089</serial>
-		<description>NBA 2K9 (USA, Europe)</description>
-		<rom name="NBA 2K9 (USA, Europe).iso" size="7835492352" crc="36e3012f" md5="5ef002cd63117665576c978de4c2b3be" sha1="55e1ac7837e8e69d7ec974ded78bf780b2a324f8"/>
+		<description>NBA 2K9 (World)</description>
+		<rom name="NBA 2K9 (World).iso" size="7835492352" crc="36e3012f" md5="5ef002cd63117665576c978de4c2b3be" sha1="55e1ac7837e8e69d7ec974ded78bf780b2a324f8"/>
 	</game>
 	<game name="NBA Baller Beats (USA)" id="96754">
 		<category>Games</category>
@@ -17768,11 +17768,11 @@
 		<description>Shin Sangoku Musou 4 Special (Japan)</description>
 		<rom name="Shin Sangoku Musou 4 Special (Japan).iso" size="7834892288" crc="fecd555f" md5="43a71d9c401fa66a63db51589339bf68" sha1="2cc520d4a6d0500d6e1b8eacfa20cc55a47c1f06"/>
 	</game>
-	<game name="Shin Sangoku Musou 5 (Japan)" id="69834">
+	<game name="Shin Sangoku Musou 5 (Japan, Asia)" id="69834">
 		<category>Games</category>
 		<serial>KO-2010</serial>
-		<description>Shin Sangoku Musou 5 (Japan)</description>
-		<rom name="Shin Sangoku Musou 5 (Japan).iso" size="7835492352" crc="a595ed66" md5="414004fe2eddcffce9caac03accb2d0a" sha1="7e1d07978c6f1bf3b92f62d79ee556b39fdca04e"/>
+		<description>Shin Sangoku Musou 5 (Japan, Asia)</description>
+		<rom name="Shin Sangoku Musou 5 (Japan, Asia).iso" size="7835492352" crc="a595ed66" md5="414004fe2eddcffce9caac03accb2d0a" sha1="7e1d07978c6f1bf3b92f62d79ee556b39fdca04e"/>
 	</game>
 	<game name="Shin Sangoku Musou 5 - Empires (Japan)" id="59185">
 		<category>Games</category>
@@ -20302,11 +20302,11 @@
 		<description>Virtua Fighter 5 Online (USA, Europe) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Virtua Fighter 5 Online (USA, Europe) (En,Ja,Fr,De,Es,It).iso" size="7835492352" crc="6da332ac" md5="e9e5ee4cf1658705df37d964f6226772" sha1="4545a292695e572942633f930a3afd60aa1c0a58"/>
 	</game>
-	<game name="Virtua Tennis 2009 (USA, Europe)" id="62729">
+	<game name="Virtua Tennis 2009 (World)" id="62729">
 		<category>Games</category>
 		<serial>SE-2068</serial>
-		<description>Virtua Tennis 2009 (USA, Europe)</description>
-		<rom name="Virtua Tennis 2009 (USA, Europe).iso" size="7838695424" crc="84e103db" md5="3c2124fabddb5f6e4503997b72347b6e" sha1="4e0f74683d7ba553edc68e3a49ae20b1723f5511"/>
+		<description>Virtua Tennis 2009 (World)</description>
+		<rom name="Virtua Tennis 2009 (World).iso" size="7838695424" crc="84e103db" md5="3c2124fabddb5f6e4503997b72347b6e" sha1="4e0f74683d7ba553edc68e3a49ae20b1723f5511"/>
 	</game>
 	<game name="Virtua Tennis 3 (USA, Europe) (En,Fr,De,Es,It)" id="7707">
 		<category>Games</category>

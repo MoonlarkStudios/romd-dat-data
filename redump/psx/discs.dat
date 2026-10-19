@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-17 16-33-35)</description>
-		<version>2026-10-17 16-33-35</version>
-		<date>2026-10-17 16-33-35</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-18 11-13-46)</description>
+		<version>2026-10-18 11-13-46</version>
+		<date>2026-10-18 11-13-46</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -22267,13 +22267,13 @@
 		<rom name="Dino Crisis (USA) (Rev 1) (Track 1).bin" size="379986768" crc="358ad1eb" md5="35c0b179aa22d83786d30ba8f9466d5e" sha1="0ef3326f26f1d97f4ab467023ac6be5e1189a6d3"/>
 		<rom name="Dino Crisis (USA) (Rev 1) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 	</game>
-	<game name="Dino Crisis 2 (Europe, Scandinavia)" id="1071">
+	<game name="Dino Crisis 2 (Europe)" id="1071">
 		<category>Games</category>
 		<serial>SLES-03221</serial>
-		<description>Dino Crisis 2 (Europe, Scandinavia)</description>
-		<rom name="Dino Crisis 2 (Europe, Scandinavia).cue" size="240" crc="003f5c7c" md5="c729aee04ae84a76bbe98e5dad2da290" sha1="a791d55ab9e600463b0f8a9c0345831e750b8ebc"/>
-		<rom name="Dino Crisis 2 (Europe, Scandinavia) (Track 1).bin" size="479330544" crc="9b084347" md5="501c9348d17560cd63baa592bb8f5ad3" sha1="00a57dad2c42c6633a18529604a34ac1ea356f97"/>
-		<rom name="Dino Crisis 2 (Europe, Scandinavia) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<description>Dino Crisis 2 (Europe)</description>
+		<rom name="Dino Crisis 2 (Europe).cue" size="214" crc="d56e79a0" md5="4e2383a31cdb3a1e621873816662441c" sha1="0f5106ad51f5d2eaf0097bb598a6632518502402"/>
+		<rom name="Dino Crisis 2 (Europe) (Track 1).bin" size="479330544" crc="9b084347" md5="501c9348d17560cd63baa592bb8f5ad3" sha1="00a57dad2c42c6633a18529604a34ac1ea356f97"/>
+		<rom name="Dino Crisis 2 (Europe) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 	</game>
 	<game name="Dino Crisis 2 (France)" id="29514">
 		<category>Games</category>

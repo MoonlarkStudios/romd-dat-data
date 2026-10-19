@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable</name>
-		<description>Sony - PlayStation Portable - Datfile (3545) (2026-10-14 05-52-13)</description>
-		<version>2026-10-14 05-52-13</version>
-		<date>2026-10-14 05-52-13</date>
+		<description>Sony - PlayStation Portable - Datfile (3546) (2026-10-18 19-16-05)</description>
+		<version>2026-10-18 19-16-05</version>
+		<date>2026-10-18 19-16-05</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -17264,6 +17264,13 @@
 		<version>1.01</version>
 		<description>ProStroke Golf: World Tour 2007 (USA)</description>
 		<rom name="ProStroke Golf - World Tour 2007 (USA).iso" size="809402368" crc="fcdc67fa" md5="3b9fa2202d7ba2fde22451be4691b94f" sha1="ebccf212d83c92e3885d4c3fb93addc6945d8864"/>
+	</game>
+	<game name="PSP (PlayStation Portable) Go Bonus 3-Game DVD (USA) (Alt)" id="139517">
+		<category>Bonus Discs</category>
+		<serial>SCUS 90147</serial>
+		<version>01.00</version>
+		<description>PSP (PlayStation Portable) Go Bonus 3-Game DVD (USA) (Alt)</description>
+		<rom name="PSP (PlayStation Portable) Go Bonus 3-Game DVD (USA) (Alt).iso" size="4312268800" crc="d46cdb6b" md5="42fb084c015ba22c8e92f99c56eac4ed" sha1="29e95a8945cccaf5b6a7154270369233f7747400"/>
 	</game>
 	<game name="PSP (PlayStation Portable) Go Bonus 3-Game DVD (USA) (En,Fr,Es)" id="110127">
 		<category>Bonus Discs</category>

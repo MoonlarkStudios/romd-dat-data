@@ -4,12 +4,12 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20261016-085114</version>
+		<version>20261018-051908</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
-		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
-		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Aiwa CSD-GM1 (Japan)" id="1855">
@@ -121,10 +121,10 @@
 		<description>[BIOS] Multi-Mega (Europe)</description>
 		<rom name="[BIOS] Multi-Mega (Europe).md" size="131072" crc="aacb851e" md5="d91b0fd488d29624c4ef2ee7b19efff0" sha1="75548ac9aaa6e81224499f9a1403b2b42433f5b7" sha256="90406fce43f1c44d431eba87db2eaf99847b40c13a996601d0622bcb6f98cdb9"/>
 	</game>
-	<game name="[BIOS] Multi-Mega (Asia) (Ja)" id="3848" cloneofid="1619">
+	<game name="[BIOS] Multi-Mega (Asia) (En)" id="3848" cloneofid="1619">
 		<category>Miscellaneous</category>
-		<description>[BIOS] Multi-Mega (Asia) (Ja)</description>
-		<rom name="[BIOS] Multi-Mega (Asia) (Ja).md" size="131072" crc="3e0a1091" md5="1a03673fbc16c7e1609b452e49d4b657" sha1="1a435e2f8b94fcd41f4626e469c8ed999401081e" sha256="d4b53e01c6e1d5552cc8f699544983fc6f8bb31ac1a230ab01d8459f0be66141"/>
+		<description>[BIOS] Multi-Mega (Asia) (En)</description>
+		<rom name="[BIOS] Multi-Mega (Asia) (En).md" size="131072" crc="3e0a1091" md5="1a03673fbc16c7e1609b452e49d4b657" sha1="1a435e2f8b94fcd41f4626e469c8ed999401081e" sha256="d4b53e01c6e1d5552cc8f699544983fc6f8bb31ac1a230ab01d8459f0be66141"/>
 	</game>
 	<game name="[BIOS] Sega CD (USA) (Rev B)" id="0017" cloneofid="0008">
 		<category>Miscellaneous</category>
