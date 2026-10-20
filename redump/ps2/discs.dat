@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Datfile (11844) (2026-10-18 16-46-05)</description>
-		<version>2026-10-18 16-46-05</version>
-		<date>2026-10-18 16-46-05</date>
+		<description>Sony - PlayStation 2 - Datfile (11844) (2026-10-20 02-28-49)</description>
+		<version>2026-10-20 02-28-49</version>
+		<date>2026-10-20 02-28-49</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -9539,12 +9539,12 @@
 		<description>Chandragupta: Warrior Prince (India) (En,Hi)</description>
 		<rom name="Chandragupta - Warrior Prince (India) (En,Hi).iso" size="1764327424" crc="809512c4" md5="5e8c8b11e71597d45b487f155f94e5b7" sha1="3fa66f8545f98ebb93a29f372cfa64318d9c4a66"/>
 	</game>
-	<game name="Chanter - Kimi no Uta ga Todoitara (Japan)" id="44087">
+	<game name="Chanter - Kimi no Uta ga Todoitara# (Japan)" id="44087">
 		<category>Games</category>
 		<serial>SLPM 66816</serial>
 		<version>1.01</version>
 		<description>Chanter: Kimi no Uta ga Todoitara# (Japan)</description>
-		<rom name="Chanter - Kimi no Uta ga Todoitara (Japan).iso" size="4690444288" crc="b077a5a8" md5="4815cc8b8f777b6d574d3ff501429f12" sha1="914ff72dff123e429d7df05098c452ecd221a1dc"/>
+		<rom name="Chanter - Kimi no Uta ga Todoitara# (Japan).iso" size="4690444288" crc="b077a5a8" md5="4815cc8b8f777b6d574d3ff501429f12" sha1="914ff72dff123e429d7df05098c452ecd221a1dc"/>
 	</game>
 	<game name="Chaos Field - New Order (Japan)" id="58731">
 		<category>Games</category>
@@ -28078,6 +28078,13 @@
 		<rom name="Guilty Gear X Plus (Korea).cue" size="92" crc="d55a257a" md5="c3bfe8f7787654e0f8a8083191e30b4c" sha1="89eacd660c0aacaffc9130f98799a13ee9025737"/>
 		<rom name="Guilty Gear X Plus (Korea).bin" size="592087776" crc="f4167b3e" md5="0215e6e745b44e5ec910bc1c544d528a" sha1="fe2fe0206cf45de7b78a1bc463c49f61d3b950ea"/>
 	</game>
+	<game name="Guilty Gear X2 #Reload - The Midnight Carnival (Europe)" id="3456">
+		<category>Games</category>
+		<serial>SLES-52967</serial>
+		<version>1.02</version>
+		<description>Guilty Gear X2 #Reload: The Midnight Carnival (Europe)</description>
+		<rom name="Guilty Gear X2 #Reload - The Midnight Carnival (Europe).iso" size="2351595520" crc="b9662d6f" md5="a89720a6de5c4fa70abb4bc512887d58" sha1="e3a3b37fa1499a05b0ee6003eaf8c095d28158d8"/>
+	</game>
 	<game name="Guilty Gear X2 (Europe)" id="9518">
 		<category>Games</category>
 		<serial>SLES-51344</serial>
@@ -28092,12 +28099,19 @@
 		<description>Guilty Gear X2 (USA)</description>
 		<rom name="Guilty Gear X2 (USA).iso" size="4084236288" crc="4a0a86a2" md5="81a195a41349c26d7e18653f1f9a3977" sha1="9d20bfef909c12d0a40d18b71fd71e86d3e9be59"/>
 	</game>
-	<game name="Guilty Gear X2 Reload - The Midnight Carnival (Europe)" id="3456">
+	<game name="Guilty Gear XX #Reload - The Midnight Carnival (Japan, Asia)" id="36229">
 		<category>Games</category>
-		<serial>SLES-52967</serial>
-		<version>1.02</version>
-		<description>Guilty Gear X2 #Reload: The Midnight Carnival (Europe)</description>
-		<rom name="Guilty Gear X2 Reload - The Midnight Carnival (Europe).iso" size="2351595520" crc="b9662d6f" md5="a89720a6de5c4fa70abb4bc512887d58" sha1="e3a3b37fa1499a05b0ee6003eaf8c095d28158d8"/>
+		<serial>SCAJ 20033, SLPM 66129, SLPS 25261</serial>
+		<version>1.01</version>
+		<description>Guilty Gear XX #Reload: The Midnight Carnival (Japan, Asia)</description>
+		<rom name="Guilty Gear XX #Reload - The Midnight Carnival (Japan, Asia).iso" size="4112416768" crc="5e405ace" md5="9d39c456b26e9954e83ded595342d6a2" sha1="bdfd8b3836cdd5ed6623506034ca6ca08e3c6fb3"/>
+	</game>
+	<game name="Guilty Gear XX #Reload - The Midnight Carnival (Korea) (Ja,Ko)" id="5038">
+		<category>Games</category>
+		<serial>SLKA 25070</serial>
+		<version>1.01</version>
+		<description>Guilty Gear XX #Reload: The Midnight Carnival (Korea) (Ja,Ko)</description>
+		<rom name="Guilty Gear XX #Reload - The Midnight Carnival (Korea) (Ja,Ko).iso" size="4382228480" crc="2298b775" md5="ee9ce37ae2a529cd507469e1f4c5975a" sha1="36752dcd24ecf4c891dd5cce9e55dcc8415e7362"/>
 	</game>
 	<game name="Guilty Gear XX - The Midnight Carnival (Japan) (Taikenban)" id="41133">
 		<category>Demos</category>
@@ -28155,20 +28169,6 @@
 		<version>1.00</version>
 		<description>Guilty Gear XX Accent Core Plus (USA)</description>
 		<rom name="Guilty Gear XX Accent Core Plus (USA).iso" size="3839721472" crc="cafdbf0e" md5="fc5e8742424c9fc151d5e5091610cb41" sha1="46385c20de633aafff7d330f3cad773b4c818ea2"/>
-	</game>
-	<game name="Guilty Gear XX Reload - The Midnight Carnival (Japan, Asia)" id="36229">
-		<category>Games</category>
-		<serial>SCAJ 20033, SLPM 66129, SLPS 25261</serial>
-		<version>1.01</version>
-		<description>Guilty Gear XX #Reload: The Midnight Carnival (Japan, Asia)</description>
-		<rom name="Guilty Gear XX Reload - The Midnight Carnival (Japan, Asia).iso" size="4112416768" crc="5e405ace" md5="9d39c456b26e9954e83ded595342d6a2" sha1="bdfd8b3836cdd5ed6623506034ca6ca08e3c6fb3"/>
-	</game>
-	<game name="Guilty Gear XX Reload - The Midnight Carnival (Korea) (Ja,Ko)" id="5038">
-		<category>Games</category>
-		<serial>SLKA 25070</serial>
-		<version>1.01</version>
-		<description>Guilty Gear XX #Reload: The Midnight Carnival (Korea) (Ja,Ko)</description>
-		<rom name="Guilty Gear XX Reload - The Midnight Carnival (Korea) (Ja,Ko).iso" size="4382228480" crc="2298b775" md5="ee9ce37ae2a529cd507469e1f4c5975a" sha1="36752dcd24ecf4c891dd5cce9e55dcc8415e7362"/>
 	</game>
 	<game name="Guilty Gear XX Slash - The Midnight Carnival (Japan)" id="35170">
 		<category>Games</category>
@@ -41925,6 +41925,27 @@
 		<description>Memorial Song (Japan)</description>
 		<rom name="Memorial Song (Japan).iso" size="1232011264" crc="9098fcd3" md5="a27b3b83b866c7bc8ccb3aab07c192e4" sha1="918dc12da657fc8848368731f8b0b11a1734f209"/>
 	</game>
+	<game name="Memories Off #5 - Togireta Film (Japan)" id="41671">
+		<category>Games</category>
+		<serial>SLPM 66147</serial>
+		<version>1.01</version>
+		<description>Memories Off #5: Togireta Film (Japan)</description>
+		<rom name="Memories Off #5 - Togireta Film (Japan).iso" size="3981606912" crc="99bc8ffd" md5="8217cf91ca9340664bd6dbf60c2b5932" sha1="fc2cf1193d47f42ceb58e3fb4e33923012dcc701"/>
+	</game>
+	<game name="Memories Off #5 - Togireta Film (Japan) (Shokai Genteiban)" id="38420">
+		<category>Games</category>
+		<serial>SLPM 66146</serial>
+		<version>1.01</version>
+		<description>Memories Off #5: Togireta Film (Japan) (Shokai Genteiban)</description>
+		<rom name="Memories Off #5 - Togireta Film (Japan) (Shokai Genteiban).iso" size="3981606912" crc="67238ab5" md5="be065656b340efcc61fcf0da807bd67e" sha1="2fb5e911223b711780844e1c72948ea17dfa75da"/>
+	</game>
+	<game name="Memories Off #5 Encore (Japan)" id="34377">
+		<category>Games</category>
+		<serial>SLPM 66791</serial>
+		<version>1.00</version>
+		<description>Memories Off #5 Encore (Japan)</description>
+		<rom name="Memories Off #5 Encore (Japan).iso" size="2898427904" crc="75b02dde" md5="04bd1834279cf7b0335de89858eda19f" sha1="2d39a972bfd3c004f131faee21433bc7c040a8c2"/>
+	</game>
 	<game name="Memories Off (Asia)" id="90889">
 		<category>Games</category>
 		<serial>SCPS 55041</serial>
@@ -42008,27 +42029,6 @@
 		<version>1.01</version>
 		<description>Memories Off: Sorekara Again (Japan) (Genteiban)</description>
 		<rom name="Memories Off - Sorekara Again (Japan) (Genteiban).iso" size="4113596416" crc="dd65ed0a" md5="56ea1d5625ad3cea50a3140038eb17bc" sha1="d030aa466f744ae4b72f4a4722039d1324505777"/>
-	</game>
-	<game name="Memories Off 5 - Togireta Film (Japan)" id="41671">
-		<category>Games</category>
-		<serial>SLPM 66147</serial>
-		<version>1.01</version>
-		<description>Memories Off #5: Togireta Film (Japan)</description>
-		<rom name="Memories Off 5 - Togireta Film (Japan).iso" size="3981606912" crc="99bc8ffd" md5="8217cf91ca9340664bd6dbf60c2b5932" sha1="fc2cf1193d47f42ceb58e3fb4e33923012dcc701"/>
-	</game>
-	<game name="Memories Off 5 - Togireta Film (Japan) (Shokai Genteiban)" id="38420">
-		<category>Games</category>
-		<serial>SLPM 66146</serial>
-		<version>1.01</version>
-		<description>Memories Off #5: Togireta Film (Japan) (Shokai Genteiban)</description>
-		<rom name="Memories Off 5 - Togireta Film (Japan) (Shokai Genteiban).iso" size="3981606912" crc="67238ab5" md5="be065656b340efcc61fcf0da807bd67e" sha1="2fb5e911223b711780844e1c72948ea17dfa75da"/>
-	</game>
-	<game name="Memories Off 5 Encore (Japan)" id="34377">
-		<category>Games</category>
-		<serial>SLPM 66791</serial>
-		<version>1.00</version>
-		<description>Memories Off #5 Encore (Japan)</description>
-		<rom name="Memories Off 5 Encore (Japan).iso" size="2898427904" crc="75b02dde" md5="04bd1834279cf7b0335de89858eda19f" sha1="2d39a972bfd3c004f131faee21433bc7c040a8c2"/>
 	</game>
 	<game name="Memories Off 6 - Next Relation (Japan)" id="42224">
 		<category>Games</category>
@@ -55539,33 +55539,33 @@
 		<description>Playboy: The Mansion (USA)</description>
 		<rom name="Playboy - The Mansion (USA).iso" size="1622867968" crc="4a9bcff0" md5="f4dbdbfdb546cf60a888607d93182364" sha1="7c675ba95c53a1f7da287ab1b2dc29accf47ccd6"/>
 	</game>
-	<game name="Playcodes Disc01 (France) (Unl)" id="123724">
+	<game name="Playcodes Disc#01 (France) (Unl)" id="123724">
 		<category>Applications</category>
 		<version>1.30</version>
 		<description>Playcodes Disc#01 (France) (Unl)</description>
-		<rom name="Playcodes Disc01 (France) (Unl).cue" size="97" crc="0c01e93b" md5="7b79f231f34143202bbd1d645c31cb24" sha1="390d97d149c8390b6e75cc0faaeb4f3e73301913"/>
-		<rom name="Playcodes Disc01 (France) (Unl).bin" size="761692848" crc="bd562644" md5="fb513a89a46758f414bb6ffca21bc04d" sha1="1b1de354bbff8ee578122efb8b09311a11bf1689"/>
+		<rom name="Playcodes Disc#01 (France) (Unl).cue" size="97" crc="0c01e93b" md5="7b79f231f34143202bbd1d645c31cb24" sha1="390d97d149c8390b6e75cc0faaeb4f3e73301913"/>
+		<rom name="Playcodes Disc#01 (France) (Unl).bin" size="761692848" crc="bd562644" md5="fb513a89a46758f414bb6ffca21bc04d" sha1="1b1de354bbff8ee578122efb8b09311a11bf1689"/>
 	</game>
-	<game name="Playcodes Disc02 (France) (Unl)" id="113293">
+	<game name="Playcodes Disc#02 (France) (Unl)" id="113293">
 		<category>Applications</category>
 		<version>PLAYCOD2 EUROPE</version>
 		<description>Playcodes Disc#02 (France) (Unl)</description>
-		<rom name="Playcodes Disc02 (France) (Unl).cue" size="97" crc="45b73c38" md5="cce82b2daf9eab891f146ff9c05557e7" sha1="9eb82019b1b7f77b4a2509f7a0e08d3779647fa9"/>
-		<rom name="Playcodes Disc02 (France) (Unl).bin" size="761692848" crc="b59fa6bd" md5="6e9d64caa3175778bde0f07fc181b1de" sha1="21a8fd2d3603b94d19dece3c7cdc278a029b62fd"/>
+		<rom name="Playcodes Disc#02 (France) (Unl).cue" size="97" crc="45b73c38" md5="cce82b2daf9eab891f146ff9c05557e7" sha1="9eb82019b1b7f77b4a2509f7a0e08d3779647fa9"/>
+		<rom name="Playcodes Disc#02 (France) (Unl).bin" size="761692848" crc="b59fa6bd" md5="6e9d64caa3175778bde0f07fc181b1de" sha1="21a8fd2d3603b94d19dece3c7cdc278a029b62fd"/>
 	</game>
-	<game name="Playcodes Disc06 (France) (Unl)" id="113370">
+	<game name="Playcodes Disc#06 (France) (Unl)" id="113370">
 		<category>Applications</category>
 		<version>1.00 (European)</version>
 		<description>Playcodes Disc#06 (France) (Unl)</description>
-		<rom name="Playcodes Disc06 (France) (Unl).cue" size="97" crc="112ef203" md5="6d35aab5ff640f6a8ad58e178f8361d2" sha1="57341a86c34f3deb0acebce9ec763fc3bdff2c43"/>
-		<rom name="Playcodes Disc06 (France) (Unl).bin" size="718702992" crc="8a78f872" md5="bbd0042997eae4f6dace6f2b08dc9b14" sha1="c2e789dd07242073a856d72e31167631f46a3387"/>
+		<rom name="Playcodes Disc#06 (France) (Unl).cue" size="97" crc="112ef203" md5="6d35aab5ff640f6a8ad58e178f8361d2" sha1="57341a86c34f3deb0acebce9ec763fc3bdff2c43"/>
+		<rom name="Playcodes Disc#06 (France) (Unl).bin" size="718702992" crc="8a78f872" md5="bbd0042997eae4f6dace6f2b08dc9b14" sha1="c2e789dd07242073a856d72e31167631f46a3387"/>
 	</game>
-	<game name="Playcodes Disc07 (France) (Unl)" id="125638">
+	<game name="Playcodes Disc#07 (France) (Unl)" id="125638">
 		<category>Applications</category>
 		<version>1.00 (European)</version>
 		<description>Playcodes Disc#07 (France) (Unl)</description>
-		<rom name="Playcodes Disc07 (France) (Unl).cue" size="97" crc="9f6c433d" md5="9d994ef9d61192e45b696e37b5440bf9" sha1="c606f525d4cd5d34ec9e18952eaac5429d505604"/>
-		<rom name="Playcodes Disc07 (France) (Unl).bin" size="718702992" crc="eb0dce6e" md5="0f9de5dc8d7fcb414a031c64fe60ac96" sha1="3565ac7ebaccabc123952f5c785a97750944f425"/>
+		<rom name="Playcodes Disc#07 (France) (Unl).cue" size="97" crc="9f6c433d" md5="9d994ef9d61192e45b696e37b5440bf9" sha1="c606f525d4cd5d34ec9e18952eaac5429d505604"/>
+		<rom name="Playcodes Disc#07 (France) (Unl).bin" size="718702992" crc="eb0dce6e" md5="0f9de5dc8d7fcb414a031c64fe60ac96" sha1="3565ac7ebaccabc123952f5c785a97750944f425"/>
 	</game>
 	<game name="PlayOnline Beta Edition - PlayOnline Viewer Beta Version &amp; Tetra Master Beta Version (Japan)" id="77973">
 		<category>Preproduction</category>
@@ -55718,12 +55718,12 @@
 		<description>PlayStation 2 Magazine Ufficiale Italia Presenta: Speciale Sport (Italy) (En,Fr,De,Es,It)</description>
 		<rom name="PlayStation 2 Magazine Ufficiale Italia Presenta - Speciale Sport (Italy) (En,Fr,De,Es,It).iso" size="4060053504" crc="1dafd4f5" md5="b729a2227089291dbbfa4ea58e2c4b71" sha1="d67277b730642cb229159bd77f3f4e21cea5161c"/>
 	</game>
-	<game name="PlayStation 2 Official Demo Disc Edition Pour Revendeurs 5 (France) (En,Fr,De,Es,It)" id="49493">
+	<game name="PlayStation 2 Official Demo Disc Edition Pour Revendeurs #5 (France) (En,Fr,De,Es,It)" id="49493">
 		<category>Demos</category>
 		<serial>SCED-51591</serial>
 		<version>1.01</version>
 		<description>PlayStation 2 Official Demo Disc Edition Pour Revendeurs #5 (France) (En,Fr,De,Es,It)</description>
-		<rom name="PlayStation 2 Official Demo Disc Edition Pour Revendeurs 5 (France) (En,Fr,De,Es,It).iso" size="3260743680" crc="c9cd199c" md5="319f743badc31185012517a0154da1de" sha1="38f5741cd9f3abe20656f76521e526eed8cba58f"/>
+		<rom name="PlayStation 2 Official Demo Disc Edition Pour Revendeurs #5 (France) (En,Fr,De,Es,It).iso" size="3260743680" crc="c9cd199c" md5="319f743badc31185012517a0154da1de" sha1="38f5741cd9f3abe20656f76521e526eed8cba58f"/>
 	</game>
 	<game name="PlayStation BB Navigator - Version 0.10 - Prerelease (Japan) (Disc 1)" id="14860">
 		<category>Applications</category>
@@ -59559,19 +59559,19 @@
 		<description>Resident Evil: Outbreak (USA) (v2.00)</description>
 		<rom name="Resident Evil - Outbreak (USA) (v2.00).iso" size="4698767360" crc="f3a36cc9" md5="46ad6cabe58a40b7a79ebd3232a6a93c" sha1="c61b67efe13c0e2372ed104b57edaa92dda94d2d"/>
 	</game>
-	<game name="Resident Evil - Outbreak - File 2 (Europe) (En,Fr,De,Es,It)" id="3468">
+	<game name="Resident Evil - Outbreak - File #2 (Europe) (En,Fr,De,Es,It)" id="3468">
 		<category>Games</category>
 		<serial>SLES-53319</serial>
 		<version>1.02</version>
 		<description>Resident Evil: Outbreak: File #2 (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Resident Evil - Outbreak - File 2 (Europe) (En,Fr,De,Es,It).iso" size="4677795840" crc="a285ff5b" md5="225b7da50f2ac8d6844947f984d2a561" sha1="4a31ae611ca6a224ec75551a46619c5f7d419879"/>
+		<rom name="Resident Evil - Outbreak - File #2 (Europe) (En,Fr,De,Es,It).iso" size="4677795840" crc="a285ff5b" md5="225b7da50f2ac8d6844947f984d2a561" sha1="4a31ae611ca6a224ec75551a46619c5f7d419879"/>
 	</game>
-	<game name="Resident Evil - Outbreak - File 2 (USA)" id="957">
+	<game name="Resident Evil - Outbreak - File #2 (USA)" id="957">
 		<category>Games</category>
 		<serial>SLUS-20984</serial>
 		<version>1.05</version>
 		<description>Resident Evil: Outbreak: File #2 (USA)</description>
-		<rom name="Resident Evil - Outbreak - File 2 (USA).iso" size="4677795840" crc="9e69477a" md5="51af13298e1a761eb5776bb215eb8179" sha1="1f8d2bdee672717b32de0204c259b57fc030a367"/>
+		<rom name="Resident Evil - Outbreak - File #2 (USA).iso" size="4677795840" crc="9e69477a" md5="51af13298e1a761eb5776bb215eb8179" sha1="1f8d2bdee672717b32de0204c259b57fc030a367"/>
 	</game>
 	<game name="Resident Evil - Survivor 2 - Code - Veronica (Europe)" id="4578">
 		<category>Games</category>
@@ -60616,12 +60616,12 @@
 		<description>Room Zoom: Race for Impact (Europe) (En,Fr,De)</description>
 		<rom name="Room Zoom - Race for Impact (Europe) (En,Fr,De).iso" size="1314947072" crc="1f7ae60c" md5="352714912816e7b949baffc6cda940ac" sha1="b4ecbd32be03a5546480bf2e30e81831fa0a95ba"/>
 	</game>
-	<game name="Roommania 203 (Japan)" id="77985">
+	<game name="Roommania #203 (Japan)" id="77985">
 		<category>Games</category>
 		<serial>SLPM 65110</serial>
 		<version>1.01</version>
 		<description>Roommania #203 (Japan)</description>
-		<rom name="Roommania 203 (Japan).iso" size="1088258048" crc="b19631c5" md5="4e5dca86ff5d7c93ff369913a652ecb5" sha1="38ba55cd3f8bd30400fa87d9694f4ee4b5cb48aa"/>
+		<rom name="Roommania #203 (Japan).iso" size="1088258048" crc="b19631c5" md5="4e5dca86ff5d7c93ff369913a652ecb5" sha1="38ba55cd3f8bd30400fa87d9694f4ee4b5cb48aa"/>
 	</game>
 	<game name="Roommate Asami - Okusama wa Joshikousei (Japan)" id="25045">
 		<category>Games</category>
@@ -72981,29 +72981,29 @@
 		<description>Suikoden V (USA)</description>
 		<rom name="Suikoden V (USA).iso" size="4504649728" crc="33fc7df5" md5="a5e90aa127f076dac07436d7ac2f105e" sha1="9a0faed4cf34b78aaa2ed2d232a234bb9aadc209"/>
 	</game>
-	<game name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode 01+02 (Japan) (Disc 1) (First Limit - Sukishou! Episode 01)" id="39848">
+	<game name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode #01+#02 (Japan) (Disc 1) (First Limit - Sukishou! Episode #01)" id="39848">
 		<category>Games</category>
 		<serial>SLPS 20352</serial>
 		<version>1.02</version>
 		<description>Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights: Sukishou! Episode #01+#02 (Japan) (Disc 1) (First Limit: Sukishou! Episode #01)</description>
-		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode 01+02 (Japan) (Disc 1) (First Limit - Sukishou! Episode 01).cue" size="215" crc="33a2a4a2" md5="62f182bc8c9522b73fa1fa55b4275a60" sha1="bd7f6369cf6cb3861116a5e79cad1b818dadd538"/>
-		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode 01+02 (Japan) (Disc 1) (First Limit - Sukishou! Episode 01).bin" size="373382352" crc="e1dd9ec6" md5="e0468363a606d7c663a1bc421ff26c0e" sha1="2a37d1ef8e9d5f324b5f5e1b63596befdbb0c37c"/>
+		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode #01+#02 (Japan) (Disc 1) (First Limit - Sukishou! Episode #01).cue" size="215" crc="33a2a4a2" md5="62f182bc8c9522b73fa1fa55b4275a60" sha1="bd7f6369cf6cb3861116a5e79cad1b818dadd538"/>
+		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode #01+#02 (Japan) (Disc 1) (First Limit - Sukishou! Episode #01).bin" size="373382352" crc="e1dd9ec6" md5="e0468363a606d7c663a1bc421ff26c0e" sha1="2a37d1ef8e9d5f324b5f5e1b63596befdbb0c37c"/>
 	</game>
-	<game name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode 01+02 (Japan) (Disc 2) (Target Nights - Sukishou! Episode 02)" id="39849">
+	<game name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode #01+#02 (Japan) (Disc 2) (Target Nights - Sukishou! Episode #02)" id="39849">
 		<category>Games</category>
 		<serial>SLPS 20353</serial>
 		<version>1.02</version>
 		<description>Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights: Sukishou! Episode #01+#02 (Japan) (Disc 2) (Target Nights: Sukishou! Episode #02)</description>
-		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode 01+02 (Japan) (Disc 2) (Target Nights - Sukishou! Episode 02).cue" size="217" crc="f24f2b22" md5="15ac62d549e3780e77feba2cbb86507f" sha1="64a40b75a595b835eaf0358a07b83b04d84b3bf1"/>
-		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode 01+02 (Japan) (Disc 2) (Target Nights - Sukishou! Episode 02).bin" size="480678240" crc="4cf3ab73" md5="b7ce598c43836dcc3462cc4f15fbb612" sha1="0b6adf7c8ed6de7aecfc72be5a742607da627eb8"/>
+		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode #01+#02 (Japan) (Disc 2) (Target Nights - Sukishou! Episode #02).cue" size="217" crc="f24f2b22" md5="15ac62d549e3780e77feba2cbb86507f" sha1="64a40b75a595b835eaf0358a07b83b04d84b3bf1"/>
+		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! First Limit &amp; Target Nights - Sukishou! Episode #01+#02 (Japan) (Disc 2) (Target Nights - Sukishou! Episode #02).bin" size="480678240" crc="4cf3ab73" md5="b7ce598c43836dcc3462cc4f15fbb612" sha1="0b6adf7c8ed6de7aecfc72be5a742607da627eb8"/>
 	</game>
-	<game name="Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode 03 (Japan)" id="27074">
+	<game name="Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode #03 (Japan)" id="27074">
 		<category>Games</category>
 		<serial>SLPS 20394</serial>
 		<version>1.01</version>
 		<description>Suki na Mono wa Suki dakara Shou ga Nai!! Rain: Sukishou! Episode #03 (Japan)</description>
-		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode 03 (Japan).cue" size="143" crc="b689b770" md5="7c089b5ba2501697aba18d8747812da0" sha1="ee4edcd0c508fc8dda022113044e3ac4f9ee39c8"/>
-		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode 03 (Japan).bin" size="708278928" crc="57bddc1f" md5="7f7edcea130d50310f41bbf6dbda63e3" sha1="206ee2539226a447c3ce1e43752645be28f573e8"/>
+		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode #03 (Japan).cue" size="143" crc="b689b770" md5="7c089b5ba2501697aba18d8747812da0" sha1="ee4edcd0c508fc8dda022113044e3ac4f9ee39c8"/>
+		<rom name="Suki na Mono wa Suki dakara Shou ga Nai!! Rain - Sukishou! Episode #03 (Japan).bin" size="708278928" crc="57bddc1f" md5="7f7edcea130d50310f41bbf6dbda63e3" sha1="206ee2539226a447c3ce1e43752645be28f573e8"/>
 	</game>
 	<game name="Sum of All Fears, The (Europe) (En,Fr,De,Es,It)" id="11182">
 		<category>Games</category>
@@ -73874,12 +73874,12 @@
 		<description>SuperLite 2000 Vol. 41: Tokyo Bus Guide 2 (Japan)</description>
 		<rom name="SuperLite 2000 Vol. 41 - Tokyo Bus Guide 2 (Japan).iso" size="4377346048" crc="73aa5f56" md5="83ad46205b018481fb41cd79c330edba" sha1="d97b491a9b153c1c3ca512ec1ae699da997c47e8"/>
 	</game>
-	<game name="SuperLite 2000 Vol. 42 - Memories Off 5 - Togireta Film (Japan)" id="96336">
+	<game name="SuperLite 2000 Vol. 42 - Memories Off #5 - Togireta Film (Japan)" id="96336">
 		<category>Games</category>
 		<serial>SLPM 66571</serial>
 		<version>1.00</version>
 		<description>SuperLite 2000 Vol. 42: Memories Off #5: Togireta Film (Japan)</description>
-		<rom name="SuperLite 2000 Vol. 42 - Memories Off 5 - Togireta Film (Japan).iso" size="3579052032" crc="ac8a39d7" md5="4bf61c8e839f3ee441c85122ceb05853" sha1="d8b6c61b57c2f21ad5af347a299210760f8394d7"/>
+		<rom name="SuperLite 2000 Vol. 42 - Memories Off #5 - Togireta Film (Japan).iso" size="3579052032" crc="ac8a39d7" md5="4bf61c8e839f3ee441c85122ceb05853" sha1="d8b6c61b57c2f21ad5af347a299210760f8394d7"/>
 	</game>
 	<game name="SuperLite 2000 Vol. 43 - Memories Off - Sorekara Again (Japan)" id="111218">
 		<category>Games</category>

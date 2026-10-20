@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-17 21-35-17)</description>
-		<version>2026-10-17 21-35-17</version>
-		<date>2026-10-17 21-35-17</date>
+		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-19 13-33-59)</description>
+		<version>2026-10-19 13-33-59</version>
+		<date>2026-10-19 13-33-59</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -293,12 +293,12 @@
 		<description>Accel World: Kasoku no Chouten (Japan)</description>
 		<rom name="Accel World - Kasoku no Chouten (Japan).iso" size="5261295616" crc="9982699a" md5="ff5833be2cc6567e7e55b1ea58816954" sha1="f2224a22773840106e790fbbd79d35606d9c747d"/>
 	</game>
-	<game name="Ace Combat - Assault Horizon (Asia) (En,Ja)" id="115503">
+	<game name="Ace Combat - Assault Horizon (Asia, Korea) (En,Ja)" id="115503">
 		<category>Games</category>
-		<serial>BLAS 50375</serial>
+		<serial>BLAS 50375, BLKS 20308</serial>
 		<version>01.01</version>
-		<description>Ace Combat: Assault Horizon (Asia) (En,Ja)</description>
-		<rom name="Ace Combat - Assault Horizon (Asia) (En,Ja).iso" size="7562657792" crc="f52712bd" md5="d5ba548fb6af419cdc1a9eb7e6a510f3" sha1="945f21218c5ad41da03136febcd6f9888c686e28"/>
+		<description>Ace Combat: Assault Horizon (Asia, Korea) (En,Ja)</description>
+		<rom name="Ace Combat - Assault Horizon (Asia, Korea) (En,Ja).iso" size="7562657792" crc="f52712bd" md5="d5ba548fb6af419cdc1a9eb7e6a510f3" sha1="945f21218c5ad41da03136febcd6f9888c686e28"/>
 	</game>
 	<game name="Ace Combat - Assault Horizon (Europe) (En,Fr,De,Es,It)" id="52720">
 		<category>Games</category>
@@ -2237,12 +2237,12 @@
 		<description>Battlefield: Bad Company 2 (USA) (En,Fr)</description>
 		<rom name="Battlefield - Bad Company 2 (USA) (En,Fr).iso" size="7089356800" crc="5fa6ee25" md5="a3c073340851ca236e7a998b659bbb16" sha1="79938007db9083d0b1ffdca4e3500d4fab65b225"/>
 	</game>
-	<game name="Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition)" id="11731">
+	<game name="Battlefield - Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition)" id="11731">
 		<category>Games</category>
-		<serial>BLUS-30517</serial>
+		<serial>BLUS-30517, BLKS 20192</serial>
 		<version>01.01</version>
-		<description>Battlefield: Bad Company 2 (USA) (En,Fr) (Limited Edition)</description>
-		<rom name="Battlefield - Bad Company 2 (USA) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
+		<description>Battlefield: Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition)</description>
+		<rom name="Battlefield - Bad Company 2 (USA, Korea) (En,Fr) (Limited Edition).iso" size="7089356800" crc="bb4703a6" md5="15b4264076695106d1258677fda76e21" sha1="aa5760fc09f09413de3a4453f3f1d874ee5ffb62"/>
 	</game>
 	<game name="Battlefield 3 (Asia) (En,Zh)" id="87227">
 		<category>Games</category>
@@ -15608,12 +15608,12 @@
 		<description>Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru)</description>
 		<rom name="Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).iso" size="5435424768" crc="ac081bd0" md5="196c3d8a30d58c1dd99b28efdb122323" sha1="653415eff189d21ffa7ad77567dd64e01c5f8685"/>
 	</game>
-	<game name="Lollipop Chainsaw - Premium Edition (Japan) (En,Ja)" id="90932">
+	<game name="Lollipop Chainsaw - Premium Edition (Japan, Korea) (En,Ja)" id="90932">
 		<category>Games</category>
-		<serial>BLJS 10125</serial>
+		<serial>BLJS 10125, BCKS 10214</serial>
 		<version>01.02</version>
-		<description>Lollipop Chainsaw: Premium Edition (Japan) (En,Ja)</description>
-		<rom name="Lollipop Chainsaw - Premium Edition (Japan) (En,Ja).iso" size="7026835456" crc="eb1198b9" md5="ca6802ed0fbaae7e24b44e9a1a29214f" sha1="c8534db98f392526d817f57ac631374c9078a48c"/>
+		<description>Lollipop Chainsaw: Premium Edition (Japan, Korea) (En,Ja)</description>
+		<rom name="Lollipop Chainsaw - Premium Edition (Japan, Korea) (En,Ja).iso" size="7026835456" crc="eb1198b9" md5="ca6802ed0fbaae7e24b44e9a1a29214f" sha1="c8534db98f392526d817f57ac631374c9078a48c"/>
 	</game>
 	<game name="London 2012 (Europe) (En,Fr,De,Es,It)" id="54188">
 		<category>Games</category>
@@ -21798,11 +21798,11 @@
 		<description>PS3 IDU: 2017 Spring Refresh: Best Buy Attract Wall (USA)</description>
 		<rom name="PS3 IDU - 2017 Spring Refresh - Best Buy Attract Wall (USA).iso" size="1469579264" crc="119f3cc3" md5="7140201f60a1f79d5090b6661aedeb4e" sha1="9645d0a5ca61ab2ef3fabdaab7cd2674a7938c27"/>
 	</game>
-	<game name="PS3 IDU 1.82 Update - August-September 2007 - Version 2 (USA)" id="122688">
+	<game name="PS3 IDU 1.82 Update - August-September 2007 - Version #2 (USA)" id="122688">
 		<category>Demos</category>
 		<version>01.00</version>
 		<description>PS3 IDU 1.82 Update: August/September 2007: Version #2 (USA)</description>
-		<rom name="PS3 IDU 1.82 Update - August-September 2007 - Version 2 (USA).iso" size="8418295808" crc="d14c3c4c" md5="5a2372eb5393227b548184ebdd9d356b" sha1="3dffe4f7b217aefa585d759bff2cceaaa13e5263"/>
+		<rom name="PS3 IDU 1.82 Update - August-September 2007 - Version #2 (USA).iso" size="8418295808" crc="d14c3c4c" md5="5a2372eb5393227b548184ebdd9d356b" sha1="3dffe4f7b217aefa585d759bff2cceaaa13e5263"/>
 	</game>
 	<game name="PS3 IDU 3.50 FW - Oct 2010 (USA)" id="56387">
 		<category>Applications</category>
@@ -25845,7 +25845,7 @@
 	</game>
 	<game name="Sleeping Dogs (USA, Asia) (En,Fr,Es)" id="26917">
 		<category>Games</category>
-		<serial>BCAS 20250, BLUS-30927</serial>
+		<serial>BCAS 20250, BLUS-30927, BCKS 10227</serial>
 		<version>01.00</version>
 		<description>Sleeping Dogs (USA, Asia) (En,Fr,Es)</description>
 		<rom name="Sleeping Dogs (USA, Asia) (En,Fr,Es).iso" size="7722303488" crc="0d21f9a1" md5="7409a7bafc66368782b6b1b2626c76de" sha1="b5a0348aa510038d12ce0cc3624788975d3bc366"/>
@@ -26673,12 +26673,12 @@
 		<description>Square Enix Magazine Demo Disc Vol. 1 (Japan)</description>
 		<rom name="Square Enix Magazine Demo Disc Vol. 1 (Japan).iso" size="9068150784" crc="a51157cb" md5="e15481404d02027d0950d41917228b40" sha1="3ed0a6b807949a9276a071ad288b9ace2bfbfbd9"/>
 	</game>
-	<game name="SSX (Asia)" id="129394">
+	<game name="SSX (Asia, Korea) (En,Fr,Es)" id="129394">
 		<category>Games</category>
-		<serial>BLAS 50445</serial>
+		<serial>BLAS 50445, BLKS 20344</serial>
 		<version>01.00</version>
-		<description>SSX (Asia)</description>
-		<rom name="SSX (Asia).iso" size="4441899008" crc="f8ea0fb0" md5="71a574971e44fa00a53f26395b6f6752" sha1="01658be05dfce254ae5aed0a2bf19b30f7f7ae98"/>
+		<description>SSX (Asia, Korea) (En,Fr,Es)</description>
+		<rom name="SSX (Asia, Korea) (En,Fr,Es).iso" size="4441899008" crc="f8ea0fb0" md5="71a574971e44fa00a53f26395b6f6752" sha1="01658be05dfce254ae5aed0a2bf19b30f7f7ae98"/>
 	</game>
 	<game name="SSX (Europe) (En,Fr,De,Es,It)" id="32657">
 		<category>Games</category>
@@ -28396,12 +28396,12 @@
 		<description>Tom Clancy's Splinter Cell Trilogy (USA, Korea) (En,Fr,De,Es,It)</description>
 		<rom name="Tom Clancy's Splinter Cell Trilogy (USA, Korea) (En,Fr,De,Es,It).iso" size="11451498496" crc="45788649" md5="bb214e93c3e6401081ef16abd511f7c6" sha1="d27dcab196bf2c37778813f67091f72524d047da"/>
 	</game>
-	<game name="Tomb Raider (Asia) (En,Zh,Ko)" id="33445">
+	<game name="Tomb Raider (Asia, Korea) (En,Zh,Ko)" id="33445">
 		<category>Games</category>
 		<serial>BCAS 20272, BCKS 10241, BCKS 10262</serial>
 		<version>01.00</version>
-		<description>Tomb Raider (Asia) (En,Zh,Ko)</description>
-		<rom name="Tomb Raider (Asia) (En,Zh,Ko).iso" size="6667567104" crc="b087a063" md5="406e1d4ff88569abfc98d02487975973" sha1="c518b65f07915ef68feb26c39065edade5d35faa"/>
+		<description>Tomb Raider (Asia, Korea) (En,Zh,Ko)</description>
+		<rom name="Tomb Raider (Asia, Korea) (En,Zh,Ko).iso" size="6667567104" crc="b087a063" md5="406e1d4ff88569abfc98d02487975973" sha1="c518b65f07915ef68feb26c39065edade5d35faa"/>
 	</game>
 	<game name="Tomb Raider (Europe) (En,Ar)" id="59898">
 		<category>Games</category>
@@ -28461,17 +28461,17 @@
 	</game>
 	<game name="Tomb Raider - Underworld (USA, Asia) (En,Fr,De,Es,It,Nl) (FW2.42)" id="11735">
 		<category>Games</category>
-		<serial>BLAS 50087, BLUS-30224</serial>
+		<serial>BLAS 50087, BLUS-30224, BLKS 20097</serial>
 		<version>01.01</version>
 		<description>Tomb Raider: Underworld (USA, Asia) (En,Fr,De,Es,It,Nl) (FW2.42)</description>
 		<rom name="Tomb Raider - Underworld (USA, Asia) (En,Fr,De,Es,It,Nl) (FW2.42).iso" size="6714949632" crc="6daf6a06" md5="4bd2d5256351d8c9e935ba85b7b55bee" sha1="ba4e15dc5869bda7155497c6a57d6dd0467814fb"/>
 	</game>
-	<game name="Tomb Raider Trilogy, The (Europe) (En,Fr,De,Es,It,Nl)" id="29679">
+	<game name="Tomb Raider Trilogy, The (Europe, Korea) (En,Fr,De,Es,It,Nl)" id="29679">
 		<category>Games</category>
-		<serial>BLES-01195</serial>
+		<serial>BLES-01195, BLKS 20276</serial>
 		<version>01.01</version>
-		<description>Tomb Raider Trilogy, The (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Tomb Raider Trilogy, The (Europe) (En,Fr,De,Es,It,Nl).iso" size="24420876288" crc="0a947321" md5="333c9f38151e9ab1184215a5540e36d8" sha1="a95017873d3227fad16631b8204246bf85c0c002"/>
+		<description>Tomb Raider Trilogy, The (Europe, Korea) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Tomb Raider Trilogy, The (Europe, Korea) (En,Fr,De,Es,It,Nl).iso" size="24420876288" crc="0a947321" md5="333c9f38151e9ab1184215a5540e36d8" sha1="a95017873d3227fad16631b8204246bf85c0c002"/>
 	</game>
 	<game name="Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl)" id="30008">
 		<category>Games</category>

@@ -4,12 +4,12 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20260929-130236</version>
+		<version>20261020-013937</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
-		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
-		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] EXEQ - GameBox (World) (Aftermarket) (Pirate)" id="xB05">
@@ -14478,7 +14478,7 @@
 	</game>
 	<game name="Trollz - Hair Affair! (Europe) (En,De,It)" id="2604" cloneofid="2675">
 		<description>Trollz - Hair Affair! (Europe) (En,De,It)</description>
-		<rom name="Trollz - Hair Affair! (Europe) (En,De,It).gba" size="8388608" crc="fb2284ef" md5="bd2163ec09c9986fffdcfedb94c46c34" sha1="ee8653a4da6402554413580258eb2a04d5c17384" serial="BT6Y"/>
+		<rom name="Trollz - Hair Affair! (Europe) (En,De,It).gba" size="8388608" crc="fb2284ef" md5="bd2163ec09c9986fffdcfedb94c46c34" sha1="ee8653a4da6402554413580258eb2a04d5c17384" sha256="524c9890afca8ee528e2fb31fdf861a40c73e1d41d3903447f91ee5e496268ea" serial="BT6Y"/>
 	</game>
 	<game name="Trollz - Hair Affair! (Europe) (En,Fr,Es)" id="2624" cloneofid="2675">
 		<description>Trollz - Hair Affair! (Europe) (En,Fr,Es)</description>

@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20261019-010800</version>
+		<version>20261019-130123</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3615,7 +3615,7 @@
 	<game name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe)" id="0797">
 		<description>Horrid Henry - The Good, the Bad &amp; the Bugly (Europe)</description>
 		<game_id>0004000000071800</game_id>
-		<rom name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe).3ds" size="268435456" crc="eb751bf1" md5="69332089c6a87f3d71e7e1b6c9706294" sha1="2c919cc9c78322a118fd4d33be57c9031fb55c99" serial="CTR-P-AHHP"/>
+		<rom name="Horrid Henry - The Good, the Bad &amp; the Bugly (Europe).3ds" size="268435456" crc="eb751bf1" md5="69332089c6a87f3d71e7e1b6c9706294" sha1="2c919cc9c78322a118fd4d33be57c9031fb55c99" sha256="6cef15868ba66794249b1023105524a0efa7d7e49de79e59b1a1e4e4af661d1d" status="verified" serial="CTR-P-AHHP"/>
 	</game>
 	<game name="Horse Life 4 (Europe) (En,Fr,De,Es,It)" id="1388">
 		<description>Horse Life 4 (Europe) (En,Fr,De,Es,It)</description>
@@ -10781,11 +10781,11 @@
 		<description>WarioWare Gold (USA) (Rev 1)</description>
 		<rom name="WarioWare Gold (USA) (Rev 1).3ds" size="2147483648" crc="9eca8de4" md5="e6ee5b0bfb73179fc9628dc6d49fb1dd" sha1="6ba9d94ac9798ebfa9788566d8153b7f4022938d" sha256="03fc72045e50c196576f8b554247fd2090830e99babd3e52b71f8d8e9f45c41d" serial="CTR-P-AWXA"/>
 	</game>
-	<game name="Whitakers Present, The - Milton &amp; Friends 3D (Europe)" id="0799" cloneofid="1046">
+	<game name="Whitakers Present, The - Milton &amp; Friends 3D (United Kingdom)" id="0799" cloneofid="1046">
 		<category>Games</category>
-		<description>Whitakers Present, The - Milton &amp; Friends 3D (Europe)</description>
+		<description>Whitakers Present, The - Milton &amp; Friends 3D (United Kingdom)</description>
 		<game_id>0004000000064E00</game_id>
-		<rom name="Whitakers Present, The - Milton &amp; Friends 3D (Europe).3ds" size="134217728" crc="358aa45b" md5="439e9a4366bc6f807359e966d9967ac3" sha1="bbff5760145a16bd1ef6eb57609e1dde2a734796" serial="CTR-P-AM3P"/>
+		<rom name="Whitakers Present, The - Milton &amp; Friends 3D (United Kingdom).3ds" size="134217728" crc="358aa45b" md5="439e9a4366bc6f807359e966d9967ac3" sha1="bbff5760145a16bd1ef6eb57609e1dde2a734796" sha256="7d751ae1d3c7fb62b505accaaad1fffc2a65120a9db455f7cc4c2beed2bc3b72" status="verified" serial="CTR-P-AM3P"/>
 	</game>
 	<game name="Winning Eleven 3D Soccer (Japan)" id="0689" cloneofid="0049">
 		<description>Winning Eleven 3D Soccer (Japan)</description>

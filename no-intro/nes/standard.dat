@@ -4,12 +4,12 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20261012-015604</version>
+		<version>20261018-205134</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
-		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
-		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="[BIOS] Game Genie (USA, Europe) (Unl) [UNDUMPED]" id="0818">
@@ -35315,11 +35315,6 @@
 		<description>Age of Warlords (World) (Aftermarket) (Unl)</description>
 		<rom name="Age of Warlords (World) (Aftermarket) (Unl).nes" size="40976" crc="7d932f35" md5="b14e65239918cb7b38a1f4776763fb6f" sha1="c393d584ea84996b49340473d5173377c164ccd4" sha256="2abbd46fe87e55236fcd6d1181c74f7a5a800713381d6cd00055b5b1bd4b06c8" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 03"/>
 	</game>
-	<game name="Aien Cat 2 (World) (Aftermarket) (Unl)" id="8243">
-		<category>Games</category>
-		<description>Aien Cat 2 (World) (Aftermarket) (Unl)</description>
-		<rom name="Aien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="14939D21" md5="7668b6df4e883cb84c1d15f94d0e7c7e" sha1="fc43da8108bfdb51063af84456a96a9bf7be5305" sha256="83979683c68e927c15244a10f78d06a837ab93d919c6011992e5fea9e94f0539" header="4E 45 53 1A 08 10 40 08 00 00 07 00 02 00 00 01"/>
-	</game>
 	<game name="Air Hockey (World) (Aftermarket) (Unl)" id="8285">
 		<category>Games</category>
 		<description>Air Hockey (World) (Aftermarket) (Unl)</description>
@@ -35336,6 +35331,11 @@
 		<category>Preproduction</category>
 		<description>Alfonzo's Arctic Adventure (World) (Demo 1) (Aftermarket) (Unl)</description>
 		<rom name="Alfonzo's Arctic Adventure (World) (Demo 1) (Aftermarket) (Unl).nes" size="262160" crc="c78599b0" md5="b8b87ae882f86b1ba0863cf51494c99e" sha1="c53cab4107a74e7c1e70956e8b3394699e0b71fc" sha256="ff0942680f0eb9957f465da4de4c78fc9df4c1cd1a23b868688cd34a02532d30" header="4E 45 53 1A 08 10 B1 08 00 00 00 00 02 00 00 01"/>
+	</game>
+	<game name="Alien Cat 2 (World) (Aftermarket) (Unl)" id="8243">
+		<category>Games</category>
+		<description>Alien Cat 2 (World) (Aftermarket) (Unl)</description>
+		<rom name="Alien Cat 2 (World) (Aftermarket) (Unl).nes" size="262160" crc="14939D21" md5="7668b6df4e883cb84c1d15f94d0e7c7e" sha1="fc43da8108bfdb51063af84456a96a9bf7be5305" sha256="83979683c68e927c15244a10f78d06a837ab93d919c6011992e5fea9e94f0539" header="4E 45 53 1A 08 10 40 08 00 00 07 00 02 00 00 01"/>
 	</game>
 	<game name="Alien Smash (World) (Beta 3) (Aftermarket) (Unl)" id="8495" cloneofid="8598">
 		<category>Games</category>
@@ -36410,7 +36410,7 @@
 	<game name="Jacob's Elevator (World) (Aftermarket) (Unl)" id="8691" cloneofid="8642">
 		<category>Games</category>
 		<description>Jacob's Elevator (World) (Aftermarket) (Unl)</description>
-		<rom name="Jacob's Elevator (World) (Aftermarket) (Unl).nes" size="40976" crc="9440814a" md5="ad26701dbc94896eaef3ba0f0f7cf4ad" sha1="cda88e63059d1e35dc3a67276fd2b0be5bec99a3" sha256="8258193129adc8381a61b9599a9b54a745c0228412536eea1fb5f7df5ee84352" mia="yes" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
+		<rom name="Jacob's Elevator (World) (Aftermarket) (Unl).nes" size="40976" crc="9440814a" md5="ad26701dbc94896eaef3ba0f0f7cf4ad" sha1="cda88e63059d1e35dc3a67276fd2b0be5bec99a3" sha256="8258193129adc8381a61b9599a9b54a745c0228412536eea1fb5f7df5ee84352" header="4E 45 53 1A 02 01 00 08 00 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Jajamaru no Daibouken (Asia) (Ja) (Pirate)" id="8076" cloneofid="1088">
 		<category>Games</category>

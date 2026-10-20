@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20261018-051908</version>
+		<version>20261019-051252</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2401,7 +2401,7 @@
 	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)" id="0230">
 		<description>Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)</description>
-		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe).md" size="2097152" crc="3e30d365" md5="a603f331d2d8700543a67c60342e38f7" sha1="719140754763e5062947ef9e76ee748cfad38202" status="verified" serial="T-119026-00"/>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA, Europe).md" size="2097152" crc="3e30d365" md5="a603f331d2d8700543a67c60342e38f7" sha1="719140754763e5062947ef9e76ee748cfad38202" sha256="9a194c00569e386fc4b2293c2d9996ba7961f7c0c49d3ec3c1399feab988b94f" status="verified" serial="T-119026-00"/>
 	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)" id="3852" cloneofid="0230">
 		<category>Games</category>
@@ -3025,7 +3025,7 @@
 	</game>
 	<game name="Classic Collection (Europe)" id="0286">
 		<description>Classic Collection (Europe)</description>
-		<rom name="Classic Collection (Europe).md" size="2097152" crc="73f948b1" md5="7a8327df65336f3ae7c96c1b8d03c1bd" sha1="80629bb91a1123ae832f6997f9f3c0e070ce81ca" status="verified" serial="MK-1199-00"/>
+		<rom name="Classic Collection (Europe).md" size="2097152" crc="73f948b1" md5="7a8327df65336f3ae7c96c1b8d03c1bd" sha1="80629bb91a1123ae832f6997f9f3c0e070ce81ca" sha256="fa82f8931d496fcdde8826214825c6d2e6071bca325372282d14ecc0fae10e56" status="verified" serial="MK-1199-00"/>
 	</game>
 	<game name="ClayFighter (USA)" id="0287" cloneofid="1632">
 		<category>Games</category>
@@ -4978,12 +4978,12 @@
 		<description>Elite (Europe) (Demo 3) (Viewer)</description>
 		<rom name="Elite (Europe) (Demo 3) (Viewer).md" size="524288" crc="4a6a7da3" md5="fce6d8bd0d9f76fae2c26eb09159aae5" sha1="9efbc5778e0c2e90c0b2a0497ff836f2343fc592" sha256="b9de8e9d9b50abe2ab39b4c84d2eb5e798ca29b548173df69d4b99e968b11a92"/>
 	</game>
-	<game name="Elitserien 95 (Sweden)" id="0433">
+	<game name="Elitserien 95 (Sweden)" id="0433" cloneofid="0920">
 		<category>Games</category>
 		<description>Elitserien 95 (Sweden)</description>
 		<rom name="Elitserien 95 (Sweden).md" size="2097152" crc="e10a25c0" md5="64c2a99aba71e7796fd12546071592cc" sha1="5f2c8303099ce13fe1e5760b7ef598a2967bfa8d" sha256="066fb34c670d2fd6263f53a273721cf4321762e9bad8b031ede8be50876d8663" status="verified" serial="T-50976-00"/>
 	</game>
-	<game name="Elitserien 96 (Sweden)" id="0434">
+	<game name="Elitserien 96 (Sweden)" id="0434" cloneofid="0921">
 		<category>Games</category>
 		<description>Elitserien 96 (Sweden)</description>
 		<rom name="Elitserien 96 (Sweden).md" size="2097152" crc="9821d0a3" md5="add607e0dd5b9f294bb5a246d8946aed" sha1="085fb8e6f0d2ff0f399de5c57eb13d9c9325dbae" sha256="f6aa13c269dab69df0eeacae64a199f85836a7775638e167d0fae1be190855ca" serial="T-172096-00"/>
@@ -8082,15 +8082,15 @@
 		<description>Landstalker (USA) (Mega Drive Mini, Genesis Mini)</description>
 		<rom name="Landstalker (USA) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="f2d14a6a" md5="dbaa50ee8b061b573c33337e18329ecd" sha1="492f27fa2c4f653ab23f6fcc049bf670a205ff4c" sha256="7e1700c782e5fdd8e3a2f2d8207d58a722c7968d2d765d57da8dddf8d8837fa8" serial="MK-1353-00"/>
 	</game>
-	<game name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)" id="2544" cloneofid="0725">
+	<game name="Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini)" id="2544" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini)</description>
-		<rom name="Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" sha256="6dd354de9f12f0023954b497e7c260867474dce0c3eef918ab3b0a9113d821cc" serial="MK-1353-00"/>
+		<description>Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini)</description>
+		<rom name="Landstalker - Die Schaetze von Koenig Nolo (Germany) (Mega Drive Mini, Genesis Mini).md" size="2097152" crc="fc64bb8c" md5="890171e3d0671b0ac49470e592f0ea99" sha1="1f4e6b414da8e7348a942452f95b8468b2e39b31" sha256="6dd354de9f12f0023954b497e7c260867474dce0c3eef918ab3b0a9113d821cc" serial="MK-1353-00"/>
 	</game>
-	<game name="Landstalker - Die Schatze von Konig Nolo (Germany)" id="0722" cloneofid="0725">
+	<game name="Landstalker - Die Schaetze von Koenig Nolo (Germany)" id="0722" cloneofid="0725">
 		<category>Games</category>
-		<description>Landstalker - Die Schatze von Konig Nolo (Germany)</description>
-		<rom name="Landstalker - Die Schatze von Konig Nolo (Germany).md" size="2097152" crc="10fedb8f" md5="2b6ee5677a6233fd98f0b90b51684991" sha1="b0b447158cabb562e6bf4c0b829ed938b34afb52" sha256="22b4e3dbca86dc179ee279fbcee9ce1569e6e21006815557ffd17a81d80647de" status="verified" serial="MK-1353-00"/>
+		<description>Landstalker - Die Schaetze von Koenig Nolo (Germany)</description>
+		<rom name="Landstalker - Die Schaetze von Koenig Nolo (Germany).md" size="2097152" crc="10fedb8f" md5="2b6ee5677a6233fd98f0b90b51684991" sha1="b0b447158cabb562e6bf4c0b829ed938b34afb52" sha256="22b4e3dbca86dc179ee279fbcee9ce1569e6e21006815557ffd17a81d80647de" status="verified" serial="MK-1353-00"/>
 	</game>
 	<game name="Landstalker - Koutei no Zaihou (Japan)" id="0723" cloneofid="0725">
 		<category>Games</category>
@@ -15874,7 +15874,7 @@
 	<game name="Tanzer (World) (Digital) (Aftermarket) (Unl)" id="3324" cloneofid="2964">
 		<category>Games</category>
 		<description>Tanzer (World) (Digital) (Aftermarket) (Unl)</description>
-		<rom name="Tanzer (World) (Digital) (Aftermarket) (Unl).md" size="4063232" crc="33e80d0d" md5="be2526b6c4dd6d09b31305e69c884e57" sha1="431ac87627674e936379a38eaec2fe97af3201dd" serial="00000000-00"/>
+		<rom name="Tanzer (World) (Digital) (Aftermarket) (Unl).md" size="4063232" crc="33e80d0d" md5="be2526b6c4dd6d09b31305e69c884e57" sha1="431ac87627674e936379a38eaec2fe97af3201dd" sha256="18eac32cb12cd963f4b74f79a34b5f1e77bbef5f492ba6373e9190f531d4c2dd" serial="00000000-00"/>
 	</game>
 	<game name="Target Earth (USA)" id="1374">
 		<category>Games</category>
