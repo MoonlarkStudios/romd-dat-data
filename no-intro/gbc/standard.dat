@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261020-021746</version>
+		<version>20261020-141822</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6707,13 +6707,13 @@
 		<description>Octopus Stressus (World) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Octopus Stressus (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="7ed58128" md5="1a9cb5a60485e19b809c2f476eff190b" sha1="e543c39f8e55b1788476b94028a54fc2fc9c7ea0" sha256="f9496233192021ac73a4f6c999c59e6f6ad8734ca08f08745f5c9670d7aae4f5"/>
 	</game>
-	<game name="Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)" id="0837">
-		<description>Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)</description>
-		<rom name="Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="5c260d5a" md5="627c3542307661990802806ebd0acd90" sha1="a35ccdf0789ce84df3c12cfe7c4b9b98af08ca9a"/>
-	</game>
 	<game name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)" id="1393" cloneofid="0837">
 		<description>Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)</description>
 		<rom name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="4b83b14f" md5="68715e0a2805e3fc019fec35a9cff0d4" sha1="c9d4d1dd1c33a9fa9b54e9f2a7a5f6dd90069b91" status="verified"/>
+	</game>
+	<game name="Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)" id="0837">
+		<description>Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)</description>
+		<rom name="Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="5c260d5a" md5="627c3542307661990802806ebd0acd90" sha1="a35ccdf0789ce84df3c12cfe7c4b9b98af08ca9a"/>
 	</game>
 	<game name="Office Combat (World) (GB Compatible) (Aftermarket) (Unl)" id="2122">
 		<category>Games</category>
@@ -7118,11 +7118,6 @@
 		<description>Pocket Music (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Pocket Music (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="1bfb531e" md5="84eede6bb298dd354f251eccb1259316" sha1="74dc5efab773fde400304d3df8034a095af8a742"/>
 	</game>
-	<game name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04)" id="1626" cloneofid="0890">
-		<category>Games</category>
-		<description>Pocket Music (USA) (En,Es) (Proto) (2002-03-04)</description>
-		<rom name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04).gbc" size="1048576" crc="c4387812" md5="6ca4b011f72523dbd40d9ea470d2b4ea" sha1="ad547a79af864eb56a18e1c2ad4346eb35df41ed" sha256="e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"/>
-	</game>
 	<game name="Pocket Music (USA) (En,Es) (Proto) (2003-03-07)" id="2612" cloneofid="0890">
 		<category>Games</category>
 		<description>Pocket Music (USA) (En,Es) (Proto) (2003-03-07)</description>
@@ -7132,6 +7127,11 @@
 		<category>Preproduction</category>
 		<description>Pocket Music (World) (Proto) (Riff Sampler Test)</description>
 		<rom name="Pocket Music (World) (Proto) (Riff Sampler Test).gbc" size="32768" crc="419d4565" md5="c159483205c4855951fbde09af451984" sha1="b7ecdd51358e2794a45b425ada778722f5f000c0" sha256="2cd0a0e7a520a26796398d3bd2d97f83434bee990121a4f25332d6e192d8602f"/>
+	</game>
+	<game name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04)" id="1626" cloneofid="0890">
+		<category>Games</category>
+		<description>Pocket Music (USA) (En,Es) (Proto) (2002-03-04)</description>
+		<rom name="Pocket Music (USA) (En,Es) (Proto) (2002-03-04).gbc" size="1048576" crc="c4387812" md5="6ca4b011f72523dbd40d9ea470d2b4ea" sha1="ad547a79af864eb56a18e1c2ad4346eb35df41ed" sha256="e8685799f2196b4a23ddf0b4c64aa36e5f6d0a040677c938c867617d1855fafa"/>
 	</game>
 	<game name="Pocket no Naka no Oukoku (Japan) (Proto)" id="0891">
 		<description>Pocket no Naka no Oukoku (Japan) (Proto)</description>
@@ -7371,6 +7371,14 @@
 		<description>Pokemon Sapphire (Taiwan) (Zh) (Unl)</description>
 		<rom name="Pokemon Sapphire (Taiwan) (Zh) (Unl).gbc" size="524288" crc="f3c1c00c" md5="64f353e4310f83a5fbf2e211a63ec27e" sha1="75639d4dbe72d044002f768d5dbbd08caf003fdc" sha256="4807861129ae9d1e8d7fa346ee94cf93b1f52625fd5a675c4737134ad55c5cb2"/>
 	</game>
+	<game name="Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1434">
+		<description>Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="942d0b7f" md5="93dbee715a523e2081a17c44d7a16459" sha1="dffc15f3063a4c2df84c6361406b41aec1696d3e" status="verified"/>
+	</game>
+	<game name="Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1447" cloneofid="1434">
+		<description>Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="3f1d7e58" md5="e8e8c096bebc6b6412fa810422ffd872" sha1="c54b81e638b0c45d3569f9f5f0345df9e95ce975"/>
+	</game>
 	<game name="Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)" id="0929" cloneofid="1434">
 		<description>Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="966daef1" md5="7eb08ef6d67164251eeeabf537fedccb" sha1="2138a422d135a13c49fce71229ae36bc1dc4fbb5"/>
@@ -7382,14 +7390,6 @@
 	<game name="Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)" id="0931" cloneofid="1434">
 		<description>Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="81069d53" md5="219b2cc64e5a052003015d4bd4c622cd" sha1="0f8670a583255cff3e5b7ca71b5d7454d928fc48" sha256="a54515bb6b3e364964d3c0226f5a6b0c8c0f7318c9296ef2e321df0bbb8541ce" status="verified"/>
-	</game>
-	<game name="Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1434">
-		<description>Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="942d0b7f" md5="93dbee715a523e2081a17c44d7a16459" sha1="dffc15f3063a4c2df84c6361406b41aec1696d3e" status="verified"/>
-	</game>
-	<game name="Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)" id="1447" cloneofid="1434">
-		<description>Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible).gbc" size="2097152" crc="3f1d7e58" md5="e8e8c096bebc6b6412fa810422ffd872" sha1="c54b81e638b0c45d3569f9f5f0345df9e95ce975"/>
 	</game>
 	<game name="Pokemon Vision Jade (Taiwan) (De) (Unl)" id="1802" cloneofid="0556">
 		<description>Pokemon Vision Jade (Taiwan) (De) (Unl)</description>

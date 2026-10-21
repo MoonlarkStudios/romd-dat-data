@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20261020-013937</version>
+		<version>20261020-135406</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2775,7 +2775,7 @@
 	</game>
 	<game name="Classic NES Series - Donkey Kong (USA, Europe)" id="1501">
 		<description>Classic NES Series - Donkey Kong (USA, Europe)</description>
-		<rom name="Classic NES Series - Donkey Kong (USA, Europe).gba" size="1048576" crc="f53d8b56" md5="e0e75f6c714550e652dbaaaba49a1d53" sha1="8e3b203630f10c32aa7896afe9b7fbed7e1c8d30" sha256="eb95e91780768410ed5236e9e19c30796b69b1f0386564045a2d2c11497c5d09" serial="FDKE"/>
+		<rom name="Classic NES Series - Donkey Kong (USA, Europe).gba" size="1048576" crc="f53d8b56" md5="e0e75f6c714550e652dbaaaba49a1d53" sha1="8e3b203630f10c32aa7896afe9b7fbed7e1c8d30" sha256="eb95e91780768410ed5236e9e19c30796b69b1f0386564045a2d2c11497c5d09" status="verified" serial="FDKE"/>
 	</game>
 	<game name="Classic NES Series - Dr. Mario (USA, Europe)" id="1723">
 		<description>Classic NES Series - Dr. Mario (USA, Europe)</description>
@@ -10172,7 +10172,7 @@
 	</game>
 	<game name="Pac-Man Pinball Advance (USA)" id="1950" cloneofid="2076">
 		<description>Pac-Man Pinball Advance (USA)</description>
-		<rom name="Pac-Man Pinball Advance (USA).gba" size="4194304" crc="da4e1109" md5="4d7b955b9c19b13d1d776e35ce007f78" sha1="dfd93f861e571153e0ae0a65799c5d44e5154373" serial="BP8E"/>
+		<rom name="Pac-Man Pinball Advance (USA).gba" size="4194304" crc="da4e1109" md5="4d7b955b9c19b13d1d776e35ce007f78" sha1="dfd93f861e571153e0ae0a65799c5d44e5154373" sha256="63aa68a4fc09ddae078ea11f8185c37ea7d874465114282d29f699d545fb401a" serial="BP8E"/>
 	</game>
 	<game name="Pac-Man World (USA)" id="1765" cloneofid="1799">
 		<description>Pac-Man World (USA)</description>
@@ -15372,7 +15372,7 @@
 	</game>
 	<game name="Yoshi Topsy-Turvy (USA)" id="1997" cloneofid="1942">
 		<description>Yoshi Topsy-Turvy (USA)</description>
-		<rom name="Yoshi Topsy-Turvy (USA).gba" size="8388608" crc="e64c265c" md5="e66d2e98947a5bd1068228e4084b06da" sha1="947498cb1db918d305500257e8223deeaddf561d" status="verified" serial="KYGE"/>
+		<rom name="Yoshi Topsy-Turvy (USA).gba" size="8388608" crc="e64c265c" md5="e66d2e98947a5bd1068228e4084b06da" sha1="947498cb1db918d305500257e8223deeaddf561d" sha256="0a65d4c44c4cb8036ca2bd36a3ed14286fb1a285f6849639672181d2fe1ad6e8" status="verified" serial="KYGE"/>
 	</game>
 	<game name="Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It)" id="1942">
 		<description>Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It)</description>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-18 11-13-46)</description>
-		<version>2026-10-18 11-13-46</version>
-		<date>2026-10-18 11-13-46</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-20 23-32-14)</description>
+		<version>2026-10-20 23-32-14</version>
+		<date>2026-10-20 23-32-14</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -16704,11 +16704,11 @@
 		<rom name="Crash Bandicoot (USA).cue" size="87" crc="7420271e" md5="b91e5b916be9bb4bb1c15551af0b4417" sha1="028dc886f50451b612f8f1b2863b6f0a9b3aff3c"/>
 		<rom name="Crash Bandicoot (USA).bin" size="632083536" crc="41b5f211" md5="b4aeaf0c0bb2f2000f31d12e7b59f8f9" sha1="61ff4c9e8dcfb9e5d94d37f66330b69d08d6c914"/>
 	</game>
-	<game name="Crash Bandicoot (USA) (Beta) (1996-05-14)" id="122259">
+	<game name="Crash Bandicoot (USA) (Beta) (1996-05-11)" id="122259">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot (USA) (Beta) (1996-05-14)</description>
-		<rom name="Crash Bandicoot (USA) (Beta) (1996-05-14).cue" size="107" crc="6d8e714e" md5="e7a3ebfd58bb5c50c4987e83a902b919" sha1="202bf8242782b2e28cb73030b5f94d7ed8b283b6"/>
-		<rom name="Crash Bandicoot (USA) (Beta) (1996-05-14).bin" size="183314880" crc="fb429fd6" md5="b67e3c663cc6eff59a637c4ba247aeaf" sha1="c798c64370f282582972287356148e02d117435f"/>
+		<description>Crash Bandicoot (USA) (Beta) (1996-05-11)</description>
+		<rom name="Crash Bandicoot (USA) (Beta) (1996-05-11).cue" size="107" crc="6e691a3d" md5="0686ecc7be218f57b00fcccb77de6161" sha1="8118eb128256fbda7c0868b7a90e374f3f80a62e"/>
+		<rom name="Crash Bandicoot (USA) (Beta) (1996-05-11).bin" size="183314880" crc="fb429fd6" md5="b67e3c663cc6eff59a637c4ba247aeaf" sha1="c798c64370f282582972287356148e02d117435f"/>
 	</game>
 	<game name="Crash Bandicoot - Warped (USA)" id="5006">
 		<category>Games</category>
@@ -16741,11 +16741,11 @@
 		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-30).cue" size="116" crc="208666f3" md5="64b8f9d1ae75c9a8f63ea6a17a55a588" sha1="ae6f738088ee2dbdb376e9f8ab563b485acf96df"/>
 		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-30).bin" size="237410880" crc="5f72aed3" md5="4eae6d57bfedd0704fc66a87947a750e" sha1="2dde76a79f7fdfb72931f196b09dbed75bfdd528"/>
 	</game>
-	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-08)" id="108446">
+	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-11)" id="108446">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-10-08)</description>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-08).cue" size="116" crc="74acb49f" md5="5a38ee033b4c5fc5a106acc1d92fc2a7" sha1="af167e35cdafbdcd09e10e407a67041f1215c1d0"/>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-08).bin" size="285130608" crc="c7140a7c" md5="7ee8029a9fae38d4addda395b0e7f1b6" sha1="857b3f9919d6f3bd9e7b4ee26effd9b5a8440949"/>
+		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-10-11)</description>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-11).cue" size="116" crc="228c2e74" md5="bb7689f19d33402da02a91f9f894cdd9" sha1="d3e9dfdb34bfa92ca46246fe286ef9030a2ac4dd"/>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-11).bin" size="285130608" crc="c7140a7c" md5="7ee8029a9fae38d4addda395b0e7f1b6" sha1="857b3f9919d6f3bd9e7b4ee26effd9b5a8440949"/>
 	</game>
 	<game name="Crash Bandicoot - Warped (USA) (Demo)" id="49445">
 		<category>Demos</category>
@@ -16775,11 +16775,11 @@
 		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It).cue" size="131" crc="3f70cad3" md5="2b704c3da253bcfde87eb036d4c953f1" sha1="a5bd21af4c6ad1dac6e6057c13106d522f84406d"/>
 		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It).bin" size="259602000" crc="f5e2ec49" md5="10dabebd6a3efc1e1e9db4f8f3b864cb" sha1="b077862d2c6e1b8060c2eae2fe82e708b228de7c"/>
 	</game>
-	<game name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-07)" id="74291">
+	<game name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-14)" id="74291">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot 2: Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-07)</description>
-		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-07).cue" size="151" crc="b91f0fde" md5="98d300fa9ce247b5b58725ad6f4a9766" sha1="ef71a50c228d09570c622e679b122926b0a1732c"/>
-		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-07).bin" size="249975264" crc="f4333305" md5="c1382b55e56168d40aae4c0b066a7981" sha1="d9c2ce9bb5c514f5349cbc03f8d8e2a85eccd12e"/>
+		<description>Crash Bandicoot 2: Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-14)</description>
+		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-14).cue" size="151" crc="e8f143d3" md5="1e288f00a389c9a827248aba856ee9b4" sha1="4bdd087489a500b86ce3281e411f08ccc10abefe"/>
+		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (Europe) (En,Fr,De,Es,It) (Beta) (1997-09-14).bin" size="249975264" crc="f4333305" md5="c1382b55e56168d40aae4c0b066a7981" sha1="d9c2ce9bb5c514f5349cbc03f8d8e2a85eccd12e"/>
 	</game>
 	<game name="Crash Bandicoot 2 - Cortex Strikes Back (Europe, Australia) (En,Fr,De,Es,It) (EDC)" id="14827">
 		<category>Games</category>
@@ -16796,17 +16796,17 @@
 		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA).cue" size="111" crc="70106695" md5="fcc7d7ec4d89309fc198e5b40defe244" sha1="f76a12476d0f40af4998dc246dd90f88f73e414f"/>
 		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA).bin" size="192814608" crc="395c0916" md5="3c31b5e038f025098a2fdfa70c8213f2" sha1="3d37fe4288a83b01f1a0edbf78e76e0fede6bc22"/>
 	</game>
-	<game name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-04-01)" id="108445">
+	<game name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-06-15)" id="108445">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot 2: Cortex Strikes Back (USA) (Beta) (1997-04-01)</description>
-		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-04-01).cue" size="131" crc="1889cee6" md5="04ed7c5930ee9260a130e4867a8b14db" sha1="9fdbfca5b143ca064d7bc00592ad8d4bde1a29d2"/>
-		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-04-01).bin" size="52115616" crc="d3da74a4" md5="a2acd3a0fca67149acca4a9368cd5beb" sha1="f0d7c6a4dab977d8288de7a8d1a324721efb33ad"/>
+		<description>Crash Bandicoot 2: Cortex Strikes Back (USA) (Beta) (1997-06-15)</description>
+		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-06-15).cue" size="131" crc="27638cb4" md5="4222d18703b9861f2f7790466845c784" sha1="1fb82c83ae918937282d208e0d52e69cb5c88e90"/>
+		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-06-15).bin" size="52115616" crc="d3da74a4" md5="a2acd3a0fca67149acca4a9368cd5beb" sha1="f0d7c6a4dab977d8288de7a8d1a324721efb33ad"/>
 	</game>
-	<game name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-09-30)" id="108504">
+	<game name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-09-29)" id="108504">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot 2: Cortex Strikes Back (USA) (Beta) (1997-09-30)</description>
-		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-09-30).cue" size="131" crc="6de300f9" md5="c41af06457d4079e002036c29fc0a896" sha1="f9a5e8dcb559f08e0bc01e50c978c365d330a2e3"/>
-		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-09-30).bin" size="192059616" crc="229b8196" md5="1a5a4bbac71167567b2b5213fa2d3a92" sha1="b9b7f88bf843d6e048ce2218d27dfd5c56f5e272"/>
+		<description>Crash Bandicoot 2: Cortex Strikes Back (USA) (Beta) (1997-09-29)</description>
+		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-09-29).cue" size="131" crc="3bc39a12" md5="1087a9d82709ec9d8064eae6d010c231" sha1="5126e33a8124f815bb2b8d671acd7c5a9b63a2ff"/>
+		<rom name="Crash Bandicoot 2 - Cortex Strikes Back (USA) (Beta) (1997-09-29).bin" size="192059616" crc="229b8196" md5="1a5a4bbac71167567b2b5213fa2d3a92" sha1="b9b7f88bf843d6e048ce2218d27dfd5c56f5e272"/>
 	</game>
 	<game name="Crash Bandicoot 3 - Buttobi! Sekai Isshuu (Japan) (Demo)" id="6552">
 		<category>Demos</category>
@@ -26625,6 +26625,20 @@
 		<rom name="Ebisu Yoshikazu no Ooana Kyoutei (Japan) (Track 21).bin" size="4160688" crc="8b23ced9" md5="e10bff89c1e931db3c056a2ad09cf42c" sha1="0277192ea1037b43816f68684ff29dd3cde0c901"/>
 		<rom name="Ebisu Yoshikazu no Ooana Kyoutei (Japan) (Track 22).bin" size="38688048" crc="2726c523" md5="fc99cfefebe42ff4fc203a3e85f3ef8e" sha1="85bc7149265565140756dde95feba5364611fe07"/>
 	</game>
+	<game name="Echo Night #2 - Nemuri no Shihaisha (Japan)" id="11096">
+		<category>Games</category>
+		<serial>SLPS 02167, SLPS 91425</serial>
+		<description>Echo Night #2: Nemuri no Shihaisha (Japan)</description>
+		<rom name="Echo Night #2 - Nemuri no Shihaisha (Japan).cue" size="108" crc="64aa3349" md5="9237c6ed1c41d07841fff2f6366f632f" sha1="c53f9e41aff75a3288055dc88b7bb80a5737eedc"/>
+		<rom name="Echo Night #2 - Nemuri no Shihaisha (Japan).bin" size="349234368" crc="6eff036c" md5="7f57d3c2b5b9fc25f0783115da106903" sha1="77fc59e0d2f892ffcf3dbd099749d1527f157c8c"/>
+	</game>
+	<game name="Echo Night #2 - Nemuri no Shihaisha (Japan) (Demo)" id="68767">
+		<category>Demos</category>
+		<serial>SLPM 80468</serial>
+		<description>Echo Night #2: Nemuri no Shihaisha (Japan) (Demo)</description>
+		<rom name="Echo Night #2 - Nemuri no Shihaisha (Japan) (Demo).cue" size="115" crc="3e0e8db4" md5="2a6310d48e7ce0bda945a8800b8d3562" sha1="4cd897935ff506ceb515648c6ff6a264f4802ae2"/>
+		<rom name="Echo Night #2 - Nemuri no Shihaisha (Japan) (Demo).bin" size="87887184" crc="94c14871" md5="2fedb83b271d0d422642d76f2a5aee66" sha1="5b8a60895c0f825de7b0de5ddafcc58992c3321b"/>
+	</game>
 	<game name="Echo Night (Japan)" id="5621">
 		<category>Games</category>
 		<serial>SLPS 01518, SLPS 91143, SLPS 91403</serial>
@@ -26638,20 +26652,6 @@
 		<description>Echo Night (USA)</description>
 		<rom name="Echo Night (USA).cue" size="82" crc="7d6565a5" md5="c8c55e6a67981be6b03c39438c83a6b9" sha1="ea80fb27cd7f1186363e140a347c6b9b7e624352"/>
 		<rom name="Echo Night (USA).bin" size="514427088" crc="2e977f97" md5="f6b968d1037b7c8e3d8384f0dae188ba" sha1="df1b14eb432285e453e3e7d7658dd54f3c3279f4"/>
-	</game>
-	<game name="Echo Night 2 - Nemuri no Shihaisha (Japan)" id="11096">
-		<category>Games</category>
-		<serial>SLPS 02167, SLPS 91425</serial>
-		<description>Echo Night #2: Nemuri no Shihaisha (Japan)</description>
-		<rom name="Echo Night 2 - Nemuri no Shihaisha (Japan).cue" size="108" crc="64aa3349" md5="9237c6ed1c41d07841fff2f6366f632f" sha1="c53f9e41aff75a3288055dc88b7bb80a5737eedc"/>
-		<rom name="Echo Night 2 - Nemuri no Shihaisha (Japan).bin" size="349234368" crc="6eff036c" md5="7f57d3c2b5b9fc25f0783115da106903" sha1="77fc59e0d2f892ffcf3dbd099749d1527f157c8c"/>
-	</game>
-	<game name="Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo)" id="68767">
-		<category>Demos</category>
-		<serial>SLPM 80468</serial>
-		<description>Echo Night #2: Nemuri no Shihaisha (Japan) (Demo)</description>
-		<rom name="Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo).cue" size="115" crc="3e0e8db4" md5="2a6310d48e7ce0bda945a8800b8d3562" sha1="4cd897935ff506ceb515648c6ff6a264f4802ae2"/>
-		<rom name="Echo Night 2 - Nemuri no Shihaisha (Japan) (Demo).bin" size="87887184" crc="94c14871" md5="2fedb83b271d0d422642d76f2a5aee66" sha1="5b8a60895c0f825de7b0de5ddafcc58992c3321b"/>
 	</game>
 	<game name="Econo Kids - Ta ga Tame ni Kane wa Naru (Japan)" id="30962">
 		<category>Games</category>
@@ -39386,72 +39386,72 @@
 		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 16).bin" size="12486768" crc="f7c37476" md5="f4eb9b3542b89e4cb895e75dcf08c242" sha1="e3b582c89aa4226c10ef210053a0c22a3e9099fc"/>
 		<rom name="Grand Theft Auto - London 1969 (Europe) (En,Fr,De,It) (Track 17).bin" size="45353616" crc="50f5bd58" md5="260e692612ce998bea531f20774439a7" sha1="b49ef92014da78478bb2e8466518a9e178a20d52"/>
 	</game>
-	<game name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It)" id="15795">
+	<game name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It)" id="15795">
 		<category>Games</category>
 		<serial>SLES-01714</serial>
 		<description>Grand Theft Auto: Mission Pack #1: London 1969 (Europe) (En,De,It)</description>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It).cue" size="2574" crc="7b1446d1" md5="8b1a874e8779c00f9e1bdcf776707843" sha1="02c1385e6d98dcd2004b58a076ad0654fa420d02"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 01).bin" size="43234464" crc="79ee2bb3" md5="d6f6f5315b73a6d4612933ce40535585" sha1="69dbf1e460e54aeadcddaecc4fbb6de8bf75dbe1"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 04).bin" size="60970896" crc="0cb36872" md5="9d8194b687da3c5930bddde3760ddeeb" sha1="1c16029349cb72e1fd34bb57a84b0ab731dd0ea4"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,De,It) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It).cue" size="2574" crc="7b1446d1" md5="8b1a874e8779c00f9e1bdcf776707843" sha1="02c1385e6d98dcd2004b58a076ad0654fa420d02"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 01).bin" size="43234464" crc="79ee2bb3" md5="d6f6f5315b73a6d4612933ce40535585" sha1="69dbf1e460e54aeadcddaecc4fbb6de8bf75dbe1"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 04).bin" size="60970896" crc="0cb36872" md5="9d8194b687da3c5930bddde3760ddeeb" sha1="1c16029349cb72e1fd34bb57a84b0ab731dd0ea4"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,De,It) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
 	</game>
-	<game name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1)" id="5505">
+	<game name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1)" id="5505">
 		<category>Games</category>
 		<serial>SLES-01714</serial>
 		<version>Rev 1</version>
 		<description>Grand Theft Auto: Mission Pack #1: London 1969 (Europe) (En,Fr,De,It) (Rev 1)</description>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1).cue" size="2750" crc="42e41e5a" md5="62ddde20ce748ae7d1c082e1132e2963" sha1="d75f50d683fd3ffd4e7882db2fbe81056bb3cb05"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 01).bin" size="43236816" crc="a06fb3ed" md5="4fc760cfa9048210d3574f1fcf4f990f" sha1="742ac8195c756fe0cd45029039af1e40ca60d585"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 04).bin" size="60970896" crc="0cb36872" md5="9d8194b687da3c5930bddde3760ddeeb" sha1="1c16029349cb72e1fd34bb57a84b0ab731dd0ea4"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1).cue" size="2750" crc="42e41e5a" md5="62ddde20ce748ae7d1c082e1132e2963" sha1="d75f50d683fd3ffd4e7882db2fbe81056bb3cb05"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 01).bin" size="43236816" crc="a06fb3ed" md5="4fc760cfa9048210d3574f1fcf4f990f" sha1="742ac8195c756fe0cd45029039af1e40ca60d585"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 04).bin" size="60970896" crc="0cb36872" md5="9d8194b687da3c5930bddde3760ddeeb" sha1="1c16029349cb72e1fd34bb57a84b0ab731dd0ea4"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (Europe) (En,Fr,De,It) (Rev 1) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
 	</game>
-	<game name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA)" id="527">
+	<game name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA)" id="527">
 		<category>Games</category>
 		<serial>SLUS-00846, SLUS-00846CE</serial>
 		<description>Grand Theft Auto: Mission Pack #1: London 1969 (USA)</description>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA).cue" size="2350" crc="7fe49147" md5="49a40151b0579e278ae3cfb5f01c530f" sha1="3831d07c5fb649eed9819748a5a8d1616396c3f3"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 01).bin" size="42949872" crc="8760df1a" md5="e8cc1bbac93d3bddbec804909b4ad7ba" sha1="7ee948c0d8e695e1642a8b582c83850d24b15666"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 04).bin" size="60970896" crc="885dc11e" md5="b2b08ad49046cb062cbb723e3754f4a6" sha1="3055234fdcf092bb461fb68228f3bd1e54e54799"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
-		<rom name="Grand Theft Auto - Mission Pack 1 - London 1969 (USA) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA).cue" size="2350" crc="7fe49147" md5="49a40151b0579e278ae3cfb5f01c530f" sha1="3831d07c5fb649eed9819748a5a8d1616396c3f3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 01).bin" size="42949872" crc="8760df1a" md5="e8cc1bbac93d3bddbec804909b4ad7ba" sha1="7ee948c0d8e695e1642a8b582c83850d24b15666"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 04).bin" size="60970896" crc="885dc11e" md5="b2b08ad49046cb062cbb723e3754f4a6" sha1="3055234fdcf092bb461fb68228f3bd1e54e54799"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 05).bin" size="20281296" crc="ce11304a" md5="4c75e24786287c47ad1cef43f4e9310b" sha1="405080ce67be831ab94b2ca1572897673d6887b0"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 06).bin" size="33929952" crc="3728b7b0" md5="cc77e322397668896dcbd16df18b68fc" sha1="9a777a2a841f02be6e3fe6f298744dfcf1cc0428"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 07).bin" size="52981152" crc="265bd0e7" md5="feb58ee99c3a36319cac79c7b70a2012" sha1="a4cbbecd7d49bdc483057d4565ce8da1d085625c"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 08).bin" size="74215008" crc="ac9b3c66" md5="c76eb77c634df7faf27353c218c4831c" sha1="8eec6f1ad5fcd3437e757ec33bc5d628d844fc1d"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 09).bin" size="25117008" crc="417443a0" md5="83b085b652b82a7186996804fd99f034" sha1="7a673de89a4b8089141f2acd519513f51a184ed8"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 10).bin" size="77305536" crc="a050f3df" md5="3d5f8d5b9b4b4e5e16b567e3a0507492" sha1="5b786dd436334ba8ed5a213d5da18fb2e1392639"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 11).bin" size="61443648" crc="8cf586df" md5="09b36f5ecc6767793c5b6b1bc653d837" sha1="e36219cd309343cbf7d493010bd62a3e5aa69559"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 12).bin" size="33447792" crc="c0d26483" md5="c37910c01847be6f80b17cc25e88fc38" sha1="ce379e2bf03a983e4bb82741959145be01fac3c3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 13).bin" size="29315328" crc="b9d43b25" md5="3eada846c5d4999658aeba8de3491889" sha1="9b4fd36c79b564a4c7a58011480aee38fa0b57e9"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 14).bin" size="31780224" crc="2d1664ef" md5="3bf779a9dd71cab706fcbc5b59373620" sha1="3b850eec1ca5647d9a2b6bb30a623c3cf4ccf347"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 15).bin" size="12486768" crc="7d1654eb" md5="9d23951a5152a00ba315284074da23b6" sha1="dc6f792618d0d68d11a3a2bc41b80bf12d313ca1"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 16).bin" size="34151040" crc="a730f80f" md5="b43d731606990e040b6d52fcc733aecf" sha1="e59017e8aa04a00678bacaecdae0423c3a1817ad"/>
 	</game>
 	<game name="Grand Theft Auto 2 (Europe) (En,Fr,De,Es,It)" id="1295">
 		<category>Games</category>
@@ -96791,19 +96791,19 @@
 		<rom name="Supersonic Racers (Europe) (En,Fr,De,Es,It) (Track 26).bin" size="16358160" crc="524d4bd7" md5="5aaea265d6e81fd0a71b22728b082a9b" sha1="4a8b0e7ee4898e04b506290c799a87af8e3261cd"/>
 		<rom name="Supersonic Racers (Europe) (En,Fr,De,Es,It) (Track 27).bin" size="33889968" crc="cd281d75" md5="8fadd596551fa53188b74269c18358ea" sha1="4b0a67c1db2a8a65f78865f1e86d75c7be37545e"/>
 	</game>
-	<game name="Superstar Dance Club - 1 Hits!!! (Europe) (En,Fr,De,Es,It)" id="14377">
+	<game name="Superstar Dance Club - #1 Hits!!! (Europe) (En,Fr,De,Es,It)" id="14377">
 		<category>Games</category>
 		<serial>SLES-04088</serial>
 		<description>Superstar Dance Club: #1 Hits!!! (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Superstar Dance Club - 1 Hits!!! (Europe) (En,Fr,De,Es,It).cue" size="124" crc="a6c2b91d" md5="4a10eaa7aa038763f5eb00706401fe1e" sha1="6d1137d5ba9e70d93fcb20a55a3375f8520c240d"/>
-		<rom name="Superstar Dance Club - 1 Hits!!! (Europe) (En,Fr,De,Es,It).bin" size="127861776" crc="dcdf0cdd" md5="cdaa88371f23279e53f78c2b57e9a713" sha1="86786e03246d53af5461853844615cce434b2d16"/>
+		<rom name="Superstar Dance Club - #1 Hits!!! (Europe) (En,Fr,De,Es,It).cue" size="124" crc="a6c2b91d" md5="4a10eaa7aa038763f5eb00706401fe1e" sha1="6d1137d5ba9e70d93fcb20a55a3375f8520c240d"/>
+		<rom name="Superstar Dance Club - #1 Hits!!! (Europe) (En,Fr,De,Es,It).bin" size="127861776" crc="dcdf0cdd" md5="cdaa88371f23279e53f78c2b57e9a713" sha1="86786e03246d53af5461853844615cce434b2d16"/>
 	</game>
-	<game name="Superstar Dance Club - 1 Hits!!! (USA)" id="14143">
+	<game name="Superstar Dance Club - #1 Hits!!! (USA)" id="14143">
 		<category>Games</category>
 		<serial>SLUS-01493</serial>
 		<description>Superstar Dance Club: #1 Hits!!! (USA)</description>
-		<rom name="Superstar Dance Club - 1 Hits!!! (USA).cue" size="104" crc="82bd069c" md5="b9f19e9b9587c2972aaaf95848acb7ae" sha1="7653b3471bde59e12b26ffe827e7d160a4acf89a"/>
-		<rom name="Superstar Dance Club - 1 Hits!!! (USA).bin" size="125260464" crc="87345da3" md5="33ff7721410a87d9e5ff962a7c1af28e" sha1="4cd6c1a1a3b856b36358d6f690fbace619428cc8"/>
+		<rom name="Superstar Dance Club - #1 Hits!!! (USA).cue" size="104" crc="82bd069c" md5="b9f19e9b9587c2972aaaf95848acb7ae" sha1="7653b3471bde59e12b26ffe827e7d160a4acf89a"/>
+		<rom name="Superstar Dance Club - #1 Hits!!! (USA).bin" size="125260464" crc="87345da3" md5="33ff7721410a87d9e5ff962a7c1af28e" sha1="4cd6c1a1a3b856b36358d6f690fbace619428cc8"/>
 	</game>
 	<game name="Surf Riders (Europe)" id="9949">
 		<category>Games</category>
@@ -107828,12 +107828,12 @@
 		<rom name="Vagrant Story (Japan, Asia).cue" size="93" crc="ecee9f9b" md5="ece7b1fc9f6c37304cba891cdcd7cccb" sha1="004223de16f2130f862f421e668884cc976d0320"/>
 		<rom name="Vagrant Story (Japan, Asia).bin" size="750643152" crc="74c57fc7" md5="482b80f38e915aa2045a43935899c3b0" sha1="3a528593b822982993e9317efc8ba608b129dae3"/>
 	</game>
-	<game name="Vagrant Story (USA)" id="164">
+	<game name="Vagrant Story (USA, Canada)" id="164">
 		<category>Games</category>
 		<serial>SLUS-01040, SLUS-01040GH</serial>
-		<description>Vagrant Story (USA)</description>
-		<rom name="Vagrant Story (USA).cue" size="85" crc="4938b87b" md5="7df56121671c705b88f8d510cc2c9fb3" sha1="d96b690a9484345d078019567af399a88433d804"/>
-		<rom name="Vagrant Story (USA).bin" size="750643152" crc="eb695a2e" md5="8531bc73ea7cd33a4c8e97bdf139ba9c" sha1="38c63db6c49a06b91d87cd5a4e31b1ec68fe212c"/>
+		<description>Vagrant Story (USA, Canada)</description>
+		<rom name="Vagrant Story (USA, Canada).cue" size="93" crc="ef3cca29" md5="821e7359e0444da90db55b1c816793de" sha1="38e3309669136afd8360d06346ecca9af83c9b1a"/>
+		<rom name="Vagrant Story (USA, Canada).bin" size="750643152" crc="eb695a2e" md5="8531bc73ea7cd33a4c8e97bdf139ba9c" sha1="38c63db6c49a06b91d87cd5a4e31b1ec68fe212c"/>
 	</game>
 	<game name="Valkyrie Profile (Japan) (Disc 1)" id="9466">
 		<category>Games</category>
@@ -108745,42 +108745,24 @@
 		<rom name="Vigilante 8 (USA) (Track 12).bin" size="28581504" crc="4e5f843b" md5="3428cdbcfd34f7b2cc7368f6f2390f10" sha1="46c2ed2b5a53419be17d8d192e4e20131b964726"/>
 		<rom name="Vigilante 8 (USA) (Track 13).bin" size="33772368" crc="0a67704c" md5="3b36258f6d4d9baade581ed3017effee" sha1="4f0188bad749db260a2efd6ae1b6449dc45898fc"/>
 	</game>
-	<game name="Vigilante 8 (USA) (Beta) (1997-09-04)" id="138967">
+	<game name="Vigilante 8 (USA) (Beta) (1998-01-09)" id="138967">
 		<category>Preproduction</category>
 		<serial>SLUS-00510</serial>
-		<description>Vigilante 8 (USA) (Beta) (1997-09-04)</description>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04).cue" size="1698" crc="dcb78c9a" md5="c9d293c2a4a52b004b701b9dbf7ea849" sha1="c658deb5896527589a0c883eca7c6e357ccd9c3e"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 01).bin" size="9556176" crc="f00a1be5" md5="43b41796e0ee819e6608a340464e66b2" sha1="888e65cda708c3cf975a5d36e3961a46a9ba1c3c"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 02).bin" size="27179712" crc="e266c647" md5="3cd0984a9912711329ddc6dda196c46c" sha1="c53e5b32a696018e0ae80764e999839d84dc3bf4"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 03).bin" size="28971936" crc="24485f0e" md5="c2ac092823bfc6b5bc7f28764e10d262" sha1="54708cd7507e61cf90720740fe8412745bed6f16"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 04).bin" size="33172608" crc="026b9bdc" md5="517427bcf4fdf932d0ee64af9e5b6526" sha1="2a205105110381b6cd474fd37e09100ed4153400"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 05).bin" size="29016624" crc="578e7abf" md5="cf81c472c2e1056212ddee2f99f88aa8" sha1="539290892a4efb3b7cbffd15ef037895bbc039bf"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 06).bin" size="26175408" crc="1e7836e9" md5="216994be77808dd50bbf360f0a3c2b87" sha1="6fa2ed5f7d19c3586c62fc438ae9f5b614db049d"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 07).bin" size="29404704" crc="aaddfbcc" md5="ef7f2bb1c9c5de97d6d416ae7a2403b5" sha1="5da41dc464952d0fc0a36987215593a459619528"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 08).bin" size="28355712" crc="4c488014" md5="9d288613a2cfa1ed05bbc511fd62ea45" sha1="84628746955925b806eba137d17b6190bbc91eec"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 09).bin" size="27337296" crc="31ff25bf" md5="bee15fd9fbf556e9ac6bad4133c6396b" sha1="a5e9311a892671ca1121d948b92c254fca92688d"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 10).bin" size="28946064" crc="f36e2332" md5="f8993f4b2dcbe49f3e98d67211acb9bf" sha1="3504d3b353cd5a7d6e86944007122af7137c9c26"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 11).bin" size="31265136" crc="d42e5244" md5="2ede03d67b6dd298f86ff7e8160c3aaf" sha1="a5ef29b8b36fc1fd3dc3a273a118f2dab7cfb60a"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 12).bin" size="28376880" crc="3d7cd6bc" md5="85f26678f1f42cdaa63f2509c10590de" sha1="67961f6d852e6e5b299c4e289e7cc877d04a9cc5"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1997-09-04) (Track 13).bin" size="28694400" crc="8c9d583e" md5="968336ced21542ead7fbf8b81dd44328" sha1="626e19d841ef0b888ed0986ac3eea71dd10dd814"/>
-	</game>
-	<game name="Vigilante 8 (USA) (Beta) (1998-03-25)" id="139266">
-		<category>Preproduction</category>
-		<description>Vigilante 8 (USA) (Beta) (1998-03-25)</description>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25).cue" size="1698" crc="32ecfd66" md5="bf016ca1dbc26b8c2e868f1b086b7cc0" sha1="00aea53cf7f9c2a06c686b105627fe6d00bd8cdb"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 01).bin" size="257202960" crc="a55d0910" md5="09e00b3e2817a8b2cfc592e9829c8ff8" sha1="e79e18e44f3cffb1826e9578478519cbd0427e88"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 02).bin" size="26913936" crc="46260256" md5="5c3cf4d389d39a60c281d4e1f67d5ac6" sha1="67be2b81efc02eca428653955c4bad79a4c87170"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 03).bin" size="29298864" crc="050c245a" md5="d84af365dfa253e9499a3c0bbf55f1d6" sha1="c70864d4b5a7561469de73c8779dec915ad4e18e"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 04).bin" size="29047200" crc="19c56052" md5="08bb925dbbb70338d69e37ffc29d828b" sha1="63b63503a4c8195a3bedf0dc8f4b6b5af4dae791"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 05).bin" size="28616784" crc="1e6c94ab" md5="0558663b5692108739843e571e0fbe64" sha1="50be49c66a41cf534ed632526819b1eb71b68369"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 06).bin" size="29639904" crc="f0d545ca" md5="32c06474bf39d2a61dbdbe8986a5ebcd" sha1="f06b390d39c5474d356745757f6a2ec15e083f85"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 07).bin" size="27690096" crc="81dda273" md5="b9c084b760d71fd1c7aea0faef72e406" sha1="7c67db41b4f1deb243e5a2c6a25a12b35b867860"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 08).bin" size="28866096" crc="6eb82a67" md5="af31044f7a76559c7e4e3ffa6ab9297e" sha1="e82fc82839e933d082112fd4d42de287c8dd0731"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 09).bin" size="31617936" crc="28c6e6d9" md5="73d70f44eb16ee1d551a7e9f09f6df61" sha1="9cde384083dca1effcb68e227b34f858c6d506ac"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 10).bin" size="28228704" crc="df78cb86" md5="d481900dd9ce1c9e41adb6b97ea79a5f" sha1="bfefd4af00c08f38954e0f4d960e993dfcd78301"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 11).bin" size="27640704" crc="f87ec2bb" md5="c301ca8983149b01c6063f4175c158f4" sha1="925537a6c96f3fa46fb82237a8d36ff384f83cef"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 12).bin" size="28581504" crc="f1cb5129" md5="c10d297ac2117d1feac814e052f2e834" sha1="60d4b6e7efb223b4123fb18713cd9f66262a4b84"/>
-		<rom name="Vigilante 8 (USA) (Beta) (1998-03-25) (Track 13).bin" size="33772368" crc="2d7c2e8a" md5="b3d95753aad64c79762a4f6cd4cf0e67" sha1="688e73c6865adccf8150222627f64aee42cdd3b9"/>
+		<description>Vigilante 8 (USA) (Beta) (1998-01-09)</description>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09).cue" size="1698" crc="1a3ee40a" md5="666a69e73cc51388c9858ddf63ad9685" sha1="a95b03cbdb95f62b051c6bd497584953ee7bec8d"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 01).bin" size="9556176" crc="f00a1be5" md5="43b41796e0ee819e6608a340464e66b2" sha1="888e65cda708c3cf975a5d36e3961a46a9ba1c3c"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 02).bin" size="27179712" crc="e266c647" md5="3cd0984a9912711329ddc6dda196c46c" sha1="c53e5b32a696018e0ae80764e999839d84dc3bf4"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 03).bin" size="28971936" crc="24485f0e" md5="c2ac092823bfc6b5bc7f28764e10d262" sha1="54708cd7507e61cf90720740fe8412745bed6f16"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 04).bin" size="33172608" crc="026b9bdc" md5="517427bcf4fdf932d0ee64af9e5b6526" sha1="2a205105110381b6cd474fd37e09100ed4153400"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 05).bin" size="29016624" crc="578e7abf" md5="cf81c472c2e1056212ddee2f99f88aa8" sha1="539290892a4efb3b7cbffd15ef037895bbc039bf"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 06).bin" size="26175408" crc="1e7836e9" md5="216994be77808dd50bbf360f0a3c2b87" sha1="6fa2ed5f7d19c3586c62fc438ae9f5b614db049d"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 07).bin" size="29404704" crc="aaddfbcc" md5="ef7f2bb1c9c5de97d6d416ae7a2403b5" sha1="5da41dc464952d0fc0a36987215593a459619528"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 08).bin" size="28355712" crc="4c488014" md5="9d288613a2cfa1ed05bbc511fd62ea45" sha1="84628746955925b806eba137d17b6190bbc91eec"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 09).bin" size="27337296" crc="31ff25bf" md5="bee15fd9fbf556e9ac6bad4133c6396b" sha1="a5e9311a892671ca1121d948b92c254fca92688d"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 10).bin" size="28946064" crc="f36e2332" md5="f8993f4b2dcbe49f3e98d67211acb9bf" sha1="3504d3b353cd5a7d6e86944007122af7137c9c26"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 11).bin" size="31265136" crc="d42e5244" md5="2ede03d67b6dd298f86ff7e8160c3aaf" sha1="a5ef29b8b36fc1fd3dc3a273a118f2dab7cfb60a"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 12).bin" size="28376880" crc="3d7cd6bc" md5="85f26678f1f42cdaa63f2509c10590de" sha1="67961f6d852e6e5b299c4e289e7cc877d04a9cc5"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-01-09) (Track 13).bin" size="28694400" crc="8c9d583e" md5="968336ced21542ead7fbf8b81dd44328" sha1="626e19d841ef0b888ed0986ac3eea71dd10dd814"/>
 	</game>
 	<game name="Vigilante 8 (USA) (Beta) (1998-03-30)" id="89699">
 		<category>Preproduction</category>
@@ -108799,6 +108781,24 @@
 		<rom name="Vigilante 8 (USA) (Beta) (1998-03-30) (Track 11).bin" size="31265136" crc="d42e5244" md5="2ede03d67b6dd298f86ff7e8160c3aaf" sha1="a5ef29b8b36fc1fd3dc3a273a118f2dab7cfb60a"/>
 		<rom name="Vigilante 8 (USA) (Beta) (1998-03-30) (Track 12).bin" size="28263984" crc="4848ef94" md5="f031643384eada2038660124ddae4960" sha1="f44f18778ffa5f4fbe4b2be5ab6a6aee4bf67315"/>
 		<rom name="Vigilante 8 (USA) (Beta) (1998-03-30) (Track 13).bin" size="33419568" crc="3069bc94" md5="ebfdf7b236636e7dfef12e20f2a24894" sha1="c348ee1e3d3bc9d4d48687f6ddd8d61e6ad0e58b"/>
+	</game>
+	<game name="Vigilante 8 (USA) (Beta) (1998-05-11)" id="139266">
+		<category>Preproduction</category>
+		<description>Vigilante 8 (USA) (Beta) (1998-05-11)</description>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11).cue" size="1698" crc="3b4ec137" md5="9e781756d12812a254d211ec80aef417" sha1="5edd421768b7c52aaa41561b81f0b1c77490d821"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 01).bin" size="257202960" crc="a55d0910" md5="09e00b3e2817a8b2cfc592e9829c8ff8" sha1="e79e18e44f3cffb1826e9578478519cbd0427e88"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 02).bin" size="26913936" crc="46260256" md5="5c3cf4d389d39a60c281d4e1f67d5ac6" sha1="67be2b81efc02eca428653955c4bad79a4c87170"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 03).bin" size="29298864" crc="050c245a" md5="d84af365dfa253e9499a3c0bbf55f1d6" sha1="c70864d4b5a7561469de73c8779dec915ad4e18e"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 04).bin" size="29047200" crc="19c56052" md5="08bb925dbbb70338d69e37ffc29d828b" sha1="63b63503a4c8195a3bedf0dc8f4b6b5af4dae791"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 05).bin" size="28616784" crc="1e6c94ab" md5="0558663b5692108739843e571e0fbe64" sha1="50be49c66a41cf534ed632526819b1eb71b68369"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 06).bin" size="29639904" crc="f0d545ca" md5="32c06474bf39d2a61dbdbe8986a5ebcd" sha1="f06b390d39c5474d356745757f6a2ec15e083f85"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 07).bin" size="27690096" crc="81dda273" md5="b9c084b760d71fd1c7aea0faef72e406" sha1="7c67db41b4f1deb243e5a2c6a25a12b35b867860"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 08).bin" size="28866096" crc="6eb82a67" md5="af31044f7a76559c7e4e3ffa6ab9297e" sha1="e82fc82839e933d082112fd4d42de287c8dd0731"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 09).bin" size="31617936" crc="28c6e6d9" md5="73d70f44eb16ee1d551a7e9f09f6df61" sha1="9cde384083dca1effcb68e227b34f858c6d506ac"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 10).bin" size="28228704" crc="df78cb86" md5="d481900dd9ce1c9e41adb6b97ea79a5f" sha1="bfefd4af00c08f38954e0f4d960e993dfcd78301"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 11).bin" size="27640704" crc="f87ec2bb" md5="c301ca8983149b01c6063f4175c158f4" sha1="925537a6c96f3fa46fb82237a8d36ff384f83cef"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 12).bin" size="28581504" crc="f1cb5129" md5="c10d297ac2117d1feac814e052f2e834" sha1="60d4b6e7efb223b4123fb18713cd9f66262a4b84"/>
+		<rom name="Vigilante 8 (USA) (Beta) (1998-05-11) (Track 13).bin" size="33772368" crc="2d7c2e8a" md5="b3d95753aad64c79762a4f6cd4cf0e67" sha1="688e73c6865adccf8150222627f64aee42cdd3b9"/>
 	</game>
 	<game name="Vigilante 8 (USA) (Demo)" id="12308">
 		<category>Demos</category>

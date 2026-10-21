@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-19 14-44-04)</description>
-		<version>2026-10-19 14-44-04</version>
-		<date>2026-10-19 14-44-04</date>
+		<description>Microsoft - Xbox 360 - Datfile (3710) (2026-10-21 08-54-29)</description>
+		<version>2026-10-21 08-54-29</version>
+		<date>2026-10-21 08-54-29</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -540,11 +540,11 @@
 		<description>Anarchy Reigns (World) (En,Ja,Fr,Es,It)</description>
 		<rom name="Anarchy Reigns (World) (En,Ja,Fr,Es,It).iso" size="8738846720" crc="def13525" md5="9da4982cfe5e7629f6a4910286a72fca" sha1="68167be1f09685ee3b7e98842f30aba94b89146a"/>
 	</game>
-	<game name="Angry Birds Star Wars (United Arab Emirates, Russia) (Ru,Ar)" id="118301">
+	<game name="Angry Birds Star Wars (UAE, Russia) (Ru,Ar)" id="118301">
 		<category>Games</category>
 		<serial>AV-2305</serial>
-		<description>Angry Birds Star Wars (United Arab Emirates, Russia) (Ru,Ar)</description>
-		<rom name="Angry Birds Star Wars (United Arab Emirates, Russia) (Ru,Ar).iso" size="7838695424" crc="cfdd3657" md5="ef2e408361b6eefea10bb5acde11cbe7" sha1="af5257c6fe6f25558a49e8fc4cffb9e83893e642"/>
+		<description>Angry Birds Star Wars (UAE, Russia) (Ru,Ar)</description>
+		<rom name="Angry Birds Star Wars (UAE, Russia) (Ru,Ar).iso" size="7838695424" crc="cfdd3657" md5="ef2e408361b6eefea10bb5acde11cbe7" sha1="af5257c6fe6f25558a49e8fc4cffb9e83893e642"/>
 	</game>
 	<game name="Angry Birds Star Wars (USA, Europe) (En,Fr,De,Es,It,Pt)" id="46912">
 		<category>Games</category>
@@ -2648,17 +2648,17 @@
 		<description>Call of Duty: Advanced Warfare (Spain) (Disco de Juego)</description>
 		<rom name="Call of Duty - Advanced Warfare (Spain) (Disco de Juego).iso" size="8738846720" crc="6c07390f" md5="f1fa7d9a7ae45057389541ad5b0d01f8" sha1="99b01ea3208a4c87fd7f8208417170a7a765abfe"/>
 	</game>
-	<game name="Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar) (Game Disc)" id="133160">
+	<game name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Game Disc)" id="133160">
 		<category>Games</category>
 		<serial>AV-2324</serial>
-		<description>Call of Duty: Advanced Warfare (United Arab Emirates) (En,Ar) (Game Disc)</description>
-		<rom name="Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar) (Game Disc).iso" size="8738846720" crc="6c7181dd" md5="16ca22ad8d012d24c68967a9e9f09b22" sha1="0686433acae88eaff0f49fd1dc2cd113ad89d6b9"/>
+		<description>Call of Duty: Advanced Warfare (UAE) (En,Ar) (Game Disc)</description>
+		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Game Disc).iso" size="8738846720" crc="6c7181dd" md5="16ca22ad8d012d24c68967a9e9f09b22" sha1="0686433acae88eaff0f49fd1dc2cd113ad89d6b9"/>
 	</game>
-	<game name="Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar) (Install Disc)" id="133161">
+	<game name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Install Disc)" id="133161">
 		<category>Games</category>
 		<serial>AV-2324</serial>
-		<description>Call of Duty: Advanced Warfare (United Arab Emirates) (En,Ar) (Install Disc)</description>
-		<rom name="Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar) (Install Disc).iso" size="8738846720" crc="9db97944" md5="59c5aa136f1dc36739c03026849624e2" sha1="48b186682db3c8a0ff640cbbee717ff1e0ddd1b1"/>
+		<description>Call of Duty: Advanced Warfare (UAE) (En,Ar) (Install Disc)</description>
+		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar) (Install Disc).iso" size="8738846720" crc="9db97944" md5="59c5aa136f1dc36739c03026849624e2" sha1="48b186682db3c8a0ff640cbbee717ff1e0ddd1b1"/>
 	</game>
 	<game name="Call of Duty - Advanced Warfare (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (Install Disc)" id="53331">
 		<category>Games</category>
@@ -5383,11 +5383,11 @@
 		<description>Disney/Pixar WALL-E (Russia)</description>
 		<rom name="Disney-Pixar WALL-E (Russia).iso" size="7835492352" crc="38c3ae0f" md5="7738efb3680f6cb6e39e79c2fde33d9c" sha1="5041219af97874d8654752441bb76d96d68d3078"/>
 	</game>
-	<game name="Disney-Pixar WALL-E (United Arab Emirates) (En,Ar)" id="130268">
+	<game name="Disney-Pixar WALL-E (UAE) (En,Ar)" id="130268">
 		<category>Games</category>
 		<serial>TQ-2084</serial>
-		<description>Disney/Pixar WALL-E (United Arab Emirates) (En,Ar)</description>
-		<rom name="Disney-Pixar WALL-E (United Arab Emirates) (En,Ar).iso" size="7835492352" crc="f66d5fa4" md5="7756ec6e1595cddea050573486fd3dec" sha1="53833c11c5694afd650e30ea0bf0a6c18ff1c6a5"/>
+		<description>Disney/Pixar WALL-E (UAE) (En,Ar)</description>
+		<rom name="Disney-Pixar WALL-E (UAE) (En,Ar).iso" size="7835492352" crc="f66d5fa4" md5="7756ec6e1595cddea050573486fd3dec" sha1="53833c11c5694afd650e30ea0bf0a6c18ff1c6a5"/>
 	</game>
 	<game name="Disney-Pixar WALL-E (USA) (En,Fr,Es)" id="102416">
 		<category>Games</category>
@@ -17750,11 +17750,11 @@
 		<description>Shin Sangoku Musou: Multi Raid Special (Japan, Asia)</description>
 		<rom name="Shin Sangoku Musou - Multi Raid Special (Japan, Asia).iso" size="7838695424" crc="acb2e1fc" md5="43a3a81b5edec930d89ff797fbf3b0a2" sha1="28cffaacce57dce123df7e6f5be1cb4ef6c5826d"/>
 	</game>
-	<game name="Shin Sangoku Musou 4 - Empires (Japan, Korea)" id="92532">
+	<game name="Shin Sangoku Musou 4 - Empires (Japan, Asia)" id="92532">
 		<category>Games</category>
 		<serial>KO-2003</serial>
-		<description>Shin Sangoku Musou 4: Empires (Japan, Korea)</description>
-		<rom name="Shin Sangoku Musou 4 - Empires (Japan, Korea).iso" size="7834892288" crc="98cd93d6" md5="b9ece49278751fb59932fd50a6ab2bf6" sha1="aa5426b73a95936e82b86f68d0f8604d7930b2f2"/>
+		<description>Shin Sangoku Musou 4: Empires (Japan, Asia)</description>
+		<rom name="Shin Sangoku Musou 4 - Empires (Japan, Asia).iso" size="7834892288" crc="98cd93d6" md5="b9ece49278751fb59932fd50a6ab2bf6" sha1="aa5426b73a95936e82b86f68d0f8604d7930b2f2"/>
 	</game>
 	<game name="Shin Sangoku Musou 4 Special (Asia)" id="101182">
 		<category>Games</category>
@@ -19573,11 +19573,11 @@
 		<description>Tomb Raider (Russia) (Pl,Ru)</description>
 		<rom name="Tomb Raider (Russia) (Pl,Ru).iso" size="7838695424" crc="999df6c3" md5="db30e7f3110bf8401c35719ed3ef8d1a" sha1="7d7ee2e0d844a6b0d1e8dc2e272b53cb487bd1a7"/>
 	</game>
-	<game name="Tomb Raider (United Arab Emirates) (En,Ar)" id="131980">
+	<game name="Tomb Raider (UAE) (En,Ar)" id="131980">
 		<category>Games</category>
 		<serial>SQ-2050</serial>
-		<description>Tomb Raider (United Arab Emirates) (En,Ar)</description>
-		<rom name="Tomb Raider (United Arab Emirates) (En,Ar).iso" size="7838695424" crc="bdfc9721" md5="ac7a8d547093586cdcf1056d7fcf3e7e" sha1="7104c5b7af71f0454217bf35180d5a0e13a168ae"/>
+		<description>Tomb Raider (UAE) (En,Ar)</description>
+		<rom name="Tomb Raider (UAE) (En,Ar).iso" size="7838695424" crc="bdfc9721" md5="ac7a8d547093586cdcf1056d7fcf3e7e" sha1="7104c5b7af71f0454217bf35180d5a0e13a168ae"/>
 	</game>
 	<game name="Tomb Raider (USA, Europe) (En,Es,Nl,Pt)" id="38453">
 		<category>Games</category>
@@ -21179,11 +21179,11 @@
 		<description>X-Men: The Official Game (Europe) (Es,It)</description>
 		<rom name="X-Men - The Official Game (Europe) (Es,It).iso" size="7834892288" crc="e13aee03" md5="71847ea1156615e61c9c896366f1a9db" sha1="21275f2aee8ffd158eec2c8ac02e38ed6966aff4"/>
 	</game>
-	<game name="X-Men - The Official Game (USA)" id="60749">
+	<game name="X-Men - The Official Game (USA, Australia)" id="60749">
 		<category>Games</category>
 		<serial>AV-2011</serial>
-		<description>X-Men: The Official Game (USA)</description>
-		<rom name="X-Men - The Official Game (USA).iso" size="7834892288" crc="72fd0782" md5="878098af7d6234700908a939e738125b" sha1="6ae51866cf8efd039c55555434f6965fef4b5631"/>
+		<description>X-Men: The Official Game (USA, Australia)</description>
+		<rom name="X-Men - The Official Game (USA, Australia).iso" size="7834892288" crc="72fd0782" md5="878098af7d6234700908a939e738125b" sha1="6ae51866cf8efd039c55555434f6965fef4b5631"/>
 	</game>
 	<game name="X-Men Origins - Wolverine - Uncaged Edition (USA, Europe) (En,Fr,Es,It)" id="13323">
 		<category>Games</category>
