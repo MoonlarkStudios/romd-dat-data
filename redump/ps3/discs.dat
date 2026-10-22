@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-19 13-33-59)</description>
-		<version>2026-10-19 13-33-59</version>
-		<date>2026-10-19 13-33-59</date>
+		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-22 09-26-22)</description>
+		<version>2026-10-22 09-26-22</version>
+		<date>2026-10-22 09-26-22</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -3978,12 +3978,12 @@
 		<description>Call of Duty: Advanced Warfare (Japan) (Jimakuban)</description>
 		<rom name="Call of Duty - Advanced Warfare (Japan) (Jimakuban).iso" size="13673299968" crc="ad5d0900" md5="eef674bf9de366522b74a91c3e92399c" sha1="1fc3d9ba27ebf0f7cd5b03e439c0cbb683bc1e88"/>
 	</game>
-	<game name="Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar)" id="81550">
+	<game name="Call of Duty - Advanced Warfare (UAE) (En,Ar)" id="81550">
 		<category>Games</category>
 		<serial>BLES-02079</serial>
 		<version>01.00</version>
-		<description>Call of Duty: Advanced Warfare (United Arab Emirates) (En,Ar)</description>
-		<rom name="Call of Duty - Advanced Warfare (United Arab Emirates) (En,Ar).iso" size="14424932352" crc="623d1202" md5="275e61478b1cf63b11c6ee631f462769" sha1="c728e7028d0c6923957776bea2b99efd8bad717d"/>
+		<description>Call of Duty: Advanced Warfare (UAE) (En,Ar)</description>
+		<rom name="Call of Duty - Advanced Warfare (UAE) (En,Ar).iso" size="14424932352" crc="623d1202" md5="275e61478b1cf63b11c6ee631f462769" sha1="c728e7028d0c6923957776bea2b99efd8bad717d"/>
 	</game>
 	<game name="Call of Duty - Advanced Warfare (USA) (En,Fr,Es,Pt)" id="34219">
 		<category>Games</category>
@@ -4139,11 +4139,11 @@
 		<description>Call of Duty: Black Ops III (Japan)</description>
 		<rom name="Call of Duty - Black Ops III (Japan).iso" size="4211867648" crc="b85d8f81" md5="0c48a894c932db78075aa72c34e00d7b" sha1="601244a9ecf04291ca664c77c74d9eb2569a26c4"/>
 	</game>
-	<game name="Call of Duty - Black Ops III (United Arab Emirates)" id="102945">
+	<game name="Call of Duty - Black Ops III (UAE)" id="102945">
 		<category>Games</category>
 		<serial>BLES-02168</serial>
-		<description>Call of Duty: Black Ops III (United Arab Emirates)</description>
-		<rom name="Call of Duty - Black Ops III (United Arab Emirates).iso" size="4008706048" crc="533b357d" md5="2ccb5e7c1a1cfe1d94affdf160ed4358" sha1="41ffafb8af82cef119972a7122076558ff24dc1f"/>
+		<description>Call of Duty: Black Ops III (UAE)</description>
+		<rom name="Call of Duty - Black Ops III (UAE).iso" size="4008706048" crc="533b357d" md5="2ccb5e7c1a1cfe1d94affdf160ed4358" sha1="41ffafb8af82cef119972a7122076558ff24dc1f"/>
 	</game>
 	<game name="Call of Duty - Black Ops III (USA) (En,Fr,Es,Pt)" id="41174">
 		<category>Games</category>
@@ -7285,12 +7285,12 @@
 		<description>Disney/Pixar Toy Story 3 (Scandinavia) (Sv,No,Da,Fi)</description>
 		<rom name="Disney-Pixar Toy Story 3 (Scandinavia) (Sv,No,Da,Fi).iso" size="7448231936" crc="41577aa2" md5="a61fe18e8e0ced66277380aca6d31f01" sha1="6bb8b8ff733a619facf46bccd37ffbac5d745e9d"/>
 	</game>
-	<game name="Disney-Pixar Toy Story 3 (United Arab Emirates) (En,Ar)" id="100964">
+	<game name="Disney-Pixar Toy Story 3 (UAE) (En,Ar)" id="100964">
 		<category>Games</category>
 		<serial>BLES-00878/E</serial>
 		<version>01.01</version>
-		<description>Disney/Pixar Toy Story 3 (United Arab Emirates) (En,Ar)</description>
-		<rom name="Disney-Pixar Toy Story 3 (United Arab Emirates) (En,Ar).iso" size="7184449536" crc="617e5cd3" md5="5fbaeaaeede1b9441f596adba31c32fc" sha1="dbd23a58feac6277402ee7b4fd78f97fcc86dd39"/>
+		<description>Disney/Pixar Toy Story 3 (UAE) (En,Ar)</description>
+		<rom name="Disney-Pixar Toy Story 3 (UAE) (En,Ar).iso" size="7184449536" crc="617e5cd3" md5="5fbaeaaeede1b9441f596adba31c32fc" sha1="dbd23a58feac6277402ee7b4fd78f97fcc86dd39"/>
 	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)" id="14256">
 		<category>Games</category>
@@ -10253,12 +10253,12 @@
 		<description>FIFA 12 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu)</description>
 		<rom name="FIFA 12 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl,Ru,Cs,Hu).iso" size="9839968256" crc="b01d47da" md5="7ecaa665e8d90108656dfe72e0b79d32" sha1="3f6d799f5427300f32d6dad243645c2c94d5981f"/>
 	</game>
-	<game name="FIFA 12 (United Arab Emirates)" id="136854">
+	<game name="FIFA 12 (UAE)" id="136854">
 		<category>Games</category>
 		<serial>BLES-01382</serial>
 		<version>01.01</version>
-		<description>FIFA 12 (United Arab Emirates)</description>
-		<rom name="FIFA 12 (United Arab Emirates).iso" size="5890113536" crc="0c5ec40b" md5="44723d6308e42db9f9685f8844b69ab7" sha1="a6340211d5d67016ce9a74274dc4cb199c3cbd59"/>
+		<description>FIFA 12 (UAE)</description>
+		<rom name="FIFA 12 (UAE).iso" size="5890113536" crc="0c5ec40b" md5="44723d6308e42db9f9685f8844b69ab7" sha1="a6340211d5d67016ce9a74274dc4cb199c3cbd59"/>
 	</game>
 	<game name="FIFA 12 - World Class Soccer (Japan)" id="65861">
 		<category>Games</category>
@@ -13583,12 +13583,12 @@
 		<description>Iron Man (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Iron Man (USA) (En,Fr,De,Es,It).iso" size="12381454336" crc="41cb1599" md5="e3138c2594c107258b4c6946ebb2c284" sha1="651ab7e936dee1942b3660df1ab44b06f15ab6b6"/>
 	</game>
-	<game name="Iron Man 2 (USA) (En,Fr,De,Es,It)" id="36534">
+	<game name="Iron Man 2 (USA, Asia) (En,Fr,De,Es,It)" id="36534">
 		<category>Games</category>
-		<serial>BLUS-30514</serial>
+		<serial>BLUS-30514, BLAS 50206</serial>
 		<version>01.00</version>
-		<description>Iron Man 2 (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Iron Man 2 (USA) (En,Fr,De,Es,It).iso" size="7997947904" crc="e1e1fc73" md5="bcc996e5e64d7a39b465635688d9db79" sha1="0ded8f9148cf331e516ea200300e9bdf5ba5b1b0"/>
+		<description>Iron Man 2 (USA, Asia) (En,Fr,De,Es,It)</description>
+		<rom name="Iron Man 2 (USA, Asia) (En,Fr,De,Es,It).iso" size="7997947904" crc="e1e1fc73" md5="bcc996e5e64d7a39b465635688d9db79" sha1="0ded8f9148cf331e516ea200300e9bdf5ba5b1b0"/>
 	</game>
 	<game name="Iron Man 2 - The Video Game (Europe) (En,Fr,De,Es,It)" id="34574">
 		<category>Games</category>
@@ -21052,12 +21052,12 @@
 		<description>PES 2014: Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Ru,El,Tr)</description>
 		<rom name="PES 2014 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Ru,El,Tr).iso" size="7796817920" crc="0472273f" md5="12749537d97760506a560a3b7df1d9bf" sha1="963369acc7a1243a836970b97617ba124892d1ce"/>
 	</game>
-	<game name="PES 2014 - Pro Evolution Soccer (United Arab Emirates) (En,Ar)" id="129462">
+	<game name="PES 2014 - Pro Evolution Soccer (UAE) (En,Ar)" id="129462">
 		<category>Games</category>
 		<serial>BLES-01935</serial>
 		<version>01.00</version>
-		<description>PES 2014: Pro Evolution Soccer (United Arab Emirates) (En,Ar)</description>
-		<rom name="PES 2014 - Pro Evolution Soccer (United Arab Emirates) (En,Ar).iso" size="6420430848" crc="07f4cfa6" md5="ace607119eb445a4551224cd65073ae4" sha1="631a765bee4979e9d3f1ced259e46498fbef8e0f"/>
+		<description>PES 2014: Pro Evolution Soccer (UAE) (En,Ar)</description>
+		<rom name="PES 2014 - Pro Evolution Soccer (UAE) (En,Ar).iso" size="6420430848" crc="07f4cfa6" md5="ace607119eb445a4551224cd65073ae4" sha1="631a765bee4979e9d3f1ced259e46498fbef8e0f"/>
 	</game>
 	<game name="PES 2014 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)" id="31950">
 		<category>Games</category>
@@ -21108,11 +21108,11 @@
 		<description>PES 2017: Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Ru,El,Tr)</description>
 		<rom name="PES 2017 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Ru,El,Tr).iso" size="8911126528" crc="92bd5768" md5="de938a6e3eec2a3013a2eb93746bc160" sha1="81b4697a793479c09fb35846eb14b8c54f9933a6"/>
 	</game>
-	<game name="PES 2017 - Pro Evolution Soccer (United Arab Emirates) (En,Ar)" id="123271">
+	<game name="PES 2017 - Pro Evolution Soccer (UAE) (En,Ar)" id="123271">
 		<category>Games</category>
 		<serial>BLES-02238</serial>
-		<description>PES 2017: Pro Evolution Soccer (United Arab Emirates) (En,Ar)</description>
-		<rom name="PES 2017 - Pro Evolution Soccer (United Arab Emirates) (En,Ar).iso" size="6516834304" crc="fca4191f" md5="4e8036e473228974777847dc04f808b0" sha1="d217759241a29e9df110225ebd3f570129a90a07"/>
+		<description>PES 2017: Pro Evolution Soccer (UAE) (En,Ar)</description>
+		<rom name="PES 2017 - Pro Evolution Soccer (UAE) (En,Ar).iso" size="6516834304" crc="fca4191f" md5="4e8036e473228974777847dc04f808b0" sha1="d217759241a29e9df110225ebd3f570129a90a07"/>
 	</game>
 	<game name="PES 2017 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)" id="41573">
 		<category>Games</category>
@@ -22399,12 +22399,12 @@
 		<description>Ratchet &amp; Clank Future 2 (Japan) (En,Ja)</description>
 		<rom name="Ratchet &amp; Clank Future 2 (Japan) (En,Ja).iso" size="20505559040" crc="f69f353c" md5="2c1ba8b5036beacefddbb2475336ce2f" sha1="1ea459c74c97a93409c9fb4a5902df019d776e1e"/>
 	</game>
-	<game name="Ratchet &amp; Clank Trilogy, The (Europe, Korea) (En,Fr,De,Es,It)" id="47911">
+	<game name="Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It)" id="47911">
 		<category>Games</category>
-		<serial>BCES-01503, BCKS 10221</serial>
+		<serial>BCES-01503, BCKS 10221, BCAS 20246</serial>
 		<version>01.01</version>
-		<description>Ratchet &amp; Clank Trilogy, The (Europe, Korea) (En,Fr,De,Es,It)</description>
-		<rom name="Ratchet &amp; Clank Trilogy, The (Europe, Korea) (En,Fr,De,Es,It).iso" size="10877075456" crc="dde15fd8" md5="6d706037847e92809ee9119748dd7912" sha1="547c712c7999a56076df3bad45228a204456db71"/>
+		<description>Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It)</description>
+		<rom name="Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It).iso" size="10877075456" crc="dde15fd8" md5="6d706037847e92809ee9119748dd7912" sha1="547c712c7999a56076df3bad45228a204456db71"/>
 	</game>
 	<game name="Rayman Legends (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl)" id="32402">
 		<category>Games</category>

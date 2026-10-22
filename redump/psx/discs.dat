@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-20 23-32-14)</description>
-		<version>2026-10-20 23-32-14</version>
-		<date>2026-10-20 23-32-14</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-22 08-36-22)</description>
+		<version>2026-10-22 08-36-22</version>
+		<date>2026-10-22 08-36-22</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -39435,7 +39435,7 @@
 		<category>Games</category>
 		<serial>SLUS-00846, SLUS-00846CE</serial>
 		<description>Grand Theft Auto: Mission Pack #1: London 1969 (USA)</description>
-		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA).cue" size="2350" crc="7fe49147" md5="49a40151b0579e278ae3cfb5f01c530f" sha1="3831d07c5fb649eed9819748a5a8d1616396c3f3"/>
+		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA).cue" size="2366" crc="02675c17" md5="185cbdef12f80e91519950b777387fdd" sha1="7c9466ee417da9dd64ec476d76a5c494657e5644"/>
 		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 01).bin" size="42949872" crc="8760df1a" md5="e8cc1bbac93d3bddbec804909b4ad7ba" sha1="7ee948c0d8e695e1642a8b582c83850d24b15666"/>
 		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 02).bin" size="16057104" crc="98f0c9b2" md5="36cb3c257d28f1d1d55e6bcd15c6d83f" sha1="8454bdeff232006c7248f110668928f330883131"/>
 		<rom name="Grand Theft Auto - Mission Pack #1 - London 1969 (USA) (Track 03).bin" size="49883568" crc="7936bd90" md5="3dbdd6b8bfec299eff35abf82c3eeb19" sha1="5cb1805feecd02e419aba343d1ab9505fb5dfc67"/>
@@ -81011,12 +81011,12 @@
 		<rom name="RMJ - The Mystery Hospital - Second Attack Sample CD-ROM (Japan).cue" size="130" crc="34cfedf8" md5="d71ee021d7b70f6b7e9f1c78657cb718" sha1="68695197809d3971a69918b4bd4b91ddf5b20741"/>
 		<rom name="RMJ - The Mystery Hospital - Second Attack Sample CD-ROM (Japan).bin" size="185584560" crc="9be5cc9c" md5="986287e3cf518e6f0081a6e8655fc8d9" sha1="e8e5f4b2acc3923a7c4bb43988593dfab78f306e"/>
 	</game>
-	<game name="Road &amp; Track Presents - The Need for Speed (Europe) (En,De)" id="1045">
+	<game name="Road &amp; Track Presents - The Need for Speed (Europe, Australia) (En,De)" id="1045">
 		<category>Games</category>
 		<serial>SLES-00223</serial>
-		<description>Road &amp; Track Presents: The Need for Speed (Europe) (En,De)</description>
-		<rom name="Road &amp; Track Presents - The Need for Speed (Europe) (En,De).cue" size="125" crc="734d5b6e" md5="ea3b094a90c4befdc0a1ed22fdfa1354" sha1="6339fc98e3f809c01bc5a392ed22502a5b6faf1d"/>
-		<rom name="Road &amp; Track Presents - The Need for Speed (Europe) (En,De).bin" size="640143840" crc="a9e610a9" md5="51d1b47d222e87cba34a0fbfb6575c7a" sha1="9ce935d65df466eff7c02114f9164090a6a457b1"/>
+		<description>Road &amp; Track Presents: The Need for Speed (Europe, Australia) (En,De)</description>
+		<rom name="Road &amp; Track Presents - The Need for Speed (Europe, Australia) (En,De).cue" size="136" crc="0f6ea799" md5="d9a6cb4b5d518db0ec89f8732d2d172b" sha1="12619c9bf1447880a74e3ca73ad95cc934225d35"/>
+		<rom name="Road &amp; Track Presents - The Need for Speed (Europe, Australia) (En,De).bin" size="640143840" crc="a9e610a9" md5="51d1b47d222e87cba34a0fbfb6575c7a" sha1="9ce935d65df466eff7c02114f9164090a6a457b1"/>
 	</game>
 	<game name="Road &amp; Track Presents - The Need for Speed (USA)" id="14125">
 		<category>Games</category>
