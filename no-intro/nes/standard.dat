@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20261018-205134</version>
+		<version>20261020-050511</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -37648,7 +37648,7 @@
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Sunset Land (World) (Demo 8) (Aftermarket) (Unl)</description>
-		<rom name="Sunset Land (World) (Demo 8) (Aftermarket) (Unl).nes" size="524304" crc="bb45b9c6" md5="b40654c4ec9f5b9a1f3fc05b2c79590a" sha1="b0521ce0f5b1cdeaeaba4b12626df4aec32f5152" sha256="84c9a171b0bade2e6f7d4985c1ec543d84b779a271c84cc372379c2b52485ba2" header="4E 45 53 1A 20 00 E3 18 00 00 00 09 00 00 00 01"/>
+		<rom name="Sunset Land (World) (Demo 8) (Aftermarket) (Unl).nes" size="524304" crc="5fb552cb" md5="cf975da2367487a2d70437c3b462815c" sha1="9426beae6b04cc0fff65d197ee9ecc6b9ce24d37" sha256="606974bc3d41901afb110647e58a9276ac885cd78c502ac1acc690f2e38fec8f" header="4E 45 53 1A 20 00 E3 18 10 00 00 09 00 00 00 01"/>
 	</game>
 	<game name="Super 1.000.000-in-1 (Asia) (En) (Pirate)" id="8143">
 		<description>Super 1.000.000-in-1 (Asia) (En) (Pirate)</description>

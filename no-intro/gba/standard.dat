@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20261020-135406</version>
+		<version>20261023-012535</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4226,6 +4226,11 @@
 		<description>Duke Nukem Advance (Europe) (En,Fr,De,It)</description>
 		<rom name="Duke Nukem Advance (Europe) (En,Fr,De,It).gba" size="8388608" crc="dc7dab56" md5="54bc72ab1f56930ddb05c66f118d7608" sha1="f01522ee46f5aa821adbba0a97b1a745ff9059f5" status="verified" serial="AD9P"/>
 	</game>
+	<game name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl)" id="3358">
+		<category>Games</category>
+		<description>Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl)</description>
+		<rom name="Dungeon Durban (World) (v1.0.1) (Aftermarket) (Unl).gba" size="3377424" crc="9c5d3395" md5="1c97e923fa628c3a69c2e2e5ac0bee60" sha1="25d1f4978524c9cecda222e23bf3fdd8e295814d" sha256="31c2e273ef0b376538843d979982834511c984c50b71bfc5147666a1a46b9fae"/>
+	</game>
 	<game name="Dungeon Tactics Advance (World) (Aftermarket) (Unl)" id="3208">
 		<category>Games</category>
 		<description>Dungeon Tactics Advance (World) (Aftermarket) (Unl)</description>
@@ -5494,6 +5499,11 @@
 	<game name="Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da)" id="0734">
 		<description>Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da)</description>
 		<rom name="Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da).gba" size="4194304" crc="4d8f49f9" md5="101c1c8ed0ca51da145b101c8a42b0eb" sha1="86cf0842e9fcbdfe6240be580e08ae44e0a07a47" serial="AG8E"/>
+	</game>
+	<game name="Gambit Advance (World) (v1.1) (Aftermarket) (Unl)" id="3359">
+		<category>Games</category>
+		<description>Gambit Advance (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Gambit Advance (World) (v1.1) (Aftermarket) (Unl).gba" size="2077496" crc="f4942faa" md5="9b2aa8a7806a618122f3555ccadfbfd4" sha1="b7f4b329b2afdf86ff2069ffe97b06cb249e7c58" sha256="e82a389cdc6c702a897cd87ab197aab5bb60fed88209d966367f64f6714763d3"/>
 	</game>
 	<game name="Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)" id="0538">
 		<description>Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)</description>

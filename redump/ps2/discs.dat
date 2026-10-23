@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2</name>
-		<description>Sony - PlayStation 2 - Datfile (11844) (2026-10-22 08-36-39)</description>
-		<version>2026-10-22 08-36-39</version>
-		<date>2026-10-22 08-36-39</date>
+		<description>Sony - PlayStation 2 - Datfile (11845) (2026-10-23 01-56-22)</description>
+		<version>2026-10-23 01-56-22</version>
+		<date>2026-10-23 01-56-22</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -10622,6 +10622,13 @@
 		<version>1.01</version>
 		<description>Code Age Commanders: Tsugumono Tsugarerumono (Japan, Asia)</description>
 		<rom name="Code Age Commanders - Tsugumono Tsugarerumono (Japan, Asia).iso" size="3016949760" crc="fe3908b7" md5="0c205c60438c7d987d17af83f5b488c2" sha1="af0fb91f8da894043296e1e571f8f3ab54847db0"/>
+	</game>
+	<game name="Code Breaker (USA) (Unl) (v3.3)" id="139654">
+		<category>Applications</category>
+		<version>3.3</version>
+		<description>Code Breaker (USA) (Unl) (v3.3)</description>
+		<rom name="Code Breaker (USA) (Unl) (v3.3).cue" size="97" crc="6ac94413" md5="e5c4467e745945895b5728d8f578a2d1" sha1="3b88eff152855bb9a52f60b0c9f6822678a93313"/>
+		<rom name="Code Breaker (USA) (Unl) (v3.3).bin" size="750130416" crc="f3e1a45d" md5="595f54b0a3b57a0e821f919b8744d0f1" sha1="be3bc427fb19d2c5e6c6973d62cc4567891640ff"/>
 	</game>
 	<game name="Code Breaker (USA) (Unl) (v4.0)" id="122824">
 		<category>Applications</category>
@@ -45358,7 +45365,7 @@
 	</game>
 	<game name="Mystic Heroes (USA)" id="30461">
 		<category>Games</category>
-		<serial>SLUS-20521</serial>
+		<serial>SLUS 20521</serial>
 		<version>1.01</version>
 		<description>Mystic Heroes (USA)</description>
 		<rom name="Mystic Heroes (USA).iso" size="3132424192" crc="4a575188" md5="d4f96216fe8f406c61c8c355c9fa3701" sha1="ec3535d18d707b742328ea24cebe601fe05037f3"/>
@@ -85117,7 +85124,7 @@
 	</game>
 	<game name="Yu-Gi-Oh! GX - The Beginning of Destiny (USA)" id="4187">
 		<category>Games</category>
-		<serial>SLUS-21683</serial>
+		<serial>SLUS 21683</serial>
 		<version>2.00</version>
 		<description>Yu-Gi-Oh! GX: The Beginning of Destiny (USA)</description>
 		<rom name="Yu-Gi-Oh! GX - The Beginning of Destiny (USA).iso" size="4287463424" crc="b4a4428d" md5="c902ee6de3359be9d1e5d656b9d2ca47" sha1="dbbea877746c39415cc9b37c50ab3e347705e250"/>

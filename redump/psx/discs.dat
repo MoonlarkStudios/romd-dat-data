@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-22 08-36-22)</description>
-		<version>2026-10-22 08-36-22</version>
-		<date>2026-10-22 08-36-22</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-22 14-06-35)</description>
+		<version>2026-10-22 14-06-35</version>
+		<date>2026-10-22 14-06-35</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -32501,7 +32501,7 @@
 	</game>
 	<game name="FIFA - Road to World Cup 98 (Japan)" id="13035">
 		<category>Games</category>
-		<serial>SLPS 01383</serial>
+		<serial>SLPS 01383, SLPS 91150</serial>
 		<description>FIFA: Road to World Cup 98 (Japan)</description>
 		<rom name="FIFA - Road to World Cup 98 (Japan).cue" size="101" crc="ed3e1fd3" md5="0ad5c7ff79dab460d282ea64ee01732a" sha1="97ebee0e141dcb3f5b8cb3a8ee0faf664f70a703"/>
 		<rom name="FIFA - Road to World Cup 98 (Japan).bin" size="478857792" crc="ea77b709" md5="d5c8bf8ca7e22ce90a5727427904e4a7" sha1="6fb07905f3d870687071e03a08fad50d31237215"/>
