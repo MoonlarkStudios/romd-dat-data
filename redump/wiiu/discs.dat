@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii U</name>
-		<description>Nintendo - Wii U - Datfile (542) (2026-10-18 12-54-59)</description>
-		<version>2026-10-18 12-54-59</version>
-		<date>2026-10-18 12-54-59</date>
+		<description>Nintendo - Wii U - Datfile (542) (2026-10-23 10-19-04)</description>
+		<version>2026-10-23 10-19-04</version>
+		<date>2026-10-23 10-19-04</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -37,10 +37,10 @@
 		<description>0103771: DISC, CAT-I RTL MAR '16 USA-PT (USA)</description>
 		<rom name="0103771 - DISC, CAT-I RTL MAR '16 USA-PT (USA).iso" size="25025314816" crc="6559289b" md5="66ca68c3f58f2789020d88534ac5090b" sha1="d81389dc22e03cc29a3ce1d70f0db96b764edaab"/>
 	</game>
-	<game name="0103794 - DISC, CAT-I RTL MAR '16 1-2 LTN-FL (Latin America)" id="125171">
+	<game name="0103794 - DISC, CAT-I RTL MAR '16 #1-2 LTN-FL (Latin America)" id="125171">
 		<category>Applications</category>
 		<description>0103794: DISC, CAT-I RTL MAR '16 #1/2 LTN-FL (Latin America)</description>
-		<rom name="0103794 - DISC, CAT-I RTL MAR '16 1-2 LTN-FL (Latin America).iso" size="25025314816" crc="e46ab970" md5="dff46339de1ea536b49e77417e922ada" sha1="162aed1493ecd08a46cdde966eba8e5d2c6ee0a6"/>
+		<rom name="0103794 - DISC, CAT-I RTL MAR '16 #1-2 LTN-FL (Latin America).iso" size="25025314816" crc="e46ab970" md5="dff46339de1ea536b49e77417e922ada" sha1="162aed1493ecd08a46cdde966eba8e5d2c6ee0a6"/>
 	</game>
 	<game name="100148 - DISC, CAT-I RTL AUG '14 USA-PT (USA)" id="124710">
 		<category>Applications</category>
@@ -57,25 +57,25 @@
 		<description>102079: DISC, CAT-I RTL MAY '15 USA-PT (USA)</description>
 		<rom name="102079 - DISC, CAT-I RTL MAY '15 USA-PT (USA).iso" size="25025314816" crc="1730434c" md5="eee6808a9bc29ef8af1a5639b0dbe5e0" sha1="fa0d6d052dc0b86fddae5790a4cd830ca4a5a063"/>
 	</game>
-	<game name="102091 - DISC, CAT-I RTL MAY '15 1-2 LTN-FL (Latin America)" id="120220">
+	<game name="102091 - DISC, CAT-I RTL MAY '15 #1-2 LTN-FL (Latin America)" id="120220">
 		<category>Applications</category>
 		<description>102091: DISC, CAT-I RTL MAY '15 #1/2 LTN-FL (Latin America)</description>
-		<rom name="102091 - DISC, CAT-I RTL MAY '15 1-2 LTN-FL (Latin America).iso" size="25025314816" crc="2cf61a6d" md5="f2e87043ee3ca65ad43be331cec621b7" sha1="3fe8020a9fcb008807ee1f7769549e3a56443d7a"/>
+		<rom name="102091 - DISC, CAT-I RTL MAY '15 #1-2 LTN-FL (Latin America).iso" size="25025314816" crc="2cf61a6d" md5="f2e87043ee3ca65ad43be331cec621b7" sha1="3fe8020a9fcb008807ee1f7769549e3a56443d7a"/>
 	</game>
-	<game name="102405 - DISC, CAT-I RTL MAY '15 2-2 LTN-FL (Latin America)" id="125172">
+	<game name="102405 - DISC, CAT-I RTL MAY '15 #2-2 LTN-FL (Latin America)" id="125172">
 		<category>Applications</category>
 		<description>102405: DISC, CAT-I RTL MAY '15 #2/2 LTN-FL (Latin America)</description>
-		<rom name="102405 - DISC, CAT-I RTL MAY '15 2-2 LTN-FL (Latin America).iso" size="25025314816" crc="77c2b7bf" md5="448090fadc4c83ff045f6cb4c2bd96c5" sha1="86feed3a22ca867acf1ba73cfc2aba58c0a90c6f"/>
+		<rom name="102405 - DISC, CAT-I RTL MAY '15 #2-2 LTN-FL (Latin America).iso" size="25025314816" crc="77c2b7bf" md5="448090fadc4c83ff045f6cb4c2bd96c5" sha1="86feed3a22ca867acf1ba73cfc2aba58c0a90c6f"/>
 	</game>
 	<game name="102812 - DISC, CAT-I RTL AUG '15 USA-PT (USA)" id="53717">
 		<category>Applications</category>
 		<description>102812: DISC, CAT-I RTL AUG '15 USA-PT (USA)</description>
 		<rom name="102812 - DISC, CAT-I RTL AUG '15 USA-PT (USA).iso" size="25025314816" crc="0cfbe19a" md5="fe6c3fcd999c4e17154a47f9bf072c62" sha1="519b120636926edfd8573e0ffaeab2bf915a6331"/>
 	</game>
-	<game name="102831 - DISC, CAT-I RTL AUG '15 1-2 LTN-FL (Latin America)" id="120219">
+	<game name="102831 - DISC, CAT-I RTL AUG '15 #1-2 LTN-FL (Latin America)" id="120219">
 		<category>Applications</category>
 		<description>102831: DISC, CAT-I RTL AUG '15 #1/2 LTN-FL (Latin America)</description>
-		<rom name="102831 - DISC, CAT-I RTL AUG '15 1-2 LTN-FL (Latin America).iso" size="25025314816" crc="bf1c159c" md5="638508dd64625b700b7988a97ac61617" sha1="7df9da42cfaf709cd511c3161a358ce7dd06f511"/>
+		<rom name="102831 - DISC, CAT-I RTL AUG '15 #1-2 LTN-FL (Latin America).iso" size="25025314816" crc="bf1c159c" md5="638508dd64625b700b7988a97ac61617" sha1="7df9da42cfaf709cd511c3161a358ce7dd06f511"/>
 	</game>
 	<game name="103292 - DISC, CAT-I RTL NOV '15 USA-PT (USA)" id="53720">
 		<category>Applications</category>
@@ -1127,11 +1127,11 @@
 		<description>Game Party Champions (USA) (En,Fr,Es)</description>
 		<rom name="Game Party Champions (USA) (En,Fr,Es).iso" size="25025314816" crc="58aba7ad" md5="66032169f46ab3950b2d7ad9b6a0a4ff" sha1="5c709ef5a5ba102b6a31d4dbb8092cde472c8a4a"/>
 	</game>
-	<game name="Gen'ei Ibunroku FE (Japan)" id="47803">
+	<game name="Gen'ei Ibunroku #FE (Japan)" id="47803">
 		<category>Games</category>
 		<serial>WUP-P-ASEJ-JPN-0</serial>
 		<description>Gen'ei Ibunroku #FE (Japan)</description>
-		<rom name="Gen'ei Ibunroku FE (Japan).iso" size="25025314816" crc="4d4d6a3e" md5="fd56c5c845d133bac9fae3b8d4006019" sha1="359084664b027e9eada8faedca10b5daf721c686"/>
+		<rom name="Gen'ei Ibunroku #FE (Japan).iso" size="25025314816" crc="4d4d6a3e" md5="fd56c5c845d133bac9fae3b8d4006019" sha1="359084664b027e9eada8faedca10b5daf721c686"/>
 	</game>
 	<game name="Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es)" id="43307">
 		<category>Games</category>
@@ -2931,17 +2931,17 @@
 		<description>Teslagrad (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Teslagrad (Europe) (En,Fr,De,Es,It).iso" size="25025314816" crc="6d12525d" md5="84789d4baafb141c33e966c6edafa718" sha1="f14818a6a74f93d536f0a9a8fed012005b58e18d"/>
 	</game>
-	<game name="Tokyo Mirage Sessions FE (Europe)" id="42877">
+	<game name="Tokyo Mirage Sessions #FE (Europe)" id="42877">
 		<category>Games</category>
 		<serial>WUP-P-ASEP-EUR-0</serial>
 		<description>Tokyo Mirage Sessions #FE (Europe)</description>
-		<rom name="Tokyo Mirage Sessions FE (Europe).iso" size="25025314816" crc="0930e32e" md5="25c623f98ba101dee5474b849a733e9a" sha1="1ce467b547355360ef2b073d9b14a8b1267fe04a"/>
+		<rom name="Tokyo Mirage Sessions #FE (Europe).iso" size="25025314816" crc="0930e32e" md5="25c623f98ba101dee5474b849a733e9a" sha1="1ce467b547355360ef2b073d9b14a8b1267fe04a"/>
 	</game>
-	<game name="Tokyo Mirage Sessions FE (USA)" id="41055">
+	<game name="Tokyo Mirage Sessions #FE (USA)" id="41055">
 		<category>Games</category>
 		<serial>WUP-P-ASEE-USA-0</serial>
 		<description>Tokyo Mirage Sessions #FE (USA)</description>
-		<rom name="Tokyo Mirage Sessions FE (USA).iso" size="25025314816" crc="d041bb75" md5="3bb8aa12cf866cc6a5c3d06121e02f01" sha1="31b29da88afae4fe7fb2035af04f5ef98b40f511"/>
+		<rom name="Tokyo Mirage Sessions #FE (USA).iso" size="25025314816" crc="d041bb75" md5="3bb8aa12cf866cc6a5c3d06121e02f01" sha1="31b29da88afae4fe7fb2035af04f5ef98b40f511"/>
 	</game>
 	<game name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Fr,De,Es,It,Nl,Ru)" id="41838">
 		<category>Games</category>
