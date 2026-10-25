@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-23 10-18-40)</description>
-		<version>2026-10-23 10-18-40</version>
-		<date>2026-10-23 10-18-40</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-24 20-53-57)</description>
+		<version>2026-10-24 20-53-57</version>
+		<date>2026-10-24 20-53-57</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -78,7 +78,7 @@
 	</game>
 	<game name="007 - Demain ne meurt jamais (France)" id="13398">
 		<category>Games</category>
-		<serial>SLES-02375, SLES-02375-P</serial>
+		<serial>SLES-02375, SLES-02375-P, SLES-02375-T</serial>
 		<description>007 : Demain ne meurt jamais (France)</description>
 		<rom name="007 - Demain ne meurt jamais (France).cue" size="103" crc="04442afd" md5="837bc8d7b8270794b1d3ad66ead7a250" sha1="43f5a06e078e515367fd1e3a3ad31ace402e176f"/>
 		<rom name="007 - Demain ne meurt jamais (France).bin" size="570611664" crc="20d12f7b" md5="00bcb9f419b44c2f9dd8c9e89e488841" sha1="077bddb3f832e3f2ec660634cd37b50f0d927eb9"/>
@@ -106,7 +106,7 @@
 	</game>
 	<game name="007 - Le Monde ne suffit pas (France)" id="28132">
 		<category>Games</category>
-		<serial>SLES-03135</serial>
+		<serial>SLES-03135, SLES-03135-T</serial>
 		<description>007 : Le Monde ne suffit pas (France)</description>
 		<rom name="007 - Le Monde ne suffit pas (France).cue" size="103" crc="65a2c767" md5="047f8ce41a15a860e209087079bff271" sha1="cb2a18f40b09ebc9924476285b5c630e68e86ddf"/>
 		<rom name="007 - Le Monde ne suffit pas (France).bin" size="727325424" crc="c2d1c87a" md5="687837b7247025862a89e1d18eebcfcd" sha1="183815d71895adf29c7111ea9ac57ebdc4df7333"/>

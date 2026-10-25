@@ -4,12 +4,12 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20261016-085514</version>
+		<version>20261023-215722</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
-		<trademarks>Product names used in this file are registered trademarks of their respective owners, with which No-Intro is in no way associated or affiliated. These trademarks of other manufacturers are used solely to identify said products.</trademarks>
-		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro does not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not in the Console Scene and is not involved in any P2P sharing.</piracy>
+		<tos>https://datomatic.no-intro.org/terms.html</tos>
+		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
 	<game name="'96 Zenkoku Koukou Soccer Senshuken (Japan)" id="0001">
@@ -19348,6 +19348,10 @@
 		<category>Games</category>
 		<description>Zootto Mahjong! (Japan) (Rev 1) (NP)</description>
 		<rom name="Zootto Mahjong! (Japan) (Rev 1) (NP).sfc" size="2621440" crc="4833c585" md5="c61dfcd839b71b76d2fa773a9d519476" sha1="77a3a972a80246d09e935969fec70a90be82e933" sha256="8441ce66da49ec7d1e1159f2ae3b67b5de0e0963a587bf5c89591fc764ab3a27" status="verified"/>
+	</game>
+	<game name="[BIOS] Gateway NGUR 08 - Boot ROM (Australia)" id="4615">
+		<description>[BIOS] Gateway NGUR 08 - Boot ROM (Australia)</description>
+		<rom name="[BIOS] Gateway NGUR 08 - Boot ROM (Australia).sfc" size="32768" crc="a34bc6ed" md5="54edda4b2cf60acabdb00471d6dfca9b" sha1="01ecef7703eb2dadff29855e9a2813f0248a831c" sha256="0dee8c7b27bbc835ff54c5c92d8ac806192453ab12dfb6ffd4357d80cd9ebf57"/>
 	</game>
 	<game name="101 Dalmatas (USA) (Pirate)" id="4349" cloneofid="0218">
 		<category>Games</category>

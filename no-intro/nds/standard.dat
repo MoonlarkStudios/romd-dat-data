@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261023-165517</version>
+		<version>20261024-030644</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2585,7 +2585,7 @@
 	</game>
 	<game name="Best Friends - Hunde &amp; Katzen (Germany) (En,De)" id="0956" cloneofid="1357">
 		<description>Best Friends - Hunde &amp; Katzen (Germany) (En,De)</description>
-		<rom name="Best Friends - Hunde &amp; Katzen (Germany) (En,De).nds" size="16777216" crc="3e79e123" md5="579ea23a55e7dd9a8142c1f670bd4c1a" sha1="98c12a4c1e4df6499d09b11a06e22fb7bb2bb81f" serial="AHJP"/>
+		<rom name="Best Friends - Hunde &amp; Katzen (Germany) (En,De).nds" size="16777216" crc="3e79e123" md5="579ea23a55e7dd9a8142c1f670bd4c1a" sha1="98c12a4c1e4df6499d09b11a06e22fb7bb2bb81f" sha256="3823fe38485a10008d41779b0807a7ac90cbe3228d0422ee79a6205f7f7b370d" serial="AHJP"/>
 	</game>
 	<game name="Best Friends - Mijn Honden en Katten (Netherlands) (En,Nl)" id="1848" cloneofid="1357">
 		<description>Best Friends - Mijn Honden en Katten (Netherlands) (En,Nl)</description>
@@ -12721,7 +12721,7 @@
 	</game>
 	<game name="Jewel Match 3 (Europe) (En,Fr,De,Nl)" id="6211">
 		<description>Jewel Match 3 (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Jewel Match 3 (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="d526d41b" md5="86600768200faa2a30c23428b08d7787" sha1="2a746c8a1425bd0c21d4e69499f3f14f68fe01fc" serial="TJ3P"/>
+		<rom name="Jewel Match 3 (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="d526d41b" md5="86600768200faa2a30c23428b08d7787" sha1="2a746c8a1425bd0c21d4e69499f3f14f68fe01fc" sha256="8909512d98bb8f29d33863c853a81aa4660ac54ad1fce8ce18efd4e7312c2743" serial="TJ3P"/>
 	</game>
 	<game name="Jewel Quest - Expeditions (USA)" id="1414" cloneofid="3480">
 		<description>Jewel Quest - Expeditions (USA)</description>
@@ -19024,7 +19024,7 @@
 	</game>
 	<game name="Mystery Case Files - Ravenhearst (Germany)" id="6273" cloneofid="6141">
 		<description>Mystery Case Files - Ravenhearst (Germany)</description>
-		<rom name="Mystery Case Files - Ravenhearst (Germany).nds" size="33554432" crc="1c3c0e37" md5="cba47ebae424ef13fcd5e25ba83f8804" sha1="0a596a37788d6269c2c5e7db3f5aa6ed2ecc4442" serial="TRHX"/>
+		<rom name="Mystery Case Files - Ravenhearst (Germany).nds" size="33554432" crc="1c3c0e37" md5="cba47ebae424ef13fcd5e25ba83f8804" sha1="0a596a37788d6269c2c5e7db3f5aa6ed2ecc4442" sha256="5134fd61ca0d97ceae388c1853bca5e167bd0818c498f41604528750df23d227" serial="TRHX"/>
 	</game>
 	<game name="Mystery Detective (Europe)" id="1057">
 		<description>Mystery Detective (Europe)</description>
@@ -25417,7 +25417,7 @@
 	</game>
 	<game name="Shrek's Carnival Craze - Party Games (Europe) (En,Fr,De,Es,It,Nl)" id="3005">
 		<description>Shrek's Carnival Craze - Party Games (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Shrek's Carnival Craze - Party Games (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="f9d5f6e6" md5="90b4a4b7ace29dde6eb47671fd543ac3" sha1="58dc0aedc151d3cb03c7efcd35b75e895c63b6c5" status="verified" serial="CLZP"/>
+		<rom name="Shrek's Carnival Craze - Party Games (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="f9d5f6e6" md5="90b4a4b7ace29dde6eb47671fd543ac3" sha1="58dc0aedc151d3cb03c7efcd35b75e895c63b6c5" sha256="64e0f6cced7eced642e73d92659f184dc1eb9f04f1a571f67be7e9fad48ac9ed" status="verified" serial="CLZP"/>
 	</game>
 	<game name="Shugo Chara! - 3-tsu no Tamago to Koisuru Joker (Japan)" id="2179">
 		<description>Shugo Chara! - 3-tsu no Tamago to Koisuru Joker (Japan)</description>
@@ -28183,7 +28183,7 @@
 	</game>
 	<game name="Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany)" id="4390" cloneofid="6266">
 		<description>Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany)</description>
-		<rom name="Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany).nds" size="16777216" crc="281a2f1a" md5="ac491ffd08e11ecc85fc43d1f8fa279c" sha1="ba7443b4a54657d4a969459621263d5a25c8db1b" serial="BTHD"/>
+		<rom name="Think - Training fuer den Kopf - Kids - Ist Doch Logisch! (Germany).nds" size="16777216" crc="281a2f1a" md5="ac491ffd08e11ecc85fc43d1f8fa279c" sha1="ba7443b4a54657d4a969459621263d5a25c8db1b" sha256="a854822006741df86b0576a6874852d6244a8e301e7039ea1727e603ebfd96c5" status="verified" serial="BTHD"/>
 	</game>
 	<game name="Think - Training fuer den Kopf - Logik Trainer - Think Again (Germany)" id="3393">
 		<description>Think - Training fuer den Kopf - Logik Trainer - Think Again (Germany)</description>
@@ -30235,7 +30235,7 @@
 	</game>
 	<game name="Vorschulspass mit Benjamin Bluemchen (Germany)" id="4867">
 		<description>Vorschulspass mit Benjamin Bluemchen (Germany)</description>
-		<rom name="Vorschulspass mit Benjamin Bluemchen (Germany).nds" size="67108864" crc="d7ffb4dc" md5="49e6b21688758d354fc9dabd2958a9b9" sha1="6cdf30aca85b3748f2d6ff2175ef3d7bdc1cdbe8" serial="BEJD"/>
+		<rom name="Vorschulspass mit Benjamin Bluemchen (Germany).nds" size="67108864" crc="d7ffb4dc" md5="49e6b21688758d354fc9dabd2958a9b9" sha1="6cdf30aca85b3748f2d6ff2175ef3d7bdc1cdbe8" sha256="9f4501dfa5ef5d141f979cffd64a9440ddae701d34fe039f7da8b5941c16dee4" serial="BEJD"/>
 	</game>
 	<game name="Wacky Races - Crash &amp; Dash (USA) (En,Fr,De,Es,It)" id="2368" cloneofid="2398">
 		<description>Wacky Races - Crash &amp; Dash (USA) (En,Fr,De,Es,It)</description>
