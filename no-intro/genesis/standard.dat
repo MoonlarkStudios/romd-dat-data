@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20261024-092842</version>
+		<version>20261025-103445</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -166,15 +166,15 @@
 		<description>[BIOS] Sega Teradrive - Boot ROM (Japan) (En)</description>
 		<rom name="[BIOS] Sega Teradrive - Boot ROM (Japan) (En).md" size="4096" crc="424a9d11" md5="9f567d86705317eedd7d5bf2a729ff1b" sha1="1c470a9a8d0b211c5feea1c1c2376aa1f7934b16" sha256="d151bf89cd2247def1e9faeabc890e2bf552908ee017a2db8c500f80621b7bf9"/>
 	</game>
-	<game name="[BIOS] WonderMega (Japan) (En)" id="1648">
+	<game name="[BIOS] WonderMega (Japan)" id="1648">
 		<category>Miscellaneous</category>
-		<description>[BIOS] WonderMega (Japan) (En)</description>
-		<rom name="[BIOS] WonderMega (Japan) (En).md" size="131072" crc="d21fe71d" md5="732b60960226caf33df6b487f376de69" sha1="3fc9358072f74bd24e3e297ea11b2bf15a7af891" sha256="f84d43ae82be5c03fa418286e8142c377869cd392c0d3a9dd5ba72b78d2075fc"/>
+		<description>[BIOS] WonderMega (Japan)</description>
+		<rom name="[BIOS] WonderMega (Japan).md" size="131072" crc="d21fe71d" md5="732b60960226caf33df6b487f376de69" sha1="3fc9358072f74bd24e3e297ea11b2bf15a7af891" sha256="f84d43ae82be5c03fa418286e8142c377869cd392c0d3a9dd5ba72b78d2075fc"/>
 	</game>
-	<game name="[BIOS] WonderMega M2 (Japan) (En)" id="1664" cloneofid="1617">
+	<game name="[BIOS] WonderMega M2 (Japan)" id="1664" cloneofid="1617">
 		<category>Miscellaneous</category>
-		<description>[BIOS] WonderMega M2 (Japan) (En)</description>
-		<rom name="[BIOS] WonderMega M2 (Japan) (En).md" size="131072" crc="2b19972f" md5="d32f50fb7f4355c45d5db306a0d38fa4" sha1="b3f32e409bd5508c89ed8be33d41a58d791d0e5d" sha256="3aeccd967f34ebb678bbb7b3caa232aba11c6d6f71ce7bc21033733724c7b112"/>
+		<description>[BIOS] WonderMega M2 (Japan)</description>
+		<rom name="[BIOS] WonderMega M2 (Japan).md" size="131072" crc="2b19972f" md5="d32f50fb7f4355c45d5db306a0d38fa4" sha1="b3f32e409bd5508c89ed8be33d41a58d791d0e5d" sha256="3aeccd967f34ebb678bbb7b3caa232aba11c6d6f71ce7bc21033733724c7b112"/>
 	</game>
 	<game name="[BIOS] X'Eye (USA)" id="1617">
 		<category>Miscellaneous</category>
