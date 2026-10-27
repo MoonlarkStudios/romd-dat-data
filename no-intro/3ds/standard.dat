@@ -4,7 +4,7 @@
 		<id>64</id>
 		<name>Nintendo - Nintendo 3DS (Decrypted)</name>
 		<description>Nintendo - Nintendo 3DS (Decrypted)</description>
-		<version>20261025-031325</version>
+		<version>20261026-132735</version>
 		<author>1988reload, aci68, ajax16384, ajshell1, Arctic Circle System, Aringon, b2071988, Bent, bikerspade, buckwheat, Bumpfi, C. V. Reynolds, Connie, coraz, Datman, DeadSkullzJr, Densetsu, EggmanPEI, einstein95, Fonix, Gefflon, Hiccup, InternalLoss, Jack, jimmsu, Just001Kim, kaos, Larsenv, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, number, PPLToast, psykopat, rarenight, relax, Rifu, scorp256, SonGoku, Tauwasser, TBemme, togemet2, u53r123, Xenirina, xprism, xuom2, ZeroSkill, zg, Zora</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8522,6 +8522,7 @@
 		<rom name="Rhythm Thief &amp; the Emperor's Treasure (USA) (En,Fr,Es).3ds" size="2147483648" crc="1977e1a2" md5="caa635fc36bea0fc2736d2072e418d9f" sha1="a5c1dca44d9bbb663b4b18c01a33f59a0a09c41a" status="verified" serial="CTR-P-ARTE"/>
 	</game>
 	<game name="Ridge Racer 3D (Europe) (En,Fr,De,Es,It)" id="0014">
+		<category>Games</category>
 		<description>Ridge Racer 3D (Europe) (En,Fr,De,Es,It)</description>
 		<game_id>0004000000033B00</game_id>
 		<rom name="Ridge Racer 3D (Europe) (En,Fr,De,Es,It).3ds" size="1073741824" crc="96378d14" md5="e5db70c8040a25e778498b8438292a08" sha1="92f2c8a286951392346a80865a105bd3ea3283ad" sha256="4f994073e1e61bbe6929221de5c858bb5a2306901b088fa4acfbe04238d8573f" status="verified" serial="CTR-P-ARRP"/>
@@ -8533,6 +8534,7 @@
 		<rom name="Ridge Racer 3D (Japan).3ds" size="1073741824" crc="b01255c6" md5="d4d930ac23041181d39982349ed7e11a" sha1="631db73d87d0c8721dbf8cee0d0e150b56ddda93" serial="CTR-P-ARRJ"/>
 	</game>
 	<game name="Ridge Racer 3D (USA) (En,Fr,Es)" id="0031" cloneofid="0014">
+		<category>Games</category>
 		<description>Ridge Racer 3D (USA) (En,Fr,Es)</description>
 		<game_id>0004000000035800</game_id>
 		<rom name="Ridge Racer 3D (USA) (En,Fr,Es).3ds" size="1073741824" crc="3ad677dc" md5="d3a4a74bd1d1bb34d267745421ddaac3" sha1="f261399c9fe37655ccd12ef939c59559ea13b6a5" serial="CTR-P-ARRE"/>

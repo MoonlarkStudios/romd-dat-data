@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261025-045420</version>
+		<version>20261026-212934</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -370,6 +370,11 @@
 	<game name="2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It)" id="6105">
 		<description>2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="2 in 1 - My Vet Practice + My Pet Hotel 2 (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="84177a46" md5="14c0a9880e325e8253ca8265837c6a8f" sha1="58e0c6ece14e0e56bc04cab31a461f9f975f1bab" sha256="392b06c4378145a9df4c6f5048ad0737b17be87a249d8141abab82dc061c860e" serial="TMTP"/>
+	</game>
+	<game name="2 in 1 - Prinzessin Lillifee Spielesammlung - Meine Wunderbare Welt + Feenzauber (Germany)" id="6421">
+		<category>Games</category>
+		<description>2 in 1 - Prinzessin Lillifee Spielesammlung - Meine Wunderbare Welt + Feenzauber (Germany)</description>
+		<rom name="2 in 1 - Prinzessin Lillifee Spielesammlung - Meine Wunderbare Welt + Feenzauber (Germany).nds" size="67108864" crc="1f709702" md5="df8c258deb8489572737410ebf4c89ee" sha1="da77e9a57c32a3381c4add6d119bd374fce8c3b6" sha256="1d008ce19e7512c952f94a73c68975b02c9c6dac6ff5b4062f676f15bf3a5e73" status="verified" serial="TPZD"/>
 	</game>
 	<game name="2-Pack - Pinkalicious - It's Party Time! &amp; Silverlicious - Sweet Adventure (USA)" id="6366">
 		<description>2-Pack - Pinkalicious - It's Party Time! &amp; Silverlicious - Sweet Adventure (USA)</description>
@@ -2416,6 +2421,7 @@
 		<rom name="Bee Movie - Le Jeu (France).nds" size="33554432" crc="8205f743" md5="556587b9e84bbce29f0bc5bd2bfd6458" sha1="6575550dc570ad69cdd4a3e8b2c79c8a4ee4e8c8" sha256="049376f33038d79ce94549090e45e3781db58928791a72ce0eb3d7e11831855f" serial="YB4F"/>
 	</game>
 	<game name="Bee Movie Game (Netherlands)" id="1717" cloneofid="1830">
+		<category>Games</category>
 		<description>Bee Movie Game (Netherlands)</description>
 		<rom name="Bee Movie Game (Netherlands).nds" size="33554432" crc="902a5b9d" md5="b7ed24bfc0aacc8d9df77790a6167cc4" sha1="a9a39fc198b69582b9f2b5c8889f5ea7a6a00527" serial="YB4H"/>
 	</game>
@@ -2971,8 +2977,9 @@
 		<rom name="Blue Dragon Plus (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="7782665a" md5="4938ae0fa0d0d1b27fa2ff1126758fe5" sha1="231fab373c84df5fa5342f72706521963669e71d" status="verified" serial="YYBP"/>
 	</game>
 	<game name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="3693">
+		<category>Games</category>
 		<description>Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="cae09803" md5="5f2c60b08181b442090e4118de495883" sha1="a38da729214dd4914befb6df2a4fead9cac034c9" serial="C73P"/>
+		<rom name="Blumen &amp; Muster Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="cae09803" md5="5f2c60b08181b442090e4118de495883" sha1="a38da729214dd4914befb6df2a4fead9cac034c9" sha256="ac198bfafb9238f1c98d46c731d5a6d64bebb30190049b5f5ed0b3e0e87ba2e6" serial="C73P"/>
 	</game>
 	<game name="Blur (Europe) (En,Fr,De,Es,It) (Proto) (2010-05-21)" id="z670" cloneofid="z671">
 		<category>Games</category>
@@ -4297,7 +4304,7 @@
 	</game>
 	<game name="Charlotte's Web (Europe) (En,Fr,De,Es,It)" id="0802">
 		<description>Charlotte's Web (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Charlotte's Web (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="625ad315" md5="1495b8063dad1ff09c16dea616c17577" sha1="864f92b8ae0597f9450e4d9994faec590a4777a5" serial="ACJP"/>
+		<rom name="Charlotte's Web (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="625ad315" md5="1495b8063dad1ff09c16dea616c17577" sha1="864f92b8ae0597f9450e4d9994faec590a4777a5" sha256="525ab075c9c2f81f528e75c27709321ee4087f64ac7b40933f4816d5a3309482" status="verified" serial="ACJP"/>
 	</game>
 	<game name="Charm Girls Club - My Fashion Mall (Europe) (En,Fr,Es)" id="4295">
 		<description>Charm Girls Club - My Fashion Mall (Europe) (En,Fr,Es)</description>
@@ -5783,14 +5790,16 @@
 		<rom name="Deal or No Deal (Australia).nds" size="8388608" crc="984cc23b" md5="e148664cd4a01c8311c3d622a210c63c" sha1="1355ae31517a0d2cb4154a1dd9b84e647f810395" serial="YLAU"/>
 	</game>
 	<game name="Deal or No Deal - Der Banker Schlaegt Zurueck (Germany)" id="3307" cloneofid="2988">
+		<category>Games</category>
 		<description>Deal or No Deal - Der Banker Schlaegt Zurueck (Germany)</description>
-		<rom name="Deal or No Deal - Der Banker Schlaegt Zurueck (Germany).nds" size="8388608" crc="e793bf74" md5="e1225c916be0270fa95e0a13f327b61d" sha1="c5abf286ff9f54a4976c5c49277dbdd642cb42c5" serial="CD4D"/>
+		<rom name="Deal or No Deal - Der Banker Schlaegt Zurueck (Germany).nds" size="8388608" crc="e793bf74" md5="e1225c916be0270fa95e0a13f327b61d" sha1="c5abf286ff9f54a4976c5c49277dbdd642cb42c5" sha256="f89812e5beb6d2b7cafbc8716649719da5b4da0cd0853bb431261a91aa219d8f" status="verified" serial="CD4D"/>
 	</game>
 	<game name="Deal or No Deal - Special Edition (USA) (En,Fr,Es)" id="5425">
 		<description>Deal or No Deal - Special Edition (USA) (En,Fr,Es)</description>
 		<rom name="Deal or No Deal - Special Edition (USA) (En,Fr,Es).nds" size="16777216" crc="28655c6b" md5="a312097ef5b7afe5b43fb2fa0db9de91" sha1="d0efa1b01edc4d8044e7161efd3fefb6c8fadb75" serial="BNLE"/>
 	</game>
 	<game name="Deal or No Deal - The Banker Is Back! (Europe)" id="2988">
+		<category>Games</category>
 		<description>Deal or No Deal - The Banker Is Back! (Europe)</description>
 		<rom name="Deal or No Deal - The Banker Is Back! (Europe).nds" size="8388608" crc="edd1cc23" md5="75314c45fe0bbe5396a9d2552651d1c6" sha1="eca0528dcc334afcd640145c2fbc552e36f1f90a" sha256="48a722eab14431cdebfb85f0e13123632bf5ab14c2810bfe33cb33da318e11f0" status="verified" serial="CD4P"/>
 	</game>
@@ -6037,6 +6046,7 @@
 		<rom name="Di-Gata Defenders (USA) (En,Fr,Es).nds" size="33554432" crc="4e690f75" md5="33be007fb143cac33448672a9cbd0d49" sha1="f8169ae9502edd797e46af883e58533e1b14f172" serial="YGTE"/>
 	</game>
 	<game name="Diabolik - The Original Sin (Europe) (En,Fr,De,Es,It,Nl)" id="3829">
+		<category>Games</category>
 		<description>Diabolik - The Original Sin (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Diabolik - The Original Sin (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="0a34dc99" md5="38a86d9630fe5b780e7f04951b14af51" sha1="e7ce68c28f8ce05e390c2f0a9722138264ff6cd4" sha256="8b69b3c7b6cd262b3bfe6271d7d399b53cd319a0ef9d49459740c3006973cde1" status="verified" serial="CDIP"/>
 	</game>
@@ -9687,8 +9697,9 @@
 		<rom name="Girls Life - Fashion Addict (Europe) (Beta 2).nds" size="134217728" crc="5502e5df" md5="dd5f338ac9748a41e0f94d305f9ac7a8" sha1="c2908fa819383abde653e5a86d692675f787ccc7" serial="VFSV"/>
 	</game>
 	<game name="Girls Life - Jewellery Style (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="4646">
+		<category>Games</category>
 		<description>Girls Life - Jewellery Style (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
-		<rom name="Girls Life - Jewellery Style (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="33554432" crc="1e83fb09" md5="51481d5d4006a194d4ccc79974c6ded1" sha1="4365e472a24513d799d1b4645f820eb90c38bb8e" serial="VJWV"/>
+		<rom name="Girls Life - Jewellery Style (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="33554432" crc="1e83fb09" md5="51481d5d4006a194d4ccc79974c6ded1" sha1="4365e472a24513d799d1b4645f820eb90c38bb8e" sha256="e9066caf2ba6cd2c8d703becc4b894c805695bf68a61f8e9a4f6e4487a1ec01d" serial="VJWV"/>
 	</game>
 	<game name="Girls Life - Makeover (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" id="4381">
 		<description>Girls Life - Makeover (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
@@ -11199,7 +11210,8 @@
 		<description>Horseland (Europe) (Fr,It)</description>
 		<rom name="Horseland (Europe) (Fr,It).nds" size="33554432" crc="91d27d1f" md5="84c25ed387c00144c2b0b97ffd80253e" sha1="5ab96062d8cd9606d6590a52dd5b54ddb08010ec" sha256="2eabbffdc73c3c4493016aa967e15f766755b328362127c790ab585134f7d528" status="verified" serial="CH8X"/>
 	</game>
-	<game name="Horsez (USA) (En,Fr,Es)" id="0753" cloneofid="0632">
+	<game name="Horsez (USA) (En,Fr,Es)" id="0753" cloneofid="2083">
+		<category>Games</category>
 		<description>Horsez (USA) (En,Fr,Es)</description>
 		<rom name="Horsez (USA) (En,Fr,Es).nds" size="67108864" crc="357c69b2" md5="a58234b8e9756552f7674091c277f1cf" sha1="8a34cc8368eca0dfb391f9f4b5d0713394723f9b" serial="AHZE"/>
 	</game>
@@ -14060,7 +14072,7 @@
 	<game name="Kochkurs - Was Wollen Wir Heute Kochen (Germany)" id="2379" cloneofid="z379">
 		<category>Educational</category>
 		<description>Kochkurs - Was Wollen Wir Heute Kochen (Germany)</description>
-		<rom name="Kochkurs - Was Wollen Wir Heute Kochen (Germany).nds" size="268435456" crc="d45c1b0f" md5="f19414915e0f617c14bf01bfb17d17c9" sha1="d402c40f35e0781426315a9a9637602c5781d3f9" serial="CNVD"/>
+		<rom name="Kochkurs - Was Wollen Wir Heute Kochen (Germany).nds" size="268435456" crc="d45c1b0f" md5="f19414915e0f617c14bf01bfb17d17c9" sha1="d402c40f35e0781426315a9a9637602c5781d3f9" sha256="86c343c4344499b0c4227e9d3dfeab3b92d1a44ee7951937f6932b17f88935a0" serial="CNVD"/>
 	</game>
 	<game name="Kochkurs - Was Wollen Wir Heute Kochen (Germany) (Rev 1)" id="6312" cloneofid="z379">
 		<category>Educational</category>
@@ -21037,6 +21049,7 @@
 		<rom name="Penguins of Madagascar, The - Dr. Blowhole Returns Again! (USA) (En,Fr) (NDSi Enhanced).nds" size="67108864" crc="6f13a7bc" md5="7d6acd073a06e9b0b74c9561b4ae0140" sha1="456a4c343a8ef9c6a2a3f9880ece3f1adf10fadb" serial="VP9E"/>
 	</game>
 	<game name="Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (De,Nl) (NDSi Enhanced)" id="5828" cloneofid="6541">
+		<category>Games</category>
 		<description>Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (De,Nl) (NDSi Enhanced)</description>
 		<rom name="Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (De,Nl) (NDSi Enhanced).nds" size="67108864" crc="0b5a9378" md5="e04b591c24944175733f8c06ef69538d" sha1="299bbed2cf1ddbb6040225e2289c44fbeec118ac" sha256="d0dfb9c2469cc72daae3da537c6e60c8dcac2a4b2d9be1f399cf7fd2203ae000" status="verified" serial="VP9X"/>
 	</game>
@@ -21045,6 +21058,7 @@
 		<rom name="Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (En,Fr) (NDSi Enhanced).nds" size="67108864" crc="e6f07717" md5="cb92b4b7d0f32d7a08ce8972081a67da" sha1="da85c5a32ce8d89d2e52d834ac36b7c9c0c28468" sha256="36d15379245bfe0a23f1b8a1472465da59ad1f46623794c6352bfa6b4ef621b5" serial="VP9V"/>
 	</game>
 	<game name="Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (Es,It) (NDSi Enhanced)" id="6567" cloneofid="6541">
+		<category>Games</category>
 		<description>Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (Es,It) (NDSi Enhanced)</description>
 		<rom name="Penguins of Madagascar, The - Dr. Blowhole Returns Again! (Europe) (Es,It) (NDSi Enhanced).nds" size="67108864" crc="0abdf88f" md5="e430c70904afef77462dd5f9e8055113" sha1="d0a6fe5e95a269f9d6aa415d7965d14011358b86" serial="VP9Y"/>
 	</game>
@@ -21704,13 +21718,15 @@
 		<description>Pipe Mania (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Pipe Mania (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="100bcfe4" md5="83aebc3fe6995ce645fc5a6d443ab39f" sha1="cf8e6eb102a8dfe0b418a76567a3b0857c7b39e9" sha256="facb88aea2c18f38f9aa1d409d4fb6913cb8999cc6a07f188e9589d8648187d6" status="verified" serial="CPMP"/>
 	</game>
-	<game name="Pippa Funnell (Europe) (En,Fr,De,Es)" id="0632">
+	<game name="Pippa Funnell (Europe) (En,Fr,De,Es)" id="0632" cloneofid="2083">
+		<category>Games</category>
 		<description>Pippa Funnell (Europe) (En,Fr,De,Es)</description>
 		<rom name="Pippa Funnell (Europe) (En,Fr,De,Es).nds" size="67108864" crc="d3f9e7db" md5="3d23716a82cd97de4b5556d29693c95f" sha1="41b9ece86f63ff3e89185ddb2312e4215a9924ec" sha256="e0297818b63c5a181021c42f027871ef1ca9d32fa89aa078e16c1b1b98b324d5" status="verified" serial="AHZP"/>
 	</game>
-	<game name="Pippa Funnell (Europe) (En,Fr,De,Es,Nl)" id="2083" cloneofid="0632">
+	<game name="Pippa Funnell (Europe) (En,Fr,De,Es,Nl)" id="2083">
+		<category>Games</category>
 		<description>Pippa Funnell (Europe) (En,Fr,De,Es,Nl)</description>
-		<rom name="Pippa Funnell (Europe) (En,Fr,De,Es,Nl).nds" size="67108864" crc="cc3cb56e" md5="7e5c1638befb61ad3b954ce8437117e1" sha1="ccefaec1f4cd6857dbacc2a5914c3d1ffc955971" serial="AHZH"/>
+		<rom name="Pippa Funnell (Europe) (En,Fr,De,Es,Nl).nds" size="67108864" crc="cc3cb56e" md5="7e5c1638befb61ad3b954ce8437117e1" sha1="ccefaec1f4cd6857dbacc2a5914c3d1ffc955971" sha256="589a1307906d6fd11b6bda0f75cec4b15b0ea9ef17664012ad179847ee7d5bcb" serial="AHZH"/>
 	</game>
 	<game name="Pippa Funnell 2 - Farm Adventures (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="1482">
 		<description>Pippa Funnell 2 - Farm Adventures (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -22944,10 +22960,6 @@
 		<description>Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De)</description>
 		<rom name="Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De).nds" size="67108864" crc="e7c1636a" md5="a58c3d92912a2e81e86e2394e83f4b79" sha1="c35001e8db7337f5b5c66231f3d1dedafdd66056" serial="YYLX"/>
 	</game>
-	<game name="Prinzessin Lillifee - Spielesammlung (Germany)" id="6421">
-		<description>Prinzessin Lillifee - Spielesammlung (Germany)</description>
-		<rom name="Prinzessin Lillifee - Spielesammlung (Germany).nds" size="67108864" crc="1f709702" md5="df8c258deb8489572737410ebf4c89ee" sha1="da77e9a57c32a3381c4add6d119bd374fce8c3b6" serial="TPZD"/>
-	</game>
 	<game name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="4734">
 		<description>Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="445c8c78" md5="13cd06b2a5518bc359da9e9ddcb485b9" sha1="e90eda0fb78d8023e0d26637a3aedba4d1db0b11" sha256="2c081a65479812987bc733c0bc3a309b071e6e978586623dc71122664c8f349e" serial="BZLP"/>
@@ -23931,10 +23943,12 @@
 		<rom name="Recettes de Cuisine avec Cyril Lignac (France).nds" size="67108864" crc="29f14693" md5="f314cce549537ecb433203146f30ec21" sha1="5fe4b2ee679a924d7d7453cdefada9ed004985f7" serial="BCYF"/>
 	</game>
 	<game name="Red Bull BC One (Europe) (En,Fr,De,Es,It)" id="2526">
+		<category>Games</category>
 		<description>Red Bull BC One (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Red Bull BC One (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="71f896c3" md5="f3a90058d583178b131a61715dc190c4" sha1="66ac6340a841f5f19b3ce40bc2038f141eea6acc" serial="CRDP"/>
+		<rom name="Red Bull BC One (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="71f896c3" md5="f3a90058d583178b131a61715dc190c4" sha1="66ac6340a841f5f19b3ce40bc2038f141eea6acc" sha256="a1f4181173d0794f29c8c5933150753d5244dfc02a0f7cba8974575e11b68b56" serial="CRDP"/>
 	</game>
 	<game name="Red Bull BC One (USA) (En,Fr,De,Es,It)" id="3200" cloneofid="2526">
+		<category>Games</category>
 		<description>Red Bull BC One (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Red Bull BC One (USA) (En,Fr,De,Es,It).nds" size="16777216" crc="ed1d5899" md5="7a1f748d447e9ad8d18dc98328b27d87" sha1="e54653b0b69a0446f0b0faeb7872a5e91e837209" serial="CRDE"/>
 	</game>
@@ -26989,10 +27003,12 @@
 		<rom name="Style Lab - Fashion Design (USA) (En,Fr,Es).nds" size="33554432" crc="7e5e03b3" md5="41cbe7a0213e83d816f5caf3da69e8d0" sha1="f2dbd33143811fd509ae10e0a4587ba55e6ff432" serial="BYLE"/>
 	</game>
 	<game name="Style Lab - Jewelry Design (USA) (En,Fr,Es) (NDSi Enhanced)" id="4456" cloneofid="4646">
+		<category>Games</category>
 		<description>Style Lab - Jewelry Design (USA) (En,Fr,Es) (NDSi Enhanced)</description>
 		<rom name="Style Lab - Jewelry Design (USA) (En,Fr,Es) (NDSi Enhanced).nds" size="33554432" crc="a8e23f74" md5="d31f379f87de474385062c5ff9e09a88" sha1="5edc9e0d2b8450f873d1ef7cbca33648f3883a5c" serial="VJWE"/>
 	</game>
 	<game name="Style Lab - Jewelry Design (USA) (En,Fr,Es) (Rev 1) (NDSi Enhanced)" id="6619" cloneofid="4646">
+		<category>Games</category>
 		<description>Style Lab - Jewelry Design (USA) (En,Fr,Es) (Rev 1) (NDSi Enhanced)</description>
 		<rom name="Style Lab - Jewelry Design (USA) (En,Fr,Es) (Rev 1) (NDSi Enhanced).nds" size="33554432" crc="8aee2a97" md5="f04acd8378717f8d1eed91eeb5311b64" sha1="983b7e833fbf5178eac3d1ea9b80ca7491feeb17" serial="VJWE"/>
 	</game>
