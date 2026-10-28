@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261026-212934</version>
+		<version>20261027-234536</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1719,8 +1719,9 @@
 		<rom name="Asterix - Brain Trainer (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="d50cf5e3" md5="605455f6b4bae8f40544ac5748c16647" sha1="3b7e6595d83ee9535337360525bf9fb72d73f990" sha256="4f0bc514a62de5cf3799990b487969945aad86773093b77bae9a023b69d08acb" serial="CBTP"/>
 	</game>
 	<game name="Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl)" id="4358">
+		<category>Games</category>
 		<description>Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl)</description>
-		<rom name="Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl).nds" size="67108864" crc="06069093" md5="086944a1f82bdcfb20ed8f5190e07400" sha1="553ce918446e696b3437c299d3f44836fa1aa691" status="verified" serial="BAXP"/>
+		<rom name="Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl).nds" size="67108864" crc="06069093" md5="086944a1f82bdcfb20ed8f5190e07400" sha1="553ce918446e696b3437c299d3f44836fa1aa691" sha256="11b99059cebd5fe6d5ff5e1893fd60310c528a78d5221b199adabdf836bbf14d" status="verified" serial="BAXP"/>
 	</game>
 	<game name="Asterix &amp; Obelix XXL 2 - Mission Wifix (Europe) (En,Fr,De,Es,It,Nl)" id="0684">
 		<description>Asterix &amp; Obelix XXL 2 - Mission Wifix (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -2373,8 +2374,9 @@
 		<rom name="Battleship (USA) (En,Fr).nds" size="16777216" crc="b9110afb" md5="59510fad6daf8d4d134d72e384a205cf" sha1="0740f42b5db3b7e857721a07c9bb9f69763f5ea5" serial="TBTE"/>
 	</game>
 	<game name="Bauernhof, Der (Germany)" id="4635">
+		<category>Games</category>
 		<description>Bauernhof, Der (Germany)</description>
-		<rom name="Bauernhof, Der (Germany).nds" size="33554432" crc="37aa2539" md5="032ae8ba012cb51b4221e219e4ddc82f" sha1="bec49f698a12571e221412778a558c74d18fb275" serial="BHED"/>
+		<rom name="Bauernhof, Der (Germany).nds" size="33554432" crc="37aa2539" md5="032ae8ba012cb51b4221e219e4ddc82f" sha1="bec49f698a12571e221412778a558c74d18fb275" sha256="e5cddb50f53e02a37a2b66176976f1d0896e7e107d0b118c78e18cf0365611b3" status="verified" serial="BHED"/>
 	</game>
 	<game name="Beach de Reach! DS (Japan)" id="2977">
 		<description>Beach de Reach! DS (Japan)</description>
@@ -2561,8 +2563,9 @@
 		<rom name="Benoit Sokal Last King of Africa (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="7a1bd1de" md5="d69461aa1e49c193087964aef19ad021" sha1="89dd64c53224ea89de4c02e6d0b95ed0f2665689" sha256="6b0fcb3bfb61f4110018c3211994da4949cc7bbc4197a031517aeec20ec0261e" status="verified" serial="CKAP"/>
 	</game>
 	<game name="Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It)" id="2192">
+		<category>Educational</category>
 		<description>Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="e4a598ba" md5="cd1b4c5d424b1f1ba81e4e66a064f404" sha1="16d8eccea7229f6857cd3ffd93ad25441f18349e" sha256="7d34407d079144456b59f481369203b3b361491cfba31e492e13651d2959e73a" serial="YEHP"/>
+		<rom name="Berlitz - English Dictionary (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="e4a598ba" md5="cd1b4c5d424b1f1ba81e4e66a064f404" sha1="16d8eccea7229f6857cd3ffd93ad25441f18349e" sha256="7d34407d079144456b59f481369203b3b361491cfba31e492e13651d2959e73a" status="verified" serial="YEHP"/>
 	</game>
 	<game name="Berlitz - My English Coach (Europe) (En,Fr,De,Es,It)" id="4179">
 		<description>Berlitz - My English Coach (Europe) (En,Fr,De,Es,It)</description>
@@ -7929,6 +7932,7 @@
 		<rom name="Elements of Destruction (USA).nds" size="8388608" crc="436906ae" md5="affc63e2a52ccd3c3afd214f36e58857" sha1="d421a52cae2014cbf9fb4be1740942bc55e772bf" serial="YEDE"/>
 	</game>
 	<game name="Elements of Destruction (Europe) (En,Fr,De,Es)" id="3139">
+		<category>Games</category>
 		<description>Elements of Destruction (Europe) (En,Fr,De,Es)</description>
 		<rom name="Elements of Destruction (Europe) (En,Fr,De,Es).nds" size="8388608" crc="d254ae0a" md5="efaba596a96e9870948fd80c63473ba5" sha1="50f79799634604fd1f6763d8a88920814af62561" sha256="00e9525788c258c33467208b2c7e16cd8e24d5071a26529be891c4c332637ac6" status="verified" serial="YEDP"/>
 	</game>
@@ -10372,6 +10376,7 @@
 		<rom name="Hannah Montana - Music Jam (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="67af4c36" md5="dc6dd50a0b4f89988cabfadd69b2ad9e" sha1="70dc91f9d9a2c35c342cfcbfca4c27e886038573" sha256="4a6d118fd24610f9fc018115cd8b9b0b4563b8205f373a255e3729fcf5b89549" serial="YH2P"/>
 	</game>
 	<game name="Hannah Montana - Music Jam (Europe) (En,Sv,No,Da)" id="3262" cloneofid="2340">
+		<category>Games</category>
 		<description>Hannah Montana - Music Jam (Europe) (En,Sv,No,Da)</description>
 		<rom name="Hannah Montana - Music Jam (Europe) (En,Sv,No,Da).nds" size="33554432" crc="a22b12e9" md5="92532db762d868ade78600e9177752df" sha1="eba4a1842b360103384f9c7c3ff241df6f40b83e" sha256="e737f688d96c49267fb95c53f323d805887d9072ea0fe2ed6e6373b154f14582" serial="YH2X"/>
 	</game>
@@ -11846,6 +11851,7 @@
 		<rom name="Imagine - Fashion Designer (USA) (En,Fr,Es).nds" size="67108864" crc="953c143d" md5="64ec8a60ac497d15f9381d68e40592af" sha1="7cb59a51dbfa91c2936ac6670a0d3ce0b82a12d4" serial="YFHE"/>
 	</game>
 	<game name="Imagine - Fashion Designer - New York (USA) (En,Fr,Es,Pt)" id="2842" cloneofid="2721">
+		<category>Games</category>
 		<description>Imagine - Fashion Designer - New York (USA) (En,Fr,Es,Pt)</description>
 		<rom name="Imagine - Fashion Designer - New York (USA) (En,Fr,Es,Pt).nds" size="134217728" crc="7574e508" md5="c443d9023a7f845921ae8552cdbb2473" sha1="1c9ca888e2b4b05017110c518cb85f08115a3e9d" serial="CFDE"/>
 	</game>
@@ -11854,8 +11860,9 @@
 		<rom name="Imagine - Fashion Designer - World Tour (USA) (En,Fr,Es) (NDSi Enhanced).nds" size="134217728" crc="b90f4264" md5="22cec10548a48ca4621af98e5515ab81" sha1="490fb4086e17e5ceab46835a7f511c8d6c765443" serial="VFSE"/>
 	</game>
 	<game name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="2721">
+		<category>Games</category>
 		<description>Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
-		<rom name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="134217728" crc="b5bcfcdd" md5="dca18d2b6e94992523cf544a41e8443c" sha1="e8fcc793f9c1772c9cee620016a008da393467a3" serial="CFDP"/>
+		<rom name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="134217728" crc="b5bcfcdd" md5="dca18d2b6e94992523cf544a41e8443c" sha1="e8fcc793f9c1772c9cee620016a008da393467a3" sha256="86fa9b3a11006089506950ef5d74d40b19d1505d34ee44b56480900d00a1b5b7" status="verified" serial="CFDP"/>
 	</game>
 	<game name="Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Beta)" id="z240" cloneofid="2721">
 		<description>Imagine - Fashion Model (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da) (Beta)</description>
@@ -13138,10 +13145,6 @@
 	<game name="JumpStart - Legend of Lost Island (USA)" id="6427">
 		<description>JumpStart - Legend of Lost Island (USA)</description>
 		<rom name="JumpStart - Legend of Lost Island (USA).nds" size="16777216" crc="1fab004e" md5="44e58e70277ddf4a4dd307d3981b25b0" sha1="ac48d803fd017578e64ec60606b1110dee39d157" serial="BVHE"/>
-	</game>
-	<game name="Jungle School (Europe) (En,Fr,De,Es,It,Nl)" id="5003">
-		<description>Jungle School (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Jungle School (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="1248e819" md5="b66a8671b34d2375eab1cbfb38e37604" sha1="71fdce728f17fce55a63291a540fa674bcce445a" serial="BTRP"/>
 	</game>
 	<game name="Junior Brain Trainer (Europe) (En,Fr,De,Es,It)" id="3168">
 		<description>Junior Brain Trainer (Europe) (En,Fr,De,Es,It)</description>
@@ -27418,6 +27421,11 @@
 		<description>Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
 		<rom name="Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv).nds" size="134217728" crc="547f85b6" md5="0658a2d66395094dd4f1e25d1725d39f" sha1="cf53c034031bce14b7c833e9e3cae2eccdc7e1b8" sha256="0eab5aba09198a7015cb6fe75017e00ee3f1e59e4f2bc58ce312db88540fa9ee" serial="BZAP"/>
 	</game>
+	<game name="Super Teacher - The Crazy School (Europe) (En,Fr,De,Es,It,Nl)" id="5003">
+		<category>Games</category>
+		<description>Super Teacher - The Crazy School (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Super Teacher - The Crazy School (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="1248e819" md5="b66a8671b34d2375eab1cbfb38e37604" sha1="71fdce728f17fce55a63291a540fa674bcce445a" sha256="9122c11cf34590f9b35012281d34d85e8e9a7b41d8cd1a4a9da27dc68bd5d3c1" status="verified" serial="BTRP"/>
+	</game>
 	<game name="Super Yoshi no Tamago (Japan) (Proto)" id="z649">
 		<category>Preproduction</category>
 		<description>Super Yoshi no Tamago (Japan) (Proto)</description>
@@ -28837,12 +28845,14 @@
 		<rom name="Tom and Jerry Tales (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="f6143c42" md5="fec2b244fe121b1683127ac7cfbb797d" sha1="5c28f571b0df3cbb20b82514d93414f9186c291b" sha256="dedc037c5b9c79030a72933f758e22e3b151b818f3bd44be928274c102773489" serial="AJTP"/>
 	</game>
 	<game name="Tom Clancy's EndWar (USA) (En,Fr)" id="2874" cloneofid="2972">
+		<category>Games</category>
 		<description>Tom Clancy's EndWar (USA) (En,Fr)</description>
 		<rom name="Tom Clancy's EndWar (USA) (En,Fr).nds" size="33554432" crc="816d41b0" md5="ad68983c51103a023647ff426e9608bf" sha1="606101f4ddcadb59143d9cf2c9e5e629b11ae35f" serial="YTEE"/>
 	</game>
 	<game name="Tom Clancy's EndWar (Europe) (En,Fr,De,Es,It)" id="2972">
+		<category>Games</category>
 		<description>Tom Clancy's EndWar (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Tom Clancy's EndWar (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="073e9898" md5="5cedbd9b47b32ffe92bcb788f0037e1d" sha1="17d8f66c8bb3a4eccbbb8c4ec7abf992d7f93c0c" serial="YTEP"/>
+		<rom name="Tom Clancy's EndWar (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="073e9898" md5="5cedbd9b47b32ffe92bcb788f0037e1d" sha1="17d8f66c8bb3a4eccbbb8c4ec7abf992d7f93c0c" sha256="3b806ed87eb7710b3a5678450f7e6f2063e2632d6488e728f6a21bc0b4865c2f" status="verified" serial="YTEP"/>
 	</game>
 	<game name="Tom Clancy's Splinter Cell - Chaos Theory (Europe) (En,Fr,De,Es,It)" id="0066">
 		<description>Tom Clancy's Splinter Cell - Chaos Theory (Europe) (En,Fr,De,Es,It)</description>

@@ -4,7 +4,7 @@
 		<id>23</id>
 		<name>Nintendo - Game Boy Advance</name>
 		<description>Nintendo - Game Boy Advance</description>
-		<version>20261025-113312</version>
+		<version>20261028-031703</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, UnlockerPT, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3521,9 +3521,9 @@
 		<description>Discrete Orange (World) (Demo 3) (Aftermarket) (Unl)</description>
 		<rom name="Discrete Orange (World) (Demo 3) (Aftermarket) (Unl).gba" size="859244" crc="83dca48c" md5="b1755c0764390fa90a9823fc27b43195" sha1="fb3e959473dd88a580efc747941df7a997146743" sha256="16575e3e8fb869801ce8500aeff4a0fe3a2cb49f533ff6717bd22dcb6c5adbc5"/>
 	</game>
-	<game name="Disney Cart (USA) (Unl) [b]" id="2919">
-		<description>Disney Cart (USA) (Unl) [b]</description>
-		<rom name="Disney Cart (USA) (Unl) [b].gba" size="33554432" crc="bd6c8b22" md5="2d88089549889aedec24798ca27a1528" sha1="5342700c4719411da422b002c0089ca753179c45" sha256="c929f5a4887cb80e443f18070e4549f8f996999355860fe831ca612e51d29b58" status="baddump" serial="!none"/>
+	<game name="Disney Cart (USA) (Unl)" id="2919">
+		<description>Disney Cart (USA) (Unl)</description>
+		<rom name="Disney Cart (USA) (Unl).gba" size="33554432" crc="5dc17eee" md5="512c5356bf5d875e6f2d2d4eabd38ca3" sha1="0a24e6e903779c5e512ed7eab5256b5bfe59c06b" sha256="6457912f94588ed90907b365182c5edd8a40ef597defe2d0be782abf819fd9c4" mia="yes"/>
 	</game>
 	<game name="Disney Princesas (Spain)" id="1914" cloneofid="0926">
 		<description>Disney Princesas (Spain)</description>
@@ -10638,6 +10638,10 @@
 	<game name="Pokemon - Feuerrote Edition (Germany)" id="1657" cloneofid="1672">
 		<description>Pokemon - Feuerrote Edition (Germany)</description>
 		<rom name="Pokemon - Feuerrote Edition (Germany).gba" size="16777216" crc="1a81eedf" md5="6648a0484a56097ca75d6af87ebce225" sha1="18a3758ceeef2c77b315144be2c3910d6f1f69fe" status="verified" serial="BPRD"/>
+	</game>
+	<game name="Pokemon - Fire Red (USA) (Pirate)" id="3360" cloneofid="1672">
+		<description>Pokemon - Fire Red (USA) (Pirate)</description>
+		<rom name="Pokemon - Fire Red (USA) (Pirate).gba" size="33554432" crc="bb9e889f" md5="edec002c0263b17a992e5f66714bcce0" sha1="0ee15789877ee39d0ffcba1e123564c36cccee3b" sha256="fdf8dea40e8aec0b9ddca701a8d183fa1fd2074da79838af9bcbe7aa47318a79" mia="yes"/>
 	</game>
 	<game name="Pokemon - FireRed Version (USA, Europe)" id="1616" cloneofid="1672">
 		<description>Pokemon - FireRed Version (USA, Europe)</description>
