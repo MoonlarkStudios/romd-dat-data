@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261027-234536</version>
+		<version>20261028-232251</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7177,7 +7177,8 @@
 		<description>Dreamer Series - Pop Star (USA) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="Dreamer Series - Pop Star (USA) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="70b018ea" md5="0f7cea018f96c7418b7f54b20b2c0600" sha1="472526911ac7526a99faa657c8decfa8eb48d807" serial="COPE"/>
 	</game>
-	<game name="Dreamer Series - Puppy Trainer (USA) (En,Es)" id="3713" cloneofid="3187">
+	<game name="Dreamer Series - Puppy Trainer (USA) (En,Es)" id="3713" cloneofid="3164">
+		<category>Games</category>
 		<description>Dreamer Series - Puppy Trainer (USA) (En,Es)</description>
 		<rom name="Dreamer Series - Puppy Trainer (USA) (En,Es).nds" size="33554432" crc="a72bed45" md5="e22ebf3091c61cc81db14e33a16083e9" sha1="dfa7787104ac280797a2f7be731417da9b314b1f" serial="YR6E"/>
 	</game>
@@ -7615,10 +7616,12 @@
 		<rom name="Dungeon of Windaria (Japan).nds" size="16777216" crc="88854eeb" md5="e724ab558f903c1ff9ffbeddc6a16e5d" sha1="0afd4716a24a4518c5bd0dffa01f7a28aca0680d" serial="YWEJ"/>
 	</game>
 	<game name="Dungeon Raiders (Europe) (En,Fr,De,Es,It)" id="4418">
+		<category>Games</category>
 		<description>Dungeon Raiders (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Dungeon Raiders (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="bfbea054" md5="82aa73018cdfe4b53999c4e45dd3cd96" sha1="8b6c84693717532d1d9aff9ad9e66c455b47da21" sha256="2614874b17caccc3d55528a1b87986b04dc71703cdf2062925583d122a1cf1e3" status="verified" serial="CDVP"/>
 	</game>
 	<game name="Dungeon Raiders (USA) (En,Fr,De,Es)" id="5650" cloneofid="4418">
+		<category>Games</category>
 		<description>Dungeon Raiders (USA) (En,Fr,De,Es)</description>
 		<rom name="Dungeon Raiders (USA) (En,Fr,De,Es).nds" size="16777216" crc="6b17aa5e" md5="d6ea1ccd1c832eefb7d5860e03205d84" sha1="7f06b931a07b7f7b8291d3915f725f06e65d86c9" serial="CDVE"/>
 	</game>
@@ -8023,11 +8026,13 @@
 		<description>Emergency! - Disaster Rescue Squad (USA)</description>
 		<rom name="Emergency! - Disaster Rescue Squad (USA).nds" size="33554432" crc="a208af83" md5="dd90cb9ec3355de1226707e7c8c4548c" sha1="e84886c7c2d48d3e266e11fc5a795f993ac146b9" serial="CIQE"/>
 	</game>
-	<game name="Emily - My Animal Shelter (Europe) (En,Fr,It)" id="3188">
+	<game name="Emily - My Animal Shelter (Europe) (En,Fr,It)" id="3188" cloneofid="3043">
+		<category>Games</category>
 		<description>Emily - My Animal Shelter (Europe) (En,Fr,It)</description>
 		<rom name="Emily - My Animal Shelter (Europe) (En,Fr,It).nds" size="33554432" crc="a28f2592" md5="b52ce699de44d5ffdaf9c96da21ee646" sha1="568603c6c64f85c438eae8a23b12931bf10fd6a7" serial="YR5P"/>
 	</game>
-	<game name="Emily - My Dog Paradise (Europe) (En,Fr,It)" id="3187">
+	<game name="Emily - My Dog Paradise (Europe) (En,Fr,It)" id="3187" cloneofid="3164">
+		<category>Games</category>
 		<description>Emily - My Dog Paradise (Europe) (En,Fr,It)</description>
 		<rom name="Emily - My Dog Paradise (Europe) (En,Fr,It).nds" size="33554432" crc="ed95378b" md5="3aa35bb0f78d0b9011cd72fee0924f53" sha1="360278f15f04451830441dcdef78bdd3b763150a" sha256="2d5cc8f8d40fa564553200779e55b9f5363174de0b752fc6ea04466ed95bee36" status="verified" serial="YR6P"/>
 	</game>
@@ -8194,10 +8199,12 @@
 		<rom name="Escape the Museum (USA) (En,Fr,De,Es).nds" size="67108864" crc="27aea4aa" md5="dd142df4b448ba2c1b9683f96a573ad3" sha1="85be414cb5cfc984cf4cf2821124bf4dbef38e9a" serial="BESE"/>
 	</game>
 	<game name="Escape the Museum (Europe) (En,Fr,It)" id="5354">
+		<category>Games</category>
 		<description>Escape the Museum (Europe) (En,Fr,It)</description>
 		<rom name="Escape the Museum (Europe) (En,Fr,It).nds" size="67108864" crc="f1f75c1d" md5="405475830b75dd5e75513f5d78ae7834" sha1="aaead62cc2b32d1cd1ba1e9b27cb336432cef796" serial="BE3P"/>
 	</game>
 	<game name="Escape the Museum (Europe) (En,Fr,Nl)" id="5409" cloneofid="5354">
+		<category>Games</category>
 		<description>Escape the Museum (Europe) (En,Fr,Nl)</description>
 		<rom name="Escape the Museum (Europe) (En,Fr,Nl).nds" size="67108864" crc="b9ed9b11" md5="63f1352083adb2c18ebf3245d64831d0" sha1="6b0159624895a1f2192d8eb42283e5b2c83b89e5" serial="BE3X"/>
 	</game>
@@ -9155,6 +9162,7 @@
 		<rom name="G-Force (USA) (En,Fr,Es).nds" size="134217728" crc="9c4eb50a" md5="e4973b467dfb61dde11cc774ac93446d" sha1="0588fa147a7bb7c64c52932a91570b406efff42f" serial="CFAE"/>
 	</game>
 	<game name="G-Force (Europe) (En,Fr,Es,Nl)" id="4181">
+		<category>Games</category>
 		<description>G-Force (Europe) (En,Fr,Es,Nl)</description>
 		<rom name="G-Force (Europe) (En,Fr,Es,Nl).nds" size="134217728" crc="cd79ad2c" md5="d1fb00ac7d9131b2e19b92361b9cbcbe" sha1="498ed0dfd4efa29a9bf908e849fd4455412ec376" sha256="7b16db8856d597000ebd1995060bd1bb2907de454d66bee5d4b28ce65d8c7c2b" status="verified" serial="CFAP"/>
 	</game>
@@ -9754,14 +9762,17 @@
 		<rom name="Go, Diego, Go! - Safari Rescue (USA).nds" size="8388608" crc="c162a262" md5="db3422f0f0885fd8c7ea406810b2e22e" sha1="baa2e598b6a3fe58257da5587a88bacec5ec794f" serial="YEQE"/>
 	</game>
 	<game name="Go, Diego, Go! - Safari Rescue (Europe)" id="2097" cloneofid="6320">
+		<category>Games</category>
 		<description>Go, Diego, Go! - Safari Rescue (Europe)</description>
 		<rom name="Go, Diego, Go! - Safari Rescue (Europe).nds" size="8388608" crc="087ebf40" md5="e5285073b89658eb741c9655303dfff7" sha1="78f3022213842a0c40173e3d7c1dc23e0e6f4036" sha256="8f5156b0ba66347f376306878dced771126e4bec4d3f5a7f68953ee65df5ac01" serial="YEQP"/>
 	</game>
 	<game name="Go, Diego, Go! - Safari Rescue (Europe) (En,Fr)" id="2520" cloneofid="6320">
+		<category>Games</category>
 		<description>Go, Diego, Go! - Safari Rescue (Europe) (En,Fr)</description>
 		<rom name="Go, Diego, Go! - Safari Rescue (Europe) (En,Fr).nds" size="16777216" crc="265f4544" md5="f216d4ff1bd64620b541c57ef9cf7a63" sha1="ea44f567815a83c6053ad0f4e68947bed37fc9b0" sha256="abbf7a8ee540bb195d0ae7bb8f2109712bf4f70a154b7aece2e50c080c7e4405" serial="YEQX"/>
 	</game>
 	<game name="Go, Diego, Go! - Safari Rescue (Europe) (En,Fr,Nl)" id="6320">
+		<category>Games</category>
 		<description>Go, Diego, Go! - Safari Rescue (Europe) (En,Fr,Nl)</description>
 		<rom name="Go, Diego, Go! - Safari Rescue (Europe) (En,Fr,Nl).nds" size="16777216" crc="9c30ba47" md5="8cdbdf81636b33e4f39af4d2e6820c1b" sha1="b4c5f5a59774aa88fa267e403347a842a11f1bca" serial="YEQY"/>
 	</game>
@@ -10237,6 +10248,7 @@
 		<rom name="Gyakuten Saiban 3 (Japan) (En,Ja).nds" size="33554432" crc="b142b8d0" md5="0b936b07398f4770aca83ad5b3a16048" sha1="4e894118102f44a7e07084a5c518765629ef1d5d" serial="YG3J"/>
 	</game>
 	<game name="Gyakuten Saiban 4 (Japan)" id="0993" cloneofid="2313">
+		<category>Games</category>
 		<description>Gyakuten Saiban 4 (Japan)</description>
 		<rom name="Gyakuten Saiban 4 (Japan).nds" size="67108864" crc="34721814" md5="869b3dfc3ec6ad4046d0c7ad4a40af01" sha1="51700f0361589172608d1cac18d4c706b4feea26" sha256="af8d4487e0b61b61b0ae2073031b196e83d07a6e070473edb81fa24916261cfe" status="verified" serial="AGCJ"/>
 	</game>
@@ -10892,10 +10904,12 @@
 		<rom name="Hidden Expedition - Titanic (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="c5d3e639" md5="8a38738a0d284472e040e497d5715c88" sha1="e82e398a066d0a4117bfbf4cfb67ad4c874c6210" serial="THEP"/>
 	</game>
 	<game name="Hidden Mysteries - Buckingham Palace (Europe) (En,Fr,Nl)" id="5344" cloneofid="5371">
+		<category>Games</category>
 		<description>Hidden Mysteries - Buckingham Palace (Europe) (En,Fr,Nl)</description>
 		<rom name="Hidden Mysteries - Buckingham Palace (Europe) (En,Fr,Nl).nds" size="33554432" crc="0f634ddc" md5="8e757df60618efe1e58a57e18703b581" sha1="37aea7eb3336169493334ec5809bc064becbe626" serial="BHYX"/>
 	</game>
 	<game name="Hidden Mysteries - Buckingham Palace (Europe) (En,Fr,It)" id="5371">
+		<category>Games</category>
 		<description>Hidden Mysteries - Buckingham Palace (Europe) (En,Fr,It)</description>
 		<rom name="Hidden Mysteries - Buckingham Palace (Europe) (En,Fr,It).nds" size="33554432" crc="84ef3217" md5="aaf3ef4ec7f481be4f4ddeecd6a3a24b" sha1="d4ea8d24ec3794a3fe81de0768f789d2b6271429" serial="BHYP"/>
 	</game>
@@ -10939,19 +10953,23 @@
 		<description>Hidden Mysteries - Titanic - Secrets of the Fateful Voyage (Europe) (En,Fr,It)</description>
 		<rom name="Hidden Mysteries - Titanic - Secrets of the Fateful Voyage (Europe) (En,Fr,It).nds" size="67108864" crc="2721a0f7" md5="353654e8a7294e995007ba3d18384693" sha1="181d175a3d868368af7527c6f892035fa21385aa" sha256="a1dc40474e472aa218e26bbc001ff946cd87e9e3f3c7837f7e5ddfb688268583" serial="BTZY"/>
 	</game>
-	<game name="Hidden Mysteries - Vampire Secrets (USA)" id="5423" cloneofid="6165">
+	<game name="Hidden Mysteries - Vampire Secrets (USA)" id="5423" cloneofid="6322">
+		<category>Games</category>
 		<description>Hidden Mysteries - Vampire Secrets (USA)</description>
 		<rom name="Hidden Mysteries - Vampire Secrets (USA).nds" size="33554432" crc="3ff22e7e" md5="d00018fbad9ce7dd07870d9e736effde" sha1="d943089a2865dcec2e13ad990be30dda41375efa" serial="BVME"/>
 	</game>
-	<game name="Hidden Mysteries - Vampire Secrets (Germany)" id="5718" cloneofid="6165">
+	<game name="Hidden Mysteries - Vampire Secrets (Germany)" id="5718" cloneofid="6322">
+		<category>Games</category>
 		<description>Hidden Mysteries - Vampire Secrets (Germany)</description>
 		<rom name="Hidden Mysteries - Vampire Secrets (Germany).nds" size="33554432" crc="11a14793" md5="8aca870a8286ff149e1fb68459f44a3d" sha1="a39c82f32013e135a023b67943893d3e5e512c51" sha256="8cddc338c7c7d80f398d4e6795071e6a7803aaefde67f09192841a97891a7c5d" serial="BVMD"/>
 	</game>
-	<game name="Hidden Mysteries - Vampire Secrets (Europe)" id="6165">
+	<game name="Hidden Mysteries - Vampire Secrets (Europe)" id="6165" cloneofid="6322">
+		<category>Games</category>
 		<description>Hidden Mysteries - Vampire Secrets (Europe)</description>
 		<rom name="Hidden Mysteries - Vampire Secrets (Europe).nds" size="33554432" crc="1eaa1f2b" md5="e5ca9d1089c40c78ff6b3dcd045672b7" sha1="c469dbf617582c38e3e76c2b2eac364ad1c64378" serial="BVMP"/>
 	</game>
-	<game name="Hidden Mysteries - Vampire Secrets (Europe) (En,Fr,Nl)" id="6322" cloneofid="6165">
+	<game name="Hidden Mysteries - Vampire Secrets (Europe) (En,Fr,Nl)" id="6322">
+		<category>Games</category>
 		<description>Hidden Mysteries - Vampire Secrets (Europe) (En,Fr,Nl)</description>
 		<rom name="Hidden Mysteries - Vampire Secrets (Europe) (En,Fr,Nl).nds" size="33554432" crc="0a44e5ac" md5="dcb839a0d0a1f3ab7d300034b00074cc" sha1="1902d9c6655974ac130092f391339f4484e93665" serial="BVMX"/>
 	</game>
@@ -18572,7 +18590,8 @@
 		<description>My Dog Coach - Understand Your Dog with Cesar Millan (Europe) (En,Fr,Es)</description>
 		<rom name="My Dog Coach - Understand Your Dog with Cesar Millan (Europe) (En,Fr,Es).nds" size="67108864" crc="8bf5da20" md5="f53441e1caa5fef9fb48547d76c462fc" sha1="c1cbb41a594fa6a26b6dfc0e91ce4c57e83e4aa1" serial="CDCP"/>
 	</game>
-	<game name="My Dogs Paradise (Europe) (En,Fr,De,Es,It,Nl)" id="3164" cloneofid="3187">
+	<game name="My Dogs Paradise (Europe) (En,Fr,De,Es,It,Nl)" id="3164">
+		<category>Games</category>
 		<description>My Dogs Paradise (Europe) (En,Fr,De,Es,It,Nl)</description>
 		<rom name="My Dogs Paradise (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="f6428035" md5="c4a83fa5c105de0c10bfcc270caf9265" sha1="d5fc888025adabdaaaee6e81e475ca52e3e214fe" sha256="8d8241c5d9db91fb6caaee3c582f2e380ae13a401a57ed333a49ae7d9231fb6d" status="verified" serial="YR6X"/>
 	</game>
@@ -18738,7 +18757,8 @@
 		<description>My Melody Angel Book - Denshi Techou &amp; Enjoy Game (Japan)</description>
 		<rom name="My Melody Angel Book - Denshi Techou &amp; Enjoy Game (Japan).nds" size="67108864" crc="fe21156e" md5="336c9f51a7ebae6a57fe1fc9db0de9b5" sha1="f01eeb5233b74f430076c8dde0b2aa29523d12cc" serial="AMYJ"/>
 	</game>
-	<game name="My Own Pet Shelter (Europe) (En,Fr,De,Nl)" id="3043" cloneofid="3188">
+	<game name="My Own Pet Shelter (Europe) (En,Fr,De,Nl)" id="3043">
+		<category>Games</category>
 		<description>My Own Pet Shelter (Europe) (En,Fr,De,Nl)</description>
 		<rom name="My Own Pet Shelter (Europe) (En,Fr,De,Nl).nds" size="33554432" crc="d48b5d8b" md5="1d67aa48f797a70acb2f62cd7134cd92" sha1="e6e3aa73afbaecf41242b8511e3439e13647e386" sha256="5c968aa7b159bf045d461b260c5a1c103272c617bea873d12d8855e391236d73" status="verified" serial="YR5X"/>
 	</game>
@@ -21132,7 +21152,8 @@
 		<description>Personal Yoga Training - Learn in 15 Minutes a Day (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Personal Yoga Training - Learn in 15 Minutes a Day (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="c1784277" md5="f811b33bcbb15218da8552e7e071d37c" sha1="381dc91e35b722f842811825071576e2c06980e3" sha256="0e8a6afed6681558c39413adfee05f79ae8c868c83b078ae93260be2fc7f2119" status="verified" serial="YGCP"/>
 	</game>
-	<game name="Pet Adoption Center (USA) (En,Fr,De,Nl)" id="4111" cloneofid="3188">
+	<game name="Pet Adoption Center (USA) (En,Fr,De,Nl)" id="4111" cloneofid="3043">
+		<category>Games</category>
 		<description>Pet Adoption Center (USA) (En,Fr,De,Nl)</description>
 		<rom name="Pet Adoption Center (USA) (En,Fr,De,Nl).nds" size="33554432" crc="68207f37" md5="6575c77118d160bfdf2dc1f5813b7502" sha1="56b5c7f153ffb88a89465f26ce0a8aaccd37ea4f" serial="YR5E"/>
 	</game>

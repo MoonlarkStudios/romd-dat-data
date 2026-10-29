@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-28 10-29-39)</description>
-		<version>2026-10-28 10-29-39</version>
-		<date>2026-10-28 10-29-39</date>
+		<description>Sony - PlayStation 3 - Datfile (4520) (2026-10-29 08-45-33)</description>
+		<version>2026-10-29 08-45-33</version>
+		<date>2026-10-29 08-45-33</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -5621,12 +5621,12 @@
 		<description>Dark Souls with Artorias of the Abyss Edition (Japan)</description>
 		<rom name="Dark Souls with Artorias of the Abyss Edition (Japan).iso" size="5605556224" crc="7b5d46c2" md5="7e83b5728252dd8bb1f66ce17f23aed5" sha1="7213ba6403affd0e367d3fa6052079fd54f2246c"/>
 	</game>
-	<game name="Dark Void (Europe, Asia) (En,Fr,De,Es,It)" id="29445">
+	<game name="Dark Void (Europe, Korea) (En,Fr,De,Es,It)" id="29445">
 		<category>Games</category>
 		<serial>BLES-00723, BLKS 20137</serial>
 		<version>01.01</version>
-		<description>Dark Void (Europe, Asia) (En,Fr,De,Es,It)</description>
-		<rom name="Dark Void (Europe, Asia) (En,Fr,De,Es,It).iso" size="5352587264" crc="2c0c90fb" md5="7d6a08949365c54a61d6a7ba0e215909" sha1="f0ca9789906847c9f951dd5340a76db06ac48735"/>
+		<description>Dark Void (Europe, Korea) (En,Fr,De,Es,It)</description>
+		<rom name="Dark Void (Europe, Korea) (En,Fr,De,Es,It).iso" size="5352587264" crc="2c0c90fb" md5="7d6a08949365c54a61d6a7ba0e215909" sha1="f0ca9789906847c9f951dd5340a76db06ac48735"/>
 	</game>
 	<game name="Dark Void (USA) (En,Fr,De,Es,It)" id="11743">
 		<category>Games</category>
@@ -5845,12 +5845,12 @@
 		<description>Dead Island: Game of the Year Edition (USA, Korea) (En,Fr,De,Es,It,Pl)</description>
 		<rom name="Dead Island - Game of the Year Edition (USA, Korea) (En,Fr,De,Es,It,Pl).iso" size="6143279104" crc="518ad3f8" md5="ba6f15386ca6fd40d7ddf322ecc0fef8" sha1="3c5a37ef85ab5e48e64ad27750f68d750486f47b"/>
 	</game>
-	<game name="Dead Island - Riptide (Europe, Asia) (En,Fr,De,Es,It,Pl)" id="32700">
+	<game name="Dead Island - Riptide (Europe, Korea) (En,Fr,De,Es,It,Pl)" id="32700">
 		<category>Games</category>
 		<serial>BLES-01739, BLKS 20424</serial>
 		<version>01.01</version>
-		<description>Dead Island: Riptide (Europe, Asia) (En,Fr,De,Es,It,Pl)</description>
-		<rom name="Dead Island - Riptide (Europe, Asia) (En,Fr,De,Es,It,Pl).iso" size="3768516608" crc="4f93f29f" md5="ba20f18bfa6935dbc0f6d4150a9b4513" sha1="1c1c5f953c03574c4b8ebe7df18213b40732d575"/>
+		<description>Dead Island: Riptide (Europe, Korea) (En,Fr,De,Es,It,Pl)</description>
+		<rom name="Dead Island - Riptide (Europe, Korea) (En,Fr,De,Es,It,Pl).iso" size="3768516608" crc="4f93f29f" md5="ba20f18bfa6935dbc0f6d4150a9b4513" sha1="1c1c5f953c03574c4b8ebe7df18213b40732d575"/>
 	</game>
 	<game name="Dead Island - Riptide (Japan)" id="100765">
 		<category>Games</category>
@@ -8314,12 +8314,12 @@
 		<description>Dunamis 15 (Japan)</description>
 		<rom name="Dunamis 15 (Japan).iso" size="4570546176" crc="b38c7f73" md5="02ca589d8211728f155977ec7d86f7f8" sha1="d5de474dd69fbf3233aa304b94b3b6daabc8e765"/>
 	</game>
-	<game name="Dungeon Siege III (Europe, Asia) (En,Fr,De,Es,It)" id="30866">
+	<game name="Dungeon Siege III (Europe, Korea) (En,Fr,De,Es,It)" id="30866">
 		<category>Games</category>
 		<serial>BLES-01161, BLES-01161/LE, BLKS 20284</serial>
 		<version>01.01</version>
-		<description>Dungeon Siege III (Europe, Asia) (En,Fr,De,Es,It)</description>
-		<rom name="Dungeon Siege III (Europe, Asia) (En,Fr,De,Es,It).iso" size="5109514240" crc="84b15784" md5="7cb291b359a9109ac72b62134ffe4dda" sha1="77407bc5b2698a8e846fc1bbaf0dab4a45443965"/>
+		<description>Dungeon Siege III (Europe, Korea) (En,Fr,De,Es,It)</description>
+		<rom name="Dungeon Siege III (Europe, Korea) (En,Fr,De,Es,It).iso" size="5109514240" crc="84b15784" md5="7cb291b359a9109ac72b62134ffe4dda" sha1="77407bc5b2698a8e846fc1bbaf0dab4a45443965"/>
 	</game>
 	<game name="Dungeon Siege III (Japan)" id="60411">
 		<category>Games</category>
@@ -9987,12 +9987,12 @@
 		<description>Far Cry 4 (Europe) (En,Ru)</description>
 		<rom name="Far Cry 4 (Europe) (En,Ru).iso" size="8480817152" crc="1b3f7592" md5="a703db305fdecee3833e7527a4b44d8f" sha1="264d5c0030762380198a25c7287327ca79b359a3"/>
 	</game>
-	<game name="Far Cry 4 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Cs)" id="52195">
+	<game name="Far Cry 4 (Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Cs)" id="52195">
 		<category>Games</category>
 		<serial>BLES-02011, BLKS 20498, BLES-02011/ANZ</serial>
 		<version>01.00</version>
-		<description>Far Cry 4 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Cs)</description>
-		<rom name="Far Cry 4 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Cs).iso" size="10964828160" crc="8825b455" md5="b083342c1e6c6882adff04d863f0451e" sha1="a88bb193b951f0301f1a46de2a98d2a8b838eb02"/>
+		<description>Far Cry 4 (Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Cs)</description>
+		<rom name="Far Cry 4 (Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Pl,Cs).iso" size="10964828160" crc="8825b455" md5="b083342c1e6c6882adff04d863f0451e" sha1="a88bb193b951f0301f1a46de2a98d2a8b838eb02"/>
 	</game>
 	<game name="Far Cry 4 (Japan)" id="99449">
 		<category>Games</category>
@@ -14402,12 +14402,12 @@
 		<description>Killer Is Dead (USA) (En,Ja)</description>
 		<rom name="Killer Is Dead (USA) (En,Ja).iso" size="5863309312" crc="1280f7ff" md5="a979e005e2df602825694cef98e31b8f" sha1="14d2e804ad8f4ef1fa4b570f26b56450f63a2bec"/>
 	</game>
-	<game name="Killzone (Europe, Asia) (En,Fr,De,Es,It,Nl)" id="54722">
+	<game name="Killzone (Europe, Korea) (En,Fr,De,Es,It,Nl)" id="54722">
 		<category>Games</category>
 		<serial>BCES-01743, BCKS 10237</serial>
 		<version>01.00</version>
-		<description>Killzone (Europe, Asia) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Killzone (Europe, Asia) (En,Fr,De,Es,It,Nl).iso" size="3715694592" crc="70fb550f" md5="9fc507bb787857ed4383870525fec421" sha1="ef97e652fe39cb206411af58e88e38d589edf60b"/>
+		<description>Killzone (Europe, Korea) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Killzone (Europe, Korea) (En,Fr,De,Es,It,Nl).iso" size="3715694592" crc="70fb550f" md5="9fc507bb787857ed4383870525fec421" sha1="ef97e652fe39cb206411af58e88e38d589edf60b"/>
 	</game>
 	<game name="Killzone 2 (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)" id="90211">
 		<category>Games</category>
@@ -23803,12 +23803,12 @@
 		<description>Saints Row IV (Australia)</description>
 		<rom name="Saints Row IV (Australia).iso" size="7608205312" crc="4c341562" md5="3b7349ebd282360f662e636cc0b7b0da" sha1="00def9f7cce2cd4268d8d9eb77d60667c15f26be"/>
 	</game>
-	<game name="Saints Row IV (Europe, Asia) (En,Fr,De,Es,It)" id="31205">
+	<game name="Saints Row IV (Europe, Korea) (En,Fr,De,Es,It)" id="31205">
 		<category>Games</category>
 		<serial>BLES-01889, BLES-01889#, BLKS 20443</serial>
 		<version>01.01</version>
-		<description>Saints Row IV (Europe, Asia) (En,Fr,De,Es,It)</description>
-		<rom name="Saints Row IV (Europe, Asia) (En,Fr,De,Es,It).iso" size="7610040320" crc="5a039466" md5="a1141d2fcf5d22009878575ff5f4d447" sha1="30cbf8e2608eb71e681c6bdc8b05841339416e51"/>
+		<description>Saints Row IV (Europe, Korea) (En,Fr,De,Es,It)</description>
+		<rom name="Saints Row IV (Europe, Korea) (En,Fr,De,Es,It).iso" size="7610040320" crc="5a039466" md5="a1141d2fcf5d22009878575ff5f4d447" sha1="30cbf8e2608eb71e681c6bdc8b05841339416e51"/>
 	</game>
 	<game name="Saints Row IV (Japan)" id="66265">
 		<category>Games</category>
@@ -28137,12 +28137,12 @@
 		<description>Tom Clancy's Ghost Recon: Future Soldier (Europe) (En,Pl,Ru)</description>
 		<rom name="Tom Clancy's Ghost Recon - Future Soldier (Europe) (En,Pl,Ru).iso" size="10543759360" crc="a879ef09" md5="6f407b335d70e15cf47e425bcbb34223" sha1="2a63af854606bbe6358eae69fad82fbea41e9f4f"/>
 	</game>
-	<game name="Tom Clancy's Ghost Recon - Future Soldier (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="57151">
+	<game name="Tom Clancy's Ghost Recon - Future Soldier (Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)" id="57151">
 		<category>Games</category>
 		<serial>BLES-00922, BLES-00922/E, BLKS 20264</serial>
 		<version>01.01</version>
-		<description>Tom Clancy's Ghost Recon: Future Soldier (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
-		<rom name="Tom Clancy's Ghost Recon - Future Soldier (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).iso" size="11070013440" crc="ea3e6023" md5="2fe4a8cc398674a5987089a96db111d6" sha1="98e7d1050503e1773fa6188bc48fda2dfd3bc2a2"/>
+		<description>Tom Clancy's Ghost Recon: Future Soldier (Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
+		<rom name="Tom Clancy's Ghost Recon - Future Soldier (Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).iso" size="11070013440" crc="ea3e6023" md5="2fe4a8cc398674a5987089a96db111d6" sha1="98e7d1050503e1773fa6188bc48fda2dfd3bc2a2"/>
 	</game>
 	<game name="Tom Clancy's Ghost Recon - Future Soldier (Japan)" id="86887">
 		<category>Games</category>

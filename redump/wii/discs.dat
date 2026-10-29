@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii</name>
-		<description>Nintendo - Wii - Datfile (3782) (2026-10-28 07-12-34)</description>
-		<version>2026-10-28 07-12-34</version>
-		<date>2026-10-28 07-12-34</date>
+		<description>Nintendo - Wii - Datfile (3782) (2026-10-29 08-15-33)</description>
+		<version>2026-10-29 08-15-33</version>
+		<date>2026-10-29 08-15-33</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -8327,7 +8327,7 @@
 	</game>
 	<game name="Hajimete no Wii (Japan)" id="25700">
 		<category>Games</category>
-		<serial>RVL-RHAJ-JPN</serial>
+		<serial>RVL-RHAJ-JPN, RVL-RHAJ-JPN-1</serial>
 		<description>Hajimete no Wii (Japan)</description>
 		<rom name="Hajimete no Wii (Japan).iso" size="4699979776" crc="b30898b3" md5="570ec18c26a72064c71270dec73a9786" sha1="5b588f71ba8d13c2cd88293db89154525c0aaa92"/>
 	</game>

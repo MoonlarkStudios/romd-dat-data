@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3733) (2026-10-28 10-09-39)</description>
-		<version>2026-10-28 10-09-39</version>
-		<date>2026-10-28 10-09-39</date>
+		<description>Microsoft - Xbox 360 - Datfile (3733) (2026-10-29 09-15-36)</description>
+		<version>2026-10-29 09-15-36</version>
+		<date>2026-10-29 09-15-36</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -20358,11 +20358,11 @@
 		<description>Vancouver 2010 (USA, Europe)</description>
 		<rom name="Vancouver 2010 (USA, Europe).iso" size="7838695424" crc="2d5b550b" md5="cc63c00d0e0a8f1205a71ccdd184a89e" sha1="bde8c63feba6990fd83f2a826752bc4b59312a63"/>
 	</game>
-	<game name="Vanquish (Europe) (Demo)" id="111838">
+	<game name="Vanquish (Japan, Europe) (Demo)" id="111838">
 		<category>Demos</category>
 		<serial>SE-2134</serial>
-		<description>Vanquish (Europe) (Demo)</description>
-		<rom name="Vanquish (Europe) (Demo).iso" size="7838695424" crc="800f3059" md5="b92a0af6d1e18d8815cc69802ae39cdc" sha1="e67d2d091c2bd81543a8c3ab73b66aacc00b70d4"/>
+		<description>Vanquish (Japan, Europe) (Demo)</description>
+		<rom name="Vanquish (Japan, Europe) (Demo).iso" size="7838695424" crc="800f3059" md5="b92a0af6d1e18d8815cc69802ae39cdc" sha1="e67d2d091c2bd81543a8c3ab73b66aacc00b70d4"/>
 	</game>
 	<game name="Vanquish (World) (En,Ja,Fr,De,Es,It)" id="50530">
 		<category>Games</category>

@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation</name>
-		<description>Sony - PlayStation - Datfile (10982) (2026-10-27 23-02-45)</description>
-		<version>2026-10-27 23-02-45</version>
-		<date>2026-10-27 23-02-45</date>
+		<description>Sony - PlayStation - Datfile (10982) (2026-10-28 22-29-47)</description>
+		<version>2026-10-28 22-29-47</version>
+		<date>2026-10-28 22-29-47</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -16717,29 +16717,29 @@
 		<rom name="Crash Bandicoot - Warped (USA).cue" size="96" crc="727bf739" md5="1a04169199552b7edb5eb1a46c9a2e6c" sha1="7077a31c282007771d586d88b5ca001a0162baec"/>
 		<rom name="Crash Bandicoot - Warped (USA).bin" size="285130608" crc="05e3012b" md5="a66777800f028b8443d8a5e278ba69bd" sha1="ae57f60f577c610476c7b8885bd76a6bea20d9de"/>
 	</game>
-	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-02-12)" id="134021">
+	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-05-14)" id="134021">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-02-12)</description>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-02-12).cue" size="116" crc="b09d0637" md5="64a4f0b9b9db0eeec713fec5cca7ae9b" sha1="9a105facaaa9f6a814feac26ff1288eda08ef2ae"/>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-02-12).bin" size="27647760" crc="b72de6e6" md5="0acf93c7d4f732e5f761a6fb2054a8a2" sha1="e7c421d2690fbf4b380a4d842c3bb9a6cf6a8115"/>
+		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-05-14)</description>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-05-14).cue" size="116" crc="8652fba5" md5="9580d1a27cad00e9ea7fab300d66a0ae" sha1="3a54831a672a94503d04cb342013605cfde95199"/>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-05-14).bin" size="27647760" crc="b72de6e6" md5="0acf93c7d4f732e5f761a6fb2054a8a2" sha1="e7c421d2690fbf4b380a4d842c3bb9a6cf6a8115"/>
 	</game>
-	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-07-16)" id="110319">
+	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-07-17)" id="110319">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-07-16)</description>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-07-16).cue" size="116" crc="ebb19e89" md5="a4f787fe8e17cb52edccb6cc574405ca" sha1="10b8aaa9b234b58cc1bef9e3383b47aec8627231"/>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-07-16).bin" size="95519424" crc="8c05f1bd" md5="2d7b0f4801fe91ef8c909fb619a20f50" sha1="892d4c1595750da32376da94a964c99d4f69778e"/>
+		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-07-17)</description>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-07-17).cue" size="116" crc="5daa7ef9" md5="bf1a67ec1e28c12d54081a7ef154318e" sha1="7a7407f2b4120d7205959638b229453b5808c70d"/>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-07-17).bin" size="95519424" crc="8c05f1bd" md5="2d7b0f4801fe91ef8c909fb619a20f50" sha1="892d4c1595750da32376da94a964c99d4f69778e"/>
 	</game>
-	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-08-25)" id="108448">
+	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-08-26)" id="108448">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-08-25)</description>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-08-25).cue" size="116" crc="f33835ba" md5="eedeb53333f679f65b61840c236cdcfa" sha1="46ab681c6f1ef302064a7922eea10c47b2f01677"/>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-08-25).bin" size="150622080" crc="46e65762" md5="44cee929c620b41814755d1d00a37b0f" sha1="a897a90d8f293a6744fb941eecc89343a516a4d7"/>
+		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-08-26)</description>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-08-26).cue" size="116" crc="f265136b" md5="c03895aeb2f331f0320bbeee26fbb772" sha1="2c976db60705da0f48ea0e7f16e8f12499ec2452"/>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-08-26).bin" size="150622080" crc="46e65762" md5="44cee929c620b41814755d1d00a37b0f" sha1="a897a90d8f293a6744fb941eecc89343a516a4d7"/>
 	</game>
-	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-30)" id="108503">
+	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-26)" id="108503">
 		<category>Preproduction</category>
-		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-09-30)</description>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-30).cue" size="116" crc="208666f3" md5="64b8f9d1ae75c9a8f63ea6a17a55a588" sha1="ae6f738088ee2dbdb376e9f8ab563b485acf96df"/>
-		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-30).bin" size="237410880" crc="5f72aed3" md5="4eae6d57bfedd0704fc66a87947a750e" sha1="2dde76a79f7fdfb72931f196b09dbed75bfdd528"/>
+		<description>Crash Bandicoot: Warped (USA) (Beta) (1998-09-26)</description>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-26).cue" size="116" crc="728f418d" md5="00331c0fef7e19a1aed9df4ff15ca4f0" sha1="0c1bf76bc6989e89ceda41ebde96c004434934bc"/>
+		<rom name="Crash Bandicoot - Warped (USA) (Beta) (1998-09-26).bin" size="237410880" crc="5f72aed3" md5="4eae6d57bfedd0704fc66a87947a750e" sha1="2dde76a79f7fdfb72931f196b09dbed75bfdd528"/>
 	</game>
 	<game name="Crash Bandicoot - Warped (USA) (Beta) (1998-10-11)" id="108446">
 		<category>Preproduction</category>
