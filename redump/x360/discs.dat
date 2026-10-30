@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3733) (2026-10-29 09-15-36)</description>
-		<version>2026-10-29 09-15-36</version>
-		<date>2026-10-29 09-15-36</date>
+		<description>Microsoft - Xbox 360 - Datfile (3733) (2026-10-30 01-28-06)</description>
+		<version>2026-10-30 01-28-06</version>
+		<date>2026-10-30 01-28-06</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -6732,6 +6732,12 @@
 		<description>Experience Disc Version 1.4, The (USA)</description>
 		<rom name="Experience Disc Version 1.4, The (USA).iso" size="7834892288" crc="120a4269" md5="9248abc74f78440eb65328b7d59ac283" sha1="d203257f608721cb9ef90dc04436cb056b6066df"/>
 	</game>
+	<game name="Experience Disc Version 1.5 v3, The (USA) (En,Fr,Es)" id="58020">
+		<category>Demos</category>
+		<serial>XK-2028</serial>
+		<description>Experience Disc Version 1.5 v3, The (USA) (En,Fr,Es)</description>
+		<rom name="Experience Disc Version 1.5 v3, The (USA) (En,Fr,Es).iso" size="7834892288" crc="a639a51a" md5="fadce261e1ce4e42dca3495635e877cf" sha1="80d0e177d66e1c14b4ff83ebb3ed1bcc2864460e"/>
+	</game>
 	<game name="Experience Disc Version 1.5, The (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" id="125103">
 		<category>Demos</category>
 		<serial>XK-2029</serial>
@@ -6743,12 +6749,6 @@
 		<serial>XK-2025</serial>
 		<description>Experience Disc Version 1.5, The (USA) (En,Fr,Es)</description>
 		<rom name="Experience Disc Version 1.5, The (USA) (En,Fr,Es).iso" size="7834892288" crc="fdc9e48c" md5="1dadf1e488552b4998a04c547503e5d8" sha1="df25a20e416ee9808070e499a89dd8c2ce7597c5"/>
-	</game>
-	<game name="Experience Disc Version 1.5V3, The (USA) (En,Fr,Es)" id="58020">
-		<category>Demos</category>
-		<serial>XK-2028</serial>
-		<description>Experience Disc Version 1.5V3, The (USA) (En,Fr,Es)</description>
-		<rom name="Experience Disc Version 1.5V3, The (USA) (En,Fr,Es).iso" size="7834892288" crc="a639a51a" md5="fadce261e1ce4e42dca3495635e877cf" sha1="80d0e177d66e1c14b4ff83ebb3ed1bcc2864460e"/>
 	</game>
 	<game name="Experience Disc Version 1.6, The (Europe) (En,Fr,De,Es,It)" id="125104">
 		<category>Demos</category>

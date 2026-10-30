@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261028-232251</version>
+		<version>20261030-003445</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3448,6 +3448,7 @@
 		<rom name="Bratz - Super Babyz (USA).nds" size="33554432" crc="dddfc562" md5="6d3c05327a299f846d55cee9b69d3ef3" sha1="72ff7dd195e262679ac03623020f2a337669cb60" status="verified" serial="YBYE"/>
 	</game>
 	<game name="Bratz Kidz - Party (Europe) (En,Fr,De,Es,It,Sv,No,Da)" id="3237">
+		<category>Games</category>
 		<description>Bratz Kidz - Party (Europe) (En,Fr,De,Es,It,Sv,No,Da)</description>
 		<rom name="Bratz Kidz - Party (Europe) (En,Fr,De,Es,It,Sv,No,Da).nds" size="33554432" crc="5d5f9804" md5="bb61a1a9b7ce71ff671bd2893f7552d3" sha1="776c6d6670de93177e962f5f27b24dcb36e98bea" sha256="f98eba843d7d0a0f673977616993791abfdf63ee5835f00af5b9e6ed833b95ee" status="verified" serial="CKQP"/>
 	</game>
@@ -4771,7 +4772,7 @@
 	<game name="Classic Games - The Premium Selection (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)" id="6478">
 		<category>Games</category>
 		<description>Classic Games - The Premium Selection (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
-		<rom name="Classic Games - The Premium Selection (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="8388608" crc="ddc9df9c" md5="abcf8ce711d896c7b8ca97887b6f4acf" sha1="c68b60c353aeb7545dcd241b4ea8db307f7cb137" serial="BPRP"/>
+		<rom name="Classic Games - The Premium Selection (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).nds" size="8388608" crc="ddc9df9c" md5="abcf8ce711d896c7b8ca97887b6f4acf" sha1="c68b60c353aeb7545dcd241b4ea8db307f7cb137" sha256="2b4b804a9a97c5096da080d8b3376593d952f7d4596cd3ab95ffe015247079d2" status="verified" serial="BPRP"/>
 	</game>
 	<game name="Classic Word Games (USA) (NDSi Enhanced)" id="3929" cloneofid="3938">
 		<description>Classic Word Games (USA) (NDSi Enhanced)</description>
@@ -4815,7 +4816,7 @@
 	</game>
 	<game name="Clique, The - Queen Teen (Europe) (En,Fr,De,Es,It)" id="4342">
 		<description>Clique, The - Queen Teen (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Clique, The - Queen Teen (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3e1d2ae5" md5="ef31227184eae423ae062c48b932fd72" sha1="65ccc4f9ca64a443f7186c4a402aeed7034f3f34" serial="CL8P"/>
+		<rom name="Clique, The - Queen Teen (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3e1d2ae5" md5="ef31227184eae423ae062c48b932fd72" sha1="65ccc4f9ca64a443f7186c4a402aeed7034f3f34" sha256="bad9bd6bc1fc2ff580cfe1fe8e5a1d501acf99c8fcb42fedaf36c4596327be9f" status="verified" serial="CL8P"/>
 	</game>
 	<game name="Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It)" id="4174" cloneofid="4484">
 		<description>Cloudy with a Chance of Meatballs (USA) (En,Fr,De,Es,It)</description>
@@ -20656,8 +20657,9 @@
 		<rom name="Osawari Tantei - Ozawa Rina - Season 2 1-2 - Rina wa Mita! Iya, Mite nai. (Japan).nds" size="33554432" crc="c875001d" md5="8a99a42d3d4dbcc9835fed2913458fe0" sha1="b841e4a158840d1d2caf48b7d9bd6451f75f7de7" serial="AOJJ"/>
 	</game>
 	<game name="Oscar der Ballonfahrer - Tierische Abenteuer (Europe) (En,De)" id="5192">
+		<category>Games</category>
 		<description>Oscar der Ballonfahrer - Tierische Abenteuer (Europe) (En,De)</description>
-		<rom name="Oscar der Ballonfahrer - Tierische Abenteuer (Europe) (En,De).nds" size="67108864" crc="8e0c7b80" md5="1b7e7328132d5652948219ccd616dce1" sha1="210cfade4fbdbc2fc9f8f6b715011dac95b25de2" serial="CNIP"/>
+		<rom name="Oscar der Ballonfahrer - Tierische Abenteuer (Europe) (En,De).nds" size="67108864" crc="8e0c7b80" md5="1b7e7328132d5652948219ccd616dce1" sha1="210cfade4fbdbc2fc9f8f6b715011dac95b25de2" sha256="bf3a32a46ca47e4477d4571a13845c8642ed71c1e97f3d9f0c261b43ce857471" serial="CNIP"/>
 	</game>
 	<game name="Oshaberi Oumu (Japan)" id="4114" cloneofid="4236">
 		<description>Oshaberi Oumu (Japan)</description>
@@ -23583,23 +23585,28 @@
 		<description>Quest Braintainment (Netherlands)</description>
 		<rom name="Quest Braintainment (Netherlands).nds" size="33554432" crc="975104e7" md5="1407ea4842e0b648187ec373e3e879c4" sha1="b8eeba8193039c809e0743c6e9a63413e486a20b" serial="BQEH"/>
 	</game>
-	<game name="Quest Trio, The (Germany)" id="5728" cloneofid="6356">
+	<game name="Quest Trio, The (Germany)" id="5728" cloneofid="5871">
+		<category>Games</category>
 		<description>Quest Trio, The (Germany)</description>
-		<rom name="Quest Trio, The (Germany).nds" size="67108864" crc="69895b0d" md5="90485212d35fd9ebf46385f56657189f" sha1="a7f3eec511cbb233ad2d308d3cff7ec534d0127f" serial="CQED"/>
+		<rom name="Quest Trio, The (Germany).nds" size="67108864" crc="69895b0d" md5="90485212d35fd9ebf46385f56657189f" sha1="a7f3eec511cbb233ad2d308d3cff7ec534d0127f" sha256="9b04a88c6a52d91520f7b9514f09f5a1ed28bdfb12cfaf530ca01c4131ffd4e0" serial="CQED"/>
 	</game>
-	<game name="Quest Trio, The (Europe)" id="6356">
-		<description>Quest Trio, The (Europe)</description>
-		<rom name="Quest Trio, The (Europe).nds" size="67108864" crc="4da75707" md5="4dfe9575abd9c02b45b6c06be2e56dfd" sha1="256af3986b1973f0df9d066470a2fea17f1f9b46" serial="CQEP"/>
+	<game name="Quest Trio, The (United Kingdom)" id="6356" cloneofid="5871">
+		<category>Games</category>
+		<description>Quest Trio, The (United Kingdom)</description>
+		<rom name="Quest Trio, The (United Kingdom).nds" size="67108864" crc="4da75707" md5="4dfe9575abd9c02b45b6c06be2e56dfd" sha1="256af3986b1973f0df9d066470a2fea17f1f9b46" serial="CQEP"/>
 	</game>
-	<game name="Quest Trio, The - Jewels, Cards and Tiles (USA)" id="2620" cloneofid="6356">
+	<game name="Quest Trio, The - Jewels, Cards and Tiles (USA)" id="2620" cloneofid="5871">
+		<category>Games</category>
 		<description>Quest Trio, The - Jewels, Cards and Tiles (USA)</description>
 		<rom name="Quest Trio, The - Jewels, Cards and Tiles (USA).nds" size="67108864" crc="c37d0329" md5="6d224fed4082d36fb5ee6ab08215d973" sha1="a7376e969ef4a6472a0cc6d29c0ce9d1a2ae466c" serial="CQEE"/>
 	</game>
-	<game name="Quest Trio, The - Jewels, Cards and Tiles (Europe) (Fr,Nl)" id="5102" cloneofid="6356">
+	<game name="Quest Trio, The - Jewels, Cards and Tiles (Europe) (Fr,Nl)" id="5102" cloneofid="5871">
+		<category>Games</category>
 		<description>Quest Trio, The - Jewels, Cards and Tiles (Europe) (Fr,Nl)</description>
 		<rom name="Quest Trio, The - Jewels, Cards and Tiles (Europe) (Fr,Nl).nds" size="67108864" crc="7095e89f" md5="1c473e911254e65448b267266af8e256" sha1="c68c5d57ac782478272a78477a716ee9763f6425" serial="CQEX"/>
 	</game>
-	<game name="Quest Trio, The - Jewels, Cards and Tiles (Europe) (En,Fr,Nl)" id="5871" cloneofid="6356">
+	<game name="Quest Trio, The - Jewels, Cards and Tiles (Europe) (En,Fr,Nl)" id="5871">
+		<category>Games</category>
 		<description>Quest Trio, The - Jewels, Cards and Tiles (Europe) (En,Fr,Nl)</description>
 		<rom name="Quest Trio, The - Jewels, Cards and Tiles (Europe) (En,Fr,Nl).nds" size="67108864" crc="0f24f490" md5="bd3a6a8a63becd7819b207c7d42dbed4" sha1="902388980324b912130c2edad06ac648ea1b2170" serial="CQEY"/>
 	</game>
