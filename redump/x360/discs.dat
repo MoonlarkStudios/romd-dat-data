@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360</name>
-		<description>Microsoft - Xbox 360 - Datfile (3737) (2026-11-01 11-08-06)</description>
-		<version>2026-11-01 11-08-06</version>
-		<date>2026-11-01 11-08-06</date>
+		<description>Microsoft - Xbox 360 - Datfile (3737) (2026-11-01 18-48-09)</description>
+		<version>2026-11-01 18-48-09</version>
+		<date>2026-11-01 18-48-09</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -4137,11 +4137,11 @@
 		<description>Darkest of Days (USA)</description>
 		<rom name="Darkest of Days (USA).iso" size="7838695424" crc="0fc76d19" md5="8c9036e5a7bb66a0de4bd77f674b7f63" sha1="374433a143307333c1208926157d78bcddeaa061"/>
 	</game>
-	<game name="Darkness II, The (Japan, Europe)" id="57387">
+	<game name="Darkness II, The (Japan, Germany)" id="57387">
 		<category>Games</category>
 		<serial>TT-2189</serial>
-		<description>Darkness II, The (Japan, Europe)</description>
-		<rom name="Darkness II, The (Japan, Europe).iso" size="8738846720" crc="bcc16aaa" md5="af8b8f447efd1f85f233d6daba5ae2c7" sha1="17d4830c1d5fa2a6be50a74bf6eab8c0214c0806"/>
+		<description>Darkness II, The (Japan, Germany)</description>
+		<rom name="Darkness II, The (Japan, Germany).iso" size="8738846720" crc="bcc16aaa" md5="af8b8f447efd1f85f233d6daba5ae2c7" sha1="17d4830c1d5fa2a6be50a74bf6eab8c0214c0806"/>
 	</game>
 	<game name="Darkness II, The (UK)" id="35949">
 		<category>Games</category>
@@ -4203,11 +4203,11 @@
 		<description>Darksiders II (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
 		<rom name="Darksiders II (USA, Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).iso" size="8738846720" crc="493efafe" md5="2d784c17d80df4392ec908a2b3566c69" sha1="422bcb268f5079b7f46ec69b62e8a719269d6fdb"/>
 	</game>
-	<game name="DarkStar One - Broken Alliance (USA, Europe) (En,Fr,De)" id="16340">
+	<game name="Darkstar One - Broken Alliance (USA, Europe) (En,Fr,De)" id="16340">
 		<category>Games</category>
 		<serial>KY-2010</serial>
-		<description>DarkStar One: Broken Alliance (USA, Europe) (En,Fr,De)</description>
-		<rom name="DarkStar One - Broken Alliance (USA, Europe) (En,Fr,De).iso" size="7838695424" crc="c1ea12fb" md5="17c3373df50e1b76c6687f528d719ff7" sha1="55157639016f12f7883dd44a5b5977b196c1893b"/>
+		<description>Darkstar One: Broken Alliance (USA, Europe) (En,Fr,De)</description>
+		<rom name="Darkstar One - Broken Alliance (USA, Europe) (En,Fr,De).iso" size="7838695424" crc="c1ea12fb" md5="17c3373df50e1b76c6687f528d719ff7" sha1="55157639016f12f7883dd44a5b5977b196c1893b"/>
 	</game>
 	<game name="De Blob 2 (USA, Europe) (En,Fr,De,Es,It)" id="26919">
 		<category>Games</category>
@@ -9706,11 +9706,11 @@
 		<description>Halo 3 (Spain) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
 		<rom name="Halo 3 (Spain) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="7835492352" crc="40eee464" md5="eaa469c669721c91260094916985e70b" sha1="9f57c4111c17be71bb83be66fa858aac818169a8"/>
 	</game>
-	<game name="Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" id="7749">
+	<game name="Halo 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)" id="7749">
 		<category>Games</category>
 		<serial>MS-2022</serial>
-		<description>Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
-		<rom name="Halo 3 (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="7835492352" crc="3e97d574" md5="f84c357b70c30829098c3e66aa11972d" sha1="09b5e4354e62b9547a7776cb1be42010fb7b5208"/>
+		<description>Halo 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)</description>
+		<rom name="Halo 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso" size="7835492352" crc="3e97d574" md5="f84c357b70c30829098c3e66aa11972d" sha1="09b5e4354e62b9547a7776cb1be42010fb7b5208"/>
 	</game>
 	<game name="Halo 3 - Essentials (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)" id="101061">
 		<category>Games</category>
@@ -9718,11 +9718,11 @@
 		<description>Halo 3: Essentials (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)</description>
 		<rom name="Halo 3 - Essentials (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1).iso" size="7835492352" crc="514faa45" md5="b6aa15919fda442f7b5c57c7bbfc1519" sha1="fe15871df0a1e41d35db44d3944cfc6ecedbc66d"/>
 	</game>
-	<game name="Halo 3 - Essentials (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)" id="38302">
+	<game name="Halo 3 - Essentials (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)" id="38302">
 		<category>Bonus Discs</category>
 		<serial>MS-2082</serial>
-		<description>Halo 3: Essentials (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)</description>
-		<rom name="Halo 3 - Essentials (USA, Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1).iso" size="7835492352" crc="fb46f481" md5="40fb3073c816d8b6d6112bc182db0d1e" sha1="07bc90480adfb42fe4667823e8fd5cf332ca6d4d"/>
+		<description>Halo 3: Essentials (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1)</description>
+		<rom name="Halo 3 - Essentials (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Disc 1).iso" size="7835492352" crc="fb46f481" md5="40fb3073c816d8b6d6112bc182db0d1e" sha1="07bc90480adfb42fe4667823e8fd5cf332ca6d4d"/>
 	</game>
 	<game name="Halo 3 - ODST (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Campaign)" id="101058">
 		<category>Games</category>
@@ -11281,17 +11281,17 @@
 		<description>Last Remnant, The (Japan, Asia) (Disc 2)</description>
 		<rom name="Last Remnant, The (Japan, Asia) (Disc 2).iso" size="7835492352" crc="95e4a181" md5="7d67292842c7efd7e2880da0215c4c0d" sha1="c768dc6123aa668dd38d95fccc69a8d491498c3c"/>
 	</game>
-	<game name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1)" id="12494">
+	<game name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 1)" id="12494">
 		<category>Games</category>
 		<serial>SQ-2010</serial>
-		<description>Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1)</description>
-		<rom name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 1).iso" size="7835492352" crc="7af76819" md5="2ee985d8dd121171335663d4b9499ef3" sha1="12a55b0517d9762f98ca089896bef9036dacc1ad"/>
+		<description>Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 1)</description>
+		<rom name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 1).iso" size="7835492352" crc="7af76819" md5="2ee985d8dd121171335663d4b9499ef3" sha1="12a55b0517d9762f98ca089896bef9036dacc1ad"/>
 	</game>
-	<game name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2)" id="12495">
+	<game name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 2)" id="12495">
 		<category>Games</category>
 		<serial>SQ-2010</serial>
-		<description>Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2)</description>
-		<rom name="Last Remnant, The (USA) (En,Fr,De,Es,It) (Disc 2).iso" size="7835492352" crc="112e3995" md5="919bc39732ee03a5fb2c44709d8b1515" sha1="f0a4e7d3ae12f135c6bf6697da61d1c4496a8ba6"/>
+		<description>Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 2)</description>
+		<rom name="Last Remnant, The (USA, Asia) (En,Fr,De,Es,It) (Disc 2).iso" size="7835492352" crc="112e3995" md5="919bc39732ee03a5fb2c44709d8b1515" sha1="f0a4e7d3ae12f135c6bf6697da61d1c4496a8ba6"/>
 	</game>
 	<game name="Lednikovyj period 4 - Kontinental'nyj drejf - Arkticheskie igry (Russia)" id="123247">
 		<category>Games</category>
@@ -11771,29 +11771,29 @@
 		<description>Lost: Via Domus (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Lost - Via Domus (USA, Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="0daa92f4" md5="6803737f64b78b4e83b9f1f269e538c7" sha1="0b9695d6d3ee09dc34eef99cb63e39d897451d8d"/>
 	</game>
-	<game name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 1)" id="39111">
+	<game name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 1)" id="39111">
 		<category>Games</category>
 		<serial>MS-2042</serial>
-		<description>Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 1)</description>
-		<rom name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 1).iso" size="7835492352" crc="5330b485" md5="679894ce934e98a58ea5e7b3649795d1" sha1="0d6af9430993431b984d6bc38c6eb2fa8520b09a"/>
+		<description>Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 1)</description>
+		<rom name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 1).iso" size="7835492352" crc="5330b485" md5="679894ce934e98a58ea5e7b3649795d1" sha1="0d6af9430993431b984d6bc38c6eb2fa8520b09a"/>
 	</game>
-	<game name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 2)" id="39112">
+	<game name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 2)" id="39112">
 		<category>Games</category>
 		<serial>MS-2042</serial>
-		<description>Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 2)</description>
-		<rom name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 2).iso" size="7835492352" crc="fce64568" md5="dca845b3a4e3f5c794ab53a506feeb9b" sha1="e599adbed671da9583596168b405e4bfe13d9079"/>
+		<description>Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 2)</description>
+		<rom name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 2).iso" size="7835492352" crc="fce64568" md5="dca845b3a4e3f5c794ab53a506feeb9b" sha1="e599adbed671da9583596168b405e4bfe13d9079"/>
 	</game>
-	<game name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 3)" id="39113">
+	<game name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 3)" id="39113">
 		<category>Games</category>
 		<serial>MS-2042</serial>
-		<description>Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 3)</description>
-		<rom name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 3).iso" size="7835492352" crc="c1ee7de6" md5="147fa131dd37f876f8bb5682a00e02c9" sha1="109eaf40cff1be3cf9a771fd7878e09be139c9f3"/>
+		<description>Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 3)</description>
+		<rom name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 3).iso" size="7835492352" crc="c1ee7de6" md5="147fa131dd37f876f8bb5682a00e02c9" sha1="109eaf40cff1be3cf9a771fd7878e09be139c9f3"/>
 	</game>
-	<game name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 4)" id="39114">
+	<game name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 4)" id="39114">
 		<category>Games</category>
 		<serial>MS-2042</serial>
-		<description>Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 4)</description>
-		<rom name="Lost Odyssey (Europe, Asia) (En,Ja,Zh,Ko) (Disc 4).iso" size="7835492352" crc="90338b89" md5="05db0878e539df81bcc9225cd0fb3cbf" sha1="f17d400c5a60622e3375e24619059d0eda4c49e0"/>
+		<description>Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 4)</description>
+		<rom name="Lost Odyssey (Asia, Australia) (En,Ja,Zh,Ko) (Disc 4).iso" size="7835492352" crc="90338b89" md5="05db0878e539df81bcc9225cd0fb3cbf" sha1="f17d400c5a60622e3375e24619059d0eda4c49e0"/>
 	</game>
 	<game name="Lost Odyssey (Japan) (Disc 1)" id="27092">
 		<category>Games</category>
@@ -19503,17 +19503,17 @@
 		<description>Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Tom Clancy's H.A.W.X (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="fff4e830" md5="6eecc4402eed9a730349912581f26ed9" sha1="eccd81afb88b3f493dd53873725db926bc0f04ac"/>
 	</game>
-	<game name="Tom Clancy's H.A.W.X. 2 (Europe)" id="50654">
-		<category>Games</category>
-		<serial>US-2120</serial>
-		<description>Tom Clancy's H.A.W.X. 2 (Europe)</description>
-		<rom name="Tom Clancy's H.A.W.X. 2 (Europe).iso" size="7838695424" crc="1d493bd3" md5="d7e30988b506081b4c16a8af2abcbd66" sha1="0955e0c3336b8bd07b8c7f023769b20bd6c55c25"/>
-	</game>
 	<game name="Tom Clancy's H.A.W.X. 2 (Japan) (En,Ja)" id="92215">
 		<category>Games</category>
 		<serial>US-2120</serial>
 		<description>Tom Clancy's H.A.W.X. 2 (Japan) (En,Ja)</description>
 		<rom name="Tom Clancy's H.A.W.X. 2 (Japan) (En,Ja).iso" size="7838695424" crc="6e1cdadc" md5="9dee1d15997a05a1856b52846f2f9eee" sha1="6a44295f9b95c575d3e552c63692a341183fac53"/>
+	</game>
+	<game name="Tom Clancy's H.A.W.X. 2 (UK, Russia)" id="50654">
+		<category>Games</category>
+		<serial>US-2120</serial>
+		<description>Tom Clancy's H.A.W.X. 2 (UK, Russia)</description>
+		<rom name="Tom Clancy's H.A.W.X. 2 (UK, Russia).iso" size="7838695424" crc="1d493bd3" md5="d7e30988b506081b4c16a8af2abcbd66" sha1="0955e0c3336b8bd07b8c7f023769b20bd6c55c25"/>
 	</game>
 	<game name="Tom Clancy's H.A.W.X. 2 (USA, Europe) (En,Fr,De,Es,It,Pl)" id="103023">
 		<category>Games</category>
@@ -19569,17 +19569,17 @@
 		<description>Tom Clancy's Splinter Cell: Blacklist (Europe) (En,De,It,Pl) (Disc 2)</description>
 		<rom name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,De,It,Pl) (Disc 2).iso" size="8738846720" crc="fb8d4b6d" md5="1b3f23ea4fd0ebf898c5e9570e05e7ae" sha1="c85b99ac4835ef48aaeb264e4ca890cd07e727f5"/>
 	</game>
-	<game name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Pt,Cs,Hu) (Disc 1)" id="88317">
+	<game name="Tom Clancy's Splinter Cell - Blacklist (Europe, Brazil) (En,Pt,Cs,Hu) (Disc 1)" id="88317">
 		<category>Games</category>
 		<serial>US-2230</serial>
-		<description>Tom Clancy's Splinter Cell: Blacklist (Europe) (En,Pt,Cs,Hu) (Disc 1)</description>
-		<rom name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Pt,Cs,Hu) (Disc 1).iso" size="8738846720" crc="e45ec41f" md5="8a535e17e3cd238c8c0d7710acb11609" sha1="8ed0310799c5168c1b6d864ca5ebf0ff4556b5ca"/>
+		<description>Tom Clancy's Splinter Cell: Blacklist (Europe, Brazil) (En,Pt,Cs,Hu) (Disc 1)</description>
+		<rom name="Tom Clancy's Splinter Cell - Blacklist (Europe, Brazil) (En,Pt,Cs,Hu) (Disc 1).iso" size="8738846720" crc="e45ec41f" md5="8a535e17e3cd238c8c0d7710acb11609" sha1="8ed0310799c5168c1b6d864ca5ebf0ff4556b5ca"/>
 	</game>
-	<game name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Pt,Cs,Hu) (Disc 2)" id="88318">
+	<game name="Tom Clancy's Splinter Cell - Blacklist (Europe, Brazil) (En,Pt,Cs,Hu) (Disc 2)" id="88318">
 		<category>Games</category>
 		<serial>US-2230</serial>
-		<description>Tom Clancy's Splinter Cell: Blacklist (Europe) (En,Pt,Cs,Hu) (Disc 2)</description>
-		<rom name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Pt,Cs,Hu) (Disc 2).iso" size="8738846720" crc="2509a932" md5="850eae4e3b355a0d76d9835d2b4aa32f" sha1="2ba3097c1202b663a7b9bd7aa60269f2fcc48297"/>
+		<description>Tom Clancy's Splinter Cell: Blacklist (Europe, Brazil) (En,Pt,Cs,Hu) (Disc 2)</description>
+		<rom name="Tom Clancy's Splinter Cell - Blacklist (Europe, Brazil) (En,Pt,Cs,Hu) (Disc 2).iso" size="8738846720" crc="2509a932" md5="850eae4e3b355a0d76d9835d2b4aa32f" sha1="2ba3097c1202b663a7b9bd7aa60269f2fcc48297"/>
 	</game>
 	<game name="Tom Clancy's Splinter Cell - Blacklist (Japan) (En,Ja,Zh,Ko) (Disc 1)" id="96861">
 		<category>Games</category>

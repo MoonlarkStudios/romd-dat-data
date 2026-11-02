@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4521) (2026-11-01 09-39-29)</description>
-		<version>2026-11-01 09-39-29</version>
-		<date>2026-11-01 09-39-29</date>
+		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-01 16-48-06)</description>
+		<version>2026-11-01 16-48-06</version>
+		<date>2026-11-01 16-48-06</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -24040,6 +24040,12 @@
 		<version>01.01</version>
 		<description>Scene It? Bright Lights! Big Screen! (Europe)</description>
 		<rom name="Scene It Bright Lights! Big Screen! (Europe).iso" size="5439291392" crc="685d1e5f" md5="b3a27e4dd9e8334871cac9890f1d6a48" sha1="363e1381f8638b0d99f0bdcaee05dba2170a68a5"/>
+	</game>
+	<game name="Scene It Bright Lights! Big Screen! (Europe) (Beta) (2009-10-02)" id="139938">
+		<category>Preproduction</category>
+		<version>01.01</version>
+		<description>Scene It? Bright Lights! Big Screen! (Europe) (Beta) (2009-10-02)</description>
+		<rom name="Scene It Bright Lights! Big Screen! (Europe) (Beta) (2009-10-02).iso" size="5439291392" crc="f10c1a7c" md5="6b000a4e6e9283238f0ade4562dd32b5" sha1="d3fc722a87e21b1594498c5cf2d246c96c51879c"/>
 	</game>
 	<game name="Scene It Bright Lights! Big Screen! (USA)" id="39174">
 		<category>Games</category>
