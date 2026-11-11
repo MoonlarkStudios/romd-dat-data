@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-10 11-23-17)</description>
-		<version>2026-11-10 11-23-17</version>
-		<date>2026-11-10 11-23-17</date>
+		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-11 09-37-59)</description>
+		<version>2026-11-11 09-37-59</version>
+		<date>2026-11-11 09-37-59</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -11729,12 +11729,12 @@
 		<description>Gran Turismo 6 (Latin America) (En,Es,Pt)</description>
 		<rom name="Gran Turismo 6 (Latin America) (En,Es,Pt).iso" size="25293815808" crc="10013405" md5="799c5cc24754ded4f97f31c439db007d" sha1="477896a9e478bb57bee481c932fd22b4cafa9ccd"/>
 	</game>
-	<game name="Gran Turismo 6 (USA) (En,Ja,Fr)" id="30588">
+	<game name="Gran Turismo 6 (USA, Canada) (En,Ja,Fr)" id="30588">
 		<category>Games</category>
 		<serial>BCUS-98296</serial>
 		<version>01.00</version>
-		<description>Gran Turismo 6 (USA) (En,Ja,Fr)</description>
-		<rom name="Gran Turismo 6 (USA) (En,Ja,Fr).iso" size="25293815808" crc="0ff5c533" md5="8662a372ee16c8c8853216cdc6ffdc47" sha1="19e32b40a334e3d2fae1c8920078f9125df63181"/>
+		<description>Gran Turismo 6 (USA, Canada) (En,Ja,Fr)</description>
+		<rom name="Gran Turismo 6 (USA, Canada) (En,Ja,Fr).iso" size="25293815808" crc="0ff5c533" md5="8662a372ee16c8c8853216cdc6ffdc47" sha1="19e32b40a334e3d2fae1c8920078f9125df63181"/>
 	</game>
 	<game name="Gran Turismo HD - Install Disc (Japan)" id="56219">
 		<category>Multimedia</category>
@@ -11785,12 +11785,12 @@
 		<description>Grand Theft Auto: Episodes from Liberty City (Japan)</description>
 		<rom name="Grand Theft Auto - Episodes from Liberty City (Japan).iso" size="7943356416" crc="94126729" md5="edcb8fc03ce1109b1309db51df3751a5" sha1="6db83952ceb2aa228ebdaedc3af70016eb1270dc"/>
 	</game>
-	<game name="Grand Theft Auto - Episodes from Liberty City (USA) (En,Fr,De,Es,It)" id="29811">
+	<game name="Grand Theft Auto - Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It)" id="29811">
 		<category>Games</category>
 		<serial>BLUS-30524, BLUS-30524GH</serial>
 		<version>01.01</version>
-		<description>Grand Theft Auto: Episodes from Liberty City (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Grand Theft Auto - Episodes from Liberty City (USA) (En,Fr,De,Es,It).iso" size="7991132160" crc="53dbe74f" md5="6bbca1f919641851da64131ddcd536e8" sha1="ef4a0717701898a02da0b7ada901e6dc892b2500"/>
+		<description>Grand Theft Auto: Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Grand Theft Auto - Episodes from Liberty City (USA, Canada) (En,Fr,De,Es,It).iso" size="7991132160" crc="53dbe74f" md5="6bbca1f919641851da64131ddcd536e8" sha1="ef4a0717701898a02da0b7ada901e6dc892b2500"/>
 	</game>
 	<game name="Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It,Ru)" id="36998">
 		<category>Games</category>
@@ -11806,12 +11806,12 @@
 		<description>Grand Theft Auto: San Andreas (Japan)</description>
 		<rom name="Grand Theft Auto - San Andreas (Japan).iso" size="2489647104" crc="127dc0ff" md5="8eb2cbf880e6fb17129822b8b9e68fc3" sha1="2984356d0e47fc7c330f05cb3b21528fdf490ff6"/>
 	</game>
-	<game name="Grand Theft Auto - San Andreas (USA) (En,Fr,De,Es,It,Ru)" id="40953">
+	<game name="Grand Theft Auto - San Andreas (USA, Canada) (En,Fr,De,Es,It,Ru)" id="40953">
 		<category>Games</category>
 		<serial>BLUS-31584</serial>
 		<version>01.02</version>
-		<description>Grand Theft Auto: San Andreas (USA) (En,Fr,De,Es,It,Ru)</description>
-		<rom name="Grand Theft Auto - San Andreas (USA) (En,Fr,De,Es,It,Ru).iso" size="2489647104" crc="8b71771b" md5="be082ae541d63b1c5e615b66408360c8" sha1="cb8d8e936479db715718f62ef30dabea4a28f102"/>
+		<description>Grand Theft Auto: San Andreas (USA, Canada) (En,Fr,De,Es,It,Ru)</description>
+		<rom name="Grand Theft Auto - San Andreas (USA, Canada) (En,Fr,De,Es,It,Ru).iso" size="2489647104" crc="8b71771b" md5="be082ae541d63b1c5e615b66408360c8" sha1="cb8d8e936479db715718f62ef30dabea4a28f102"/>
 	</game>
 	<game name="Grand Theft Auto IV &amp; Episodes from Liberty City (Europe) (En,Fr,De,Es,It)" id="36999">
 		<category>Games</category>
@@ -11862,12 +11862,12 @@
 		<description>Grand Theft Auto IV (Korea) (En,Fr,De,Es,It)</description>
 		<rom name="Grand Theft Auto IV (Korea) (En,Fr,De,Es,It).iso" size="11287068672" crc="2a45aebd" md5="aec2739f7736dff93416b0f02c9e274e" sha1="8e4b22e3737434a88ff937789742f8595310ef53"/>
 	</game>
-	<game name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It)" id="16201">
+	<game name="Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It)" id="16201">
 		<category>Games</category>
-		<serial>BLUS-30127, BLUS-30127GH</serial>
+		<serial>BLUS-30127, BLUS-30127GH, BLUS-30127GHF, BLUS-30127F</serial>
 		<version>01.01</version>
-		<description>Grand Theft Auto IV (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Grand Theft Auto IV (USA) (En,Fr,De,Es,It).iso" size="11287068672" crc="9dbf4b81" md5="81ff6de36bf8d57a2b56a96c390be1c7" sha1="123a50e911502e30ce9c773b5a0a1e7c4b1cbb2e"/>
+		<description>Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Grand Theft Auto IV (USA, Canada) (En,Fr,De,Es,It).iso" size="11287068672" crc="9dbf4b81" md5="81ff6de36bf8d57a2b56a96c390be1c7" sha1="123a50e911502e30ce9c773b5a0a1e7c4b1cbb2e"/>
 	</game>
 	<game name="Grand Theft Auto V (Europe, Australia) (En,Fr,De,Es,It,Pt,Pl,Ru)" id="29849">
 		<category>Games</category>
@@ -11892,7 +11892,7 @@
 	</game>
 	<game name="Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko)" id="36045">
 		<category>Games</category>
-		<serial>BLAS 50639, BLUS-31156</serial>
+		<serial>BLAS 50639, BLUS-31156, BLUS-41018, BLUS-31156F</serial>
 		<version>01.01</version>
 		<description>Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko)</description>
 		<rom name="Grand Theft Auto V (USA, Asia) (En,Fr,Es,Pt,Zh,Ko).iso" size="18738249728" crc="70c8dd34" md5="17ae11484d1754b8c90a350003cbd587" sha1="26ecb93496361a4ebfa6d21a7087f00b3eedf8bc"/>
@@ -11946,12 +11946,12 @@
 		<description>Grid (Korea)</description>
 		<rom name="Grid (Korea).iso" size="17071472640" crc="e01cb1e5" md5="bd90e6052f725d6598d7e6d51072da67" sha1="b33094d9e1584f06354c99e8c576408a7386945c"/>
 	</game>
-	<game name="Grid (USA) (En,Fr,De,Es,It)" id="10886">
+	<game name="Grid (USA, Canada) (En,Fr,De,Es,It)" id="10886">
 		<category>Games</category>
 		<serial>BLUS-30142</serial>
 		<version>01.01</version>
-		<description>Grid (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Grid (USA) (En,Fr,De,Es,It).iso" size="17071472640" crc="35c53ada" md5="187d373b0d54777edf38e4737b028973" sha1="95bfc110ddaed4be48e26141225a63236b80c97f"/>
+		<description>Grid (USA, Canada) (En,Fr,De,Es,It)</description>
+		<rom name="Grid (USA, Canada) (En,Fr,De,Es,It).iso" size="17071472640" crc="35c53ada" md5="187d373b0d54777edf38e4737b028973" sha1="95bfc110ddaed4be48e26141225a63236b80c97f"/>
 	</game>
 	<game name="Grid 2 (Europe)" id="33846">
 		<category>Games</category>
@@ -11974,12 +11974,12 @@
 		<description>Grid 2 (USA) (En,Fr,Es,Pt)</description>
 		<rom name="Grid 2 (USA) (En,Fr,Es,Pt).iso" size="6476529664" crc="c592b9df" md5="4f7cad0da64dcd4c8c5fc0de1bad1416" sha1="265e1ef58c46e19236b3f2f511d3c8c59304b21a"/>
 	</game>
-	<game name="Grid Autosport (Europe) (En,Fr,De,Es,It,Pl,Ru)" id="52879">
+	<game name="Grid Autosport (Europe, Asia) (En,Fr,De,Es,It,Pl,Ru)" id="52879">
 		<category>Games</category>
-		<serial>BLES-02038/SE</serial>
+		<serial>BLES-02038/SE, BLAS 50724</serial>
 		<version>01.01</version>
-		<description>Grid Autosport (Europe) (En,Fr,De,Es,It,Pl,Ru)</description>
-		<rom name="Grid Autosport (Europe) (En,Fr,De,Es,It,Pl,Ru).iso" size="8481931264" crc="ef8d206e" md5="6f29cfa27ebbcd30952abcae5dd30c78" sha1="2a2d3a00b473fd7caca102efff972e75be53f89a"/>
+		<description>Grid Autosport (Europe, Asia) (En,Fr,De,Es,It,Pl,Ru)</description>
+		<rom name="Grid Autosport (Europe, Asia) (En,Fr,De,Es,It,Pl,Ru).iso" size="8481931264" crc="ef8d206e" md5="6f29cfa27ebbcd30952abcae5dd30c78" sha1="2a2d3a00b473fd7caca102efff972e75be53f89a"/>
 	</game>
 	<game name="Grid Autosport (Japan)" id="99540">
 		<category>Games</category>
@@ -11988,12 +11988,12 @@
 		<description>Grid Autosport (Japan)</description>
 		<rom name="Grid Autosport (Japan).iso" size="7863599104" crc="296f4f86" md5="6be93d488829da6472f6a8cc3938f1e2" sha1="6433afb792d3c47b05f7702aae9eabc10a1498f2"/>
 	</game>
-	<game name="Grid Autosport (USA) (En,Fr,Es,Pt)" id="32712">
+	<game name="Grid Autosport (USA, Canada) (En,Fr,Es,Pt)" id="32712">
 		<category>Games</category>
 		<serial>BLUS-31452LE, BLUS-31452LES</serial>
 		<version>01.01</version>
-		<description>Grid Autosport (USA) (En,Fr,Es,Pt)</description>
-		<rom name="Grid Autosport (USA) (En,Fr,Es,Pt).iso" size="8102543360" crc="550817fb" md5="13bdd64d5c1ff15a070b8b9e38a5dc0e" sha1="61840e2717ff0859f72bfec7f99e8ca4a15c14da"/>
+		<description>Grid Autosport (USA, Canada) (En,Fr,Es,Pt)</description>
+		<rom name="Grid Autosport (USA, Canada) (En,Fr,Es,Pt).iso" size="8102543360" crc="550817fb" md5="13bdd64d5c1ff15a070b8b9e38a5dc0e" sha1="61840e2717ff0859f72bfec7f99e8ca4a15c14da"/>
 	</game>
 	<game name="GT5 - IDU FW update 3.40 (USA) (Kiosk Demo)" id="57005">
 		<category>Demos</category>
