@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3</name>
-		<description>Sony - PlayStation 3 - Datfile (4522) (2026-11-14 16-10-17)</description>
-		<version>2026-11-14 16-10-17</version>
-		<date>2026-11-14 16-10-17</date>
+		<description>Sony - PlayStation 3 - Datfile (4523) (2026-11-16 13-02-13)</description>
+		<version>2026-11-16 13-02-13</version>
+		<date>2026-11-16 13-02-13</date>
 		<author>redump.info</author>
 		<homepage>redump.info</homepage>
 		<url>https://redump.info/</url>
@@ -22406,6 +22406,13 @@
 		<description>Ratchet &amp; Clank Future 2 (Japan) (En,Ja)</description>
 		<rom name="Ratchet &amp; Clank Future 2 (Japan) (En,Ja).iso" size="20505559040" crc="f69f353c" md5="2c1ba8b5036beacefddbb2475336ce2f" sha1="1ea459c74c97a93409c9fb4a5902df019d776e1e"/>
 	</game>
+	<game name="Ratchet &amp; Clank Trilogy, The (Australia) (En,Fr,De,Es,It)" id="140329">
+		<category>Games</category>
+		<serial>BCES-01503/ANZ</serial>
+		<version>01.00</version>
+		<description>Ratchet &amp; Clank Trilogy, The (Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Ratchet &amp; Clank Trilogy, The (Australia) (En,Fr,De,Es,It).iso" size="10872094720" crc="d20ebb18" md5="2b9a8dd73af43f7fa4d6c4e132b57f64" sha1="59f043802e13133becac1c26618f937a8bf89dbf"/>
+	</game>
 	<game name="Ratchet &amp; Clank Trilogy, The (Europe, Asia) (En,Fr,De,Es,It)" id="47911">
 		<category>Games</category>
 		<serial>BCES-01503, BCKS 10221, BCAS 20246</serial>
@@ -27957,7 +27964,7 @@
 	</game>
 	<game name="Time Crisis - Razing Storm (USA, Asia) (En,Ja,Fr,De,Es,It)" id="40133">
 		<category>Games</category>
-		<serial>BLAS 50235, BLUS-30528</serial>
+		<serial>BLAS 50235, BLUS-30528, BLKS 20235</serial>
 		<version>01.00</version>
 		<description>Time Crisis: Razing Storm (USA, Asia) (En,Ja,Fr,De,Es,It)</description>
 		<rom name="Time Crisis - Razing Storm (USA, Asia) (En,Ja,Fr,De,Es,It).iso" size="17789419520" crc="cd03079f" md5="7d047dd94603b1a7bc37b0740d3d9b1a" sha1="6f66eecb8661d69269eddb04e8291132ca564dba"/>
@@ -27978,7 +27985,7 @@
 	</game>
 	<game name="Time Crisis 4 (USA, Asia)" id="45297">
 		<category>Games</category>
-		<serial>BCAS 20026, BLUS-30093</serial>
+		<serial>BCAS 20026, BLUS-30093, BCKS 10020</serial>
 		<version>01.00</version>
 		<description>Time Crisis 4 (USA, Asia)</description>
 		<rom name="Time Crisis 4 (USA, Asia).iso" size="8230076416" crc="5f4d440f" md5="4eef5f7cb79cf03208346ddb654b5e47" sha1="f5b67ce2d4aa0b2589da0e1c9bb664385fc76b58"/>
