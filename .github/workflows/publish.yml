@@ -11,6 +11,10 @@ on:
         description: Old signed site for the first migration only; leave empty afterward
         type: string
         default: ''
+      recovery_checkpoint:
+        description: Last verified publication checkpoint for expiry recovery only
+        type: string
+        default: ''
   schedule:
     - cron: '37 4 * * *'
 
@@ -22,10 +26,11 @@ permissions:
 jobs:
   publish:
     if: github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || vars.DAT_PUBLISH_ENABLED == 'true')
-    uses: MoonlarkStudios/romd-dat-catalogs/.github/workflows/publish-synthetic.yml@f55484cdd1e29448852a34ed6b69dd2998ecdb28
+    uses: MoonlarkStudios/romd-dat-catalogs/.github/workflows/publish-synthetic.yml@1d72bccf99f78667f72d505a76112951a75e32e3
     with:
-      tooling_ref: 'f55484cdd1e29448852a34ed6b69dd2998ecdb28'
+      tooling_ref: '1d72bccf99f78667f72d505a76112951a75e32e3'
       bootstrap: ${{ inputs.bootstrap || false }}
       migration_site: ${{ inputs.migration_site || '' }}
+      recovery_checkpoint: ${{ inputs.recovery_checkpoint || '' }}
     secrets:
       TUF_ONLINE_KEYS: ${{ secrets.TUF_ONLINE_KEYS }}
