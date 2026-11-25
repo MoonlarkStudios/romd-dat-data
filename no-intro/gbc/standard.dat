@@ -4,8 +4,8 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261027-225941</version>
-		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
+		<version>20261125-035058</version>
+		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kaos, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
 		<tos>https://datomatic.no-intro.org/terms.html</tos>
@@ -610,13 +610,15 @@
 		<description>Austin Powers - Welcome to My Underground Lair! (USA)</description>
 		<rom name="Austin Powers - Welcome to My Underground Lair! (USA).gbc" size="4194304" crc="aba42b78" md5="1b2190911db606dce58d694e8b591e69" sha1="69b5106a124bde38184875c0dd08de437360bc14" sha256="8509be8f8720fea154b81ce8e47b72251916d94da534aed998d13277b131fd05"/>
 	</game>
-	<game name="Austin Powers Episode III (Europe) (En,Fr,De,Es,It) (Proto)" id="1509">
-		<description>Austin Powers Episode III (Europe) (En,Fr,De,Es,It) (Proto)</description>
-		<rom name="Austin Powers Episode III (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" crc="0903ed53" md5="a18746b05badafb5b8456ace6ba3e65f" sha1="b409782cc478104c41668360b63f8589f7677e2a"/>
+	<game name="Austin Powers Episode III - Yeah Baby, Yeah! (Europe) (En,Fr,De,Es,It) (Proto)" id="1509">
+		<category>Games</category>
+		<description>Austin Powers Episode III - Yeah Baby, Yeah! (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="Austin Powers Episode III - Yeah Baby, Yeah! (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" crc="0903ed53" md5="a18746b05badafb5b8456ace6ba3e65f" sha1="b409782cc478104c41668360b63f8589f7677e2a"/>
 	</game>
-	<game name="Austin Powers Episode IV (Europe) (En,Fr,De,Es,It) (Proto)" id="1510">
-		<description>Austin Powers Episode IV (Europe) (En,Fr,De,Es,It) (Proto)</description>
-		<rom name="Austin Powers Episode IV (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" crc="f038cda7" md5="974d6664dc7114e637c2c1cc2f252724" sha1="937df6944709732d8d372ad5f629a665ffd12eac"/>
+	<game name="Austin Powers Episode IV - Why Make Millions... (Europe) (En,Fr,De,Es,It) (Proto)" id="1510">
+		<category>Games</category>
+		<description>Austin Powers Episode IV - Why Make Millions... (Europe) (En,Fr,De,Es,It) (Proto)</description>
+		<rom name="Austin Powers Episode IV - Why Make Millions... (Europe) (En,Fr,De,Es,It) (Proto).gbc" size="2097152" crc="f038cda7" md5="974d6664dc7114e637c2c1cc2f252724" sha1="937df6944709732d8d372ad5f629a665ffd12eac"/>
 	</game>
 	<game name="Auto Zone (World) (Aftermarket) (Unl)" id="1887">
 		<description>Auto Zone (World) (Aftermarket) (Unl)</description>
@@ -1849,6 +1851,11 @@
 		<description>Cruis'n Exotica (USA)</description>
 		<rom name="Cruis'n Exotica (USA).gbc" size="2097152" crc="9562e7e8" md5="3af0cf37eadd6e98fdc43d4b3967c966" sha1="e3f7bab776d76048a6cf1745fb4d8ecaf2d44f46"/>
 	</game>
+	<game name="Crystal Depths (World) (v1.4) (Aftermarket) (Unl)" id="3044">
+		<category>Games</category>
+		<description>Crystal Depths (World) (v1.4) (Aftermarket) (Unl)</description>
+		<rom name="Crystal Depths (World) (v1.4) (Aftermarket) (Unl).gbc" size="524288" crc="b9802c21" md5="0949a3b7cf64f4c1e0c24896d077ac83" sha1="90f7b200619207c6f494d1a8b39be048102e7109" sha256="f9984677d79433ef7467074530a0449d1d44f9d1d98bd1d3c6010018784a3f78"/>
+	</game>
 	<game name="Crystalis (USA)" id="0213">
 		<description>Crystalis (USA)</description>
 		<rom name="Crystalis (USA).gbc" size="2097152" crc="909bb02d" md5="f36a0ed25a601c039b1171d9daf241d6" sha1="85d9cfaae2ae4995d834cc9b95ec3126707a6332"/>
@@ -2058,6 +2065,11 @@
 	<game name="Death Race 16 (World) (Aftermarket) (Unl)" id="1997">
 		<description>Death Race 16 (World) (Aftermarket) (Unl)</description>
 		<rom name="Death Race 16 (World) (Aftermarket) (Unl).gbc" size="262144" crc="7b9488ec" md5="d849d85a81be386a0617bce591cf1c40" sha1="56b8a2d7117b12ff5e709e6a258f9a0b3b0ebe24" sha256="d071e83487df333a546e44abf3b5ce8322393f229b21948e1c3837a9dfb88a35"/>
+	</game>
+	<game name="Debriz (World) (Demo 2) (Aftermarket) (Unl)" id="3033">
+		<category>Games</category>
+		<description>Debriz (World) (Demo 2) (Aftermarket) (Unl)</description>
+		<rom name="Debriz (World) (Demo 2) (Aftermarket) (Unl).gbc" size="1048576" crc="e5ee9915" md5="05a75c23bf1cd85026252c1cff5ea747" sha1="88ca93a678ba6114055c3345232c69701e2cfbe8" sha256="961d7b46bf20ff94eaf47b3f4580cbc3d455a9e0d0979e02f1cc3a210b523e29"/>
 	</game>
 	<game name="Deer Hunter (USA)" id="0239">
 		<description>Deer Hunter (USA)</description>
@@ -4151,6 +4163,11 @@
 		<description>Hat Boy (World) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Hat Boy (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="81d24d61" md5="44edc2796dbeeed54658638bf2b7d78c" sha1="7265cad6c8e253d3cf6d1f0dcb218316f10ca091" sha256="287877ca350160c1eeb1687db4e0f518c8009994321aa95e828c37b54a82f037"/>
 	</game>
+	<game name="Hatsune Miku Bomb Squad! (World) (v1.3) (Aftermarket) (Unl)" id="3032">
+		<category>Games</category>
+		<description>Hatsune Miku Bomb Squad! (World) (v1.3) (Aftermarket) (Unl)</description>
+		<rom name="Hatsune Miku Bomb Squad! (World) (v1.3) (Aftermarket) (Unl).gbc" size="524288" crc="b5465484" md5="6364d4ca7ea0f83981e97c12fd08ea97" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7" sha256="beaf05898b5585c84481ca93e955c58475941b2ecdc03db8c60edc38287857cf"/>
+	</game>
 	<game name="Haunted (World) (GB Compatible) (Aftermarket) (Unl)" id="2101">
 		<category>Games</category>
 		<description>Haunted (World) (GB Compatible) (Aftermarket) (Unl)</description>
@@ -4298,6 +4315,11 @@
 	<game name="Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)" id="0483">
 		<description>Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Holy Magic Century (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="abd8ceae" md5="d7f3a39d4fde196fbe2ddbb2a6e575a3" sha1="01ad2928e923c415671e6306d6d73016a1ca7bb9"/>
+	</game>
+	<game name="Hometown (World) (Demo) (Aftermarket) (Unl)" id="3045">
+		<category>Games</category>
+		<description>Hometown (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Hometown (World) (Demo) (Aftermarket) (Unl).gbc" size="524288" crc="d8dc18c9" md5="2d805ef5b918b4f058989d3c068b7ff1" sha1="b9a1b7382d49c2113339792cad4e8bdffda3d7fb" sha256="4e696f4d42eaa409525044f55e19799fd72bce8f6117656ac032a3666af0e749"/>
 	</game>
 	<game name="Honkaku Hanafuda GB (Japan)" id="0484">
 		<description>Honkaku Hanafuda GB (Japan)</description>
@@ -4452,7 +4474,7 @@
 	<game name="Infinity (World) (v1.1) (Incube8 Games)" id="2661" cloneofid="1450">
 		<category>Games</category>
 		<description>Infinity (World) (v1.1) (Incube8 Games)</description>
-		<rom name="Infinity (World) (v1.1) (Incube8 Games).gbc" size="4194304" crc="7384cfcc" md5="577564721cdcb0efb4734120bc328a67" sha1="cd997304b5803d331979fdde8f7820d5f6a2ad43" sha256="5d6b40d51dacaf8fbb366ee585043bac2547141cf11a753a6e8bb41b49b089b7"/>
+		<rom name="Infinity (World) (v1.1) (Incube8 Games).gbc" size="4194304" crc="7384cfcc" md5="577564721cdcb0efb4734120bc328a67" sha1="cd997304b5803d331979fdde8f7820d5f6a2ad43" sha256="5d6b40d51dacaf8fbb366ee585043bac2547141cf11a753a6e8bb41b49b089b7" status="verified"/>
 	</game>
 	<game name="Inscryption (World) (v0.5) (Aftermarket) (Unl)" id="2437">
 		<category>Games</category>
@@ -5331,6 +5353,11 @@
 		<description>Lil' Monster (USA) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Lil' Monster (USA) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="c6859b34" md5="17233eaf718e241f290d6590ef1b42a9" sha1="cb812599f23f8812ff756e269a621de39b1b1def"/>
 	</game>
+	<game name="Lilith Complex (World) (v0.04) (Aftermarket) (Unl)" id="3046">
+		<category>Games</category>
+		<description>Lilith Complex (World) (v0.04) (Aftermarket) (Unl)</description>
+		<rom name="Lilith Complex (World) (v0.04) (Aftermarket) (Unl).gbc" size="524288" crc="80e85418" md5="02d14553f490a298b60b857883a2c8fb" sha1="9e5e03a1a124664221b5eeb48531d1a44afc1534" sha256="ad23130da2db9d565c78fe899cc370e051759688c393290f0aac69bd49078b3f"/>
+	</game>
 	<game name="Lion King, The - Simba's Mighty Adventure (USA, Europe)" id="0619">
 		<description>Lion King, The - Simba's Mighty Adventure (USA, Europe)</description>
 		<rom name="Lion King, The - Simba's Mighty Adventure (USA, Europe).gbc" size="1048576" crc="d5b4b7bb" md5="67117cc76e2b270e65c2778c734f905f" sha1="4fcb6698e4fd6bb03812a35ed545ec68b7c11fa7"/>
@@ -5478,6 +5505,11 @@
 	<game name="Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl)" id="1779">
 		<description>Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl)</description>
 		<rom name="Lord of the Rings, The - The Fellowship of the Ring (Taiwan) (En) (Unl).gbc" size="2097152" crc="c01bbc48" md5="158d9834bdb7be79dbfcafcdc3d347aa" sha1="3ecb3ae13e0934ed94dbb8621e62820a07fdffb0" sha256="6ce320b5fb76a319b8944fd03feeb3400537ecef2ffa3585cd1ce1edfebb7640"/>
+	</game>
+	<game name="Lore (World) (Aftermarket) (Unl)" id="3040">
+		<category>Games</category>
+		<description>Lore (World) (Aftermarket) (Unl)</description>
+		<rom name="Lore (World) (Aftermarket) (Unl).gbc" size="262144" crc="6045e44f" md5="19ddd10167605460c03cf78ff718d7d2" sha1="c2fa4dc1c926c19d7214f065915056255fe29572" sha256="94610585be6254ee01d86ee5b94d20c9e75015eddd1db9bef911e6f03899d90c"/>
 	</game>
 	<game name="Love Hina Party (Japan)" id="0651">
 		<description>Love Hina Party (Japan)</description>
@@ -6119,11 +6151,6 @@
 		<description>Mojie Zhanshi Chuanshuo (Taiwan) (Unl)</description>
 		<rom name="Mojie Zhanshi Chuanshuo (Taiwan) (Unl).gbc" size="2097152" crc="620c56b8" md5="17b6ec4af44d74be1a29b2ff2c0516dc" sha1="25fd8c132601cd9f74784a010141572505a2ef66" sha256="b62f910dc0ccb0fdfd0f5567a30bdb1bc014a7f769450ae4a74bd2c334699987"/>
 	</game>
-	<game name="Mommy (World) (GB Compatible) (Aftermarket) (Unl)" id="2456">
-		<category>Games</category>
-		<description>Mommy (World) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Mommy (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" crc="5d644d24" md5="472a51e912d0df0e786989cb6f190b87" sha1="3bc152e2899d54d6c400e2e0a114e0aa67a56a69" sha256="753ae5824089a07f9560e02e2b9476fa8232bbf7dd50bdca310963957c2acb6e"/>
-	</game>
 	<game name="Momotarou Densetsu 1-2 (Japan)" id="0750">
 		<description>Momotarou Densetsu 1-2 (Japan)</description>
 		<rom name="Momotarou Densetsu 1-2 (Japan).gbc" size="2097152" crc="da7fb08f" md5="88938327f7a5a8d11470d14d17f412b3" sha1="acffa3417c85be574aa28432e29e1d40f28a565b" sha256="7d0d8bdb9c52e381862277271e3e0fe474af69cf9ea92053147cdfb1de32785b" status="verified"/>
@@ -6234,7 +6261,7 @@
 	</game>
 	<game name="Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible)" id="0770">
 		<description>Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible)</description>
-		<rom name="Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="4eb71448" md5="168ae412b379786f7df07bd8231baf44" sha1="ea54fb35cd8c4d4cea234423a81f8f953b1d33e4"/>
+		<rom name="Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="4eb71448" md5="168ae412b379786f7df07bd8231baf44" sha1="ea54fb35cd8c4d4cea234423a81f8f953b1d33e4" status="verified"/>
 	</game>
 	<game name="Moshou Shiji - Zhanshen (Taiwan) (Unl)" id="1762" cloneofid="1978">
 		<description>Moshou Shiji - Zhanshen (Taiwan) (Unl)</description>
@@ -6609,11 +6636,17 @@
 		<description>Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Nobunaga no Yabou - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="233862d0" md5="f8a6836a0f3448fae3f2e79ba1d32769" sha1="a61e35306405e41c03b98b162ee14442e77c0da1" sha256="5a8eed524c12796f5b54208ce051a603b58bec6fc630e1a36b2121bff615683e" status="verified"/>
 	</game>
-	<game name="Noctambulo (World) (En,Es) (Demo) (Aftermarket) (Unl)" id="2911">
+	<game name="Noctambulo (World) (En,Es) (Demo) (Aftermarket) (Unl)" id="2911" cloneofid="3027">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Noctambulo (World) (En,Es) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Noctambulo (World) (En,Es) (Demo) (Aftermarket) (Unl).gbc" size="1048576" crc="f40b630f" md5="2a2a5f7ab50dd43fb54f77cad981ce63" sha1="ca92d22056f5a60b962a10a4c3e915474afec99a" sha256="d4e4f394358f067c072fc0d5c9cf638571a6633be0bbcbcd29fca205a5e19da5"/>
+	</game>
+	<game name="Noctambulo (World) (En,Es) (v1.3.1) (Demo) (Aftermarket) (Unl)" id="3027">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Noctambulo (World) (En,Es) (v1.3.1) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Noctambulo (World) (En,Es) (v1.3.1) (Demo) (Aftermarket) (Unl).gbc" size="2097152" crc="8f205ffc" md5="ef84d81686c084ed419de4aec5e8b22b" sha1="254a6d7940a616dc0b77ba6242755656510b1c14" sha256="06892ddfaee176c00b273854b59913758b5e38d697e089e4ba9b382c6989656a"/>
 	</game>
 	<game name="Noddy and the Birthday Party (Europe) (En,Fr,De,Es)" id="0833">
 		<description>Noddy and the Birthday Party (Europe) (En,Fr,De,Es)</description>
@@ -6714,6 +6747,14 @@
 	<game name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)" id="1393" cloneofid="0837">
 		<description>Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)</description>
 		<rom name="Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc" size="1048576" crc="4b83b14f" md5="68715e0a2805e3fc019fec35a9cff0d4" sha1="c9d4d1dd1c33a9fa9b54e9f2a7a5f6dd90069b91" status="verified"/>
+	</game>
+	<game name="Of the World (World) (GB Compatible) (Aftermarket) (Unl)" id="3047">
+		<description>Of the World (World) (GB Compatible) (Aftermarket) (Unl)</description>
+		<rom name="Of the World (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="beca381f" md5="61a83f46bbc8c6e1b5c6704c9dc14748" sha1="0d5e9576931f90de74621641a7aa98f1eecebd57" sha256="7207e030fc1561e09f136ac4b4c6a2e8190730246c66a3d55f5b2a7bc1ab3936"/>
+	</game>
+	<game name="Of the World (World) (Embedded) (GB Compatible) (Aftermarket) (Unl)" id="3048">
+		<description>Of the World (World) (Embedded) (GB Compatible) (Aftermarket) (Unl)</description>
+		<rom name="Of the World (World) (Embedded) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="9c7d1e49" md5="ed341fef1174fba9f17b3fc9bbb6b8e3" sha1="05f2c8131fc413c7de76ee2c4896e75df1e7ae6e" sha256="1f9b771055f8cd5369d5070efc84f29f223d0f8f02ea519ee76ff5edb88ede74"/>
 	</game>
 	<game name="Office Combat (World) (GB Compatible) (Aftermarket) (Unl)" id="2122">
 		<category>Games</category>
@@ -8873,6 +8914,16 @@
 		<description>Shutokou Racing, The (Japan) (SGB Enhanced) (GB Compatible)</description>
 		<rom name="Shutokou Racing, The (Japan) (SGB Enhanced) (GB Compatible).gbc" size="131072" crc="36e781cd" md5="43202194489c664523243ae75ee041af" sha1="0f29818190ea9ce8c242b648ba64d50cc5408e5a"/>
 	</game>
+	<game name="Signalis - Shortwave Transmission (World) (v260331) (Aftermarket) (Unl)" id="3030">
+		<category>Games</category>
+		<description>Signalis - Shortwave Transmission (World) (v260331) (Aftermarket) (Unl)</description>
+		<rom name="Signalis - Shortwave Transmission (World) (v260331) (Aftermarket) (Unl).gbc" size="4194304" crc="65d1acd9" md5="17acb9b645a61b59826b2a16e18bb7d8" sha1="78fdc67516336ddcc399eadee1d6f46bf093ac5b" sha256="1c81debde0d88c851f27c112ba42e8196df4262e122a31a03c295b088146cfd3"/>
+	</game>
+	<game name="Signalis - Shortwave Transmission (World) (v251003-1) (Aftermarket) (Unl)" id="3031">
+		<category>Games</category>
+		<description>Signalis - Shortwave Transmission (World) (v251003-1) (Aftermarket) (Unl)</description>
+		<rom name="Signalis - Shortwave Transmission (World) (v251003-1) (Aftermarket) (Unl).gbc" size="2097152" crc="b170eb2d" md5="aadedd46360b0b3e2bbafb9497ac019c" sha1="e738f60bb7113271f4f50cd93284a386e21e3984" sha256="ee75824ed50f2fc86c29045d04b6c296c2eec8cb18bd4a07ea35b1365dc554b0"/>
+	</game>
 	<game name="Silent Hill 2 - 20th Anniversary Demake (World) (2021-12-09) (Proto) (GB Compatible) (Aftermarket) (Unl)" id="2072">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -10676,6 +10727,11 @@
 		<description>Wicked Plague (World) (v0.1.1) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Wicked Plague (World) (v0.1.1) (Proto) (Aftermarket) (Unl).gbc" size="524288" crc="4029708f" md5="a34819a548e7a1a2b8a6d1d5ed6e912d" sha1="2279270c9a0d28934c5b5efda9c047ab27ffccb8" sha256="f68c8a12b42744dd4fc43042eea29f9807e2bb1b9765e766ea5018a626a18de1"/>
 	</game>
+	<game name="Wicked Wiles (World) (Aftermarket) (Unl)" id="3034">
+		<category>Games</category>
+		<description>Wicked Wiles (World) (Aftermarket) (Unl)</description>
+		<rom name="Wicked Wiles (World) (Aftermarket) (Unl).gbc" size="1048576" crc="d342e28a" md5="a52a59f9480766253a3a23d5e083494a" sha1="f8244382392e3ae85a2723f196df3c885afd5d52" sha256="ff9b2e07581ca4f0b909f7acedde8e0b4ddfcec098b1f216dd0a9cf22ed9ffdf"/>
+	</game>
 	<game name="Wild Thornberrys, The - Rambler (USA)" id="1305">
 		<description>Wild Thornberrys, The - Rambler (USA)</description>
 		<rom name="Wild Thornberrys, The - Rambler (USA).gbc" size="1048576" crc="0e1465cb" md5="f32210eedc7a619a09339764887e2b93" sha1="0e806f0e6c1a41e764683850a3c15a80ac7fc9a5"/>
@@ -10709,7 +10765,7 @@
 		<description>Wings of Fury (USA) (GB Compatible)</description>
 		<rom name="Wings of Fury (USA) (GB Compatible).gbc" size="1048576" crc="c94a413a" md5="8b01ed48b1f51f57cfba2f3024fa60d8" sha1="ae217bd12f42ce6297282227b7e2d21e6337420c"/>
 	</game>
-	<game name="Wink and the Broken Robot (World) (Beta 6) (GB Compatible) (Aftermarket) (Unl)" id="2587" cloneofid="2963">
+	<game name="Wink and the Broken Robot (World) (Beta 6) (GB Compatible) (Aftermarket) (Unl)" id="2587" cloneofid="3039">
 		<category>Games</category>
 		<description>Wink and the Broken Robot (World) (Beta 6) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Wink and the Broken Robot (World) (Beta 6) (GB Compatible) (Aftermarket) (Unl).gbc" size="4194304" crc="6c1d4498" md5="637ece04f6c5f0c9f4871e5ed5255b0a" sha1="f580ec863b7a92edc94187bc54bf47f3d254b6b7" sha256="9e78292500dd569cd972559e6749e39e8f61f931359c86c9f2d1afe15cd9ce0f"/>
@@ -10831,10 +10887,10 @@
 		<description>Worms Armageddon (Europe) (Beta)</description>
 		<rom name="Worms Armageddon (Europe) (Beta).gbc" size="1048576" crc="66fda365" md5="01586c8122da5014abed765147e5a7bb" sha1="b0b14b13ec7cffb04efbf0dcdd93a2eea679ea0c"/>
 	</game>
-	<game name="Worms Armageddon (World) (Limited Run Games)" id="1616" cloneofid="1324">
+	<game name="Worms Armageddon (World) (En,Fr,Es) (Limited Run Games)" id="1616" cloneofid="1324">
 		<category>Games</category>
-		<description>Worms Armageddon (World) (Limited Run Games)</description>
-		<rom name="Worms Armageddon (World) (Limited Run Games).gbc" size="1048576" crc="626dfadb" md5="27ce588e0569efa0eb0b8e80049e7edb" sha1="5fce1d1b6a7cfa994808d473602f569537dc0231" sha256="ac282821dd65c58738acb64c3eb1bb52c88aa23350a5253a7c7ea7b30faf9981"/>
+		<description>Worms Armageddon (World) (En,Fr,Es) (Limited Run Games)</description>
+		<rom name="Worms Armageddon (World) (En,Fr,Es) (Limited Run Games).gbc" size="1048576" crc="626dfadb" md5="27ce588e0569efa0eb0b8e80049e7edb" sha1="5fce1d1b6a7cfa994808d473602f569537dc0231" sha256="ac282821dd65c58738acb64c3eb1bb52c88aa23350a5253a7c7ea7b30faf9981"/>
 	</game>
 	<game name="Wrestling Thunder City (World) (Demo) (GB Compatible) (Aftermarket) (Unl)" id="2512">
 		<category>Games</category>

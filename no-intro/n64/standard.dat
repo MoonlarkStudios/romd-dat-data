@@ -4,7 +4,7 @@
 		<id>24</id>
 		<name>Nintendo - Nintendo 64 (BigEndian)</name>
 		<description>Nintendo - Nintendo 64 (BigEndian)</description>
-		<version>20261002-141522</version>
+		<version>20261112-143258</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, ShiroeNL, smesgr, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -12,10 +12,6 @@
 		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
-	<game name="[BIOS] Nintendo 64 - PIF (Brazil)" id="1171" cloneofid="1168">
-		<description>[BIOS] Nintendo 64 - PIF (Brazil)</description>
-		<rom name="[BIOS] Nintendo 64 - PIF (Brazil).bin" size="1984" crc="d5edc21d" md5="8c23eb21cc69760919e94574807242eb" sha1="a749c815e858a2487f4105022d23e7001ee6f0ec" sha256="3a1d7f917ab310f583c1ce95b615e1497868c8e1650f11bb2b62b13ae45d2e8e" status="verified"/>
-	</game>
 	<game name="[BIOS] Nintendo 64 - PIF (Europe)" id="1168">
 		<description>[BIOS] Nintendo 64 - PIF (Europe)</description>
 		<rom name="[BIOS] Nintendo 64 - PIF (Europe).bin" size="1984" crc="d6650859" md5="d4232dc935cad0650ac2664d52281f3a" sha1="15c23c3b671a8828302603f30c81d464b24a7fb1" sha256="79c81fffae934b6df251da6c3a394f52c6a0eaa07115a3b9677743e3c1335f4a" status="verified"/>
@@ -24,11 +20,9 @@
 		<description>[BIOS] Nintendo 64 - PIF (Japan, USA)</description>
 		<rom name="[BIOS] Nintendo 64 - PIF (Japan, USA).bin" size="1984" crc="0aa20b09" md5="5c124e7948ada85da603a522782940d0" sha1="b7a0070cbe4b9bcaa08ec0b76b8c4955b2ae535a" sha256="fa7b09795ef1e54461e59f6f2d902368133e3f1cd980e34383e6a780d74beffd" status="verified"/>
 	</game>
-	<game name="007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta)" id="1294" cloneofid="0004">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta)</description>
-		<rom name="007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta).z64" size="33554432" crc="8a91d343" md5="1b376e5b1679a24323bdedfd1aa3a512" sha1="ce8c5941cf539a00b47517ee3e32d3b74bc67ea4" sha256="d0c9d3b6d9399236b2cc048b919f70199d482bf37c4a9065c00f1f05b93d30ce" serial="NO7E"/>
+	<game name="[BIOS] Nintendo 64 - PIF (Brazil)" id="1171" cloneofid="1168">
+		<description>[BIOS] Nintendo 64 - PIF (Brazil)</description>
+		<rom name="[BIOS] Nintendo 64 - PIF (Brazil).bin" size="1984" crc="d5edc21d" md5="8c23eb21cc69760919e94574807242eb" sha1="a749c815e858a2487f4105022d23e7001ee6f0ec" sha256="3a1d7f917ab310f583c1ce95b615e1497868c8e1650f11bb2b62b13ae45d2e8e" status="verified"/>
 	</game>
 	<game name="007 - The World Is Not Enough (Europe) (En,Fr,De)" id="0004">
 		<description>007 - The World Is Not Enough (Europe) (En,Fr,De)</description>
@@ -49,6 +43,12 @@
 		<category>Preproduction</category>
 		<description>007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15)</description>
 		<rom name="007 - The World Is Not Enough (USA) (Beta 1) (1998-12-15).z64" size="16777216" crc="2f8ffe8f" md5="b20c4f04c4501817bf484e5344dc4deb" sha1="6809dd15351f7ebd3acfa03389133c2c514a874b" sha256="1ef09447e4da92df53b84d3d494022f53e8226455734c3c1d10d25d3aabc4a5a" status="verified" serial="NM4E"/>
+	</game>
+	<game name="007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta)" id="1294" cloneofid="0004">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta)</description>
+		<rom name="007 - The World Is Not Enough (Europe) (En,Fr,De) (Beta).z64" size="33554432" crc="8a91d343" md5="1b376e5b1679a24323bdedfd1aa3a512" sha1="ce8c5941cf539a00b47517ee3e32d3b74bc67ea4" sha256="d0c9d3b6d9399236b2cc048b919f70199d482bf37c4a9065c00f1f05b93d30ce" serial="NO7E"/>
 	</game>
 	<game name="1080 Snowboarding (Europe) (En,Ja,Fr,De)" id="0006">
 		<category>Games</category>
@@ -79,6 +79,10 @@
 		<description>3D Model RGB Test Program (USA) (Test Program)</description>
 		<rom name="3D Model RGB Test Program (USA) (Test Program).z64" size="16777216" crc="3504dbd5" md5="5901624099bbb8f73c6f9229260d18c7" sha1="c9522561b622d2eb22e57aadbb43da6cf71d458d" sha256="c907f2d572a623e5458fa5b474849e0d66b9e86eefe6a72e302ed7a0506d6eb1" serial="N4WE"/>
 	</game>
+	<game name="40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)" id="0008" cloneofid="1283">
+		<description>40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)</description>
+		<rom name="40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).z64" size="33554432" crc="7e718143" md5="0a5acfea0c7cf68ae25202040d5ad1eb" sha1="3774e87aa383220060d330314f2c5bbb872f72ce" sha256="899b866a45dfbebc8152a3122f28aa0ba906fb448dc6b2dc7c7442e7622b5442" status="verified" serial="N4WX"/>
+	</game>
 	<game name="40 Winks (USA) (Piko Interactive)" id="1066" cloneofid="1283">
 		<category>Games</category>
 		<description>40 Winks (USA) (Piko Interactive)</description>
@@ -92,10 +96,6 @@
 		<category>Games</category>
 		<description>40 Winks (Europe) (En,Fr,Es) (Piko Interactive)</description>
 		<rom name="40 Winks (Europe) (En,Fr,Es) (Piko Interactive).z64" size="33554432" crc="93c57d0b" md5="b470b6bb0c0be834ff357eb2d6ae9724" sha1="282b97c6a6eb79535e618fc2651b6156fff65ea4" sha256="22a7b4cd12aa5201a36aad38f8205fffc3af4f1dc23b171bcabd6db41f662cbe" serial="N4WZ"/>
-	</game>
-	<game name="40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)" id="0008" cloneofid="1283">
-		<description>40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)</description>
-		<rom name="40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).z64" size="33554432" crc="7e718143" md5="0a5acfea0c7cf68ae25202040d5ad1eb" sha1="3774e87aa383220060d330314f2c5bbb872f72ce" sha256="899b866a45dfbebc8152a3122f28aa0ba906fb448dc6b2dc7c7442e7622b5442" status="verified" serial="N4WX"/>
 	</game>
 	<game name="64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)" id="0009">
 		<description>64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)</description>
@@ -431,11 +431,6 @@
 		<description>BattleTanx (USA) (Limited Run Games)</description>
 		<rom name="BattleTanx (USA) (Limited Run Games).z64" size="8388608" crc="2f9f6c61" md5="49696f2a8865f26db470f6e0c30b336e" sha1="cf41455f551b6adb6146b1993d837f0f5d4cfa76" sha256="692859e0fdf9c2d57099c352107c9c736088a683955d9efacd1b57b3e3db3e20"/>
 	</game>
-	<game name="BattleTanx - Global Assault (USA) (Limited Run Games)" id="1308" cloneofid="0068">
-		<category>Games</category>
-		<description>BattleTanx - Global Assault (USA) (Limited Run Games)</description>
-		<rom name="BattleTanx - Global Assault (USA) (Limited Run Games).z64" size="8388608" crc="4a643ad5" md5="2b9dd0e93504e3e84b2be4f998ca6c8b" sha1="752e2c7d2467d3e451f10d896670ab1d1b823450" sha256="2b54b5056e274a0d855eca243f68de0bcf653f2904a12e1bdffd4b63f2586009" status="verified"/>
-	</game>
 	<game name="BattleTanx - Global Assault (Europe) (En,Fr,De)" id="0068">
 		<category>Games</category>
 		<description>BattleTanx - Global Assault (Europe) (En,Fr,De)</description>
@@ -445,6 +440,11 @@
 		<category>Games</category>
 		<description>BattleTanx - Global Assault (USA)</description>
 		<rom name="BattleTanx - Global Assault (USA).z64" size="8388608" crc="31beb053" md5="654557c316f901a2ca6f7f4b43343147" sha1="805248fb0a0ee694cad8d7dc927b631d860dd8cf" sha256="88268ce770ff39f2ca839848b842c87866df6c5ddaf775f180b2522c18ff6221" serial="NBQE"/>
+	</game>
+	<game name="BattleTanx - Global Assault (USA) (Limited Run Games)" id="1308" cloneofid="0068">
+		<category>Games</category>
+		<description>BattleTanx - Global Assault (USA) (Limited Run Games)</description>
+		<rom name="BattleTanx - Global Assault (USA) (Limited Run Games).z64" size="8388608" crc="4a643ad5" md5="2b9dd0e93504e3e84b2be4f998ca6c8b" sha1="752e2c7d2467d3e451f10d896670ab1d1b823450" sha256="2b54b5056e274a0d855eca243f68de0bcf653f2904a12e1bdffd4b63f2586009" status="verified"/>
 	</game>
 	<game name="Battlezone - Rise of the Black Dogs (USA)" id="0070">
 		<category>Games</category>
@@ -655,7 +655,7 @@
 	<game name="Bug's Life, A (Europe)" id="0099">
 		<category>Games</category>
 		<description>Bug's Life, A (Europe)</description>
-		<rom name="Bug's Life, A (Europe).z64" size="12582912" crc="791881d4" md5="ed3e962653a1cd56aab175deee6ee52a" sha1="2922c2281faa4106295830c617289292df4c377a" sha256="2c67a977be8c159298d3e1e93e1f2d390994037d73ac786705943ee3dcd9ee53" serial="NBYP"/>
+		<rom name="Bug's Life, A (Europe).z64" size="12582912" crc="791881d4" md5="ed3e962653a1cd56aab175deee6ee52a" sha1="2922c2281faa4106295830c617289292df4c377a" sha256="2c67a977be8c159298d3e1e93e1f2d390994037d73ac786705943ee3dcd9ee53" status="verified" serial="NBYP"/>
 	</game>
 	<game name="Bug's Life, A (France)" id="0100" cloneofid="0099">
 		<description>Bug's Life, A (France)</description>
@@ -1141,12 +1141,6 @@
 		<description>Donsol (World) (Aftermarket) (Unl)</description>
 		<rom name="Donsol (World) (Aftermarket) (Unl).z64" size="1052672" crc="a0e96c02" md5="3f345578242eb8c7f8f9710df6432abb" sha1="bac0791b68292e40c3971f84d7e23841eb8fac32" sha256="f2a7eba26bd3bcaa025365025df5e73741c802b2d0734f591c9e7f4e405a4401"/>
 	</game>
-	<game name="Doom 64 (USA) (Beta) (1996-12-10)" id="1123" cloneofid="0177">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Doom 64 (USA) (Beta) (1996-12-10)</description>
-		<rom name="Doom 64 (USA) (Beta) (1996-12-10).z64" size="16777216" crc="68f7655e" md5="31a8efffe1be68bb1186efa89d9c8896" sha1="398c9c1fe34be41e47ab69c659fd093813692574" sha256="4b3931c14d548fedf98fcd28681ec45695dec415d39fd4a6d58a877e1c6dd2a2"/>
-	</game>
 	<game name="Doom 64 (Europe)" id="0177">
 		<description>Doom 64 (Europe)</description>
 		<rom name="Doom 64 (Europe).z64" size="8388608" crc="d985c356" md5="190ccca6526dc4a1f611e3b40f5131c0" sha1="b63060f69bb4e1547da1d762e740d19393977055" sha256="e8460f2fa7e55172a296a1e30354cbb868be924a454ff883d1a6601c66b9610f" status="verified" serial="NDMP"/>
@@ -1163,6 +1157,12 @@
 		<category>Games</category>
 		<description>Doom 64 (USA) (Rev 1)</description>
 		<rom name="Doom 64 (USA) (Rev 1).z64" size="8388608" crc="1d3a17b5" md5="1b1378bb9ee819f740550f566745af73" sha1="6fb0ce9c75bbe54b6e1ede337652b0221e5f2aad" sha256="c28eaac9a8a8cc1d30c1b50fbb04622c2ddeb9b14ddcecc6edbaad4a6d067f3f" serial="NDME"/>
+	</game>
+	<game name="Doom 64 (USA) (Beta) (1996-12-10)" id="1123" cloneofid="0177">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Doom 64 (USA) (Beta) (1996-12-10)</description>
+		<rom name="Doom 64 (USA) (Beta) (1996-12-10).z64" size="16777216" crc="68f7655e" md5="31a8efffe1be68bb1186efa89d9c8896" sha1="398c9c1fe34be41e47ab69c659fd093813692574" sha256="4b3931c14d548fedf98fcd28681ec45695dec415d39fd4a6d58a877e1c6dd2a2"/>
 	</game>
 	<game name="Doraemon - Nobita to 3tsu no Seireiseki (Japan)" id="0181">
 		<description>Doraemon - Nobita to 3tsu no Seireiseki (Japan)</description>
@@ -1239,11 +1239,6 @@
 		<description>Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1)</description>
 		<rom name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1).z64" size="16777216" crc="f2012442" md5="95816b46a52b7b5a6acee19288b01384" sha1="53febb3e7511f581f15cdf3d6ff65e1527ad3348" sha256="bac2d18a2dc57499c9637ef6351df0963bdb8200afdfc9be68df9989758599f9" status="verified" serial="!none"/>
 	</game>
-	<game name="Duke Nukem - Zero Hour (USA) (Beta)" id="1104" cloneofid="0191">
-		<category>Games</category>
-		<description>Duke Nukem - Zero Hour (USA) (Beta)</description>
-		<rom name="Duke Nukem - Zero Hour (USA) (Beta).z64" size="33554432" crc="21e4de3a" md5="73bbd95cd877d6c9c923547da1ba76bd" sha1="0fe108c66384dcfebb395f767ac5fa6a842d07f0" sha256="9a679928314ef211c9bf1f5e28e680133d73cd7d0cab0768122be4673cb3e66c" serial="NDZE"/>
-	</game>
 	<game name="Duke Nukem - Zero Hour (Europe)" id="0191">
 		<description>Duke Nukem - Zero Hour (Europe)</description>
 		<rom name="Duke Nukem - Zero Hour (Europe).z64" size="33554432" crc="ea82f037" md5="86e98aaca0d90bf744da090539ba4ad8" sha1="c18ad90fb889f95773fef48c204ce06cff9e6be3" sha256="4efcba37b79d2c1beeed9c3aa169346df763760996927aeee4cd1f2385f8b997" serial="NDZP"/>
@@ -1255,6 +1250,11 @@
 	<game name="Duke Nukem - Zero Hour (USA)" id="0193" cloneofid="0191">
 		<description>Duke Nukem - Zero Hour (USA)</description>
 		<rom name="Duke Nukem - Zero Hour (USA).z64" size="33554432" crc="9a3258d7" md5="026789d47db5fe202a76f89797b33ac7" sha1="de4db292cc6cf5dd1dd1d3c9700cf8e5c3078410" sha256="5ba016567c53b0d111eb175347c6eee603c31783cd2bb3fea97f31b5ff74190f" serial="NDZE"/>
+	</game>
+	<game name="Duke Nukem - Zero Hour (USA) (Beta)" id="1104" cloneofid="0191">
+		<category>Games</category>
+		<description>Duke Nukem - Zero Hour (USA) (Beta)</description>
+		<rom name="Duke Nukem - Zero Hour (USA) (Beta).z64" size="33554432" crc="21e4de3a" md5="73bbd95cd877d6c9c923547da1ba76bd" sha1="0fe108c66384dcfebb395f767ac5fa6a842d07f0" sha256="9a679928314ef211c9bf1f5e28e680133d73cd7d0cab0768122be4673cb3e66c" serial="NDZE"/>
 	</game>
 	<game name="Duke Nukem 64 (Europe)" id="0194">
 		<description>Duke Nukem 64 (Europe)</description>
@@ -1318,11 +1318,6 @@
 		<description>Evil Australians (World) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Evil Australians (World) (Demo) (Aftermarket) (Unl).z64" size="16777216" crc="5f7ec87b" md5="affd2c50a0381dc2aff24adb82b289e2" sha1="24aac4786367ce2e99d425482c9b1bba42848abf" sha256="b8b5a7b3bfd271f33c71f7ad0902a971d78ca29bf8a0b1b164cf06f4321c11e9"/>
 	</game>
-	<game name="Excitebike 64 (USA) (LodgeNet)" id="1139" cloneofid="0205">
-		<category>Games</category>
-		<description>Excitebike 64 (USA) (LodgeNet)</description>
-		<rom name="Excitebike 64 (USA) (LodgeNet).z64" size="16777216" crc="a1895884" md5="bc34b1aabd1109593abf9cf017573201" sha1="3a043dc4c8b1351ca56c3ab9bb061bd7fa99c312"/>
-	</game>
 	<game name="Excitebike 64 (Europe)" id="0205">
 		<category>Games</category>
 		<description>Excitebike 64 (Europe)</description>
@@ -1345,6 +1340,11 @@
 		<category>Games</category>
 		<description>Excitebike 64 (USA) (Rev 1)</description>
 		<rom name="Excitebike 64 (USA) (Rev 1).z64" size="16777216" crc="143926ce" md5="21954e4e404d9e87dbdb87dd309f3e94" sha1="c2fac422af135409c1b38569b309f9d452c81c35" sha256="7f72526876c87423c757ffa2246eb689e4079de473c7a9f599699e6892dfe7ed" status="verified" serial="NMXE"/>
+	</game>
+	<game name="Excitebike 64 (USA) (LodgeNet)" id="1139" cloneofid="0205">
+		<category>Games</category>
+		<description>Excitebike 64 (USA) (LodgeNet)</description>
+		<rom name="Excitebike 64 (USA) (LodgeNet).z64" size="16777216" crc="a1895884" md5="bc34b1aabd1109593abf9cf017573201" sha1="3a043dc4c8b1351ca56c3ab9bb061bd7fa99c312"/>
 	</game>
 	<game name="Extreme-G (Europe) (En,Fr,De,Es,It)" id="0209">
 		<description>Extreme-G (Europe) (En,Fr,De,Es,It)</description>
@@ -1516,7 +1516,7 @@
 	<game name="Fighters Destiny (Europe)" id="0236">
 		<category>Games</category>
 		<description>Fighters Destiny (Europe)</description>
-		<rom name="Fighters Destiny (Europe).z64" size="12582912" crc="c9225511" md5="ef5cb24ce3fe4e0f850901205437b574" sha1="2763731085a9d86d357d8fef775c2d21d3c9f2b4" serial="NKAP"/>
+		<rom name="Fighters Destiny (Europe).z64" size="12582912" crc="c9225511" md5="ef5cb24ce3fe4e0f850901205437b574" sha1="2763731085a9d86d357d8fef775c2d21d3c9f2b4" status="verified" serial="NKAP"/>
 	</game>
 	<game name="Fighters Destiny (France)" id="0237" cloneofid="0236">
 		<description>Fighters Destiny (France)</description>
@@ -1744,15 +1744,6 @@
 		<description>Glamorous Zombie Flakes (World) (v1.3) (Aftermarket) (Unl)</description>
 		<rom name="Glamorous Zombie Flakes (World) (v1.3) (Aftermarket) (Unl).z64" size="3340000" crc="aeb27d66" md5="bf307d49265ec9959b4689c9fdaad395" sha1="ee81c396a5222dfda93e4a776e071bc60b9f4eb0" sha256="8ff9b3407d974aef26d322937b9734acd343aa56bc1cdfdb933ea99ae45d0069"/>
 	</game>
-	<game name="Glover (USA) (1998-09-04) (Beta)" id="1050" cloneofid="0265">
-		<description>Glover (USA) (1998-09-04) (Beta)</description>
-		<rom name="Glover (USA) (1998-09-04) (Beta).z64" size="8388608" crc="c33f683e" md5="82ad5da2ae054037d6772101b2d7a148" sha1="d77774dfda1ef1af11df7bae1d135b3664d960d5" sha256="5cf666c15ca2eae4fef8ad50f11048dd07c0ff45bb9b471e8102efaaa0458d02" status="verified"/>
-	</game>
-	<game name="Glover (USA) (En,Fr,De) (Limited Run Games)" id="1182" cloneofid="0265">
-		<category>Games</category>
-		<description>Glover (USA) (En,Fr,De) (Limited Run Games)</description>
-		<rom name="Glover (USA) (En,Fr,De) (Limited Run Games).z64" size="8388608" crc="9fb6a52b" md5="e2967f0a257f870d53af51e887c0d501" sha1="ba11111caa12764ebb1bb83a93af4094d80018b5" sha256="50ab53161132f657722c19e69852e69d03db0bc097732cbc245a05cd949bd822" serial="NGVE"/>
-	</game>
 	<game name="Glover (Europe) (En,Fr,De)" id="0265">
 		<description>Glover (Europe) (En,Fr,De)</description>
 		<rom name="Glover (Europe) (En,Fr,De).z64" size="8388608" crc="90eceb4a" md5="2f2163c53db135792331df00398b3f87" sha1="a5209925761c4ef08e5d446a55bc957505308a31" sha256="3b4537794a4b89920fe6fb0739388e4545e4a7ccd57f3b4ed65d8b26859cc7ab" status="verified" serial="NGVP"/>
@@ -1764,6 +1755,15 @@
 	<game name="Glover (USA) (1998-07-16) (Beta) [b]" id="0925" cloneofid="0265">
 		<description>Glover (USA) (1998-07-16) (Beta) [b]</description>
 		<rom name="Glover (USA) (1998-07-16) (Beta) [b].z64" size="16777216" crc="d0c97155" md5="d37694aa881db148ca1b9392a64cd17e" sha1="c5a744595dcb5aaec2893147db30e9938739a02c" sha256="8c7d05723fd3e15b6857ac3b597b78d442a02470cc7bdc2340ac340a060acc1a" status="baddump"/>
+	</game>
+	<game name="Glover (USA) (1998-09-04) (Beta)" id="1050" cloneofid="0265">
+		<description>Glover (USA) (1998-09-04) (Beta)</description>
+		<rom name="Glover (USA) (1998-09-04) (Beta).z64" size="8388608" crc="c33f683e" md5="82ad5da2ae054037d6772101b2d7a148" sha1="d77774dfda1ef1af11df7bae1d135b3664d960d5" sha256="5cf666c15ca2eae4fef8ad50f11048dd07c0ff45bb9b471e8102efaaa0458d02" status="verified"/>
+	</game>
+	<game name="Glover (USA) (En,Fr,De) (Limited Run Games)" id="1182" cloneofid="0265">
+		<category>Games</category>
+		<description>Glover (USA) (En,Fr,De) (Limited Run Games)</description>
+		<rom name="Glover (USA) (En,Fr,De) (Limited Run Games).z64" size="8388608" crc="9fb6a52b" md5="e2967f0a257f870d53af51e887c0d501" sha1="ba11111caa12764ebb1bb83a93af4094d80018b5" sha256="50ab53161132f657722c19e69852e69d03db0bc097732cbc245a05cd949bd822" serial="NGVE"/>
 	</game>
 	<game name="Glover 2 (USA) (Proto 2)" id="0917">
 		<description>Glover 2 (USA) (Proto 2)</description>
@@ -1996,6 +1996,12 @@
 		<category>Preproduction</category>
 		<description>Iggy's Reckin' Balls (USA) (Beta)</description>
 		<rom name="Iggy's Reckin' Balls (USA) (Beta).z64" size="4194304" crc="240bdad4" md5="acc2cb075999105e516d727586e9dc60" sha1="997b6d58ed7e1cab4e5bc0f396af1bd88f413f48" sha256="7ee9782bffccc49380c489a0f02d8248440d478f7ad48c215328e28c4025e8bc" status="verified" serial="NTUE"/>
+	</game>
+	<game name="Ikazuchi no Gotoku - Choukousoku Igo (Japan) (Proto)" id="1335">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Ikazuchi no Gotoku - Choukousoku Igo (Japan) (Proto)</description>
+		<rom name="Ikazuchi no Gotoku - Choukousoku Igo (Japan) (Proto).z64" size="16777216" crc="daf9b36f" md5="708f6022eba77ed7cbb4f4e8c2f2b793" sha1="28cd9cce375a37c120944121a4874a6acdb468a5" sha256="1d94b0b4d1c02f7bb7c68bd68b47e0269ff0f8db35f3dbc775aab6a4ac2e037e" serial="!none"/>
 	</game>
 	<game name="In-Fisherman - Bass Hunter 64 (Europe)" id="0307">
 		<description>In-Fisherman - Bass Hunter 64 (Europe)</description>
@@ -2265,12 +2271,6 @@
 		<description>Kakutou Denshou - F-Cup Maniax (Japan)</description>
 		<rom name="Kakutou Denshou - F-Cup Maniax (Japan).z64" size="16777216" crc="db40a155" md5="dff0efe2b35fcde506d21b0c0bd373a5" sha1="f88f541d5913c99a9eac5ca4162e65b8a3828725" serial="NFYJ"/>
 	</game>
-	<game name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto)" id="1335">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto)</description>
-		<rom name="Kaminari no Gotoku - Choukousoku Igo (Japan) (Proto).z64" size="16777216" crc="daf9b36f" md5="708f6022eba77ed7cbb4f4e8c2f2b793" sha1="28cd9cce375a37c120944121a4874a6acdb468a5" sha256="1d94b0b4d1c02f7bb7c68bd68b47e0269ff0f8db35f3dbc775aab6a4ac2e037e" serial="!none"/>
-	</game>
 	<game name="Ken Griffey Jr.'s Slugfest (USA)" id="0353">
 		<description>Ken Griffey Jr.'s Slugfest (USA)</description>
 		<rom name="Ken Griffey Jr.'s Slugfest (USA).z64" size="16777216" crc="12d8f3e9" md5="eec0fab75af59e9c23e6de2132de89ff" sha1="ec33cd4d44bba163f89e435c2aefbf7313d8cece" serial="NKJE"/>
@@ -2391,19 +2391,6 @@
 		<description>Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)</description>
 		<rom name="Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).z64" size="33554432" crc="e4b47e08" md5="f6738180b95d46f6355855d1da8dbb0b" sha1="ecabc86f0de743c02ba3fa0c83ab163538b00be9"/>
 	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time (USA) (Beta)" id="1048" cloneofid="0375">
-		<description>Legend of Zelda, The - Ocarina of Time (USA) (Beta)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Beta).z64" size="33554432" crc="6c348aa8" md5="21f7b4a4ff463464bfc23498c1ab9da1" sha1="70537a3144c8813b115252c40065c117cb139dcd" sha256="68bbdd74169510d128e193b93047cad9197e689c33dbbd52ba7414f5b2ffb1ca" serial="CZLE"/>
-	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)" id="1062" cloneofid="0375">
-		<description>Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).z64" size="67108864" crc="c188acda" md5="ab1ca59d0039e3b34d82db650b54d7b9" sha1="da19ca4aac723c155d55ae371107b8462044e350" sha256="f2ed79515542faecfdb054cc5228b3f755bfa6c5fd4df52811240cbaaaa979e1" serial="NZLP"/>
-	</game>
-	<game name="Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)" id="1134" cloneofid="0375">
-		<category>Games</category>
-		<description>Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).z64" size="33554432" crc="c4d2ac1d" md5="74072c944a82c34190f412ee96a51b13" sha1="86ff85565e0e4f78d56f50e73df51ba29d36738a"/>
-	</game>
 	<game name="Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)" id="0374" cloneofid="0375">
 		<description>Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)</description>
 		<rom name="Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).z64" size="33554432" crc="946fd0f7" md5="e040de91a74b61e3201db0e2323f768a" sha1="328a1f1beba30ce5e178f031662019eb32c5f3b5" sha256="f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7" status="verified" serial="NZLP"/>
@@ -2435,6 +2422,19 @@
 	<game name="Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug)" id="1038" cloneofid="0375">
 		<description>Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug)</description>
 		<rom name="Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug).z64" size="67108864" crc="5d1b2996" md5="3c10b67a76616ae2c162def7528724cf" sha1="cee6bc3c2a634b41728f2af8da54d9bf8cc14099" sha256="94bdeb4ab906db112078a902f4477e9712c4fe803c4efb98c7b97c3f950305ab" serial="NZLP"/>
+	</game>
+	<game name="Legend of Zelda, The - Ocarina of Time (USA) (Beta)" id="1048" cloneofid="0375">
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (Beta)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Beta).z64" size="33554432" crc="6c348aa8" md5="21f7b4a4ff463464bfc23498c1ab9da1" sha1="70537a3144c8813b115252c40065c117cb139dcd" sha256="68bbdd74169510d128e193b93047cad9197e689c33dbbd52ba7414f5b2ffb1ca" serial="CZLE"/>
+	</game>
+	<game name="Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)" id="1062" cloneofid="0375">
+		<description>Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).z64" size="67108864" crc="c188acda" md5="ab1ca59d0039e3b34d82db650b54d7b9" sha1="da19ca4aac723c155d55ae371107b8462044e350" sha256="f2ed79515542faecfdb054cc5228b3f755bfa6c5fd4df52811240cbaaaa979e1" serial="NZLP"/>
+	</game>
+	<game name="Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)" id="1134" cloneofid="0375">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).z64" size="33554432" crc="c4d2ac1d" md5="74072c944a82c34190f412ee96a51b13" sha1="86ff85565e0e4f78d56f50e73df51ba29d36738a"/>
 	</game>
 	<game name="Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)" id="0379" cloneofid="0931">
 		<description>Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)</description>
@@ -2499,6 +2499,11 @@
 		<description>Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl)</description>
 		<rom name="Lunar Assault 64 (World) (v1.1) (NTSC) (Aftermarket) (Unl).z64" size="8388608" crc="bf1de0e1" md5="e8af667ec10dea3eaffa6de63a919a63" sha1="eb9aa27dfad2a59bfa26a46ec040967db8afeb82" sha256="77c1ad48e18688e436d66c81f8a47726b168b75a90790e579be01581e6f0e59d"/>
 	</game>
+	<game name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl)" id="1206" cloneofid="1204">
+		<category>Games</category>
+		<description>Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl)</description>
+		<rom name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl).z64" size="8388608" crc="4492d734" md5="2bb2d6295356e4a47200671ccc67b056" sha1="bf045c57a5c0570a64002f526a2fec40ac1c23b0" sha256="73dfee30d183bf505c4d4eb51132894d30a3441e718a4de4af3c914239aa84d5"/>
+	</game>
 	<game name="Lunar Assault 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)" id="1207" cloneofid="1204">
 		<category>Games</category>
 		<description>Lunar Assault 64 (World) (N64brew Game Jam 2020) (NTSC) (Aftermarket) (Unl)</description>
@@ -2508,11 +2513,6 @@
 		<category>Games</category>
 		<description>Lunar Assault 64 (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl)</description>
 		<rom name="Lunar Assault 64 (World) (N64brew Game Jam 2020) (PAL) (Aftermarket) (Unl).z64" size="8388608" crc="0873b7d8" md5="9f1d303b9e4788975e4b4d5cd890940b" sha1="82a4613f71ea4c73896bd7d56b00ddf4cf8667e2" sha256="b9caef0c66615953d97b2d921207fd9b1cfaf0de450205bfd1938e810f395af0"/>
-	</game>
-	<game name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl)" id="1206" cloneofid="1204">
-		<category>Games</category>
-		<description>Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl)</description>
-		<rom name="Lunar Assault 64 (World) (v1.1) (PAL) (Aftermarket) (Unl).z64" size="8388608" crc="4492d734" md5="2bb2d6295356e4a47200671ccc67b056" sha1="bf045c57a5c0570a64002f526a2fec40ac1c23b0" sha256="73dfee30d183bf505c4d4eb51132894d30a3441e718a4de4af3c914239aa84d5"/>
 	</game>
 	<game name="Lylat Wars (Australia) (En,Fr,De)" id="0386" cloneofid="0387">
 		<description>Lylat Wars (Australia) (En,Fr,De)</description>
@@ -2567,13 +2567,13 @@
 		<description>Madden NFL 99 (USA)</description>
 		<rom name="Madden NFL 99 (USA).z64" size="12582912" crc="2eb64fc2" md5="507ceab72ef2a1bf145bf190f5ce1c80" sha1="2e8595c6ea0267a0344c0e203b4b08f00a42b13a" sha256="e1bc1ce2fe40c4ec803e6eb0bc762bcd0d9d9fb501e9c3c71fb249369506d454" status="verified" serial="N9ME"/>
 	</game>
-	<game name="Madden NFL 99 (USA) (1998-08-05) (Beta)" id="1028" cloneofid="0395">
-		<description>Madden NFL 99 (USA) (1998-08-05) (Beta)</description>
-		<rom name="Madden NFL 99 (USA) (1998-08-05) (Beta).z64" size="12582912" crc="f8167641" md5="3f0bcc83a958668ad7a0df2a447008d8" sha1="4f8eeffd64ad10057ad4ed20f5ecf541358c04f4" sha256="fa7c556e623ff1072833c628094b6f4d0363a9d93f5040873e048970f60e6cb1" status="verified" serial="N9ME"/>
-	</game>
 	<game name="Madden NFL 99 (USA) (Rev 1)" id="1025" cloneofid="0395">
 		<description>Madden NFL 99 (USA) (Rev 1)</description>
 		<rom name="Madden NFL 99 (USA) (Rev 1).z64" size="12582912" crc="56769a44" md5="5ad80a8ef44dee1fdc456d66104165b4" sha1="68c0c53489b790568acb1d863b74b89975db4a62" serial="N9ME"/>
+	</game>
+	<game name="Madden NFL 99 (USA) (1998-08-05) (Beta)" id="1028" cloneofid="0395">
+		<description>Madden NFL 99 (USA) (1998-08-05) (Beta)</description>
+		<rom name="Madden NFL 99 (USA) (1998-08-05) (Beta).z64" size="12582912" crc="f8167641" md5="3f0bcc83a958668ad7a0df2a447008d8" sha1="4f8eeffd64ad10057ad4ed20f5ecf541358c04f4" sha256="fa7c556e623ff1072833c628094b6f4d0363a9d93f5040873e048970f60e6cb1" status="verified" serial="N9ME"/>
 	</game>
 	<game name="Magic &amp; Legend - Time Knights (World) (Demo) (Aftermarket) (Unl)" id="1266" cloneofid="1289">
 		<category>Games</category>
@@ -2588,7 +2588,7 @@
 	</game>
 	<game name="Magical Tetris Challenge (Europe)" id="0397">
 		<description>Magical Tetris Challenge (Europe)</description>
-		<rom name="Magical Tetris Challenge (Europe).z64" size="16777216" crc="af3b099e" md5="20e51b27e8098a9d101b44689014c281" sha1="ecc73f8a0a530ee42a56b46611da6f74b728fe7d" serial="NMTP"/>
+		<rom name="Magical Tetris Challenge (Europe).z64" size="16777216" crc="af3b099e" md5="20e51b27e8098a9d101b44689014c281" sha1="ecc73f8a0a530ee42a56b46611da6f74b728fe7d" status="verified" serial="NMTP"/>
 	</game>
 	<game name="Magical Tetris Challenge (Germany)" id="0398" cloneofid="0397">
 		<description>Magical Tetris Challenge (Germany)</description>
@@ -2630,11 +2630,6 @@
 		<description>Manic Miner 64 (World) (Summer64) (Unl)</description>
 		<rom name="Manic Miner 64 (World) (Summer64) (Unl).z64" size="2097152" crc="02aacc20" md5="b18bc60ea6b9c72048fd84a2b8f182d4" sha1="52c8fc058bb372dc96965d291b75857c973e7586" sha256="0eb4df311f9eb8bb9be6de6568a1cec931b64e9d618bf56cda0e5314ba4b20f6" serial="NMME"/>
 	</game>
-	<game name="Mario Golf (USA) (LodgeNet)" id="1145" cloneofid="0406">
-		<category>Games</category>
-		<description>Mario Golf (USA) (LodgeNet)</description>
-		<rom name="Mario Golf (USA) (LodgeNet).z64" size="33554432" crc="1c256575" md5="335c3f0ca75a77b222ca50e7af308563" sha1="47c5f700940bb65be1145e7d6543ddf1a816ddda"/>
-	</game>
 	<game name="Mario Golf (Europe)" id="0406">
 		<description>Mario Golf (Europe)</description>
 		<rom name="Mario Golf (Europe).z64" size="33554432" crc="a5071a77" md5="55634ff90ee997790781f79a5b0097ee" sha1="a3f057212e134c411258837271db8a08a6a7921e" sha256="9df6ee0c9a3b463032726400de0e2879578ee55c0d03876bf9d7507e56aa99b9" status="verified" serial="NMFP"/>
@@ -2643,6 +2638,11 @@
 		<category>Games</category>
 		<description>Mario Golf (USA)</description>
 		<rom name="Mario Golf (USA).z64" size="33554432" crc="2fc4c216" md5="903e6929666531d72d05d1e4c522e305" sha1="e2c4e7a905b29529b49a1619a401fe699224829b" sha256="871134c893d5d671ef90c88dfbe98fb20fa20853b3370936a1d09aee6de1beae" status="verified" serial="NMFE"/>
+	</game>
+	<game name="Mario Golf (USA) (LodgeNet)" id="1145" cloneofid="0406">
+		<category>Games</category>
+		<description>Mario Golf (USA) (LodgeNet)</description>
+		<rom name="Mario Golf (USA) (LodgeNet).z64" size="33554432" crc="1c256575" md5="335c3f0ca75a77b222ca50e7af308563" sha1="47c5f700940bb65be1145e7d6543ddf1a816ddda"/>
 	</game>
 	<game name="Mario Golf 64 (Japan)" id="0408" cloneofid="0406">
 		<description>Mario Golf 64 (Japan)</description>
@@ -2797,6 +2797,11 @@
 		<description>Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl)</description>
 		<rom name="Megatextures (World) (Demo) (N64brew Game Jam 2023) (Aftermarket) (Unl).z64" size="48373160" crc="b3225f89" md5="dda13a5195451f84f472d1d7a6b5b8d4" sha1="41777e31ecc150377d3ecc1a9990e868b02a6413" sha256="1d620f7b151b885d1e778116dcce4f3e8f1eb99530d542122b1838061218c06a"/>
 	</game>
+	<game name="Mia Hamm Soccer 64 (USA) (En,Es)" id="0429" cloneofid="0430">
+		<category>Games</category>
+		<description>Mia Hamm Soccer 64 (USA) (En,Es)</description>
+		<rom name="Mia Hamm Soccer 64 (USA) (En,Es).z64" size="16777216" crc="2db3d3d6" md5="a4039368e0472c68e3072c02c7a80f94" sha1="62ce9d1c1f4cf7beaa1ef7c456c155f63f13f057" serial="NHME"/>
+	</game>
 	<game name="Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-08-01)" id="1300" cloneofid="0430">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -2808,11 +2813,6 @@
 		<category>Preproduction</category>
 		<description>Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-09-01)</description>
 		<rom name="Mia Hamm Soccer 64 (USA) (En,Es) (Beta) (2000-09-01).z64" size="16777216" crc="ff29150a" md5="e8935a2b31689d4993d5fc4ace7fcfae" sha1="099e80f45569926ac18a20e7b3fddb78239916ed" sha256="fc32849ee03d09e2349088aa3a9cd9643bfe322877062070991772344b2bc20b" serial="NHME"/>
-	</game>
-	<game name="Mia Hamm Soccer 64 (USA) (En,Es)" id="0429" cloneofid="0430">
-		<category>Games</category>
-		<description>Mia Hamm Soccer 64 (USA) (En,Es)</description>
-		<rom name="Mia Hamm Soccer 64 (USA) (En,Es).z64" size="16777216" crc="2db3d3d6" md5="a4039368e0472c68e3072c02c7a80f94" sha1="62ce9d1c1f4cf7beaa1ef7c456c155f63f13f057" serial="NHME"/>
 	</game>
 	<game name="Michael Owen's WLS 2000 (Europe)" id="0430">
 		<description>Michael Owen's WLS 2000 (Europe)</description>
@@ -3255,6 +3255,7 @@
 		<rom name="Nintama Rantarou 64 Game Gallery (Japan).z64" size="8388608" crc="8c7c2dca" md5="b04957d052ef850c5edece69db7377b3" sha1="1bf5217924c5fb00f8e8829e9ebf3fbceb89b9cd" status="verified" serial="NHBJ"/>
 	</game>
 	<game name="Nintendo 64 Modem (Japan) (Add-on)" id="1084">
+		<category>Add-Ons</category>
 		<description>Nintendo 64 Modem (Japan) (Add-on)</description>
 		<rom name="Nintendo 64 Modem (Japan) (Add-on).z64" size="8388608" crc="77d7b7e3" md5="6ebbbe58d717b3b41985be70a8dfe1be" sha1="8373625fb53d888cd8e74f3b1598c2a6577c01d6" sha256="c2c9edaadac5aa6680cd454368941a8553824474e53c1acdf03dc9bf9f3bb210" serial="CMDJ"/>
 	</game>
@@ -3468,13 +3469,13 @@
 		<description>Phazer 64 (World) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Phazer 64 (World) (v1.1) (Aftermarket) (Unl).z64" size="7733248" crc="4d6b6f45" md5="50f5fe7ff1c16527789075af26768d5e" sha1="25a39deb36089301c225f5f6895616210effe79e" sha256="e0935bec76b475c4d3033bbc31182af1b10116fa7a9168a5b18a49debae71319"/>
 	</game>
-	<game name="Pikachuu Genki de Chuu (Japan) (Beta)" id="1192" cloneofid="0283">
-		<description>Pikachuu Genki de Chuu (Japan) (Beta)</description>
-		<rom name="Pikachuu Genki de Chuu (Japan) (Beta).z64" size="16777216" crc="bb313242" md5="e0901d23a7e24e938fa62975856bd7f0" sha1="a6b2845c2c6e34b34ea2e039b4a3131abd752ba8" sha256="863ebec5ec450b2936bb81df8abf85d3abda5b81a93457a1f25adc0b5eba67d1"/>
-	</game>
 	<game name="Pikachuu Genki de Chuu (Japan)" id="0550" cloneofid="0283">
 		<description>Pikachuu Genki de Chuu (Japan)</description>
 		<rom name="Pikachuu Genki de Chuu (Japan).z64" size="16777216" crc="3f6245ae" md5="e0bcb2758edf0ac6ab7db36d98e1e57c" sha1="a28c689e58f58b4a2a672d3d010436661d247476" sha256="99eb713ed5cea0c86652f813b4e313e3080dd063722a1338bc453366bf46819b" status="verified" serial="NPGJ"/>
+	</game>
+	<game name="Pikachuu Genki de Chuu (Japan) (Beta)" id="1192" cloneofid="0283">
+		<description>Pikachuu Genki de Chuu (Japan) (Beta)</description>
+		<rom name="Pikachuu Genki de Chuu (Japan) (Beta).z64" size="16777216" crc="bb313242" md5="e0901d23a7e24e938fa62975856bd7f0" sha1="a6b2845c2c6e34b34ea2e039b4a3131abd752ba8" sha256="863ebec5ec450b2936bb81df8abf85d3abda5b81a93457a1f25adc0b5eba67d1"/>
 	</game>
 	<game name="Pilotwings 64 (Europe) (En,Fr,De)" id="0551">
 		<description>Pilotwings 64 (Europe) (En,Fr,De)</description>
@@ -3668,14 +3669,14 @@
 		<description>Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="Power Struggle (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="10485760" crc="e6a07215" md5="f392061d262f6aef3156d1f045c9fb18" sha1="f3eeef0ffaa705faf092d8291e31a9469d963a5e" sha256="d651fbf05ec8ac4cc88a28611bb4f1556acf0286575377b3e8ca89e70f1b940e"/>
 	</game>
+	<game name="Powerpuff Girls, The - Chemical X-Traction (USA)" id="0588">
+		<description>Powerpuff Girls, The - Chemical X-Traction (USA)</description>
+		<rom name="Powerpuff Girls, The - Chemical X-Traction (USA).z64" size="8388608" crc="9514da0a" md5="2991bb68eca54813d6b834adbbbacc4c" sha1="88e2032997cb884af31a7380fabac0d0a5360892" serial="NPQE"/>
+	</game>
 	<game name="Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)" id="1114" cloneofid="0588">
 		<category>Games</category>
 		<description>Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)</description>
 		<rom name="Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27).z64" size="8388608" crc="f53f1c36" md5="11bd90afe31992f1f5e7e25433fe8d52" sha1="6cb8b06bfbbd765103c091a402cdc4053f05fa7a" sha256="697e9388a015a8a3d3823e234048e5e1e48b66c26d4f7bb090fd9bcac614ea12" status="verified" serial="NPQE"/>
-	</game>
-	<game name="Powerpuff Girls, The - Chemical X-Traction (USA)" id="0588">
-		<description>Powerpuff Girls, The - Chemical X-Traction (USA)</description>
-		<rom name="Powerpuff Girls, The - Chemical X-Traction (USA).z64" size="8388608" crc="9514da0a" md5="2991bb68eca54813d6b834adbbbacc4c" sha1="88e2032997cb884af31a7380fabac0d0a5360892" serial="NPQE"/>
 	</game>
 	<game name="Premier Manager 64 (Europe)" id="0589">
 		<description>Premier Manager 64 (Europe)</description>
@@ -3711,6 +3712,10 @@
 		<description>Puzzle Master 64 (World) (Unl)</description>
 		<rom name="Puzzle Master 64 (World) (Unl).z64" size="10485760" crc="8cef5822" md5="fbdd421fc2105cf4b9663df97fd7041d" sha1="31efbfa6a08efa5e5b2a92a62b342dee4fcf645e" sha256="89ad41677f8abefdaf083cfce51c47bdadf079955e88addb617d1ab88f08aff5"/>
 	</game>
+	<game name="Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)" id="1096" cloneofid="1097">
+		<description>Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)</description>
+		<rom name="Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl).z64" size="2097152" crc="b7ebddc6" md5="2ac0f88bea02d67896ffeae9e8ec72e7" sha1="3b867ce49f4c2805604adc94d0419cbc82ac07f4" sha256="fc3539c45589f79fea2b30a7d5586b4f5d7c3dfbed4eef263bbecec1bfbefcd8" serial="BPYE"/>
+	</game>
 	<game name="Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl)" id="1097">
 		<description>Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl)</description>
 		<rom name="Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl).z64" size="2097152" crc="1ee17b37" md5="250ad6be7e97306364bfd8f420204d8a" sha1="be40f97a7d29ede80fb83412f60264c73d49e495" sha256="0b070aec1fe852915ec295b877108b0d774c9a1bcd930306ced1698df00ced24" serial="BPYI"/>
@@ -3718,10 +3723,6 @@
 	<game name="Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl)" id="1098" cloneofid="1097">
 		<description>Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl)</description>
 		<rom name="Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl).z64" size="2097152" crc="b8874c09" md5="b98d8a94fe2f02384cb923fbb2f9d57e" sha1="f5cd5146b934d2a9675f55c5cc7952841f67e0f0" sha256="20153369e3be2bd47e3e7a5f8280ed3129c45aaef8904cf3e4fc85ecccc05186" serial="BPYB"/>
-	</game>
-	<game name="Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)" id="1096" cloneofid="1097">
-		<description>Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl)</description>
-		<rom name="Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl).z64" size="2097152" crc="b7ebddc6" md5="2ac0f88bea02d67896ffeae9e8ec72e7" sha1="3b867ce49f4c2805604adc94d0419cbc82ac07f4" sha256="fc3539c45589f79fea2b30a7d5586b4f5d7c3dfbed4eef263bbecec1bfbefcd8" serial="BPYE"/>
 	</game>
 	<game name="Quake (Europe)" id="0595">
 		<description>Quake (Europe)</description>
@@ -3894,6 +3895,14 @@
 		<description>Riqa (Europe) (Proto) (2000-03-27)</description>
 		<rom name="Riqa (Europe) (Proto) (2000-03-27).z64" size="33554432" crc="d594ee45" md5="93a0016d0d3a2deab32a733ae481eb69" sha1="4472a0b0357ba096540c2a151703433087d4da0d" sha256="2ee20e0602cb65e648d4cd0e5776919fb1dadf0c0bc269654fb3b120b72df3f3"/>
 	</game>
+	<game name="Road Rash 64 (Europe)" id="0622">
+		<description>Road Rash 64 (Europe)</description>
+		<rom name="Road Rash 64 (Europe).z64" size="33554432" crc="3c664a7b" md5="ad922dae446a301e1aafe1dfbad75a2e" sha1="816824cb5dc62ee54dc52c0ebb9b2564ecb88133" sha256="bfc3324c7689d6b76fbda6e4a431ae5eeb017da9707240d1d21109fda3a1e610" status="verified" serial="NROP"/>
+	</game>
+	<game name="Road Rash 64 (USA)" id="0623" cloneofid="0622">
+		<description>Road Rash 64 (USA)</description>
+		<rom name="Road Rash 64 (USA).z64" size="33554432" crc="600b3988" md5="28c2373f6d831eec81f6146a809e701b" sha1="87727a298f583ec8325f5655088ff21e37b335b2" serial="NROE"/>
+	</game>
 	<game name="Road Rash 64 (Europe) (Beta) (1999-10-12)" id="1055" cloneofid="0622">
 		<description>Road Rash 64 (Europe) (Beta) (1999-10-12)</description>
 		<rom name="Road Rash 64 (Europe) (Beta) (1999-10-12).z64" size="33554432" crc="4fb98385" md5="436f93c0d8b1650bc308ccf344c08c93" sha1="615fed220a13096bb6fc4c5d7902c66fc5a044d7" sha256="7d0047fe373a032756bb97468c4db59929468abf3a42b45544e31cc5cbfdbc80" serial="NROP"/>
@@ -3907,14 +3916,6 @@
 		<category>Games</category>
 		<description>Road Rash 64 (USA) (Beta 2)</description>
 		<rom name="Road Rash 64 (USA) (Beta 2).z64" size="33554432" crc="e5079d96" md5="4a2400af877b161fc7a265e46be53251" sha1="cd4d68ceb61a663175bcea7f7492d95c27268838" sha256="70822f8b0a6ae09e8eed5789b584c4f4c1622777c621d402ab1797ddbc1e261b" serial="NROE"/>
-	</game>
-	<game name="Road Rash 64 (Europe)" id="0622">
-		<description>Road Rash 64 (Europe)</description>
-		<rom name="Road Rash 64 (Europe).z64" size="33554432" crc="3c664a7b" md5="ad922dae446a301e1aafe1dfbad75a2e" sha1="816824cb5dc62ee54dc52c0ebb9b2564ecb88133" sha256="bfc3324c7689d6b76fbda6e4a431ae5eeb017da9707240d1d21109fda3a1e610" status="verified" serial="NROP"/>
-	</game>
-	<game name="Road Rash 64 (USA)" id="0623" cloneofid="0622">
-		<description>Road Rash 64 (USA)</description>
-		<rom name="Road Rash 64 (USA).z64" size="33554432" crc="600b3988" md5="28c2373f6d831eec81f6146a809e701b" sha1="87727a298f583ec8325f5655088ff21e37b335b2" serial="NROE"/>
 	</game>
 	<game name="Roadsters (Europe) (En,Fr,De,Es,It,Nl)" id="0624">
 		<description>Roadsters (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -3994,7 +3995,7 @@
 	</game>
 	<game name="Rugrats - Treasure Hunt (Europe)" id="0638">
 		<description>Rugrats - Treasure Hunt (Europe)</description>
-		<rom name="Rugrats - Treasure Hunt (Europe).z64" size="16777216" crc="3338b7c8" md5="55185016031cdc73c0fd471527c35706" sha1="5ff0b82077559dd4c206a7a7d13eabeabc82e9c4" serial="NRGP"/>
+		<rom name="Rugrats - Treasure Hunt (Europe).z64" size="16777216" crc="3338b7c8" md5="55185016031cdc73c0fd471527c35706" sha1="5ff0b82077559dd4c206a7a7d13eabeabc82e9c4" status="verified" serial="NRGP"/>
 	</game>
 	<game name="Rugrats in Paris - The Movie (Europe)" id="0639">
 		<description>Rugrats in Paris - The Movie (Europe)</description>
@@ -4043,7 +4044,7 @@
 	</game>
 	<game name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)" id="0648">
 		<description>San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).z64" size="12582912" crc="e63b86c5" md5="02b16ac23998f78f09af6513f4acb664" sha1="61373d4758eca3fa831beac27b4d4c250845f80c" serial="NRUP"/>
+		<rom name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).z64" size="12582912" crc="e63b86c5" md5="02b16ac23998f78f09af6513f4acb664" sha1="61373d4758eca3fa831beac27b4d4c250845f80c" status="verified" serial="NRUP"/>
 	</game>
 	<game name="San Francisco Rush 2049 (USA)" id="0649" cloneofid="0648">
 		<description>San Francisco Rush 2049 (USA)</description>
@@ -4116,18 +4117,6 @@
 		<description>Shadow Man (Europe) (En,Es,It) (Beta)</description>
 		<rom name="Shadow Man (Europe) (En,Es,It) (Beta).z64" size="33554432" crc="bccae03e" md5="9128a7df308bd54eb8c39dae035bffdf" sha1="fcdbf5bd0f08f747294cc120ab558018c6f0eb2e" sha256="725f88d57ed10c63c3f16eefcd7a6d007ad79857eefd4a790bbd2ff2b4017d46" serial="NBCE"/>
 	</game>
-	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)" id="1125" cloneofid="0657">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)</description>
-		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1).z64" size="16777216" crc="45231b9f" md5="1cf28070533ff9e0006ee932d8b39fb9" sha1="b6fdb4bff2a6983a5d84e285a2f427bbd5f63d93" sha256="77ce7d9ae142be989a5b77ddf0609bbdc2157b74dc86d9df9d87cf23cd306909" status="verified" serial="NSGE"/>
-	</game>
-	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)" id="1315" cloneofid="0657">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)</description>
-		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2).z64" size="16777216" crc="004510c8" md5="848e5a8b97762476143cc0856d01297c" sha1="a9e1b1de4bf2f9df3a26c77a772768ad34830c9b" sha256="cc283ce8d1a77b4b57cd36f78351476a284208cdfb86b1e2d427578abd021d40" serial="NSGE"/>
-	</game>
 	<game name="Shadowgate 64 - Trials of the Four Towers (Europe)" id="0657">
 		<description>Shadowgate 64 - Trials of the Four Towers (Europe)</description>
 		<rom name="Shadowgate 64 - Trials of the Four Towers (Europe).z64" size="16777216" crc="ff7d7df0" md5="e8955c3b743fddfe403e52e769e9853f" sha1="f2844b3421779a997c96231d25275da4e2d1018b" serial="NSGP"/>
@@ -4147,6 +4136,18 @@
 	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)" id="0661" cloneofid="0657">
 		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)</description>
 		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).z64" size="16777216" crc="69983cc3" md5="407a1a18bd7dbe0485329296c3f84eb8" sha1="4397729f8143ea9a39f319e1f31f2e0b84335a24" sha256="bddefa567e6cae05126d9c29053eaeec3e78e088e4ea1cfd50ca3223a85f0871" serial="NSGE"/>
+	</game>
+	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)" id="1125" cloneofid="0657">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1)</description>
+		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 1).z64" size="16777216" crc="45231b9f" md5="1cf28070533ff9e0006ee932d8b39fb9" sha1="b6fdb4bff2a6983a5d84e285a2f427bbd5f63d93" sha256="77ce7d9ae142be989a5b77ddf0609bbdc2157b74dc86d9df9d87cf23cd306909" status="verified" serial="NSGE"/>
+	</game>
+	<game name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)" id="1315" cloneofid="0657">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2)</description>
+		<rom name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta 2).z64" size="16777216" crc="004510c8" md5="848e5a8b97762476143cc0856d01297c" sha1="a9e1b1de4bf2f9df3a26c77a772768ad34830c9b" sha256="cc283ce8d1a77b4b57cd36f78351476a284208cdfb86b1e2d427578abd021d40" serial="NSGE"/>
 	</game>
 	<game name="Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)" id="0662">
 		<description>Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)</description>
@@ -4342,11 +4343,6 @@
 		<description>Sporting Clays (World) (Demo) (Unl)</description>
 		<rom name="Sporting Clays (World) (Demo) (Unl).z64" size="1310720" crc="2471c621" md5="515c86480a7fc1238bfe252bd2c53b36" sha1="a6ce08e29002929cb1e14ee7d7a178d288a8b2a2" sha256="b938e0d8b960542f3d06e857e66eab4c3999a832b52edc359be9b919f917f43f"/>
 	</game>
-	<game name="Star Fox 64 (USA) (LodgeNet)" id="1160" cloneofid="0387">
-		<category>Games</category>
-		<description>Star Fox 64 (USA) (LodgeNet)</description>
-		<rom name="Star Fox 64 (USA) (LodgeNet).z64" size="12582912" crc="637a422d" md5="4193b28348f4c294dfb07510e9ebd76b" sha1="1b759465439297fbbe21c19df0924d8e75b1aa5a"/>
-	</game>
 	<game name="Star Fox 64 (Japan)" id="0685" cloneofid="0387">
 		<description>Star Fox 64 (Japan)</description>
 		<rom name="Star Fox 64 (Japan).z64" size="12582912" crc="411142a7" md5="446d5215c4d34eb8ab0f355f324b8d0e" sha1="9bd71afbecf4d0a43146e4e7a893395e19bf3220" sha256="438d5a25aafe7d0b2e490b9a87183ca3f00d2d7ddce6b3a5784c7bdc0cffc7bd" status="verified" serial="NFXJ"/>
@@ -4362,6 +4358,11 @@
 	<game name="Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)" id="0993" cloneofid="0387">
 		<description>Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)</description>
 		<rom name="Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).z64" size="12582912" crc="6508d4ad" md5="91fc4c63ca613530df22c8bb810cb2c3" sha1="a39f14f0d1224095717fabc021023203cb7561d5" serial="NFXJ"/>
+	</game>
+	<game name="Star Fox 64 (USA) (LodgeNet)" id="1160" cloneofid="0387">
+		<category>Games</category>
+		<description>Star Fox 64 (USA) (LodgeNet)</description>
+		<rom name="Star Fox 64 (USA) (LodgeNet).z64" size="12582912" crc="637a422d" md5="4193b28348f4c294dfb07510e9ebd76b" sha1="1b759465439297fbbe21c19df0924d8e75b1aa5a"/>
 	</game>
 	<game name="Star Soldier - Vanishing Earth (Japan) (En)" id="0688" cloneofid="0689">
 		<category>Games</category>
@@ -4404,11 +4405,6 @@
 		<description>Star Wars - Rogue Squadron (USA) (LodgeNet)</description>
 		<rom name="Star Wars - Rogue Squadron (USA) (LodgeNet).z64" size="16777216" crc="b31c4197" md5="9adbbb596860db244490eb77e53a8df6" sha1="80cdebe735d21589b692157633aae4be0b98c08e"/>
 	</game>
-	<game name="Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games)" id="1075" cloneofid="0694">
-		<category>Games</category>
-		<description>Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games)</description>
-		<rom name="Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games).z64" size="16777216" crc="776a069b" md5="4e12b97690897465a27bdf0dda722826" sha1="6932f8b10a5de27500521de50d04e3ba097dd9d9" sha256="5d5dc9aba45563bcd4a2bced42c865ca8916f2ce9a335c83e9e4e764ac6c2994" status="verified" serial="NSWE"/>
-	</game>
 	<game name="Star Wars - Shadows of the Empire (Europe)" id="0694">
 		<description>Star Wars - Shadows of the Empire (Europe)</description>
 		<rom name="Star Wars - Shadows of the Empire (Europe).z64" size="12582912" crc="f0a191bf" md5="591cf8e672c9cc0fe9c871cc56dcc854" sha1="e014f60bea29bbc7fbd7f3ba4fcc6bdd228c8fe5" sha256="e9a7566a699e2c885d3cf86eb366f9fcd36e06a68f1ca0419700bbec44e3eacb" status="verified" serial="NSWP"/>
@@ -4428,6 +4424,11 @@
 	<game name="Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)" id="0945" cloneofid="0694">
 		<description>Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)</description>
 		<rom name="Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).z64" size="12582912" crc="28368603" md5="4076973cfda277fc876e9f066cc73deb" sha1="0f642f17693adf1b97121a61bbeca37df59bb55a" serial="NSWE"/>
+	</game>
+	<game name="Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games)" id="1075" cloneofid="0694">
+		<category>Games</category>
+		<description>Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games)</description>
+		<rom name="Star Wars - Shadows of the Empire (USA) (Rev 3) (Limited Run Games).z64" size="16777216" crc="776a069b" md5="4e12b97690897465a27bdf0dda722826" sha1="6932f8b10a5de27500521de50d04e3ba097dd9d9" sha256="5d5dc9aba45563bcd4a2bced42c865ca8916f2ce9a335c83e9e4e764ac6c2994" status="verified" serial="NSWE"/>
 	</game>
 	<game name="Star Wars - Shutsugeki! Rogue Chuutai (Japan)" id="0698" cloneofid="0692">
 		<description>Star Wars - Shutsugeki! Rogue Chuutai (Japan)</description>
@@ -4450,11 +4451,6 @@
 		<description>Star Wars Episode I - Battle for Naboo (USA) (Beta)</description>
 		<rom name="Star Wars Episode I - Battle for Naboo (USA) (Beta).z64" size="33554432" crc="90759d7b" md5="88776081f0f92eef355cd451b9c6a819" sha1="8f82880cde3f11af23f580667ac133ccb5f6a0ca" sha256="2dbba691279d4879b0e6edfa6f69113b79227b37afb5097108691870c8a8dbf4" serial="NNAE"/>
 	</game>
-	<game name="Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)" id="1074" cloneofid="0702">
-		<category>Games</category>
-		<description>Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)</description>
-		<rom name="Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games).z64" size="33554432" crc="fb401a2a" md5="0b2b4d3c38426763059d68aa53b86fdf" sha1="f71908f15a14ee124f9b471467432ade87e0951c" sha256="314730e75239c074b896af47d53dc0a5746131bcfc8b925795e4933fee5de147" status="verified" serial="NEPE"/>
-	</game>
 	<game name="Star Wars Episode I - Racer (Europe) (En,Fr,De)" id="0702">
 		<description>Star Wars Episode I - Racer (Europe) (En,Fr,De)</description>
 		<rom name="Star Wars Episode I - Racer (Europe) (En,Fr,De).z64" size="33554432" crc="e0f46629" md5="6ef9fed309f28bd59b605f128869aa00" sha1="899a8245da017289c88e97327fdcd6694b770a25" sha256="326b810b24cef38b04b74084bfd487fb6d40ea955dc2a54849de942bde076edc" status="verified" serial="NEPP"/>
@@ -4466,6 +4462,11 @@
 	<game name="Star Wars Episode I - Racer (USA)" id="0704" cloneofid="0702">
 		<description>Star Wars Episode I - Racer (USA)</description>
 		<rom name="Star Wars Episode I - Racer (USA).z64" size="33554432" crc="c53c1035" md5="1ee8800a4003e7f9688c5a35f929d01b" sha1="3542d5597c8a56ea8f5c63bceae97a24c4c08d58" sha256="8d6f85683b630e25385619af37197d48279366f6609bb6edc1201ff24c08b757" status="verified" serial="NEPE"/>
+	</game>
+	<game name="Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)" id="1074" cloneofid="0702">
+		<category>Games</category>
+		<description>Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games)</description>
+		<rom name="Star Wars Episode I - Racer (USA) (Rev 1) (Limited Run Games).z64" size="33554432" crc="fb401a2a" md5="0b2b4d3c38426763059d68aa53b86fdf" sha1="f71908f15a14ee124f9b471467432ade87e0951c" sha256="314730e75239c074b896af47d53dc0a5746131bcfc8b925795e4933fee5de147" status="verified" serial="NEPE"/>
 	</game>
 	<game name="StarCraft 64 (Australia)" id="0705" cloneofid="0706">
 		<description>StarCraft 64 (Australia)</description>
@@ -4506,17 +4507,17 @@
 		<description>Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Sub Mare Imperium - Derelict 64 (World) (Proto) (Aftermarket) (Unl).z64" size="1064960" crc="adddbba9" md5="c496598a657b06ba752ccc43b0e7b555" sha1="ee46984600d010243249365a5ab8314602d90bba" sha256="1f26ca70921156f8ea3169f28c7f8ecfc337fe69e3c12359296d3fd5124d2c29"/>
 	</game>
-	<game name="SUGGOH (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1236" cloneofid="1235">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>SUGGOH (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
-		<rom name="SUGGOH (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="1052672" crc="8c5908aa" md5="0416c95e67f1f3a4a3c3fd063f31ad9e" sha1="e768de351fbc8ea4034494a522f700526f4a57b1" sha256="a4bdcf2d6e03634461ff36f0a5b90e33e8ca050e374d77c2b5a26c5aa125252a"/>
-	</game>
 	<game name="SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl)" id="1235">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="SUGGOH (World) (v1.1) (Demo) (Aftermarket) (Unl).z64" size="1052672" crc="cde7d5de" md5="eff45e94145cbd6001ab636c04340a91" sha1="51efb63e34c576beff7f1934c33eec8815e10c59" sha256="67955a72df1177440fd1f785736b6f2f03cdd3070b6b72c24c63b41f09e4f995"/>
+	</game>
+	<game name="SUGGOH (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1236" cloneofid="1235">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>SUGGOH (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
+		<rom name="SUGGOH (World) (Demo) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="1052672" crc="8c5908aa" md5="0416c95e67f1f3a4a3c3fd063f31ad9e" sha1="e768de351fbc8ea4034494a522f700526f4a57b1" sha256="a4bdcf2d6e03634461ff36f0a5b90e33e8ca050e374d77c2b5a26c5aa125252a"/>
 	</game>
 	<game name="Summer's Story (World) (N64brew Game Jam 2023) (Aftermarket) (Unl)" id="1252">
 		<category>Games</category>
@@ -4782,12 +4783,6 @@
 		<description>Tommy Thunder (USA) (Proto) (1997-10-01)</description>
 		<rom name="Tommy Thunder (USA) (Proto) (1997-10-01).z64" size="8388608" crc="66734854" md5="99f95ad4a3b0c78b6f58a0fc3ad22db6" sha1="287fd68b5de520ade240889bc0133777fed5c671" serial="NNiE"/>
 	</game>
-	<game name="Tonic Trouble (Europe) (Beta)" id="1188" cloneofid="0747">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Tonic Trouble (Europe) (Beta)</description>
-		<rom name="Tonic Trouble (Europe) (Beta).z64" size="16777216" crc="ee66a35e" md5="8882e815f8798f437ee95c9bdf8eb7e3" sha1="be4be4a81eabd9cf9926d04dbc28f3eb84818f19" sha256="8bb9bb43d2778fe77fd45eb5f58928aca58c75b8d81aeb0185894edcd4f2b660" status="verified" serial="!none"/>
-	</game>
 	<game name="Tonic Trouble (Europe) (En,Fr,De,Es,It)" id="0747">
 		<description>Tonic Trouble (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Tonic Trouble (Europe) (En,Fr,De,Es,It).z64" size="16777216" crc="b4322403" md5="3d3573a855835a98de29d598c35590e0" sha1="81909104362baeb7ae3793c08c3d138e96105bbf" sha256="03ec2d3d3ba63bd394313589333b8d6781331bc3cca06321beddae76e747bcb6" status="verified" serial="NTTP"/>
@@ -4795,6 +4790,12 @@
 	<game name="Tonic Trouble (USA) (Rev 1)" id="0748" cloneofid="0747">
 		<description>Tonic Trouble (USA) (Rev 1)</description>
 		<rom name="Tonic Trouble (USA) (Rev 1).z64" size="16777216" crc="1c04ba12" md5="7d3e935156844de0002db875e1076a5c" sha1="38f9837159d6aa69ca656d8005eccf099c129537" serial="NTTE"/>
+	</game>
+	<game name="Tonic Trouble (Europe) (Beta)" id="1188" cloneofid="0747">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Tonic Trouble (Europe) (Beta)</description>
+		<rom name="Tonic Trouble (Europe) (Beta).z64" size="16777216" crc="ee66a35e" md5="8882e815f8798f437ee95c9bdf8eb7e3" sha1="be4be4a81eabd9cf9926d04dbc28f3eb84818f19" sha256="8bb9bb43d2778fe77fd45eb5f58928aca58c75b8d81aeb0185894edcd4f2b660" status="verified" serial="!none"/>
 	</game>
 	<game name="Tony Hawk's Pro Skater (USA)" id="0750" cloneofid="0749">
 		<description>Tony Hawk's Pro Skater (USA)</description>
@@ -4808,6 +4809,14 @@
 		<description>Tony Hawk's Pro Skater (USA) (Beta)</description>
 		<rom name="Tony Hawk's Pro Skater (USA) (Beta).z64" size="12582912" crc="3e4358bf" md5="86b6d21b9285dceb775737c7f25ba095" sha1="7a08f68eccb524da95b24960df5b3add4aa5e178" sha256="94ae6532907cbed780899667ac94eaec02e3df24b70cf3a08fc7b8dc8237be0e" status="verified"/>
 	</game>
+	<game name="Tony Hawk's Pro Skater 2 (Europe)" id="0752">
+		<description>Tony Hawk's Pro Skater 2 (Europe)</description>
+		<rom name="Tony Hawk's Pro Skater 2 (Europe).z64" size="16777216" crc="a1207132" md5="6be030475c4db52f273ef8a02b4dafa8" sha1="803672c1ffa7860536d8b35dca8b59f637f4165e" sha256="1f675f4a3c73d4e985fb72764a80a6a2b28fd888152d438efcfe629d0d80180c" status="verified" serial="NTQP"/>
+	</game>
+	<game name="Tony Hawk's Pro Skater 2 (USA)" id="0753" cloneofid="0752">
+		<description>Tony Hawk's Pro Skater 2 (USA)</description>
+		<rom name="Tony Hawk's Pro Skater 2 (USA).z64" size="16777216" crc="80aa83f3" md5="29974692808c112b306fbd259273dc96" sha1="458ac754cd8e08c46f4c5c9204192ecde84a179d" sha256="6ac38612aaae84f8bba22a33a165c17fba3072b16999edcc9a86ab726008d726" serial="NTQE"/>
+	</game>
 	<game name="Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)" id="1045" cloneofid="0752">
 		<description>Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)</description>
 		<rom name="Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).z64" size="33554432" crc="98d0d335" md5="317a4e89618b8b7955632c5f70177690" sha1="fab693f9da784837d10a3281d16ec5a1d3d733c9" sha256="39df4d15ffdb081a29d399f0df935dad667080b9ffc255f44dcbf559871f2586" serial="!none"/>
@@ -4817,14 +4826,6 @@
 		<category>Preproduction</category>
 		<description>Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-06-04)</description>
 		<rom name="Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-06-04).z64" size="16777216" crc="63ddc62d" md5="91461c109a1e1e5fb8d99111fd326724" sha1="44bc209164e90f0dae3a469a835efe3bf3c9f8dc" sha256="3774771147f99bbda2bc93e42322827c2177fa3d48da6bd1d464c07ef96e6bf1" status="verified"/>
-	</game>
-	<game name="Tony Hawk's Pro Skater 2 (Europe)" id="0752">
-		<description>Tony Hawk's Pro Skater 2 (Europe)</description>
-		<rom name="Tony Hawk's Pro Skater 2 (Europe).z64" size="16777216" crc="a1207132" md5="6be030475c4db52f273ef8a02b4dafa8" sha1="803672c1ffa7860536d8b35dca8b59f637f4165e" sha256="1f675f4a3c73d4e985fb72764a80a6a2b28fd888152d438efcfe629d0d80180c" status="verified" serial="NTQP"/>
-	</game>
-	<game name="Tony Hawk's Pro Skater 2 (USA)" id="0753" cloneofid="0752">
-		<description>Tony Hawk's Pro Skater 2 (USA)</description>
-		<rom name="Tony Hawk's Pro Skater 2 (USA).z64" size="16777216" crc="80aa83f3" md5="29974692808c112b306fbd259273dc96" sha1="458ac754cd8e08c46f4c5c9204192ecde84a179d" sha256="6ac38612aaae84f8bba22a33a165c17fba3072b16999edcc9a86ab726008d726" serial="NTQE"/>
 	</game>
 	<game name="Tony Hawk's Pro Skater 3 (USA)" id="0754">
 		<description>Tony Hawk's Pro Skater 3 (USA)</description>
@@ -4871,12 +4872,6 @@
 		<description>Top Gear Overdrive (USA) (Beta)</description>
 		<rom name="Top Gear Overdrive (USA) (Beta).z64" size="12582912" crc="c1160b09" md5="975d01545d0803f20d1ee61385c28eed" sha1="2d7ed4805f3fa14412dbaa1bb99375dbd85b2b02" sha256="917f2f7ae45bb14a0c588e266f0909a0f2be206bd6b78d33b29be138cedcf46f" status="verified" serial="!none"/>
 	</game>
-	<game name="Top Gear Rally (USA) (Beta) (1997-08-15)" id="1302" cloneofid="0761">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Top Gear Rally (USA) (Beta) (1997-08-15)</description>
-		<rom name="Top Gear Rally (USA) (Beta) (1997-08-15).z64" size="8388608" crc="0ec4db64" md5="ec56477b5ead77befdfa8af6c060b8a0" sha1="ebc24eca70a0117ff423ca92926f9c962e9bb6c5" sha256="05f0ad9aa36fa71e780f42724b7d0b26dd9b19384536b856ada697cd7f907a0c" status="verified" serial="!none"/>
-	</game>
 	<game name="Top Gear Rally (Europe)" id="0761">
 		<description>Top Gear Rally (Europe)</description>
 		<rom name="Top Gear Rally (Europe).z64" size="8388608" crc="40b3bb21" md5="1698508f521280d0a80e078ec981d4ac" sha1="9fae5d98fe3464f00d59034690df90118646eb95" sha256="a519d53ddc8481a0fcc8f92034257b86a363b9e75ae4438ac4fad6c3e018e8c3" status="verified" serial="NTRP"/>
@@ -4892,6 +4887,12 @@
 	<game name="Top Gear Rally (Asia) (En)" id="1026" cloneofid="0761">
 		<description>Top Gear Rally (Asia) (En)</description>
 		<rom name="Top Gear Rally (Asia) (En).z64" size="8388608" crc="c4bc4df8" md5="50195216c8a37f9bd5b2105a40ee8d8f" sha1="7e36a98f6fafe3ff7e72d14e0fae16418458da47" serial="NGRX"/>
+	</game>
+	<game name="Top Gear Rally (USA) (Beta) (1997-08-15)" id="1302" cloneofid="0761">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Top Gear Rally (USA) (Beta) (1997-08-15)</description>
+		<rom name="Top Gear Rally (USA) (Beta) (1997-08-15).z64" size="8388608" crc="0ec4db64" md5="ec56477b5ead77befdfa8af6c060b8a0" sha1="ebc24eca70a0117ff423ca92926f9c962e9bb6c5" sha256="05f0ad9aa36fa71e780f42724b7d0b26dd9b19384536b856ada697cd7f907a0c" status="verified" serial="!none"/>
 	</game>
 	<game name="Top Gear Rally 2 (Europe)" id="0764">
 		<description>Top Gear Rally 2 (Europe)</description>
@@ -5185,11 +5186,6 @@
 		<description>Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet)</description>
 		<rom name="Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet).z64" size="4194304" crc="ac7aa76d" md5="c14d21a693135284a708feb3f80f487e" sha1="90a012eb6a0cb1ac158492a6c2683f181c5b0205"/>
 	</game>
-	<game name="Virtual Pool 64 (USA) (LodgeNet)" id="1163" cloneofid="0811">
-		<category>Games</category>
-		<description>Virtual Pool 64 (USA) (LodgeNet)</description>
-		<rom name="Virtual Pool 64 (USA) (LodgeNet).z64" size="4194304" crc="b58fc734" md5="8e7d473161cb685909bc762a32aa850d" sha1="b595e31c1599d52ef363c974ea54e52f201795f2"/>
-	</game>
 	<game name="Virtual Pool 64 (Europe)" id="0811">
 		<description>Virtual Pool 64 (Europe)</description>
 		<rom name="Virtual Pool 64 (Europe).z64" size="4194304" crc="9a6fb0bc" md5="ab68fb43f012c1a45af1dbcc8e8c109c" sha1="70bd9ece445d6b66ef65afc19b5ea9df5a75dba4" sha256="06b14029b7ae53de5d3097b2641563eb2bf402f9920779faada96dc380c082f3" status="verified" serial="NVRP"/>
@@ -5197,6 +5193,11 @@
 	<game name="Virtual Pool 64 (USA)" id="0812" cloneofid="0811">
 		<description>Virtual Pool 64 (USA)</description>
 		<rom name="Virtual Pool 64 (USA).z64" size="4194304" crc="ad628ded" md5="6d3db67319da339df4b68ad0084904d5" sha1="4fed63f7ee35f4d3941f0d61175057481d91d2e0" sha256="e263c17be9deae7acf8eb1850948c179ec45a1409cd373682cc37c0251881efe" serial="NVRE"/>
+	</game>
+	<game name="Virtual Pool 64 (USA) (LodgeNet)" id="1163" cloneofid="0811">
+		<category>Games</category>
+		<description>Virtual Pool 64 (USA) (LodgeNet)</description>
+		<rom name="Virtual Pool 64 (USA) (LodgeNet).z64" size="4194304" crc="b58fc734" md5="8e7d473161cb685909bc762a32aa850d" sha1="b595e31c1599d52ef363c974ea54e52f201795f2"/>
 	</game>
 	<game name="Virtual Pro Wrestling 2 - Oudou Keishou (Japan)" id="0813">
 		<description>Virtual Pro Wrestling 2 - Oudou Keishou (Japan)</description>
@@ -5206,15 +5207,15 @@
 		<description>Virtual Pro Wrestling 64 (Japan)</description>
 		<rom name="Virtual Pro Wrestling 64 (Japan).z64" size="16777216" crc="e6651803" md5="5e6202200af40a8f026780edfe1e15d0" sha1="f9e9fa2ed819c3a39db5cb6afeca186f021db5ed" serial="NVPJ"/>
 	</game>
-	<game name="Voidblade (World) (Aftermarket) (Unl)" id="1295">
-		<category>Games</category>
-		<description>Voidblade (World) (Aftermarket) (Unl)</description>
-		<rom name="Voidblade (World) (Aftermarket) (Unl).z64" size="9364480" crc="99f29203" md5="914434557ec1aae90281889478929571" sha1="6639891fe5febe16b2bc2fbff50fdc8d23d4868c" sha256="4fc116d61434a4115cd4b95d48eac72b94cc5f7f0c05d74bf763e97ac0c8d5c2"/>
-	</game>
 	<game name="Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)" id="1226" cloneofid="1295">
 		<category>Games</category>
 		<description>Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl)</description>
 		<rom name="Voidblade (World) (N64brew Game Jam 2021) (Aftermarket) (Unl).z64" size="9371648" crc="2816b2bb" md5="fedcad4ec658743d99d7587434076e69" sha1="be87adb33d80634741c004e0c7f736c59f6c7537" sha256="3c231f310f2c81171ad85456b0f4d8006b98e103c39d53e22a9f38d72ee2ce47"/>
+	</game>
+	<game name="Voidblade (World) (Aftermarket) (Unl)" id="1295">
+		<category>Games</category>
+		<description>Voidblade (World) (Aftermarket) (Unl)</description>
+		<rom name="Voidblade (World) (Aftermarket) (Unl).z64" size="9364480" crc="99f29203" md5="914434557ec1aae90281889478929571" sha1="6639891fe5febe16b2bc2fbff50fdc8d23d4868c" sha256="4fc116d61434a4115cd4b95d48eac72b94cc5f7f0c05d74bf763e97ac0c8d5c2"/>
 	</game>
 	<game name="Waialae Country Club - True Golf Classics (Europe)" id="0815" cloneofid="0816">
 		<description>Waialae Country Club - True Golf Classics (Europe)</description>

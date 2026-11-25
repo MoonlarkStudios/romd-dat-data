@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261024-134731</version>
+		<version>20261122-044517</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -302,6 +302,11 @@
 		<description>Alleyway (World)</description>
 		<rom name="Alleyway (World).gb" size="32768" crc="5cc01586" md5="91128778a332495f77699eaf3a37fe30" sha1="0cf2b8d0428f389f5361f67a0cd1ace05a1c75cc" sha256="ed8070e011713527bdc03e2b9cec9f9c4a7e3aaa00e57e8786a186b265da1bb2" status="verified"/>
 	</game>
+	<game name="Allie (World) (Aftermarket) (Unl)" id="2660">
+		<category>Games</category>
+		<description>Allie (World) (Aftermarket) (Unl)</description>
+		<rom name="Allie (World) (Aftermarket) (Unl).gb" size="524288" crc="29a7ed1b" md5="c350fb21999092fbbe4436f0eadd405e" sha1="49e844c29557025f5f9ff58805f072a18688bb6c" sha256="74873735704585872c09ac119cb1ec6ea0db8a813261dde3cb852b6d46352768"/>
+	</game>
 	<game name="Alphamax (World) (Aftermarket) (Unl)" id="1982">
 		<description>Alphamax (World) (Aftermarket) (Unl)</description>
 		<rom name="Alphamax (World) (Aftermarket) (Unl).gb" size="131072" crc="8b493b41" md5="4b5732e16d985d6ccac614aaad171c9d" sha1="798dda34d04a06dcee32f44f8a4a045caf734927" sha256="c726a4beffe605e73fbde98c11d0b1f447c202057e75b6110b0be89fc9f79d42"/>
@@ -460,6 +465,11 @@
 		<category>Games</category>
 		<description>Art School Pocket (World) (De) (Aftermarket) (Unl)</description>
 		<rom name="Art School Pocket (World) (De) (Aftermarket) (Unl).gb" size="1048576" crc="82b73e5b" md5="802fbe246099f42c3177d6ff54afe6eb" sha1="7772e2b9d5e722e54d19fc6283ccb1fa5d19b641" sha256="47f4c097ba261aba79d03f7dfed46dade23b9674b783da25722b995a3c71ad17"/>
+	</game>
+	<game name="Ask Her Out (World) (Aftermarket) (Unl)" id="2654">
+		<category>Games</category>
+		<description>Ask Her Out (World) (Aftermarket) (Unl)</description>
+		<rom name="Ask Her Out (World) (Aftermarket) (Unl).gb" size="262144" crc="d14b9f39" md5="6724703ea75e6d761b034900ce76bddb" sha1="99f8ef3ec3418a22599f8de53f7ed4db6958fb6a" sha256="a0eea13859f92019b9c958dc3e182671a0a7a35f734e063a3e0cbcbbcdd478f5"/>
 	</game>
 	<game name="ASM 2012 Christmas Card (World) (Demo) (Album) (Aftermarket) (Unl)" id="2483">
 		<category>Audio</category>
@@ -1203,7 +1213,7 @@
 	<game name="Bubsy II (World) (The Purrfect Collection)" id="2627" cloneofid="0183">
 		<category>Games</category>
 		<description>Bubsy II (World) (The Purrfect Collection)</description>
-		<rom name="Bubsy II (World) (The Purrfect Collection).gb" size="262144" crc="52436a3d" md5="3a26bd9e9e3bf4f52b4803934071f71d" sha1="1fb725f0ae0e63a218ef2c41e39aae2243d47282" sha256="cd83b88a2e04623353b208bd2398cc006d8743a332b9cbfd05828ec95bc21e8a"/>
+		<rom name="Bubsy II (World) (The Purrfect Collection).gb" size="262144" crc="52436a3d" md5="3a26bd9e9e3bf4f52b4803934071f71d" sha1="1fb725f0ae0e63a218ef2c41e39aae2243d47282" sha256="cd83b88a2e04623353b208bd2398cc006d8743a332b9cbfd05828ec95bc21e8a" status="verified"/>
 	</game>
 	<game name="Bug Bites! (World) (Aftermarket) (Unl)" id="2185">
 		<category>Games</category>
@@ -1726,6 +1736,11 @@
 	<game name="Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan) (SGB Enhanced)" id="0264">
 		<description>Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan) (SGB Enhanced)</description>
 		<rom name="Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan) (SGB Enhanced).gb" size="131072" crc="37d4aa8c" md5="bcb3d47c291fd0a26b2c7b1082c3ad88" sha1="b5bb01ad7e25e9e83c564ccf604a59f8930cd0d5" sha256="0f15d92687983f32520d53b7af240a24bbb4fbfa509240a5f3b62ac4e065dd58"/>
+	</game>
+	<game name="Crow's Hoard, The (World) (Aftermarket) (Unl)" id="2662">
+		<category>Games</category>
+		<description>Crow's Hoard, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Crow's Hoard, The (World) (Aftermarket) (Unl).gb" size="262144" crc="84670cb4" md5="00e8615e2ef1b78e4eec860f3d069c7c" sha1="4cfb458e92aca0ec0e5966b09c9d58f32433c3b7" sha256="c82a83288b70a45db9bd6248cd495b68ccd1b9c0d708c50ff0fd696a94e868b8"/>
 	</game>
 	<game name="Cryohazard (World) (Aftermarket) (Unl)" id="2435">
 		<category>Games</category>
@@ -2358,6 +2373,11 @@
 		<description>DuckTales 2 (USA)</description>
 		<rom name="DuckTales 2 (USA).gb" size="131072" crc="b151509d" md5="b4e5876c5acedd12b62e25a12973a4ae" sha1="c9d5b7a71badcc7b198897b4888482f663f03504" sha256="0175d150df92e4e5823bf82b77eb27e44ba0ff83b63044c77f86d6973ac485ea" status="verified"/>
 	</game>
+	<game name="Dung03ns (World) (Aftermarket) (Unl)" id="2661">
+		<category>Games</category>
+		<description>Dung03ns (World) (Aftermarket) (Unl)</description>
+		<rom name="Dung03ns (World) (Aftermarket) (Unl).gb" size="524288" crc="4b4df54f" md5="ef29656a4469d85c2fc2e119226d4a24" sha1="90342baeab6b36a09e7af5f463686aff5c0c675b" sha256="a52b9716e5396affcac77a1923dc3c3bfca2e8dab8fefd691e835d4d4d4588e8"/>
+	</game>
 	<game name="Dungeon Land (Japan)" id="0351">
 		<description>Dungeon Land (Japan)</description>
 		<rom name="Dungeon Land (Japan).gb" size="131072" crc="11be4b45" md5="9810ef4294bfde29ec0bfc6c41d2f58c" sha1="e354b0e78992f66bd598399998790231ff81b86f" sha256="e1b4088287868018b126a132173f0f583f9ec3723e89c52bd9f85c06681c7891" status="verified"/>
@@ -2421,6 +2441,16 @@
 	<game name="Elite Soccer (USA) (SGB Enhanced)" id="0359" cloneofid="1229">
 		<description>Elite Soccer (USA) (SGB Enhanced)</description>
 		<rom name="Elite Soccer (USA) (SGB Enhanced).gb" size="131072" crc="f54158a6" md5="0a3304bdadddadc6c6b1d7cc8425d566" sha1="4576881ea25e29ebba91c49c89f8e70e105fbc60" sha256="72c229e40868c9e90580ef0a76e902d3150792bef313f57e6806bef57299d64b"/>
+	</game>
+	<game name="Elle's Gone (World) (Aftermarket) (Unl)" id="2655">
+		<category>Games</category>
+		<description>Elle's Gone (World) (Aftermarket) (Unl)</description>
+		<rom name="Elle's Gone (World) (Aftermarket) (Unl).gb" size="262144" crc="ce2057ac" md5="84006d513efbb96f3610589149dd31dd" sha1="a984f66700252dedacd5e6e46e559d4cc7241fcb" sha256="280b47a787d00f54f2dabad69a91bd672d5791432cc4bbebd11477288f8449b0"/>
+	</game>
+	<game name="Entity (World) (Beta) (Aftermarket) (Unl)" id="2653">
+		<category>Games</category>
+		<description>Entity (World) (Beta) (Aftermarket) (Unl)</description>
+		<rom name="Entity (World) (Beta) (Aftermarket) (Unl).gb" size="524288" crc="9d82a4c4" md5="c88baff09bda3f50250373bc183a0ef8" sha1="a8f867e4f301443be444aade9e48f3c72c40e7ae" sha256="325539932673cfd366363eb50fb3bfc40de22fae86b768595c4bb74c58a05772"/>
 	</game>
 	<game name="ever - Lucid Space Program (World) (Aftermarket) (Unl)" id="2342">
 		<category>Games</category>
@@ -2495,7 +2525,7 @@
 	</game>
 	<game name="Famista (Japan)" id="0371" cloneofid="0361">
 		<description>Famista (Japan)</description>
-		<rom name="Famista (Japan).gb" size="131072" crc="3d3c059e" md5="7d99006d00431ac246817d4f61e49b59" sha1="5cb8e63906d32c5408b7f959a75c41578a444c3b" sha256="b57035a07989cbd6c4c244a6d7cfcd61bdc457ad2e2695f6e5a1e980d07ec9a5"/>
+		<rom name="Famista (Japan).gb" size="131072" crc="3d3c059e" md5="7d99006d00431ac246817d4f61e49b59" sha1="5cb8e63906d32c5408b7f959a75c41578a444c3b" sha256="b57035a07989cbd6c4c244a6d7cfcd61bdc457ad2e2695f6e5a1e980d07ec9a5" status="verified"/>
 	</game>
 	<game name="Famista 2 (Japan)" id="0372">
 		<description>Famista 2 (Japan)</description>
@@ -3131,6 +3161,11 @@
 		<description>Golf Classic (Europe) (SGB Enhanced)</description>
 		<rom name="Golf Classic (Europe) (SGB Enhanced).gb" size="262144" crc="a6dadb1e" md5="4b49017d182635c587ef2e3001769785" sha1="b7ffb77a5061c33b0bbe5b074c1526e46c5eb7c3" sha256="9e5b58302be1157f293b6b123ab5f1414496711186dcced297a377f328f8dc4d"/>
 	</game>
+	<game name="Goodbye.exe (World) (Aftermarket) (Unl)" id="2658">
+		<category>Games</category>
+		<description>Goodbye.exe (World) (Aftermarket) (Unl)</description>
+		<rom name="Goodbye.exe (World) (Aftermarket) (Unl).gb" size="131072" crc="15a02afb" md5="0844380764ef486fd47b68446c5b843b" sha1="e8a126f1cca482481cc3f159f2da99f7c7e1023e" sha256="2378f5d4ddee4961e4ceab1a855c7b0ea5a6ced08040850db7f0a9babff715eb"/>
+	</game>
 	<game name="Goukaku Boy GOLD - Shikakui Atama o Maruku Suru - Joushiki no Sho (Japan) (Imagineer)" id="0486" cloneofid="1597">
 		<description>Goukaku Boy GOLD - Shikakui Atama o Maruku Suru - Joushiki no Sho (Japan) (Imagineer)</description>
 		<rom name="Goukaku Boy GOLD - Shikakui Atama o Maruku Suru - Joushiki no Sho (Japan) (Imagineer).gb" size="1048576" crc="5d43a385" md5="d4088d3239a9291e4e7bdb2119ad7708" sha1="d367f2dab5eacb10e785a13a2550ca7cc3e54177" sha256="bbcfdc1db86f97f8da706f1feb43d9abcf867d6e94179c1306f637dacfc9ecef"/>
@@ -3513,6 +3548,11 @@
 		<description>Hong Kong (Japan)</description>
 		<rom name="Hong Kong (Japan).gb" size="32768" crc="5ad83d68" md5="2cd8171d2c0d6695f6c4159476d459e7" sha1="d8dd3e1baa95d8bb0a4e6b4e97ea64b8ec34331a" sha256="75a1a21e7659ce0689def42d14b732666330c33e4e5a861eb61cb235c34a4e87"/>
 	</game>
+	<game name="Hong Kong '97 (World) (2022 Update) (Aftermarket) (Unl)" id="2651">
+		<category>Games</category>
+		<description>Hong Kong '97 (World) (2022 Update) (Aftermarket) (Unl)</description>
+		<rom name="Hong Kong '97 (World) (2022 Update) (Aftermarket) (Unl).gb" size="262144" crc="97abfaa0" md5="757f792dc668537352f037030f659d1f" sha1="8d12129b5982b22f33d1dea351dd96ad0cd10122" sha256="45c8c60e0edba9f35d22fdf394fe944041b2d8a0b9d121e03ac524341a051efd"/>
+	</game>
 	<game name="Honmei Boy (Japan)" id="0533">
 		<description>Honmei Boy (Japan)</description>
 		<rom name="Honmei Boy (Japan).gb" size="262144" crc="0d255d59" md5="7ae0d384ad38a528bed9c76e07671126" sha1="2d6c460123886502e1590268ec5d8422c5375f7b" sha256="b1fbb2ea6bb711c9b99a8b13f9a179ed273425e8aaa67ef1f3a95acfc138a948"/>
@@ -3612,6 +3652,11 @@
 	<game name="Hyper Lode Runner (Japan) (En) (Possible Proto)" id="1671" cloneofid="0552">
 		<description>Hyper Lode Runner (Japan) (En) (Possible Proto)</description>
 		<rom name="Hyper Lode Runner (Japan) (En) (Possible Proto).gb" size="32768" crc="3fc21b74" md5="9d20f9cc539c953a3da5962bea455d18" sha1="37d0f2cbac0f95af8b22dea0c882612681ec5cc8" sha256="6819d0b377e8c5f4d0520afa184bb0c9daab35aa1b83d53cb746592783a6350f"/>
+	</game>
+	<game name="I Hope She's Doing Well (World) (Aftermarket) (Unl)" id="2657">
+		<category>Games</category>
+		<description>I Hope She's Doing Well (World) (Aftermarket) (Unl)</description>
+		<rom name="I Hope She's Doing Well (World) (Aftermarket) (Unl).gb" size="524288" crc="39aa469d" md5="6f7d13ae43dc8f2881b69796d2455820" sha1="88fddce54deaf792a2090ff2c2d256dafb40ac05" sha256="e6afc2bf0fd4d0d462852400ef1e56b61372f653e25d8c81cb6610638e7c485c"/>
 	</game>
 	<game name="If (World) (Aftermarket) (Unl)" id="1959">
 		<description>If (World) (Aftermarket) (Unl)</description>
@@ -4344,6 +4389,11 @@
 	<game name="Lamborghini American Challenge (USA, Europe)" id="0683">
 		<description>Lamborghini American Challenge (USA, Europe)</description>
 		<rom name="Lamborghini American Challenge (USA, Europe).gb" size="131072" crc="675e1309" md5="967d5fc3ab464c465c04d55bc1747768" sha1="82a6808f0c4cb1e05a4c2a38a39b0c37874b4211" sha256="dbcecd9ed9ee70e8f3a231eb0bda95c882ff0e9697d52fe919a02f076962de91" status="verified"/>
+	</game>
+	<game name="Lantern of Darkness (World) (Demo) (Aftermarket) (Unl)" id="2656">
+		<category>Demos</category>
+		<description>Lantern of Darkness (World) (Demo) (Aftermarket) (Unl)</description>
+		<rom name="Lantern of Darkness (World) (Demo) (Aftermarket) (Unl).gb" size="131072" crc="51cbc329" md5="5250fed11e225294133d65f56e013060" sha1="ff45ad139cb61013cddae7e1f841addfe7fc1cbf" sha256="96367a9239b31080fa65da90cb51d85bd70cc9be98d849c849d826d74450deda"/>
 	</game>
 	<game name="Lasama Chuanqi - Story of Lasama (Taiwan) (Unl)" id="1871">
 		<description>Lasama Chuanqi - Story of Lasama (Taiwan) (Unl)</description>
@@ -5528,6 +5578,11 @@
 		<description>My Husband is a WITCH (World) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="My Husband is a WITCH (World) (v1.1) (Aftermarket) (Unl).gb" size="262144" crc="68801328" md5="a379bbfbec2845fff956c18f9b743ee5" sha1="3b45dc8b655b688832a6b217c5cbc93a7a9f70cd" sha256="3de6c733930360daa046003c0b54b3aa9d1fea760f26bb64aba1e4efa1b988a1"/>
 	</game>
+	<game name="My Pet Avocado (World) (Aftermarket) (Unl)" id="2652">
+		<category>Games</category>
+		<description>My Pet Avocado (World) (Aftermarket) (Unl)</description>
+		<rom name="My Pet Avocado (World) (Aftermarket) (Unl).gb" size="262144" crc="efdeffe7" md5="9a4342720141b2064fa21374b253c5be" sha1="3779083c34474818859dce1f5207426392aa0f24" sha256="ee713ab7931bf373950ab0dd435be76a51b2975e9690a4af13403ca99b27eddd"/>
+	</game>
 	<game name="My World (World) (Aftermarket) (Unl)" id="2352">
 		<category>Games</category>
 		<description>My World (World) (Aftermarket) (Unl)</description>
@@ -6251,9 +6306,9 @@
 		<description>Paperboy (USA, Europe)</description>
 		<rom name="Paperboy (USA, Europe).gb" size="65536" crc="46de32ba" md5="dcabc0879c258e54048237d280ffa7da" sha1="4103b51bbd75572181d407821890f167462a996b" sha256="a08126e93954d5fb59b5555219715d39b67846668cfdaddf97c42ca072fe5462" status="verified"/>
 	</game>
-	<game name="Paperboy 2 (USA, Europe)" id="0976">
-		<description>Paperboy 2 (USA, Europe)</description>
-		<rom name="Paperboy 2 (USA, Europe).gb" size="262144" crc="8ee404ca" md5="86e22a57cf0055f858acc9a4062ebc30" sha1="473d84e2bfdb2dc2615b2ea416188c62fedb4ecf" sha256="5c357df199e755eae719588a3424d49bc5212289922f11968e47954276941d6a"/>
+	<game name="Paperboy 2 (World)" id="0976">
+		<description>Paperboy 2 (World)</description>
+		<rom name="Paperboy 2 (World).gb" size="262144" crc="8ee404ca" md5="86e22a57cf0055f858acc9a4062ebc30" sha1="473d84e2bfdb2dc2615b2ea416188c62fedb4ecf" sha256="5c357df199e755eae719588a3424d49bc5212289922f11968e47954276941d6a" status="verified"/>
 	</game>
 	<game name="Paramo Yermo (World) (Aftermarket) (Unl)" id="2643">
 		<description>Paramo Yermo (World) (Aftermarket) (Unl)</description>
@@ -7928,7 +7983,7 @@
 	<game name="Snow Bros. Jr. (World) (En) (Limited Run Games)" id="2512" cloneofid="1226">
 		<category>Games</category>
 		<description>Snow Bros. Jr. (World) (En) (Limited Run Games)</description>
-		<rom name="Snow Bros. Jr. (World) (En) (Limited Run Games).gb" size="262144" crc="fa136a45" md5="c465c2a8ae70b4be0e8b5cc0e3d60318" sha1="9d1bdca56968907feda94310775e212935d7112f" sha256="e8cb81170a62cabf476d684f73ba910af351703344604ad423f9f0b25c639b4e"/>
+		<rom name="Snow Bros. Jr. (World) (En) (Limited Run Games).gb" size="262144" crc="fa136a45" md5="c465c2a8ae70b4be0e8b5cc0e3d60318" sha1="9d1bdca56968907feda94310775e212935d7112f" sha256="e8cb81170a62cabf476d684f73ba910af351703344604ad423f9f0b25c639b4e" status="verified"/>
 	</game>
 	<game name="Snow Bros. Jr. (World) (Ja) (Limited Run Games)" id="2513" cloneofid="1226">
 		<category>Games</category>
@@ -9440,6 +9495,11 @@
 		<description>Uno 2 - Small World (Japan) (SGB Enhanced)</description>
 		<rom name="Uno 2 - Small World (Japan) (SGB Enhanced).gb" size="131072" crc="a7ad65ef" md5="82d3fade3edbdd033752b8c1dd72481b" sha1="d2d281da240779a3605356513132687a485c0b39" sha256="88773be9e71529b35ce03d39f417e866f48df97cdfb894943f729dab7beefb90"/>
 	</game>
+	<game name="Until You Remember (World) (Aftermarket) (Unl)" id="2659">
+		<category>Games</category>
+		<description>Until You Remember (World) (Aftermarket) (Unl)</description>
+		<rom name="Until You Remember (World) (Aftermarket) (Unl).gb" size="2097152" crc="f7fb2aa6" md5="a0bab9a7092a779c4541402ffef2f89f" sha1="ed95d653ae28c0032529c46995c70ad6996dcab7" sha256="44b5fdcfd9efd636f2fbb38fc16c57bb19f0736acaeb769db1d328f504cc60cd"/>
+	</game>
 	<game name="Uoozu (Japan)" id="1466" cloneofid="0391">
 		<description>Uoozu (Japan)</description>
 		<rom name="Uoozu (Japan).gb" size="65536" crc="f7e1c9c5" md5="e0e45a92aaf878544de84ef4867b8595" sha1="d1b466b5a46de120d18309efade02d1745760d70" sha256="2cbf2197e8bd3231418fc75ccaf9422e9aa2576dbaa4989857689e482de3167e"/>
@@ -9727,10 +9787,10 @@
 		<description>Worms (Europe)</description>
 		<rom name="Worms (Europe).gb" size="262144" crc="2ebc40c2" md5="45dcc259728a00118fe86f841d48564f" sha1="26137ca97b840c63a462bcf85677a5f3db67fadf" sha256="f4917d6b080a0775b955eed5157be273855913d115cd72f388f7068cad07627a" status="verified"/>
 	</game>
-	<game name="Worms (World) (Limited Run Games) [UNDUMPED]" id="1849" cloneofid="1513">
+	<game name="Worms (World) (Limited Run Games)" id="1849" cloneofid="1513">
 		<category>Games</category>
-		<description>Worms (World) (Limited Run Games) [UNDUMPED]</description>
-		<rom name="Worms (World) (Limited Run Games) [UNDUMPED]" status="nodump"/>
+		<description>Worms (World) (Limited Run Games)</description>
+		<rom name="Worms (World) (Limited Run Games).gb" size="262144" crc="d71704dc" md5="a2fe1d8d644bbad02913c810dc67e216" sha1="8282ac3c13876fa4bfddd290903cfcb1fcca9a59" sha256="93065f76a88ba3d58a52367b787333da258313a1d7d8fb2ee961da62c5ed50f8"/>
 	</game>
 	<game name="WWF King of the Ring (Japan) (En)" id="1514" cloneofid="1515">
 		<category>Games</category>

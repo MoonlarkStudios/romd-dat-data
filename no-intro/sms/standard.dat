@@ -4,7 +4,7 @@
 		<id>26</id>
 		<name>Sega - Master System - Mark III</name>
 		<description>Sega - Master System - Mark III</description>
-		<version>20261013-064924</version>
+		<version>20261121-041132</version>
 		<author>1988reload, Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, ChuckD, fuzzball, Gefflon, gigadeath, Goratrix, Hiccup, kazumi213, nnssxx, NovaAurora, omonim2007, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, TeamEurope, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -57,21 +57,21 @@
 		<description>[BIOS] Sega Master System (USA) (M404) (Proto)</description>
 		<rom name="[BIOS] Sega Master System (USA) (M404) (Proto).sms" size="8192" crc="1a15dfcc" md5="3153447d155fb8bfc66a4d1c41e399b9" sha1="4a06c8e66261611dce0305217c42138b71331701" sha256="2a4371fadb9da65037ccd622adb77fc4c6e9a993ed2034e0e08bc320b4e9b41f"/>
 	</game>
-	<game name="[BIOS] Sega Master System (USA) (Proto)" id="xB11" cloneofid="xB06">
-		<category>Preproduction</category>
+	<game name="[BIOS] Sega Master System (USA) (Store Display Unit)" id="xB08" cloneofid="xB06">
 		<category>Miscellaneous</category>
-		<description>[BIOS] Sega Master System (USA) (Proto)</description>
-		<rom name="[BIOS] Sega Master System (USA) (Proto).sms" size="8192" crc="72bec693" md5="626b3453613e43d5a47908a8944ba583" sha1="29091ff60ef4c22b1ee17aa21e0e75bac6b36474" sha256="cb01de3464797a77b52e82f5f9b05398540df8c1151d31128d49584028589062"/>
+		<description>[BIOS] Sega Master System (USA) (Store Display Unit)</description>
+		<rom name="[BIOS] Sega Master System (USA) (Store Display Unit).sms" size="16384" crc="ee2c29ba" md5="b264bef9bda264ffe83afcebac21b81f" sha1="fc465122134d95363112eb51b9ab71db3576cefd" sha256="6f4e6de10f1d07bda695c629c67457bb0248eeb8ffa0c61a2742b8529274de30" status="verified"/>
 	</game>
 	<game name="[BIOS] Sega Master System (USA, Europe) (v1.3)" id="xB09" cloneofid="xB06">
 		<category>Miscellaneous</category>
 		<description>[BIOS] Sega Master System (USA, Europe) (v1.3)</description>
 		<rom name="[BIOS] Sega Master System (USA, Europe) (v1.3).sms" size="8192" crc="0072ed54" md5="840481177270d5642a14ca71ee72844c" sha1="c315672807d8ddb8d91443729405c766dd95cae7" sha256="477617917a12a30f9f43844909dc2de6e6a617430f5c9a36306c86414a670d50" status="verified"/>
 	</game>
-	<game name="[BIOS] Sega Master System (USA) (Store Display Unit)" id="xB08" cloneofid="xB06">
+	<game name="[BIOS] Sega Master System (USA) (Proto)" id="xB11" cloneofid="xB06">
+		<category>Preproduction</category>
 		<category>Miscellaneous</category>
-		<description>[BIOS] Sega Master System (USA) (Store Display Unit)</description>
-		<rom name="[BIOS] Sega Master System (USA) (Store Display Unit).sms" size="16384" crc="ee2c29ba" md5="b264bef9bda264ffe83afcebac21b81f" sha1="fc465122134d95363112eb51b9ab71db3576cefd" sha256="6f4e6de10f1d07bda695c629c67457bb0248eeb8ffa0c61a2742b8529274de30" status="verified"/>
+		<description>[BIOS] Sega Master System (USA) (Proto)</description>
+		<rom name="[BIOS] Sega Master System (USA) (Proto).sms" size="8192" crc="72bec693" md5="626b3453613e43d5a47908a8944ba583" sha1="29091ff60ef4c22b1ee17aa21e0e75bac6b36474" sha256="cb01de3464797a77b52e82f5f9b05398540df8c1151d31128d49584028589062"/>
 	</game>
 	<game name="[BIOS] Sega Master System (Europe) (v2.0)" id="xB12" cloneofid="xB06">
 		<category>Miscellaneous</category>
@@ -256,21 +256,21 @@
 		<description>Action Boy (Taiwan) (En) (Unl)</description>
 		<rom name="Action Boy (Taiwan) (En) (Unl).sms" size="32768" crc="d0263024" md5="dbd16d4ea69660f973f38893800c8620" sha1="11cb726c497482895f4f6f6b424615fe52f18a18" sha256="5a6bbed02a0de6147362f69a03b5b64528df209562016aab23dcf96574e7917c"/>
 	</game>
-	<game name="Action Fighter (Japan, Europe) (En) (Beta)" id="0584" cloneofid="0004">
+	<game name="Action Fighter (Japan, Europe) (En)" id="0003" cloneofid="0004">
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Action Fighter (Japan, Europe) (En) (Beta)</description>
-		<rom name="Action Fighter (Japan, Europe) (En) (Beta).sms" size="131072" crc="e2d765ad" md5="43fcbf765f04f76a20dfe336164c5293" sha1="88fe2ee194981c82b5db2a9166dd97a8edb6d852" sha256="806763f5c9b324d6ea520a3f7dab6ff51962887c3f2afcf5a850e8d58081fa90"/>
+		<description>Action Fighter (Japan, Europe) (En)</description>
+		<rom name="Action Fighter (Japan, Europe) (En).sms" size="131072" crc="d91b340d" md5="7e08a9854d61fece23d3c4a39539f4e9" sha1="5dbcfb75958f4cfa1b61d9ea114bab67787b113e" sha256="f248feada2f107923f3a90b0f9e59e1faf27f4108fa67fb3c0c8a988bfea4a8f" status="verified"/>
 	</game>
 	<game name="Action Fighter (USA, Europe, Brazil) (En) (Rev 1)" id="0004">
 		<category>Games</category>
 		<description>Action Fighter (USA, Europe, Brazil) (En) (Rev 1)</description>
 		<rom name="Action Fighter (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="3658f3e0" md5="47d736575f9a22f7490d62c76ed7c933" sha1="b462246fed3cbb9dc3909a2d5befaec65d7a0014" sha256="fe687923698a9c96729ac25f404535dd9036e3951c60c032919c3977308e9a48" status="verified"/>
 	</game>
-	<game name="Action Fighter (Japan, Europe) (En)" id="0003" cloneofid="0004">
+	<game name="Action Fighter (Japan, Europe) (En) (Beta)" id="0584" cloneofid="0004">
 		<category>Games</category>
-		<description>Action Fighter (Japan, Europe) (En)</description>
-		<rom name="Action Fighter (Japan, Europe) (En).sms" size="131072" crc="d91b340d" md5="7e08a9854d61fece23d3c4a39539f4e9" sha1="5dbcfb75958f4cfa1b61d9ea114bab67787b113e" sha256="f248feada2f107923f3a90b0f9e59e1faf27f4108fa67fb3c0c8a988bfea4a8f" status="verified"/>
+		<category>Preproduction</category>
+		<description>Action Fighter (Japan, Europe) (En) (Beta)</description>
+		<rom name="Action Fighter (Japan, Europe) (En) (Beta).sms" size="131072" crc="e2d765ad" md5="43fcbf765f04f76a20dfe336164c5293" sha1="88fe2ee194981c82b5db2a9166dd97a8edb6d852" sha256="806763f5c9b324d6ea520a3f7dab6ff51962887c3f2afcf5a850e8d58081fa90"/>
 	</game>
 	<game name="Action Fighter (Taiwan) (En) (Unl)" id="0589" cloneofid="0004">
 		<category>Games</category>
@@ -456,6 +456,11 @@
 		<description>Alien Storm (Europe, Brazil) (En)</description>
 		<rom name="Alien Storm (Europe, Brazil) (En).sms" size="262144" crc="7f30f793" md5="c60380642a89805f569124a875248d71" sha1="aece64ecbfbe08b199b29df9bc75743773ea3d34" sha256="6ce161836437106b3cef1e0e71e4045b97f4f2aeb851e9106a99751aba0abcc8" status="verified"/>
 	</game>
+	<game name="Alien Syndrome (Japan) (En)" id="0021" cloneofid="0022">
+		<category>Games</category>
+		<description>Alien Syndrome (Japan) (En)</description>
+		<rom name="Alien Syndrome (Japan) (En).sms" size="262144" crc="4cc11df9" md5="c352bd773dc9cd909a8c1707ccb54d40" sha1="5d786476b275de34efb95f576dd556cf4b335a83" sha256="b87ef7a23c392ab4b046854ced6a48d1a7b2244f643214b759e305db793f480a" status="verified"/>
+	</game>
 	<game name="Alien Syndrome (USA, Europe, Brazil) (En)" id="0022">
 		<category>Games</category>
 		<description>Alien Syndrome (USA, Europe, Brazil) (En)</description>
@@ -467,11 +472,6 @@
 		<description>Alien Syndrome (USA, Europe, Brazil) (En) (Beta)</description>
 		<rom name="Alien Syndrome (USA, Europe, Brazil) (En) (Beta).sms" size="262144" crc="c148868c" md5="9c0685bf5beba41be63c1ebf619d0cfd" sha1="dddee03096314881d53946051ece26db0dd742e0" sha256="72f48607e6cfcb0c05814b9a43bbe865b5e2f24721203df367e862ec55ee1ca3"/>
 	</game>
-	<game name="Alien Syndrome (Japan) (En)" id="0021" cloneofid="0022">
-		<category>Games</category>
-		<description>Alien Syndrome (Japan) (En)</description>
-		<rom name="Alien Syndrome (Japan) (En).sms" size="262144" crc="4cc11df9" md5="c352bd773dc9cd909a8c1707ccb54d40" sha1="5d786476b275de34efb95f576dd556cf4b335a83" sha256="b87ef7a23c392ab4b046854ced6a48d1a7b2244f643214b759e305db793f480a" status="verified"/>
-	</game>
 	<game name="Alocos (Taiwan) (En) (Unl)" id="0632" cloneofid="0031">
 		<category>Games</category>
 		<description>Alocos (Taiwan) (En) (Unl)</description>
@@ -482,15 +482,15 @@
 		<description>Alter Ego (World) (v1.04) (Aftermarket) (Unl)</description>
 		<rom name="Alter Ego (World) (v1.04) (Aftermarket) (Unl).sms" size="98304" crc="b32d09fc" md5="2e0825b1fe2d0f028d90c36b987f39c1" sha1="ef00f10a1b83698da35b52344eed19821c237c6f" sha256="23c8e0f0c97d832f74da9f9b65ca232abd9a566cc20c09ed619e75fba3bbc551"/>
 	</game>
-	<game name="Altered Beast (Taiwan) (En) (Unl)" id="1275" cloneofid="0023">
-		<category>Games</category>
-		<description>Altered Beast (Taiwan) (En) (Unl)</description>
-		<rom name="Altered Beast (Taiwan) (En) (Unl).sms" size="262144" crc="90d5f16b" md5="c06b26132998f8f0f405642060070d63" sha1="223662f5fa6e373c60268adbf543a2a875a4435e" sha256="6ef1222cb4793bb36159eb89053151e6b9ae8951ad2cd332d348636f858dd9c2"/>
-	</game>
 	<game name="Altered Beast (USA, Europe, Brazil) (En)" id="0023">
 		<category>Games</category>
 		<description>Altered Beast (USA, Europe, Brazil) (En)</description>
 		<rom name="Altered Beast (USA, Europe, Brazil) (En).sms" size="262144" crc="bba2fe98" md5="24618ca4a223a36d2bfda10f42454687" sha1="413986f174799f094a8dd776d91dcf018ee17290" sha256="2cdc32e0d63a429394b6219e24fb71f7611236c01fe38bcc45dbee9b83ce295d" status="verified"/>
+	</game>
+	<game name="Altered Beast (Taiwan) (En) (Unl)" id="1275" cloneofid="0023">
+		<category>Games</category>
+		<description>Altered Beast (Taiwan) (En) (Unl)</description>
+		<rom name="Altered Beast (Taiwan) (En) (Unl).sms" size="262144" crc="90d5f16b" md5="c06b26132998f8f0f405642060070d63" sha1="223662f5fa6e373c60268adbf543a2a875a4435e" sha256="6ef1222cb4793bb36159eb89053151e6b9ae8951ad2cd332d348636f858dd9c2"/>
 	</game>
 	<game name="American Baseball (Europe, Brazil) (En)" id="0024">
 		<category>Games</category>
@@ -614,25 +614,25 @@
 		<description>Ascend (World) (Aftermarket) (Unl)</description>
 		<rom name="Ascend (World) (Aftermarket) (Unl).sms" size="14122" crc="ffa79dc0" md5="c0d01c630945842f4d9f05c848223984" sha1="ace9eae888ef57f740e45be2d535dd61aea27fdb" sha256="09119e94dad152d21c69cb32175f8a39b8deabd31f95549ce6dca0c26a702c4f"/>
 	</game>
-	<game name="Ashura (Taiwan) (En) (Unl)" id="1276" cloneofid="0317">
-		<category>Games</category>
-		<description>Ashura (Taiwan) (En) (Unl)</description>
-		<rom name="Ashura (Taiwan) (En) (Unl).sms" size="131072" crc="ace7ef28" md5="45d2ecd2c3cfcaad93fc9cfba75c904f" sha1="380b70c5dacba3a233897e7f84d0916ce6baa085" sha256="3cd7aa2ce4d284d7762f154d148139088de9212476c096a50403dfc64f482ad4"/>
-	</game>
 	<game name="Ashura (Japan) (En)" id="0033" cloneofid="0317">
 		<category>Games</category>
 		<description>Ashura (Japan) (En)</description>
 		<rom name="Ashura (Japan) (En).sms" size="131072" crc="ae705699" md5="e5693a4806de29ea9b1e1b5fea1a9566" sha1="e9f90d63320295e4bd9a87e6078186c5efb7e84e" sha256="e16820dfd23f18d4dbb794596ac6c6fa46edb883ceb827f2a244ae41388b665e" status="verified"/>
 	</game>
-	<game name="Assault City (Europe, Brazil) (En) (Light Phaser)" id="0035">
+	<game name="Ashura (Taiwan) (En) (Unl)" id="1276" cloneofid="0317">
 		<category>Games</category>
-		<description>Assault City (Europe, Brazil) (En) (Light Phaser)</description>
-		<rom name="Assault City (Europe, Brazil) (En) (Light Phaser).sms" size="262144" crc="861b6e79" md5="4354119b151d9129d31918865db9b1c9" sha1="835217550ecb92422d887a3353ff43890c71566b" sha256="f92d56b05dc02eb3f3bef2f18b04639a53e01f513bf705ea8426718363afd0fb" status="verified"/>
+		<description>Ashura (Taiwan) (En) (Unl)</description>
+		<rom name="Ashura (Taiwan) (En) (Unl).sms" size="131072" crc="ace7ef28" md5="45d2ecd2c3cfcaad93fc9cfba75c904f" sha1="380b70c5dacba3a233897e7f84d0916ce6baa085" sha256="3cd7aa2ce4d284d7762f154d148139088de9212476c096a50403dfc64f482ad4"/>
 	</game>
 	<game name="Assault City (Europe) (Joypad)" id="0034" cloneofid="0035">
 		<category>Games</category>
 		<description>Assault City (Europe) (Joypad)</description>
 		<rom name="Assault City (Europe) (Joypad).sms" size="262144" crc="0bd8da96" md5="b13632f6e0e0b495aae726aec9ba66d0" sha1="ea46350ce4827b282b73600a7f4feadbec7c0ed4" sha256="81a59238f622faa4db6de975da7c22962ec7284e28ea16730f40bea0cd656a61" status="verified"/>
+	</game>
+	<game name="Assault City (Europe, Brazil) (En) (Light Phaser)" id="0035">
+		<category>Games</category>
+		<description>Assault City (Europe, Brazil) (En) (Light Phaser)</description>
+		<rom name="Assault City (Europe, Brazil) (En) (Light Phaser).sms" size="262144" crc="861b6e79" md5="4354119b151d9129d31918865db9b1c9" sha1="835217550ecb92422d887a3353ff43890c71566b" sha256="f92d56b05dc02eb3f3bef2f18b04639a53e01f513bf705ea8426718363afd0fb" status="verified"/>
 	</game>
 	<game name="Asterix (Europe, Brazil) (En,Fr)" id="0036" cloneofid="0037">
 		<category>Games</category>
@@ -849,16 +849,16 @@
 		<description>Battle City (World) (v1.2) (Aftermarket) (Unl)</description>
 		<rom name="Battle City (World) (v1.2) (Aftermarket) (Unl).sms" size="114688" crc="26eaf600" md5="85ee4e836de0de55032ca59b16f21ac7" sha1="d68fab81327836b64e1fc3f199733dc2aa53cd53" sha256="0e6cbb99dbcc151fe9670d87acd62d7b794060ff9c9f64fe09b126c57d32e55b"/>
 	</game>
+	<game name="Battle Out Run (Europe, Brazil) (En)" id="0051">
+		<category>Games</category>
+		<description>Battle Out Run (Europe, Brazil) (En)</description>
+		<rom name="Battle Out Run (Europe, Brazil) (En).sms" size="262144" crc="c19430ce" md5="83609eb760c3af64915fd6e73ee7d99e" sha1="cfa8721d4fc71b1f14e9a06f2db715a6f88be7dd" sha256="478a931997ade2a6f487a181a9d527cecf4668b0129ae55f634347f5186a160d" status="verified"/>
+	</game>
 	<game name="Battle Out Run (Europe, Brazil) (En) (Beta)" id="1167" cloneofid="0051">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Battle Out Run (Europe, Brazil) (En) (Beta)</description>
 		<rom name="Battle Out Run (Europe, Brazil) (En) (Beta).sms" size="262144" crc="bad0c760" md5="03e71c9101206491d62ab1bd2a636163" sha1="46ffe9775be819b46fcc910d4159ff60bf3db857" sha256="b5717f0a8138a307cded5e3c8f8fb58b41b3cbda66f2ecfd28cacedd53210809"/>
-	</game>
-	<game name="Battle Out Run (Europe, Brazil) (En)" id="0051">
-		<category>Games</category>
-		<description>Battle Out Run (Europe, Brazil) (En)</description>
-		<rom name="Battle Out Run (Europe, Brazil) (En).sms" size="262144" crc="c19430ce" md5="83609eb760c3af64915fd6e73ee7d99e" sha1="cfa8721d4fc71b1f14e9a06f2db715a6f88be7dd" sha256="478a931997ade2a6f487a181a9d527cecf4668b0129ae55f634347f5186a160d" status="verified"/>
 	</game>
 	<game name="Battle Wings (World) (Beta)" id="0624" cloneofid="0055">
 		<category>Games</category>
@@ -932,17 +932,17 @@
 		<description>Black Castle (World) (Aftermarket) (Unl)</description>
 		<rom name="Black Castle (World) (Aftermarket) (Unl).sms" size="65536" crc="aac28a8d" md5="d4e85e2cf7c4df540350b5f15fae9fdf" sha1="2a67eb12c9adb4d4da3e8f8b55639ddcbbde354d" sha256="918ad84e51ca88bb2fba195fee0991e074723505e4b47a9248f24ede4da11644"/>
 	</game>
-	<game name="Blade Eagle (World) (Beta 2)" id="1098" cloneofid="0054">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Blade Eagle (World) (Beta 2)</description>
-		<rom name="Blade Eagle (World) (Beta 2).sms" size="262144" crc="c127cc9c" md5="794f9cf59415986f4a8fed27299b3a9f" sha1="85a9662ea0feda492e91e5069941eadc0efaed91" sha256="5e67e02bed0274de7967282007548f44aa9b4d5a1a8988b513b996c9217544aa"/>
-	</game>
 	<game name="Blade Eagle (World) (Beta 1)" id="0503" cloneofid="0054">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Blade Eagle (World) (Beta 1)</description>
 		<rom name="Blade Eagle (World) (Beta 1).sms" size="262144" crc="58d5fc48" md5="f83a306d39c35b6f127a531cd62036ae" sha1="9cdfda85b4fa4e689617d8bcbdd6478b19d215ca" sha256="e102f8b92808f2473428d887cd024e8da554540a2c908da5037fcbc345776f69"/>
+	</game>
+	<game name="Blade Eagle (World) (Beta 2)" id="1098" cloneofid="0054">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Blade Eagle (World) (Beta 2)</description>
+		<rom name="Blade Eagle (World) (Beta 2).sms" size="262144" crc="c127cc9c" md5="794f9cf59415986f4a8fed27299b3a9f" sha1="85a9662ea0feda492e91e5069941eadc0efaed91" sha256="5e67e02bed0274de7967282007548f44aa9b4d5a1a8988b513b996c9217544aa"/>
 	</game>
 	<game name="Blade Eagle 3-D (World)" id="0054">
 		<category>Games</category>
@@ -1266,6 +1266,11 @@
 		<description>Canyon Racer (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Canyon Racer (World) (Proto) (Aftermarket) (Unl).sms" size="7626" crc="eead16c7" md5="cbfcf7cd0c2905c66a99f557ca99e195" sha1="09e537f2d84d09df9610ad3fd592ae2093a624c2" sha256="efe7dbc0cc5d4b0acbe7a171e36866b5396faf0eb56041b786bf6fdd3f2a36c6"/>
 	</game>
+	<game name="Captain Silver (Japan, Europe, Brazil) (En)" id="0063">
+		<category>Games</category>
+		<description>Captain Silver (Japan, Europe, Brazil) (En)</description>
+		<rom name="Captain Silver (Japan, Europe, Brazil) (En).sms" size="262144" crc="a4852757" md5="ccb76c009e52e32e2dcc528481f0e039" sha1="88402392e93b220632a61e0c07731a7ed087cbef" sha256="925d9933b7565e0010111983cc68513a911269a88b602c27ed3d8b9486ccd647" status="verified"/>
+	</game>
 	<game name="Captain Silver (USA)" id="0064" cloneofid="0063">
 		<category>Games</category>
 		<description>Captain Silver (USA)</description>
@@ -1276,11 +1281,6 @@
 		<category>Preproduction</category>
 		<description>Captain Silver (USA) (Beta)</description>
 		<rom name="Captain Silver (USA) (Beta).sms" size="131072" crc="2532a7cd" md5="5354634ec062d48a14beae9dd3061000" sha1="e128c74fd5f0f1ad2f34d408feedff2bfe1adc71" sha256="2c6e4dbee03621a0991657cb11c6c33193c6883f79be2a7d5ba82c96a3df3865" status="verified"/>
-	</game>
-	<game name="Captain Silver (Japan, Europe, Brazil) (En)" id="0063">
-		<category>Games</category>
-		<description>Captain Silver (Japan, Europe, Brazil) (En)</description>
-		<rom name="Captain Silver (Japan, Europe, Brazil) (En).sms" size="262144" crc="a4852757" md5="ccb76c009e52e32e2dcc528481f0e039" sha1="88402392e93b220632a61e0c07731a7ed087cbef" sha256="925d9933b7565e0010111983cc68513a911269a88b602c27ed3d8b9486ccd647" status="verified"/>
 	</game>
 	<game name="Cardiac Arrest (World) (Aftermarket) (Unl)" id="0844">
 		<category>Games</category>
@@ -1313,12 +1313,6 @@
 		<description>Castle Escape (World) (v2.1.1) (Aftermarket) (Unl)</description>
 		<rom name="Castle Escape (World) (v2.1.1) (Aftermarket) (Unl).sms" size="65536" crc="43fc61d5" md5="ab6c307fd4a192f3623804d59ee3aff4" sha1="49d1162d93e1e05c9dd519fd19918d2dd55b0936" sha256="20d425f016c0ae5908b0564c5a0f59c6fb4f6f1ca1b2cc0b5a4e7c65fb25ad2e"/>
 	</game>
-	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)" id="0504" cloneofid="0067">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)</description>
-		<rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo).sms" size="131072" crc="ee0f98ca" md5="a3818e4e501b3cfb8423aeb024b795e4" sha1="3346343184d4f1b846e9567af918ccb2bd7660ce" sha256="c0246ff3421ddfd8db92e852db65419dee3054d4b46dc97bb2c00223a4b5e601"/>
-	</game>
 	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)" id="0067">
 		<category>Games</category>
 		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)</description>
@@ -1328,6 +1322,12 @@
 		<category>Games</category>
 		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)</description>
 		<rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).sms" size="262144" crc="b9db4282" md5="e9b4b92bc29ca8fbe9978da6720bd1eb" sha1="c31d80429801e8c927cb0536d66a16d51788ff4f" sha256="d2b6c4794562cf4b97c0f5e24a2f3a561fe8c75bda16d28ff40222f3a22e63f8" status="verified"/>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)" id="0504" cloneofid="0067">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo)</description>
+		<rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo).sms" size="131072" crc="ee0f98ca" md5="a3818e4e501b3cfb8423aeb024b795e4" sha1="3346343184d4f1b846e9567af918ccb2bd7660ce" sha256="c0246ff3421ddfd8db92e852db65419dee3054d4b46dc97bb2c00223a4b5e601"/>
 	</game>
 	<game name="Castlevania (World) (Demo) (Aftermarket) (Unl)" id="1269">
 		<category>Demos</category>
@@ -1405,6 +1405,12 @@
 		<description>Chicken Crossing (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Chicken Crossing (World) (Proto) (Aftermarket) (Unl).sms" size="32768" crc="4413576f" md5="9e22254f5d59e1e1789d5b94595b88b3" sha1="1e4e9f6e42a3688dc63951b792afa19f155c1132" sha256="d3376fdfee73ff9e7b2cd7c9f208c5f03d7b7394463a8fb44c06342abcdb6a62"/>
 	</game>
+	<game name="Choplifter (Japan) (En) (Proto)" id="0073" cloneofid="0074">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Choplifter (Japan) (En) (Proto)</description>
+		<rom name="Choplifter (Japan) (En) (Proto).sms" size="131072" crc="16ec3575" md5="ba1b60b6d1fecf87e00cf0f4a2f19f54" sha1="c8e87b309bbae6af7cf05602ffbd28f9495c83d8" sha256="46573e962d0ab4d1210bdae74352f33ac205c5f054fd633320459d4dbab43131"/>
+	</game>
 	<game name="Choplifter (USA, Europe, Brazil) (En)" id="0074">
 		<category>Games</category>
 		<description>Choplifter (USA, Europe, Brazil) (En)</description>
@@ -1415,12 +1421,6 @@
 		<category>Preproduction</category>
 		<description>Choplifter (USA, Europe, Brazil) (En) (Beta)</description>
 		<rom name="Choplifter (USA, Europe, Brazil) (En) (Beta).sms" size="131072" crc="fd981232" md5="b556297e5ba2b95ed3f3a76a47402e1a" sha1="95d8f826248118afb9265c05c476709731015d12" sha256="a2ca6d8d190188224c1c7b7497126e033b7b0ab1df08b1fed2e4a2f6dabb2f79"/>
-	</game>
-	<game name="Choplifter (Japan) (En) (Proto)" id="0073" cloneofid="0074">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Choplifter (Japan) (En) (Proto)</description>
-		<rom name="Choplifter (Japan) (En) (Proto).sms" size="131072" crc="16ec3575" md5="ba1b60b6d1fecf87e00cf0f4a2f19f54" sha1="c8e87b309bbae6af7cf05602ffbd28f9495c83d8" sha256="46573e962d0ab4d1210bdae74352f33ac205c5f054fd633320459d4dbab43131"/>
 	</game>
 	<game name="Choplifter (Taiwan) (En) (Unl)" id="0731" cloneofid="0074">
 		<category>Games</category>
@@ -1536,26 +1536,26 @@
 		<description>Colossal Cave Adventure - SAM Edition (World) (Proto 1) (Aftermarket) (Unl)</description>
 		<rom name="Colossal Cave Adventure - SAM Edition (World) (Proto 1) (Aftermarket) (Unl).sms" size="524288" crc="b86b2f33" md5="c26bd7bc57b4574594b88b57ccbb7653" sha1="d747fe5f009286c9e5973fbde5796a14906d5420" sha256="1445680c8ad60551be14273dacbb50efb45b582e67f88044428f9bbe9e5db912"/>
 	</game>
+	<game name="Columns (USA, Europe, Brazil) (En)" id="0082">
+		<category>Games</category>
+		<description>Columns (USA, Europe, Brazil) (En)</description>
+		<rom name="Columns (USA, Europe, Brazil) (En).sms" size="131072" crc="665fda92" md5="d443d521036d527d35926809f230106c" sha1="3d16b0954b5419b071de270b44d38fc6570a8439" sha256="4c0fc3e6cbaff5ae9e7bc1cef9af86d9cac4c039c60d7d03269bfcb0e9136727" status="verified"/>
+	</game>
 	<game name="Columns (USA, Europe, Brazil) (En) (Beta)" id="0532" cloneofid="0082">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Columns (USA, Europe, Brazil) (En) (Beta)</description>
 		<rom name="Columns (USA, Europe, Brazil) (En) (Beta).sms" size="131072" crc="3fb40043" md5="22619be5f41cf6f76c4ccefbc82d0967" sha1="c41bbfe7c20b1c582d43c16671829b9be703a3de" sha256="ea473e52d904933cc80fb717a03532b817a788f0756a1d5b7ac83557ea5c1969"/>
 	</game>
-	<game name="Columns (USA, Europe, Brazil) (En)" id="0082">
+	<game name="Comical Machine Gun Joe (Japan) (En)" id="0083">
 		<category>Games</category>
-		<description>Columns (USA, Europe, Brazil) (En)</description>
-		<rom name="Columns (USA, Europe, Brazil) (En).sms" size="131072" crc="665fda92" md5="d443d521036d527d35926809f230106c" sha1="3d16b0954b5419b071de270b44d38fc6570a8439" sha256="4c0fc3e6cbaff5ae9e7bc1cef9af86d9cac4c039c60d7d03269bfcb0e9136727" status="verified"/>
+		<description>Comical Machine Gun Joe (Japan) (En)</description>
+		<rom name="Comical Machine Gun Joe (Japan) (En).sms" size="32768" crc="9d549e08" md5="2d59b3d27f022b04a597e767e6660ca9" sha1="33c21d164fd3cdf7aa9e7e0fe1a3ae5a491bd9f5" sha256="ea9c74555e551974a681296c41972c1f6ddd7289fed5502f64e35b8527b6dde4" status="verified"/>
 	</game>
 	<game name="Comical Machine Gun Joe (Taiwan) (En) (Unl)" id="0556" cloneofid="0083">
 		<category>Games</category>
 		<description>Comical Machine Gun Joe (Taiwan) (En) (Unl)</description>
 		<rom name="Comical Machine Gun Joe (Taiwan) (En) (Unl).sms" size="32768" crc="84ad5ae4" md5="231f10776d2683afe576c8f72a03ec71" sha1="b39b09f86b275612f6444247ff253f2620a36ef3" sha256="1392d77a7a524ae8b75d80b0793ca3ba2144d1c666e499dbc3aeed8893a28b78"/>
-	</game>
-	<game name="Comical Machine Gun Joe (Japan) (En)" id="0083">
-		<category>Games</category>
-		<description>Comical Machine Gun Joe (Japan) (En)</description>
-		<rom name="Comical Machine Gun Joe (Japan) (En).sms" size="32768" crc="9d549e08" md5="2d59b3d27f022b04a597e767e6660ca9" sha1="33c21d164fd3cdf7aa9e7e0fe1a3ae5a491bd9f5" sha256="ea9c74555e551974a681296c41972c1f6ddd7289fed5502f64e35b8527b6dde4" status="verified"/>
 	</game>
 	<game name="Comical Machine Gun Joe (Korea) (En) (Unl)" id="0594" cloneofid="0083">
 		<category>Games</category>
@@ -1688,16 +1688,16 @@
 		<description>CWP (World) (v1.2) (Aftermarket) (Unl)</description>
 		<rom name="CWP (World) (v1.2) (Aftermarket) (Unl).sms" size="32768" crc="8f0e826a" md5="b70ee2113120da2d89980da6c1214398" sha1="417b032a87d995f7053f87c6661bc88b73fc0d6a" sha256="606fdde40672b4bd313929ab7e63714653a0ea86160a167ffc60850460505a0a"/>
 	</game>
+	<game name="Cyber Shinobi, The (Europe, Brazil) (En)" id="0086">
+		<category>Games</category>
+		<description>Cyber Shinobi, The (Europe, Brazil) (En)</description>
+		<rom name="Cyber Shinobi, The (Europe, Brazil) (En).sms" size="262144" crc="1350e4f8" md5="9878c298077be78b765ac2264815100b" sha1="991803feb42a6f0f93ac0e97854132736def2933" sha256="edb29432af461e1ae02eba9e27bf51bd7bbd0e39e9b4c01dac650ac8fce266c8" status="verified"/>
+	</game>
 	<game name="Cyber Shinobi, The (Europe, Brazil) (En) (Beta)" id="0539" cloneofid="0086">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Cyber Shinobi, The (Europe, Brazil) (En) (Beta)</description>
 		<rom name="Cyber Shinobi, The (Europe, Brazil) (En) (Beta).sms" size="131072" crc="dac00a3a" md5="4fd1e417d6f7eb6d52c655791cfa7c5d" sha1="2ac3c0a9bc4028e5e2491e132b75652348308187" sha256="350178b31f6745ed4e6c2a2548d5b7e82234a3fd6699011bf28b8628f0f1f4e0"/>
-	</game>
-	<game name="Cyber Shinobi, The (Europe, Brazil) (En)" id="0086">
-		<category>Games</category>
-		<description>Cyber Shinobi, The (Europe, Brazil) (En)</description>
-		<rom name="Cyber Shinobi, The (Europe, Brazil) (En).sms" size="262144" crc="1350e4f8" md5="9878c298077be78b765ac2264815100b" sha1="991803feb42a6f0f93ac0e97854132736def2933" sha256="edb29432af461e1ae02eba9e27bf51bd7bbd0e39e9b4c01dac650ac8fce266c8" status="verified"/>
 	</game>
 	<game name="Cyber Shinobi, The (Taiwan) (En) (Unl)" id="0636" cloneofid="0086">
 		<category>Games</category>
@@ -1897,17 +1897,17 @@
 		<description>Do the Same (World) (Demo 3) (Aftermarket) (Unl)</description>
 		<rom name="Do the Same (World) (Demo 3) (Aftermarket) (Unl).sms" size="49152" crc="01e68ff7" md5="1a4d90a5a03fcc8b6aaec39b1bdf8aa5" sha1="57819cf5adfd6baa7a8eb57179ea9ed321295bfc" sha256="40e5260ad2aca948c2ad1f2c0a62def9bfd74934bf43802c0745238d6d89b12f"/>
 	</game>
-	<game name="Do the Same (World) (Demo 1) (Aftermarket) (Unl)" id="0883" cloneofid="1101">
-		<category>Demos</category>
-		<category>Games</category>
-		<description>Do the Same (World) (Demo 1) (Aftermarket) (Unl)</description>
-		<rom name="Do the Same (World) (Demo 1) (Aftermarket) (Unl).sms" size="49152" crc="a6bd2c06" md5="ee328169e0bdef2b790d1c68c527bc20" sha1="c1e30542e8542fd544bb9fac25876851b7feab2f" sha256="0b5d8aa8d95bd1407eaf397d92ab004a3fa1e395bb882022a88863874e6507e4"/>
-	</game>
 	<game name="Do the Same (World) (Demo 2) (Aftermarket) (Unl)" id="0882" cloneofid="1101">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Do the Same (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Do the Same (World) (Demo 2) (Aftermarket) (Unl).sms" size="49152" crc="3e03d019" md5="213a7bfb21a91652e6027d7ef949d6fd" sha1="619d404472085f73425f4f2de41d78bccc1ae88a" sha256="708440bcad79e3828fb0091f120584a02e1b5de12735861c9ba0afc34db16e26"/>
+	</game>
+	<game name="Do the Same (World) (Demo 1) (Aftermarket) (Unl)" id="0883" cloneofid="1101">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Do the Same (World) (Demo 1) (Aftermarket) (Unl)</description>
+		<rom name="Do the Same (World) (Demo 1) (Aftermarket) (Unl).sms" size="49152" crc="a6bd2c06" md5="ee328169e0bdef2b790d1c68c527bc20" sha1="c1e30542e8542fd544bb9fac25876851b7feab2f" sha256="0b5d8aa8d95bd1407eaf397d92ab004a3fa1e395bb882022a88863874e6507e4"/>
 	</game>
 	<game name="Do the Same (World) (Demo 5) (Aftermarket) (Unl)" id="1101">
 		<category>Demos</category>
@@ -1915,16 +1915,16 @@
 		<description>Do the Same (World) (Demo 5) (Aftermarket) (Unl)</description>
 		<rom name="Do the Same (World) (Demo 5) (Aftermarket) (Unl).sms" size="98304" crc="c8c3c5f8" md5="925586acc6312424dcc6d168f6ebfea4" sha1="5614fbabb8ea8a623bbe835d1ea7a0a8e47d0bce" sha256="a1544d141ad65a871032d0dbd60aec522429e011cf2f6aae60e71d5e2936e941"/>
 	</game>
+	<game name="Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)" id="0098" cloneofid="0266">
+		<category>Games</category>
+		<description>Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)</description>
+		<rom name="Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En).sms" size="131072" crc="2bcdb8fa" md5="ff7502dd8a717db5adb42c711ddbc9f5" sha1="c01cf44eee335d509dc20a165add8514e7fbb7c4" sha256="c87ec8b700e53c5944e04b68a195e844276ac3b4996bac72ae73cea4c615e006" status="verified"/>
+	</game>
 	<game name="Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En) (Beta)" id="0506" cloneofid="0266">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En) (Beta)</description>
 		<rom name="Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En) (Beta).sms" size="131072" crc="56bd2455" md5="cd2ff7b97934e966836faa6092c7b735" sha1="c56417efd78a332a35e4d0e87c7b13c20da85391" sha256="ae0097d29437ea0a1363411acc1fe6dc4a241220093e77855dc3499a34f4320f"/>
-	</game>
-	<game name="Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)" id="0098" cloneofid="0266">
-		<category>Games</category>
-		<description>Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En)</description>
-		<rom name="Doki Doki Penguin Land - Uchuu Daibouken (Japan) (En).sms" size="131072" crc="2bcdb8fa" md5="ff7502dd8a717db5adb42c711ddbc9f5" sha1="c01cf44eee335d509dc20a165add8514e7fbb7c4" sha256="c87ec8b700e53c5944e04b68a195e844276ac3b4996bac72ae73cea4c615e006" status="verified"/>
 	</game>
 	<game name="Domino (Brazil) (Mega Drive 4)" id="0742">
 		<category>Games</category>
@@ -2089,16 +2089,21 @@
 		<description>Dynamite Headdy (Brazil) (En)</description>
 		<rom name="Dynamite Headdy (Brazil) (En).sms" size="524288" crc="7db5b0fa" md5="7f57481d870465fc3a6412d87f0a8e38" sha1="12877c1c9bfba6462606717cf0a94f700ac970e4" sha256="866da1c6b5931900e97808e9239f31eebb2a1a2a69b276254a49d3acef0de962" status="verified"/>
 	</game>
+	<game name="E-SWAT (USA, Europe, Brazil) (En)" id="0108" cloneofid="0109">
+		<category>Games</category>
+		<description>E-SWAT (USA, Europe, Brazil) (En)</description>
+		<rom name="E-SWAT (USA, Europe, Brazil) (En).sms" size="262144" crc="c4bb1676" md5="de328cde27324c8d591f740db0cb2866" sha1="075297d2f3a8ec4c399eaeab6b60e246e11b41fe" sha256="884564b0937565596046b2b59b966b004df1bb7fd9278452c06a8578f22b4fa4" status="verified"/>
+	</game>
 	<game name="E-SWAT (USA, Europe, Brazil) (En) (Rev A)" id="0109">
 		<category>Games</category>
 		<description>E-SWAT (USA, Europe, Brazil) (En) (Rev A)</description>
 		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Rev A).sms" size="262144" crc="c10fce39" md5="36a5339cef97d0a5757db4fd81b4abf3" sha1="c481b4e5ca136fbb4105ae465259125392faffd3" sha256="03b91479edb1b542debdacc757a2837f060431f2f0349e3729597992794601e9" status="verified"/>
 	</game>
-	<game name="E-SWAT (USA, Europe, Brazil) (En) (Beta 3)" id="0588" cloneofid="0109">
+	<game name="E-SWAT (USA, Europe, Brazil) (En) (Beta 1)" id="0586" cloneofid="0109">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>E-SWAT (USA, Europe, Brazil) (En) (Beta 3)</description>
-		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Beta 3).sms" size="262144" crc="fd91cc7e" md5="37083a8d3ead6b5be8dd138de1c4166e" sha1="63fa1fcbf941b0e0ce601b3094c6c31f997c95d8" sha256="4b99cb8fb7d605bd48cf8acfcc06bcd3b52a9117d9b1d47989044bc05c1343e8"/>
+		<description>E-SWAT (USA, Europe, Brazil) (En) (Beta 1)</description>
+		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Beta 1).sms" size="262144" crc="4f20694a" md5="f81a3f6375fe5ca9e969d3bad90bd242" sha1="855c2f54b700663cedd6484aab396d849dcb5290" sha256="ae16c2089d777e5a5225f92a19da880ce3acd28405d98964bc8e4b58d577e8a3"/>
 	</game>
 	<game name="E-SWAT (USA, Europe, Brazil) (En) (Beta 2)" id="0587" cloneofid="0109">
 		<category>Games</category>
@@ -2106,16 +2111,11 @@
 		<description>E-SWAT (USA, Europe, Brazil) (En) (Beta 2)</description>
 		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Beta 2).sms" size="262144" crc="f7ca9801" md5="5bd644ec21c7c2c5995cfaef0727383f" sha1="12c5005f8a0d78c75704b61bf87961875b9d29d4" sha256="136ca2ee3088a98b6c19ba847ff115ca7308078b2a09198edae7b3efdb6b0051"/>
 	</game>
-	<game name="E-SWAT (USA, Europe, Brazil) (En)" id="0108" cloneofid="0109">
-		<category>Games</category>
-		<description>E-SWAT (USA, Europe, Brazil) (En)</description>
-		<rom name="E-SWAT (USA, Europe, Brazil) (En).sms" size="262144" crc="c4bb1676" md5="de328cde27324c8d591f740db0cb2866" sha1="075297d2f3a8ec4c399eaeab6b60e246e11b41fe" sha256="884564b0937565596046b2b59b966b004df1bb7fd9278452c06a8578f22b4fa4" status="verified"/>
-	</game>
-	<game name="E-SWAT (USA, Europe, Brazil) (En) (Beta 1)" id="0586" cloneofid="0109">
+	<game name="E-SWAT (USA, Europe, Brazil) (En) (Beta 3)" id="0588" cloneofid="0109">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>E-SWAT (USA, Europe, Brazil) (En) (Beta 1)</description>
-		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Beta 1).sms" size="262144" crc="4f20694a" md5="f81a3f6375fe5ca9e969d3bad90bd242" sha1="855c2f54b700663cedd6484aab396d849dcb5290" sha256="ae16c2089d777e5a5225f92a19da880ce3acd28405d98964bc8e4b58d577e8a3"/>
+		<description>E-SWAT (USA, Europe, Brazil) (En) (Beta 3)</description>
+		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Beta 3).sms" size="262144" crc="fd91cc7e" md5="37083a8d3ead6b5be8dd138de1c4166e" sha1="63fa1fcbf941b0e0ce601b3094c6c31f997c95d8" sha256="4b99cb8fb7d605bd48cf8acfcc06bcd3b52a9117d9b1d47989044bc05c1343e8"/>
 	</game>
 	<game name="E.I. - Exa Innova (Korea) (En) (Unl)" id="0568">
 		<category>Games</category>
@@ -2160,15 +2160,15 @@
 		<description>Electronic Dreams (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Electronic Dreams (World) (Proto) (Aftermarket) (Unl).sms" size="458752" crc="7d49f141" md5="04eb130a547aed7abe7bc94c31491450" sha1="7320db867d51e9868a0813768b37e512b5d455c4" sha256="59fc7fb9f3f773c1a46e74afa72566a6ff6fc3a0bfd30eeecb9617cc6b966648"/>
 	</game>
-	<game name="Enduro Racer (USA, Europe, Brazil) (En)" id="0114">
-		<category>Games</category>
-		<description>Enduro Racer (USA, Europe, Brazil) (En)</description>
-		<rom name="Enduro Racer (USA, Europe, Brazil) (En).sms" size="131072" crc="00e73541" md5="06779a1a9dbada60efb1f37e37040a5b" sha1="10dc132166c1aa47ca7b89fbb1f0a4e56b428359" sha256="e7c2955e5f1aea0cd5d97aed133e96fcc260e3dc5152bc3e12d93da28752d646" status="verified"/>
-	</game>
 	<game name="Enduro Racer (Japan) (En)" id="0113" cloneofid="0114">
 		<category>Games</category>
 		<description>Enduro Racer (Japan) (En)</description>
 		<rom name="Enduro Racer (Japan) (En).sms" size="262144" crc="5d5c50b3" md5="a94de92b078911e71c246679c8992da1" sha1="7a0216af8d4a5aeda1d42e2703f140d08b3f92f6" sha256="0a0987679d6e008ac0a0808fe4f567e6a35022948476def2c359dbb0c54711d8" status="verified"/>
+	</game>
+	<game name="Enduro Racer (USA, Europe, Brazil) (En)" id="0114">
+		<category>Games</category>
+		<description>Enduro Racer (USA, Europe, Brazil) (En)</description>
+		<rom name="Enduro Racer (USA, Europe, Brazil) (En).sms" size="131072" crc="00e73541" md5="06779a1a9dbada60efb1f37e37040a5b" sha1="10dc132166c1aa47ca7b89fbb1f0a4e56b428359" sha256="e7c2955e5f1aea0cd5d97aed133e96fcc260e3dc5152bc3e12d93da28752d646" status="verified"/>
 	</game>
 	<game name="Escape from Monster Dimension (World) (Proto) (Aftermarket) (Unl)" id="1148">
 		<category>Games</category>
@@ -2216,15 +2216,15 @@
 		<description>F-16 Fighting Falcon (Japan) (En)</description>
 		<rom name="F-16 Fighting Falcon (Japan) (En).sms" size="32768" crc="7ce06fce" md5="60e4b9cf6c000eb3af97e758413ce99f" sha1="0f60f545ce99366860a94fbb115ce7d8531ab7ba" sha256="323508f3ce8360e41f86291563c38eaee7305e07c8b53986422d6ca3e0ba90a0" status="verified"/>
 	</game>
-	<game name="F-16 Fighting Falcon (Taiwan) (En) (Unl)" id="0557" cloneofid="0116">
-		<category>Games</category>
-		<description>F-16 Fighting Falcon (Taiwan) (En) (Unl)</description>
-		<rom name="F-16 Fighting Falcon (Taiwan) (En) (Unl).sms" size="32768" crc="c4c53226" md5="87b1292308a3867ef340351c1836825f" sha1="9a6c70c1cb18d34e39f4037a555759ce97c6eeef" sha256="06f5c8e70c521b34e31feb3f0c64abbce31e3d8b7e6e9bbf47b7e4f6bbca2162" status="verified"/>
-	</game>
 	<game name="F-16 Fighting Falcon (USA)" id="0118" cloneofid="0116">
 		<category>Games</category>
 		<description>F-16 Fighting Falcon (USA)</description>
 		<rom name="F-16 Fighting Falcon (USA).sms" size="32768" crc="184c23b7" md5="9d10a4032eb53337b08c9a709144799e" sha1="a8f083b3db721b672b5b023d673a64577cb48ef3" sha256="65d8add3df3c9b15a3133d46a81dd5728b8b5d822f81ba9a13468221517a5fc3" status="verified"/>
+	</game>
+	<game name="F-16 Fighting Falcon (Taiwan) (En) (Unl)" id="0557" cloneofid="0116">
+		<category>Games</category>
+		<description>F-16 Fighting Falcon (Taiwan) (En) (Unl)</description>
+		<rom name="F-16 Fighting Falcon (Taiwan) (En) (Unl).sms" size="32768" crc="c4c53226" md5="87b1292308a3867ef340351c1836825f" sha1="9a6c70c1cb18d34e39f4037a555759ce97c6eeef" sha256="06f5c8e70c521b34e31feb3f0c64abbce31e3d8b7e6e9bbf47b7e4f6bbca2162" status="verified"/>
 	</game>
 	<game name="F1 (Europe, Brazil) (En)" id="0119">
 		<category>Games</category>
@@ -2277,15 +2277,15 @@
 		<description>Fantasy Zone (World) (Beta)</description>
 		<rom name="Fantasy Zone (World) (Beta).sms" size="131072" crc="f46264fe" md5="59a7ce6a0fabc2e4182bc9313f12367a" sha1="b46cb68c330dad61cd2a2ef1f5f5480af303816a" sha256="e3901bfa09ad15069b901f54fe8d27f1a93f5147ec7166c4ff20778881105d32" status="verified"/>
 	</game>
-	<game name="Fantasy Zone (Taiwan) (En) (Unl)" id="0558" cloneofid="0124">
-		<category>Games</category>
-		<description>Fantasy Zone (Taiwan) (En) (Unl)</description>
-		<rom name="Fantasy Zone (Taiwan) (En) (Unl).sms" size="131072" crc="5fd48352" md5="e4497d344386a9fe0826e6d166e0f2b3" sha1="5162cd4923cdcad66fee0aa18d5e63fcf5259c00" sha256="69698d5daf754a4b1bfb718c7245236e100d58fd1e7adf511dff2ee9025f1894"/>
-	</game>
 	<game name="Fantasy Zone (World) (Rev 1)" id="0124">
 		<category>Games</category>
 		<description>Fantasy Zone (World) (Rev 1)</description>
 		<rom name="Fantasy Zone (World) (Rev 1).sms" size="131072" crc="65d7e4e0" md5="fed8690ee5fb895c09caa8e2b879ebd6" sha1="0278cd120dc3a7707eda9314c46c7f27f9e8fdda" sha256="d529aa91cc0e540c4e3afdf8d946c02cb80765d280286da0a4e2125e2c443311" status="verified"/>
+	</game>
+	<game name="Fantasy Zone (Taiwan) (En) (Unl)" id="0558" cloneofid="0124">
+		<category>Games</category>
+		<description>Fantasy Zone (Taiwan) (En) (Unl)</description>
+		<rom name="Fantasy Zone (Taiwan) (En) (Unl).sms" size="131072" crc="5fd48352" md5="e4497d344386a9fe0826e6d166e0f2b3" sha1="5162cd4923cdcad66fee0aa18d5e63fcf5259c00" sha256="69698d5daf754a4b1bfb718c7245236e100d58fd1e7adf511dff2ee9025f1894"/>
 	</game>
 	<game name="Fantasy Zone (World) (Sega 3D Classics) (FM Music)" id="1279" cloneofid="0124">
 		<category>Games</category>
@@ -2628,15 +2628,15 @@
 		<description>Geraldinho (Brazil) (En)</description>
 		<rom name="Geraldinho (Brazil) (En).sms" size="32768" crc="956c416b" md5="a7f7d8b8d3394d41430b8240151f91f6" sha1="d82145b582e21ae5cb562030b5042ec85d440add" sha256="44002f8f42b96bca0950e9279aa9ba592e2fbc193ea72e765cb2a30b628acae9"/>
 	</game>
-	<game name="Ghost House (USA, Europe, Brazil) (En)" id="0149">
-		<category>Games</category>
-		<description>Ghost House (USA, Europe, Brazil) (En)</description>
-		<rom name="Ghost House (USA, Europe, Brazil) (En).sms" size="32768" crc="f1f8ff2d" md5="580adb73aecd35348862fb6ed43ae956" sha1="cbce4c5d819be524f874ec9b60ca9442047a6681" sha256="b5f3496cf6b81d7f691f9221a429a12a03465bba88f6be209d106d30b23d0120" status="verified"/>
-	</game>
 	<game name="Ghost House (Japan) (En)" id="0148" cloneofid="0149">
 		<category>Games</category>
 		<description>Ghost House (Japan) (En)</description>
 		<rom name="Ghost House (Japan) (En).sms" size="32768" crc="c0f3ce7e" md5="89028bfb152a553adf25668649d39ca6" sha1="051e74c499c6792f891668a7be23a11c2c4087af" sha256="c01f783f10fd4350816932e367bc9439b47e2ee1034a3179dcd93d660deecf43" status="verified"/>
+	</game>
+	<game name="Ghost House (USA, Europe, Brazil) (En)" id="0149">
+		<category>Games</category>
+		<description>Ghost House (USA, Europe, Brazil) (En)</description>
+		<rom name="Ghost House (USA, Europe, Brazil) (En).sms" size="32768" crc="f1f8ff2d" md5="580adb73aecd35348862fb6ed43ae956" sha1="cbce4c5d819be524f874ec9b60ca9442047a6681" sha256="b5f3496cf6b81d7f691f9221a429a12a03465bba88f6be209d106d30b23d0120" status="verified"/>
 	</game>
 	<game name="Ghost House (USA, Europe, Brazil) (En) (Beta)" id="0150" cloneofid="0149">
 		<category>Games</category>
@@ -2649,15 +2649,15 @@
 		<description>Ghostbusters (USA, Europe, Brazil) (En)</description>
 		<rom name="Ghostbusters (USA, Europe, Brazil) (En).sms" size="131072" crc="1ddc3059" md5="dbae1ad6d3917a95b96d28bfc6f3f90a" sha1="8945a9dfc99a2081a6fb74bbabf8feaac83a7e1a" sha256="1fa94a8ba45284ba5098c8afd4eeadb712f2dba42973a59a19c1ca29925aba43" status="verified"/>
 	</game>
-	<game name="Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)" id="0527" cloneofid="0152">
-		<category>Demos</category>
-		<description>Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)</description>
-		<rom name="Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo).sms" size="131072" crc="38418b1c" md5="adcd19e4f83a473bc12aa2843ead8548" sha1="773925b2ef0582b1a8cfcdb1e05adb6558cb45c1" sha256="04f72883ed2b402d83e6feb3df51d5fd0714c41d0b7ac1427c7e7ac81f386330"/>
-	</game>
 	<game name="Ghouls'n Ghosts (USA, Europe, Brazil) (En)" id="0152">
 		<category>Games</category>
 		<description>Ghouls'n Ghosts (USA, Europe, Brazil) (En)</description>
 		<rom name="Ghouls'n Ghosts (USA, Europe, Brazil) (En).sms" size="262144" crc="7a92eba6" md5="85707b3a74483910699ccc4ba20c64ff" sha1="b193e624795b2beb741249981d621cb650c658db" sha256="d5730a00b6f54aa7a68d815db358f82aa4e8b45dd3bc8712b4f1de18658b8ffe" status="verified"/>
+	</game>
+	<game name="Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)" id="0527" cloneofid="0152">
+		<category>Demos</category>
+		<description>Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo)</description>
+		<rom name="Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo).sms" size="131072" crc="38418b1c" md5="adcd19e4f83a473bc12aa2843ead8548" sha1="773925b2ef0582b1a8cfcdb1e05adb6558cb45c1" sha256="04f72883ed2b402d83e6feb3df51d5fd0714c41d0b7ac1427c7e7ac81f386330"/>
 	</game>
 	<game name="Global Defense (USA, Europe, Brazil) (En)" id="0153">
 		<category>Games</category>
@@ -2715,16 +2715,16 @@
 		<description>Golden Axe Warrior (USA, Europe, Brazil) (En)</description>
 		<rom name="Golden Axe Warrior (USA, Europe, Brazil) (En).sms" size="262144" crc="c7ded988" md5="d46e40bbb729ba233f171ad7bf6169f5" sha1="fbda0486b393708a89756bb57d116ad6007484e4" sha256="164223b3c2e0e081f7908a6a6828b23f0e75934f215e98b1094958bb96ec51a4" status="verified"/>
 	</game>
+	<game name="Golfamania (Europe, Brazil) (En)" id="0158">
+		<category>Games</category>
+		<description>Golfamania (Europe, Brazil) (En)</description>
+		<rom name="Golfamania (Europe, Brazil) (En).sms" size="262144" crc="48651325" md5="5554f9f67103e0d5b1a4075a2d26d15b" sha1="d0b964dd7cd8ccdd730de4d8e4bb2e87bea7686e" sha256="932a7d945822091219532b78cd34d976bb67d74c0c08fd844e1b88cf831af32b" status="verified"/>
+	</game>
 	<game name="Golfamania (Europe, Brazil) (En) (Beta)" id="0159" cloneofid="0158">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Golfamania (Europe, Brazil) (En) (Beta)</description>
 		<rom name="Golfamania (Europe, Brazil) (En) (Beta).sms" size="262144" crc="5dabfdc3" md5="1fa330a17df19820f4c8e0230d3cfbe2" sha1="da88dc3e84daa2f8b8d803b00a13b5fb3185d8c5" sha256="0cb234b25e3ec2c35f9a94c07f1cb8ce1d3be33a97426a387d5812b36fa428c4"/>
-	</game>
-	<game name="Golfamania (Europe, Brazil) (En)" id="0158">
-		<category>Games</category>
-		<description>Golfamania (Europe, Brazil) (En)</description>
-		<rom name="Golfamania (Europe, Brazil) (En).sms" size="262144" crc="48651325" md5="5554f9f67103e0d5b1a4075a2d26d15b" sha1="d0b964dd7cd8ccdd730de4d8e4bb2e87bea7686e" sha256="932a7d945822091219532b78cd34d976bb67d74c0c08fd844e1b88cf831af32b" status="verified"/>
 	</game>
 	<game name="Golvellius - Valley of Doom (USA, Europe, Brazil) (En)" id="0161">
 		<category>Games</category>
@@ -2835,15 +2835,15 @@
 		<description>Grazers (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Grazers (World) (Proto) (Aftermarket) (Unl).sms" size="32768" crc="8334b49f" md5="73631dfa0083d75665099854ef19f80f" sha1="6bc1b7dc68f464b2ed5880e31964802f2d4e1d3e" sha256="30913385f35163f2c1ae1c9050592f301c582cad1eddc83d27807c88fcc1ea98"/>
 	</game>
-	<game name="Great Baseball (USA, Europe)" id="0164">
-		<category>Games</category>
-		<description>Great Baseball (USA, Europe)</description>
-		<rom name="Great Baseball (USA, Europe).sms" size="131072" crc="10ed6b57" md5="1d126c6ac8e4d7b612e9db3d56d9e78e" sha1="b332344eb529bad29dfb582633e787f7e42f71ae" sha256="50b09ec7b01262c5b4e43c4238585582c8bdd65a35e90bf1af71584cd8fe2c6e" status="verified"/>
-	</game>
 	<game name="Great Baseball (Japan) (En)" id="0163">
 		<category>Games</category>
 		<description>Great Baseball (Japan) (En)</description>
 		<rom name="Great Baseball (Japan) (En).sms" size="32768" crc="89e98a7c" md5="94ca79d4eb2709ad98b850d33728a045" sha1="e6eaaec61bec32dee5161ae59a7a0902f0d05dc9" sha256="84a62928d7a231657db0a5d77efa77eebda9f5cbefb5d5a68af64af2ecdb88fd" status="verified"/>
+	</game>
+	<game name="Great Baseball (USA, Europe)" id="0164">
+		<category>Games</category>
+		<description>Great Baseball (USA, Europe)</description>
+		<rom name="Great Baseball (USA, Europe).sms" size="131072" crc="10ed6b57" md5="1d126c6ac8e4d7b612e9db3d56d9e78e" sha1="b332344eb529bad29dfb582633e787f7e42f71ae" sha256="50b09ec7b01262c5b4e43c4238585582c8bdd65a35e90bf1af71584cd8fe2c6e" status="verified"/>
 	</game>
 	<game name="Great Basketball (World)" id="0165">
 		<category>Games</category>
@@ -2855,10 +2855,10 @@
 		<description>Great Football (World)</description>
 		<rom name="Great Football (World).sms" size="131072" crc="2055825f" md5="2cf4d65cb09c276a96ad73e724fb825c" sha1="a768f44ce7e50083ffe8c4b5e3ac93ceb7bd3266" sha256="611265c10a80fe8ced49317ebdf787a03198209c830c68603a87fc2f518ef8ac" status="verified"/>
 	</game>
-	<game name="Great Golf (Korea) (En) (Unl)" id="0570" cloneofid="0167">
+	<game name="Great Golf (Japan) (En)" id="0167">
 		<category>Games</category>
-		<description>Great Golf (Korea) (En) (Unl)</description>
-		<rom name="Great Golf (Korea) (En) (Unl).sms" size="131072" crc="5def1bf5" md5="0a1d636538b18a9d160a45ece1512c73" sha1="89fe28e6e4402a3e0bf0f05eada03c92cee5a5e8" sha256="0589920fc7f5b2417a5fe034f11bcedcb79a9574727cee9f04fc25590d1c8c45"/>
+		<description>Great Golf (Japan) (En)</description>
+		<rom name="Great Golf (Japan) (En).sms" size="131072" crc="6586bd1f" md5="c0a9a2261ea7ef93bf8120f5328deaec" sha1="417739aa248032f5aebe05750a5de85346e36712" sha256="8c64f4c959962756ea5490ac1a0cf5330437cec2ea72dc925350b17948e3ebb9" status="verified"/>
 	</game>
 	<game name="Great Golf (World)" id="0168">
 		<category>Games</category>
@@ -2871,25 +2871,25 @@
 		<description>Great Golf (World) (Beta)</description>
 		<rom name="Great Golf (World) (Beta).sms" size="131072" crc="4847bc91" md5="9be0947196dce7060a6c72f47337cf73" sha1="ce0662179bb0ca4a6491ef2be8839168b993c04e" sha256="03f56e3315602e7ddb634f818f966604cb5f4724c76bc2240c62122822e1a191"/>
 	</game>
-	<game name="Great Golf (Japan) (En)" id="0167">
+	<game name="Great Golf (Korea) (En) (Unl)" id="0570" cloneofid="0167">
 		<category>Games</category>
-		<description>Great Golf (Japan) (En)</description>
-		<rom name="Great Golf (Japan) (En).sms" size="131072" crc="6586bd1f" md5="c0a9a2261ea7ef93bf8120f5328deaec" sha1="417739aa248032f5aebe05750a5de85346e36712" sha256="8c64f4c959962756ea5490ac1a0cf5330437cec2ea72dc925350b17948e3ebb9" status="verified"/>
+		<description>Great Golf (Korea) (En) (Unl)</description>
+		<rom name="Great Golf (Korea) (En) (Unl).sms" size="131072" crc="5def1bf5" md5="0a1d636538b18a9d160a45ece1512c73" sha1="89fe28e6e4402a3e0bf0f05eada03c92cee5a5e8" sha256="0589920fc7f5b2417a5fe034f11bcedcb79a9574727cee9f04fc25590d1c8c45"/>
 	</game>
 	<game name="Great Ice Hockey (Japan, USA) (En)" id="0170">
 		<category>Games</category>
 		<description>Great Ice Hockey (Japan, USA) (En)</description>
 		<rom name="Great Ice Hockey (Japan, USA) (En).sms" size="131072" crc="946b8c4a" md5="26621293a88d55fedaf71bb097c24653" sha1="a7b76be9d3ed5d6a94917e444a188767ede1cc79" sha256="4b8fe9cb1688c730807fbb68d2f2c135a3a64a6b668af4bca8fed2c3ed050fe1" status="verified"/>
 	</game>
-	<game name="Great Soccer (Japan) (En)" id="0172" cloneofid="0171">
-		<category>Games</category>
-		<description>Great Soccer (Japan) (En)</description>
-		<rom name="Great Soccer (Japan) (En).sms" size="32768" crc="2d7fd7ef" md5="0ed883302e87ca46c1c1a55660e17900" sha1="110536303b7bccc193bef4437ba5a9eb6fd4ac8e" sha256="b2a524164e1a0a264dc4ac7cb29742293b3384b9369e0ce0cf2ab5ca2b50a1cd" status="verified"/>
-	</game>
 	<game name="Great Soccer (Europe)" id="0171">
 		<category>Games</category>
 		<description>Great Soccer (Europe)</description>
 		<rom name="Great Soccer (Europe).sms" size="32768" crc="0ed170c9" md5="5c9815b45b5cb3d9b3436c56c6fcadaf" sha1="7d1a381be96474f18ba1dac8eaf6710010b0e481" sha256="75e4db5bd4e2454ca67e678cf1647362c68ee17682934335bd9f287d6989a110" status="verified"/>
+	</game>
+	<game name="Great Soccer (Japan) (En)" id="0172" cloneofid="0171">
+		<category>Games</category>
+		<description>Great Soccer (Japan) (En)</description>
+		<rom name="Great Soccer (Japan) (En).sms" size="32768" crc="2d7fd7ef" md5="0ed883302e87ca46c1c1a55660e17900" sha1="110536303b7bccc193bef4437ba5a9eb6fd4ac8e" sha256="b2a524164e1a0a264dc4ac7cb29742293b3384b9369e0ce0cf2ab5ca2b50a1cd" status="verified"/>
 	</game>
 	<game name="Great Soccer (Taiwan) (En) (Unl)" id="0559" cloneofid="0171">
 		<category>Games</category>
@@ -2968,16 +2968,16 @@
 		<description>Hang On &amp; Astro Warrior (USA)</description>
 		<rom name="Hang On &amp; Astro Warrior (USA).sms" size="131072" crc="1c5059f0" md5="3701cb59dfd137246d163462d18e8dd4" sha1="ae29f676846fc740a2cfc69756875b6480265f97" sha256="76ef716052831c7915efbc4e9b2c358b5f767807760531054531cdc994cad84a"/>
 	</game>
+	<game name="Hang On &amp; Safari Hunt (USA)" id="0178">
+		<category>Games</category>
+		<description>Hang On &amp; Safari Hunt (USA)</description>
+		<rom name="Hang On &amp; Safari Hunt (USA).sms" size="131072" crc="e167a561" md5="84284c327b07c200c16f4e13b2e8de79" sha1="7c741493889788d4511979bcaa3c48708d6240ed" sha256="6bd17ff5fb4c9cb0fbe8f07a3668b9613d2c30acd678b88b8e076ea71cb2e161" status="verified"/>
+	</game>
 	<game name="Hang On &amp; Safari Hunt (USA) (Beta)" id="0540" cloneofid="0178">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Hang On &amp; Safari Hunt (USA) (Beta)</description>
 		<rom name="Hang On &amp; Safari Hunt (USA) (Beta).sms" size="131072" crc="a120b77f" md5="16d870bf1a5a23a9f2993d8786f5bc74" sha1="7e0b0dc82c2a1d64d26ce525ec498a520d32cfa7" sha256="13575aca6038bca88b590d9be577fbae611477f29457ddc88a3ab4f948830886"/>
-	</game>
-	<game name="Hang On &amp; Safari Hunt (USA)" id="0178">
-		<category>Games</category>
-		<description>Hang On &amp; Safari Hunt (USA)</description>
-		<rom name="Hang On &amp; Safari Hunt (USA).sms" size="131072" crc="e167a561" md5="84284c327b07c200c16f4e13b2e8de79" sha1="7c741493889788d4511979bcaa3c48708d6240ed" sha256="6bd17ff5fb4c9cb0fbe8f07a3668b9613d2c30acd678b88b8e076ea71cb2e161" status="verified"/>
 	</game>
 	<game name="Have Pity on Me (World) (Proto) (Aftermarket) (Unl)" id="0928">
 		<category>Games</category>
@@ -3022,15 +3022,15 @@
 		<description>High School! Kimengumi (Japan)</description>
 		<rom name="High School! Kimengumi (Japan).sms" size="131072" crc="9eb1aa4f" md5="ab38b53584c89476cd4646105b16083a" sha1="d3c0aeeacccef77c45ab4219c7d6d8ed04d467cb" status="verified"/>
 	</game>
-	<game name="Hokuto no Ken (Taiwan) (Ja) (Unl)" id="0560" cloneofid="0053">
-		<category>Games</category>
-		<description>Hokuto no Ken (Taiwan) (Ja) (Unl)</description>
-		<rom name="Hokuto no Ken (Taiwan) (Ja) (Unl).sms" size="131072" crc="c4ab363d" md5="6024c42162c64c922e722547c6f4995f" sha1="a66f9373f75355855aac52fdc11d9ad887fd5556" sha256="1a82b8cc73a5601a31c75b29e9a2dd473a313411de2fae0f5e7bdc30ab06f864" status="verified"/>
-	</game>
 	<game name="Hokuto no Ken (Japan)" id="0184" cloneofid="0053">
 		<category>Games</category>
 		<description>Hokuto no Ken (Japan)</description>
 		<rom name="Hokuto no Ken (Japan).sms" size="131072" crc="24f5fe8c" md5="ddd6b56e864a7dfd74a9e04bc4407f41" sha1="26c5da3ee48bc0f8fd3d20f9408e584242edcd9d" sha256="a92f7a68fb5bd9835eeaacb6bb0682f9982ff946ac922345439022feda9b9b45" status="verified"/>
+	</game>
+	<game name="Hokuto no Ken (Taiwan) (Ja) (Unl)" id="0560" cloneofid="0053">
+		<category>Games</category>
+		<description>Hokuto no Ken (Taiwan) (Ja) (Unl)</description>
+		<rom name="Hokuto no Ken (Taiwan) (Ja) (Unl).sms" size="131072" crc="c4ab363d" md5="6024c42162c64c922e722547c6f4995f" sha1="a66f9373f75355855aac52fdc11d9ad887fd5556" sha256="1a82b8cc73a5601a31c75b29e9a2dd473a313411de2fae0f5e7bdc30ab06f864" status="verified"/>
 	</game>
 	<game name="Home Alone (Europe)" id="0185">
 		<category>Games</category>
@@ -3078,16 +3078,16 @@
 		<description>Impetus+ (World) (Aftermarket) (Unl)</description>
 		<rom name="Impetus+ (World) (Aftermarket) (Unl).sms" size="24576" crc="98e5dabf" md5="39c1ea7fe02e99104b29d9c8848f8461" sha1="926970ee19152dc2e116d39fd6703c51e10bcf5c" sha256="35a35431102550567755a69f42067401a0ba3c1f51823de1452d703ade9915b7"/>
 	</game>
+	<game name="Impossible Mission (Europe, Brazil) (En)" id="0188">
+		<category>Games</category>
+		<description>Impossible Mission (Europe, Brazil) (En)</description>
+		<rom name="Impossible Mission (Europe, Brazil) (En).sms" size="131072" crc="64d6af3b" md5="af51ab03a173dec28c9241532227cd64" sha1="d883f28e77e575edca6dcb1c4cd1f2b1f11393b2" sha256="98f987f5595da59aaff91b4d9ce0b6599245c1e0a52fee6923b3af50b6c2ad48" status="verified"/>
+	</game>
 	<game name="Impossible Mission (Europe, Brazil) (En) (Beta)" id="0501" cloneofid="0188">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Impossible Mission (Europe, Brazil) (En) (Beta)</description>
 		<rom name="Impossible Mission (Europe, Brazil) (En) (Beta).sms" size="131072" crc="71c4ca8f" md5="a26d40b6b7646c22d1f2db7f746f0391" sha1="9c6c28610603d05664d9ae44b62b5c1ac47f829c" sha256="671082a2855aa5b0453f259809d939729053e0ff00c920ed25f7fdb2d61d126e"/>
-	</game>
-	<game name="Impossible Mission (Europe, Brazil) (En)" id="0188">
-		<category>Games</category>
-		<description>Impossible Mission (Europe, Brazil) (En)</description>
-		<rom name="Impossible Mission (Europe, Brazil) (En).sms" size="131072" crc="64d6af3b" md5="af51ab03a173dec28c9241532227cd64" sha1="d883f28e77e575edca6dcb1c4cd1f2b1f11393b2" sha256="98f987f5595da59aaff91b4d9ce0b6599245c1e0a52fee6923b3af50b6c2ad48" status="verified"/>
 	</game>
 	<game name="Incredible Crash Dummies, The (Europe, Brazil) (En)" id="0189">
 		<category>Games</category>
@@ -3099,16 +3099,16 @@
 		<description>Incredible Hulk, The (Europe, Brazil) (En)</description>
 		<rom name="Incredible Hulk, The (Europe, Brazil) (En).sms" size="524288" crc="be9a7071" md5="285d996c1d7dbf38458df61c28bbaa01" sha1="235ad7d259023610d8aa59d066aaf0dba2ff8138" sha256="375e811aef7c4e11f030f6cd559bb912a6d278f8ab42ed044282707e6f6ed455" status="verified"/>
 	</game>
+	<game name="Indiana Jones and the Last Crusade (Europe, Brazil) (En)" id="0191">
+		<category>Games</category>
+		<description>Indiana Jones and the Last Crusade (Europe, Brazil) (En)</description>
+		<rom name="Indiana Jones and the Last Crusade (Europe, Brazil) (En).sms" size="262144" crc="8aeb574b" md5="e83f8c99882e2123bd344090421e84c3" sha1="68e23692a12628dde805ded9de356c5e19e4eba6" sha256="6358bcc192353dee9a99e46bf41ef383c9a5f407dea0b01309fcd5ed5201ea2d" status="verified"/>
+	</game>
 	<game name="Indiana Jones and the Last Crusade (USA) (Proto)" id="0502" cloneofid="0191">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Indiana Jones and the Last Crusade (USA) (Proto)</description>
 		<rom name="Indiana Jones and the Last Crusade (USA) (Proto).sms" size="262144" crc="acec894d" md5="d594821486699f366d385f74162be1c7" sha1="5f29a0fc637cf7bd175a3e7be720530bde23402e" sha256="ad5626ee7d70acc6292378291d3c2c308987fb1417ee64800e1b35333e9e3c03" status="verified"/>
-	</game>
-	<game name="Indiana Jones and the Last Crusade (Europe, Brazil) (En)" id="0191">
-		<category>Games</category>
-		<description>Indiana Jones and the Last Crusade (Europe, Brazil) (En)</description>
-		<rom name="Indiana Jones and the Last Crusade (Europe, Brazil) (En).sms" size="262144" crc="8aeb574b" md5="e83f8c99882e2123bd344090421e84c3" sha1="68e23692a12628dde805ded9de356c5e19e4eba6" sha256="6358bcc192353dee9a99e46bf41ef383c9a5f407dea0b01309fcd5ed5201ea2d" status="verified"/>
 	</game>
 	<game name="Io (World) (Proto 1) (Aftermarket) (Unl)" id="0932" cloneofid="1237">
 		<category>Games</category>
@@ -3132,16 +3132,16 @@
 		<description>Iron Man (World) (Other Control) (Aftermarket) (Unl)</description>
 		<rom name="Iron Man (World) (Other Control) (Aftermarket) (Unl).sms" size="507904" crc="2b8ae15d" md5="e5547ef64c39d4add2df78d3ab5c9b79" sha1="4ed8b9c3cdd3ab1ebeb869b64311a28e44d6abe7" sha256="b8ae4f6465288003267a64b0b8dbaf1cfaabc427194ec065f7d771fa255b2a7a"/>
 	</game>
+	<game name="James 'Buster' Douglas Knockout Boxing (USA)" id="0192" cloneofid="0146">
+		<category>Games</category>
+		<description>James 'Buster' Douglas Knockout Boxing (USA)</description>
+		<rom name="James 'Buster' Douglas Knockout Boxing (USA).sms" size="262144" crc="6a664405" md5="b3a4815ca9fdc900cf7fe6ad961f8125" sha1="b07000feb0c74824f2e3e74fd415631a8f3c4da6" sha256="c32a4fb3f02cad579d1493a11ea42e7865e48a6cc5b9093af071688b2884f7ba" status="verified"/>
+	</game>
 	<game name="James 'Buster' Douglas Knockout Boxing (USA) (Sample)" id="0534" cloneofid="0146">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>James 'Buster' Douglas Knockout Boxing (USA) (Sample)</description>
 		<rom name="James 'Buster' Douglas Knockout Boxing (USA) (Sample).sms" size="262144" crc="cfb4bd7b" md5="433fe61368cdf79c1b66cc84d0936599" sha1="d96c174e63393406d4b442e5796228eebb7deb93" sha256="5d26f6a625a929e9037d042645991d6db1e1572510c3d02c3eeb28d5407fa2ff"/>
-	</game>
-	<game name="James 'Buster' Douglas Knockout Boxing (USA)" id="0192" cloneofid="0146">
-		<category>Games</category>
-		<description>James 'Buster' Douglas Knockout Boxing (USA)</description>
-		<rom name="James 'Buster' Douglas Knockout Boxing (USA).sms" size="262144" crc="6a664405" md5="b3a4815ca9fdc900cf7fe6ad961f8125" sha1="b07000feb0c74824f2e3e74fd415631a8f3c4da6" sha256="c32a4fb3f02cad579d1493a11ea42e7865e48a6cc5b9093af071688b2884f7ba" status="verified"/>
 	</game>
 	<game name="James Bond 007 - The Duel (Brazil) (En)" id="0193" cloneofid="0194">
 		<category>Games</category>
@@ -3240,15 +3240,15 @@
 		<description>Jurl (World) (Proto 2) (Aftermarket) (Unl)</description>
 		<rom name="Jurl (World) (Proto 2) (Aftermarket) (Unl).sms" size="32768" crc="347fb7ab" md5="809609718d98cdcd01bcca3c3a2bce10" sha1="fcb3ab2ece748e1f49c5efdd35a5c7f016a9f9cf" sha256="157ee6fed34a246a698f01b6c69b9639ac3e47161e10d01cbb1ec7eaeb5a8a77"/>
 	</game>
-	<game name="Kenseiden (USA, Europe, Brazil) (En)" id="0201">
-		<category>Games</category>
-		<description>Kenseiden (USA, Europe, Brazil) (En)</description>
-		<rom name="Kenseiden (USA, Europe, Brazil) (En).sms" size="262144" crc="516ed32e" md5="6ae8f011701608ae8b765a26eb0b7ce1" sha1="3fce661d57e8bc764e7190ddbee4bf3d3e214c6c" sha256="1d28f2a3742ab6d4745af05f73119dfbadd6691c595c553455c0736e8e0dfa41" status="verified"/>
-	</game>
 	<game name="Kenseiden (Japan)" id="0200" cloneofid="0201">
 		<category>Games</category>
 		<description>Kenseiden (Japan)</description>
 		<rom name="Kenseiden (Japan).sms" size="262144" crc="05ea5353" md5="f4c3327b0f92e09b21f59e90fd273c2f" sha1="cd349833ff41821635c6242a0b8cef7e071103d5" sha256="7a9c056edfb1b973482430a41074b0b0a076ee4591d5df8f19007e7058cadc93" status="verified"/>
+	</game>
+	<game name="Kenseiden (USA, Europe, Brazil) (En)" id="0201">
+		<category>Games</category>
+		<description>Kenseiden (USA, Europe, Brazil) (En)</description>
+		<rom name="Kenseiden (USA, Europe, Brazil) (En).sms" size="262144" crc="516ed32e" md5="6ae8f011701608ae8b765a26eb0b7ce1" sha1="3fce661d57e8bc764e7190ddbee4bf3d3e214c6c" sha256="1d28f2a3742ab6d4745af05f73119dfbadd6691c595c553455c0736e8e0dfa41" status="verified"/>
 	</game>
 	<game name="King &amp; Balloon (Korea) (En) (Unl)" id="0573">
 		<category>Games</category>
@@ -3428,16 +3428,16 @@
 		<description>Legend of Illusion Starring Mickey Mouse (Brazil) (En)</description>
 		<rom name="Legend of Illusion Starring Mickey Mouse (Brazil) (En).sms" size="524288" crc="6350e649" md5="4a69a56a8efff7863feca11f1d6547e3" sha1="62adbd8e5a41d08c4745e9fbb1c51f0091c9dea6" sha256="1beb0979ad791f145fd0722b4bd81d73e56f2a481494f3255cb06bbfc8d2c41b" status="verified"/>
 	</game>
+	<game name="Lemmings (Europe, Brazil) (En)" id="0211">
+		<category>Games</category>
+		<description>Lemmings (Europe, Brazil) (En)</description>
+		<rom name="Lemmings (Europe, Brazil) (En).sms" size="262144" crc="f369b2d8" md5="b190f17a46ba9cc66676e7174209c24e" sha1="f3a853cce1249a0848bfc0344f3ee2db6efa4c01" sha256="0b7e8f3ecd357c8129a214ea9b5723c4191b9550a0e94b120f70954fd668ad0c" status="verified"/>
+	</game>
 	<game name="Lemmings (Europe, Brazil) (En) (Beta)" id="0212" cloneofid="0211">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Lemmings (Europe, Brazil) (En) (Beta)</description>
 		<rom name="Lemmings (Europe, Brazil) (En) (Beta).sms" size="262144" crc="2c61ed88" md5="5dba0a0dd0eeb52fe6d94dce47335a34" sha1="8d8692d363348f7c93f402c6485f5f831d1c8190" sha256="1dac33ffafaec903ce166ae571a8418e65c60ae6e2e520703647757a5b487c7d"/>
-	</game>
-	<game name="Lemmings (Europe, Brazil) (En)" id="0211">
-		<category>Games</category>
-		<description>Lemmings (Europe, Brazil) (En)</description>
-		<rom name="Lemmings (Europe, Brazil) (En).sms" size="262144" crc="f369b2d8" md5="b190f17a46ba9cc66676e7174209c24e" sha1="f3a853cce1249a0848bfc0344f3ee2db6efa4c01" sha256="0b7e8f3ecd357c8129a214ea9b5723c4191b9550a0e94b120f70954fd668ad0c" status="verified"/>
 	</game>
 	<game name="Lemmings 2 - The Tribes (Europe) (Proto)" id="0571">
 		<category>Games</category>
@@ -3543,16 +3543,16 @@
 		<description>Lunar Skirmish (World) (Proto) (Aftermarket) (Unl)</description>
 		<rom name="Lunar Skirmish (World) (Proto) (Aftermarket) (Unl).sms" size="425984" crc="461a369a" md5="bcbf294818d183f280aa48232ce3aa6a" sha1="308d70543a2e3a9fbaedb05ceda529b279e3550a" sha256="6180d7ea792c2be38fee1d3a31fb0d0d640f9ec2c60232cb603d7f24ed12c50a"/>
 	</game>
+	<game name="Mahjong Sengoku Jidai (Japan)" id="0220">
+		<category>Games</category>
+		<description>Mahjong Sengoku Jidai (Japan)</description>
+		<rom name="Mahjong Sengoku Jidai (Japan).sms" size="131072" crc="bcfbfc67" md5="ae37b27f37a25c5230f50e8b8d58eba2" sha1="9b7cd3a25b2a1fc880683dcdca81457c93d46de5" sha256="1e509296dc2d05826c9e63dcf17deb80e4cea9b860fd2bccf7fc25dd3cc99871" status="verified"/>
+	</game>
 	<game name="Mahjong Sengoku Jidai (Japan) (Beta)" id="0221" cloneofid="0220">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Mahjong Sengoku Jidai (Japan) (Beta)</description>
 		<rom name="Mahjong Sengoku Jidai (Japan) (Beta).sms" size="131072" crc="996b2a07" md5="19db67f87bb3d1d8efead0542de30cd1" sha1="169510c0575e4f53b9da8197fc48608993351182" sha256="32a9597cf2f0ac8955070840c96ba2154d1c0bc2f0847e9c89e844e7ec3b92df"/>
-	</game>
-	<game name="Mahjong Sengoku Jidai (Japan)" id="0220">
-		<category>Games</category>
-		<description>Mahjong Sengoku Jidai (Japan)</description>
-		<rom name="Mahjong Sengoku Jidai (Japan).sms" size="131072" crc="bcfbfc67" md5="ae37b27f37a25c5230f50e8b8d58eba2" sha1="9b7cd3a25b2a1fc880683dcdca81457c93d46de5" sha256="1e509296dc2d05826c9e63dcf17deb80e4cea9b860fd2bccf7fc25dd3cc99871" status="verified"/>
 	</game>
 	<game name="Mahjong Solitaire (World) (v1.05) (Aftermarket) (Unl)" id="0955" cloneofid="1232">
 		<category>Games</category>
@@ -3777,16 +3777,16 @@
 		<description>Mini MSX (World) (Aftermarket) (Unl)</description>
 		<rom name="Mini MSX (World) (Aftermarket) (Unl).sms" size="131072" crc="eb6c0944" md5="f8be953adda3e9088739b6086e3bf59d" sha1="b92e7a947734ed20efc1d2a8fbcc8983d24639c6" sha256="5217fa2b72820741df3450e34f389c5175e9415e3cde71e5b0dbbda0fc29eeb9"/>
 	</game>
+	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)" id="0236">
+		<category>Games</category>
+		<description>Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)</description>
+		<rom name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).sms" size="262144" crc="0e333b6e" md5="e0a9cf889c27f3cb14903288f646d183" sha1="f952406bca4918ee91a89b27e949e224eae96d85" sha256="4b350644d70f6aa429e0feb62d3bfac4a16b438d7fae621eae2813d51ef9f1aa" status="verified"/>
+	</game>
 	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta)" id="0448" cloneofid="0236">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta)</description>
 		<rom name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta).sms" size="262144" crc="301a59aa" md5="3f5d2ca45ccc205d18c8e3d1d9969f00" sha1="5f1cfc974a8ffc965f18216a89472fd1a980d7cb" sha256="a71fa30c6c522eeaa5be7646e98d477fc4cbdfc034a54551c4117acd13b3e803" status="verified"/>
-	</game>
-	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)" id="0236">
-		<category>Games</category>
-		<description>Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)</description>
-		<rom name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).sms" size="262144" crc="0e333b6e" md5="e0a9cf889c27f3cb14903288f646d183" sha1="f952406bca4918ee91a89b27e949e224eae96d85" sha256="4b350644d70f6aa429e0feb62d3bfac4a16b438d7fae621eae2813d51ef9f1aa" status="verified"/>
 	</game>
 	<game name="Missile Defense 3-D (USA, Europe, Brazil) (En)" id="0237">
 		<category>Games</category>
@@ -3846,12 +3846,6 @@
 		<description>Monkey Lad (World) (Proto 1) (Aftermarket) (Unl)</description>
 		<rom name="Monkey Lad (World) (Proto 1) (Aftermarket) (Unl).sms" size="147456" crc="6e09ad59" md5="fa5adf77271fef777124ec2d6bf5ed6c" sha1="880437be77e000eb49f3fe524b933d3b923bf181" sha256="2b1085b2c350879310c9ee48e71c07c5b143fd61dc5164f4acc3aa648fc36f58"/>
 	</game>
-	<game name="Monopoly (USA, Europe) (Beta 1)" id="0525" cloneofid="0240">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Monopoly (USA, Europe) (Beta 1)</description>
-		<rom name="Monopoly (USA, Europe) (Beta 1).sms" size="131072" crc="7e9d87fc" md5="19e6167c6bad839603240adeda122ac7" sha1="68830fb46a010cf2f2d04bdc69e3759f6d42b8de" sha256="3cbb2709ffc7fc019cb917d49fb66fca7baacc6cb974024390a59e4b7ea06254"/>
-	</game>
 	<game name="Monopoly (USA, Europe)" id="0239" cloneofid="0240">
 		<category>Games</category>
 		<description>Monopoly (USA, Europe)</description>
@@ -3861,6 +3855,12 @@
 		<category>Games</category>
 		<description>Monopoly (USA, Europe) (Rev A)</description>
 		<rom name="Monopoly (USA, Europe) (Rev A).sms" size="131072" crc="026d94a4" md5="f2d360f60acd4ca1e50ab301e20de581" sha1="6bad7176011dd4bbd007498d167399daacde173d" sha256="b4f6c5988abfc8731be4caa0b0a9eb8dd38034d1f46c9864c7afaad8407ec13f" status="verified"/>
+	</game>
+	<game name="Monopoly (USA, Europe) (Beta 1)" id="0525" cloneofid="0240">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Monopoly (USA, Europe) (Beta 1)</description>
+		<rom name="Monopoly (USA, Europe) (Beta 1).sms" size="131072" crc="7e9d87fc" md5="19e6167c6bad839603240adeda122ac7" sha1="68830fb46a010cf2f2d04bdc69e3759f6d42b8de" sha256="3cbb2709ffc7fc019cb917d49fb66fca7baacc6cb974024390a59e4b7ea06254"/>
 	</game>
 	<game name="Monopoly (USA, Europe) (Beta 2)" id="0723" cloneofid="0240">
 		<category>Games</category>
@@ -3873,16 +3873,16 @@
 		<description>Monster Crunch (World) (Aftermarket) (Unl)</description>
 		<rom name="Monster Crunch (World) (Aftermarket) (Unl).sms" size="32768" crc="7eacf20c" md5="2e4e2e38d13107eb3d93eadc29f94f19" sha1="0ebeb7d2a2db02757620ca534ed6a4c33bfafcde" sha256="1c9d9d35c6419850f29738d573d2501110e9c3b9cf79e00ba9355128c9e1dee7"/>
 	</game>
+	<game name="Montezuma's Revenge Featuring Panama Joe (USA)" id="0241">
+		<category>Games</category>
+		<description>Montezuma's Revenge Featuring Panama Joe (USA)</description>
+		<rom name="Montezuma's Revenge Featuring Panama Joe (USA).sms" size="131072" crc="82fda895" md5="fe20d983d1b18ff1986c376489843f32" sha1="a2665093b8588d5d6f24c6b329080fb3ebee896e" sha256="88119488556bb5ef721064e22bbb39aaa5b592afef676cce23ccd4e0afc9470f" status="verified"/>
+	</game>
 	<game name="Montezuma's Revenge Featuring Panama Joe (USA) (Beta)" id="0508" cloneofid="0241">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Montezuma's Revenge Featuring Panama Joe (USA) (Beta)</description>
 		<rom name="Montezuma's Revenge Featuring Panama Joe (USA) (Beta).sms" size="131072" crc="575d0fcf" md5="3ecff4b5ef40705615b208d60403f276" sha1="4f93e297425cb19ab6de2107795d210544171396" sha256="957d6878b70107ee3f20f1684ee218b4917a71636b465e0b0838423521bf5fa6"/>
-	</game>
-	<game name="Montezuma's Revenge Featuring Panama Joe (USA)" id="0241">
-		<category>Games</category>
-		<description>Montezuma's Revenge Featuring Panama Joe (USA)</description>
-		<rom name="Montezuma's Revenge Featuring Panama Joe (USA).sms" size="131072" crc="82fda895" md5="fe20d983d1b18ff1986c376489843f32" sha1="a2665093b8588d5d6f24c6b329080fb3ebee896e" sha256="88119488556bb5ef721064e22bbb39aaa5b592afef676cce23ccd4e0afc9470f" status="verified"/>
 	</game>
 	<game name="Mopiranger (Korea) (En) (Unl)" id="0574">
 		<category>Games</category>
@@ -4059,15 +4059,15 @@
 		<description>Nyle in SokobanLand (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Nyle in SokobanLand (World) (Demo 2) (Aftermarket) (Unl).sms" size="131072" crc="f32db0f2" md5="beeabe8f95e015bb1303d0ef4f818bc6" sha1="8a19256491efd0a3de98a410395b78b5b2eb7356" sha256="23edac22ef4ea0347de66fee8d7dc4044ade3b9f2c1f06fbfe15d0a265657ea2"/>
 	</game>
-	<game name="Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0254" cloneofid="0253">
-		<category>Games</category>
-		<description>Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
-		<rom name="Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" crc="d1a7b1aa" md5="205b3543f300b96972bca5ce1d1f1f90" sha1="d3b0aa53159403c59e53e486597f882730556d96" sha256="260f5118e9270b7d323587136550c0981e573f4ba632e3c1e2d5807d4622e832" status="verified"/>
-	</game>
 	<game name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0253">
 		<category>Games</category>
 		<description>Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
 		<rom name="Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" crc="6a5a1e39" md5="2a0717f014b2fd99decd92308175658f" sha1="21d7e4d99b1d35ad7c169cc16162a0873661fcd4" sha256="b91042f46c03ba8c115e3e2045ecf02bd6a7da7631b4844b0999527f4b209903" status="verified"/>
+	</game>
+	<game name="Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0254" cloneofid="0253">
+		<category>Games</category>
+		<description>Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
+		<rom name="Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" crc="d1a7b1aa" md5="205b3543f300b96972bca5ce1d1f1f90" sha1="d3b0aa53159403c59e53e486597f882730556d96" sha256="260f5118e9270b7d323587136550c0981e573f4ba632e3c1e2d5807d4622e832" status="verified"/>
 	</game>
 	<game name="Ono (World) (v1.01) (Aftermarket) (Unl)" id="0981">
 		<category>Games</category>
@@ -4160,15 +4160,15 @@
 		<description>Paper Boy (Taiwan) (En) (Unl)</description>
 		<rom name="Paper Boy (Taiwan) (En) (Unl).sms" size="131072" crc="354bee78" md5="57f672638078061a95e2d15f8c29ef91" sha1="14b19ee7f6ef398474fe56beac2327ee14ce6157" sha256="83049d472833c852da3cc6a76c012ca51294690649046b2579a11ae786a89760"/>
 	</game>
-	<game name="Paperboy (USA, Brazil) (En)" id="0263" cloneofid="0262">
-		<category>Games</category>
-		<description>Paperboy (USA, Brazil) (En)</description>
-		<rom name="Paperboy (USA, Brazil) (En).sms" size="131072" crc="327a0b4c" md5="9b694d765038ffb87b36174412452588" sha1="736718efab4737ebf9d06221ac35fa2fcc4593ce" sha256="684fa6059f1a17ac2b9d9255868d7c5eb2056c03c4c1061d477fd999bf5a145e" status="verified"/>
-	</game>
 	<game name="Paperboy (Europe)" id="0262">
 		<category>Games</category>
 		<description>Paperboy (Europe)</description>
 		<rom name="Paperboy (Europe).sms" size="131072" crc="294e0759" md5="a0a053017d9cae9dd8ce8676355b16b9" sha1="e91dae35a3ca3a475e30b7863c03375d656ec734" sha256="07c7a4f6f17a29525ba6f0be869ec1ebf3cb52150987a622259360a364bea1f8" status="verified"/>
+	</game>
+	<game name="Paperboy (USA, Brazil) (En)" id="0263" cloneofid="0262">
+		<category>Games</category>
+		<description>Paperboy (USA, Brazil) (En)</description>
+		<rom name="Paperboy (USA, Brazil) (En).sms" size="131072" crc="327a0b4c" md5="9b694d765038ffb87b36174412452588" sha1="736718efab4737ebf9d06221ac35fa2fcc4593ce" sha256="684fa6059f1a17ac2b9d9255868d7c5eb2056c03c4c1061d477fd999bf5a145e" status="verified"/>
 	</game>
 	<game name="Parlour Games (USA, Europe)" id="0264">
 		<category>Games</category>
@@ -4217,20 +4217,10 @@
 		<description>PGA Tour Golf (Europe)</description>
 		<rom name="PGA Tour Golf (Europe).sms" size="262144" crc="95b9ea95" md5="40c59c08df065e34fff1b379491e6013" sha1="bdbb1337453234289fbd193d7d7fcf1ad3c3807c" sha256="a3856f0d15511f7a6d48fa6c47da2c81adf372e6a04f83298a10cd45b6711530"/>
 	</game>
-	<game name="Phantasy Star (USA, Europe) (Rev A)" id="0272">
-		<category>Games</category>
-		<description>Phantasy Star (USA, Europe) (Rev A)</description>
-		<rom name="Phantasy Star (USA, Europe) (Rev A).sms" size="524288" crc="00bef1d7" md5="1110938df80f4e44c8213d7f85cfb5e6" sha1="07fcf297be4f4c9d92cd3f119a7ac48467e06838" sha256="9e324e92bd833b45126861b6f1d2dcbb51251bdf3df6d563ab3a3ff784d8cf88" status="verified"/>
-	</game>
 	<game name="Phantasy Star (Brazil)" id="0268" cloneofid="0272">
 		<category>Games</category>
 		<description>Phantasy Star (Brazil)</description>
 		<rom name="Phantasy Star (Brazil).sms" size="524288" crc="75971bef" md5="1b69716f9f4053e1533f654c091ae410" sha1="fd8dad6acb6fa75dc8e9bbaea2a7e9fd486fc2dd" sha256="e3da6c99a309929100ffffa8a460f2ac6d174e1f2ea26b7e8c334d26e4b72f43" status="verified"/>
-	</game>
-	<game name="Phantasy Star (USA, Europe)" id="0271" cloneofid="0272">
-		<category>Games</category>
-		<description>Phantasy Star (USA, Europe)</description>
-		<rom name="Phantasy Star (USA, Europe).sms" size="524288" crc="e4a65e79" md5="5ba9114edea5deb5282fd9ad7d4b2d62" sha1="257ca76ebcd54c75a414ca7ce968fa59ea42f150" sha256="930f0a704b7cc65bb78c52f402cbcceef65d921e30439d770b07404d20e21741" status="verified"/>
 	</game>
 	<game name="Phantasy Star (Japan)" id="0269" cloneofid="0272">
 		<category>Games</category>
@@ -4241,6 +4231,16 @@
 		<category>Games</category>
 		<description>Phantasy Star (Korea) (Unl)</description>
 		<rom name="Phantasy Star (Korea) (Unl).sms" size="524288" crc="747e83b5" md5="f853b7ddca63864735c03001c9ac477b" sha1="52b2aa52a1c96e15869498a8e42b074705070007" sha256="647fa8d210d37f55a9be2df805f993259689a1e8695c15e5e8f661f4b6c92e64" status="verified"/>
+	</game>
+	<game name="Phantasy Star (USA, Europe)" id="0271" cloneofid="0272">
+		<category>Games</category>
+		<description>Phantasy Star (USA, Europe)</description>
+		<rom name="Phantasy Star (USA, Europe).sms" size="524288" crc="e4a65e79" md5="5ba9114edea5deb5282fd9ad7d4b2d62" sha1="257ca76ebcd54c75a414ca7ce968fa59ea42f150" sha256="930f0a704b7cc65bb78c52f402cbcceef65d921e30439d770b07404d20e21741" status="verified"/>
+	</game>
+	<game name="Phantasy Star (USA, Europe) (Rev A)" id="0272">
+		<category>Games</category>
+		<description>Phantasy Star (USA, Europe) (Rev A)</description>
+		<rom name="Phantasy Star (USA, Europe) (Rev A).sms" size="524288" crc="00bef1d7" md5="1110938df80f4e44c8213d7f85cfb5e6" sha1="07fcf297be4f4c9d92cd3f119a7ac48467e06838" sha256="9e324e92bd833b45126861b6f1d2dcbb51251bdf3df6d563ab3a3ff784d8cf88" status="verified"/>
 	</game>
 	<game name="Phantasy Star (Japan) (Rev 1)" id="0613" cloneofid="0272">
 		<category>Games</category>
@@ -4386,15 +4386,15 @@
 		<description>Ppang Gongjang (Korea) (En) (Unl)</description>
 		<rom name="Ppang Gongjang (Korea) (En) (Unl).sms" size="32768" crc="7778e256" md5="ca38efb4db43d988392f4102ac7f1bbf" sha1="2fb857fc59cccbd3206e1beb0b9d717972320d3f" sha256="276b59aac77c62e02a4f48bd2632a6758ead4d29656f7a6977fb25135e726701"/>
 	</game>
-	<game name="Predator 2 (Brazil) (En)" id="0542" cloneofid="0279">
-		<category>Games</category>
-		<description>Predator 2 (Brazil) (En)</description>
-		<rom name="Predator 2 (Brazil) (En).sms" size="262144" crc="2b54c82b" md5="069349d2bf4db0bd1382070a2d7f11b0" sha1="98c453f6bd397fbae5e728d095e0541ff51306df" sha256="a6c0133c848a3c9b1a03b55a02d9916cc7e74639a87e1eb0dbbc3dd5b832123f" status="verified"/>
-	</game>
 	<game name="Predator 2 (Europe)" id="0279">
 		<category>Games</category>
 		<description>Predator 2 (Europe)</description>
 		<rom name="Predator 2 (Europe).sms" size="262144" crc="0047b615" md5="1389419d90834d3700b772e984143fde" sha1="ee26c9f5fd08ac73b5e28b20f35889d24c88c6db" sha256="0ab97ad6706e21e39c21417fb6efc6456d3171ad2e94d20718c6510abcaac272" status="verified"/>
+	</game>
+	<game name="Predator 2 (Brazil) (En)" id="0542" cloneofid="0279">
+		<category>Games</category>
+		<description>Predator 2 (Brazil) (En)</description>
+		<rom name="Predator 2 (Brazil) (En).sms" size="262144" crc="2b54c82b" md5="069349d2bf4db0bd1382070a2d7f11b0" sha1="98c453f6bd397fbae5e728d095e0541ff51306df" sha256="a6c0133c848a3c9b1a03b55a02d9916cc7e74639a87e1eb0dbbc3dd5b832123f" status="verified"/>
 	</game>
 	<game name="Primates (World) (Proto) (Aftermarket) (Unl)" id="0993">
 		<category>Games</category>
@@ -4511,32 +4511,32 @@
 		<description>Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (Brazil) (En)</description>
 		<rom name="Quest for the Shaven Yak Starring Ren Hoek &amp; Stimpy (Brazil) (En).sms" size="524288" crc="f42e145c" md5="58b89d62438407f242bbe713f1d945ca" sha1="418ea57fdbd06aca4285447db2ecb2b0392a178d" sha256="9a95fe8b07eb25c94a22e2b21efaa753206c6ef093c3d27a0406b00eec45a7a1" status="verified"/>
 	</game>
+	<game name="R-Type (World)" id="0290">
+		<category>Games</category>
+		<description>R-Type (World)</description>
+		<rom name="R-Type (World).sms" size="524288" crc="bb54b6b0" md5="9e5507d51ac6f24c702a52a7abce0d3c" sha1="08ec70a2cd98fcb2645f59857f845d41b0045115" sha256="8b9b80a16bc73457e93dd855d7398876bdb9b634387472ce1c0058906fc030d1" status="verified"/>
+	</game>
 	<game name="R-Type (World) (Beta)" id="0543" cloneofid="0290">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>R-Type (World) (Beta)</description>
 		<rom name="R-Type (World) (Beta).sms" size="524288" crc="0d0840d5" md5="3d980001fc22393ebec2b5b1cf8a01bc" sha1="3e0bfd3b22740ddea718027b59cf9322bf5297d8" sha256="dc1e38ec574715ac744f7dffd91a84dfd81871c8f749f45b943958aeee4e2a1a"/>
 	</game>
-	<game name="R-Type (World)" id="0290">
-		<category>Games</category>
-		<description>R-Type (World)</description>
-		<rom name="R-Type (World).sms" size="524288" crc="bb54b6b0" md5="9e5507d51ac6f24c702a52a7abce0d3c" sha1="08ec70a2cd98fcb2645f59857f845d41b0045115" sha256="8b9b80a16bc73457e93dd855d7398876bdb9b634387472ce1c0058906fc030d1" status="verified"/>
-	</game>
 	<game name="R-Type (Taiwan) (En) (Unl)" id="0648" cloneofid="0290">
 		<category>Games</category>
 		<description>R-Type (Taiwan) (En) (Unl)</description>
 		<rom name="R-Type (Taiwan) (En) (Unl).sms" size="524288" crc="e532716f" md5="14d40fda08235d76d63abb30c1a39bff" sha1="908b532564c67014bf881a524ac9ad186f9013c9" sha256="c568ade43eccec78face605e9d775d72abf641d905849670046dc93279917fd3"/>
+	</game>
+	<game name="R.C. Grand Prix (USA, Europe, Brazil) (En)" id="0291">
+		<category>Games</category>
+		<description>R.C. Grand Prix (USA, Europe, Brazil) (En)</description>
+		<rom name="R.C. Grand Prix (USA, Europe, Brazil) (En).sms" size="262144" crc="54316fea" md5="b30e60b91960a0f2a89fc133410770df" sha1="94cc64f6febdb0fe4e89ecd9deeca96694e5bead" sha256="936cd05892fc7c855633939e2776e9b75712aa4eca1366a88d40f353e58daf1c" status="verified"/>
 	</game>
 	<game name="R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta)" id="0526" cloneofid="0291">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta)</description>
 		<rom name="R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta).sms" size="262144" crc="767f11b8" md5="61aa7404e23836c79e2a689322ffe190" sha1="0bc511d809b6e401e9855a89d0ef821b2e8df109" sha256="7b905ae8e2eabb3c93be9207754d990fc2e533cea60b6c5371327811cb473494"/>
-	</game>
-	<game name="R.C. Grand Prix (USA, Europe, Brazil) (En)" id="0291">
-		<category>Games</category>
-		<description>R.C. Grand Prix (USA, Europe, Brazil) (En)</description>
-		<rom name="R.C. Grand Prix (USA, Europe, Brazil) (En).sms" size="262144" crc="54316fea" md5="b30e60b91960a0f2a89fc133410770df" sha1="94cc64f6febdb0fe4e89ecd9deeca96694e5bead" sha256="936cd05892fc7c855633939e2776e9b75712aa4eca1366a88d40f353e58daf1c" status="verified"/>
 	</game>
 	<game name="Racer (World) (v1.12) (Aftermarket) (Unl)" id="0996">
 		<category>Games</category>
@@ -4671,17 +4671,17 @@
 		<description>Ring Dash SMS (World) (Aftermarket) (Unl)</description>
 		<rom name="Ring Dash SMS (World) (Aftermarket) (Unl).sms" size="131072" crc="532aefaf" md5="90b0199a4103d25e70ab9d48adc5de19" sha1="ff8450233f09482778d4e3e01eb30c2f9aa449eb" sha256="0040d1ddffae703dad9a9de536eafcc11fb247673648d1e969b4d1dfd39ea0ba"/>
 	</game>
-	<game name="River Strike (World) (Proto 2) (Aftermarket) (Unl)" id="1165">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>River Strike (World) (Proto 2) (Aftermarket) (Unl)</description>
-		<rom name="River Strike (World) (Proto 2) (Aftermarket) (Unl).sms" size="32768" crc="941a2e8f" md5="4f63642d26609feedfcebf6808384dca" sha1="8e1142d1f8c730787f1c7ff1cec7d556335c566e" sha256="d2c7bd120a2e31612144562b15ac3ae73225efb6307332e2a78c45e1bc9fccac"/>
-	</game>
 	<game name="River Strike (World) (Proto 1) (Aftermarket) (Unl)" id="1004" cloneofid="1165">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>River Strike (World) (Proto 1) (Aftermarket) (Unl)</description>
 		<rom name="River Strike (World) (Proto 1) (Aftermarket) (Unl).sms" size="8628" crc="1fe7f34e" md5="332a975dc5d596e55b956ce20e6368d9" sha1="3504e57c4cce39d930def2434cbeeb4284af7f85" sha256="654bfecfbe6a8f7b0e4ba04f69f89383032f769bd83830cd4b5e3c3cce40cbd7"/>
+	</game>
+	<game name="River Strike (World) (Proto 2) (Aftermarket) (Unl)" id="1165">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>River Strike (World) (Proto 2) (Aftermarket) (Unl)</description>
+		<rom name="River Strike (World) (Proto 2) (Aftermarket) (Unl).sms" size="32768" crc="941a2e8f" md5="4f63642d26609feedfcebf6808384dca" sha1="8e1142d1f8c730787f1c7ff1cec7d556335c566e" sha256="d2c7bd120a2e31612144562b15ac3ae73225efb6307332e2a78c45e1bc9fccac"/>
 	</game>
 	<game name="River Strike - Tyrian Edition (World) (Proto) (Aftermarket) (Unl)" id="1161">
 		<category>Games</category>
@@ -4757,15 +4757,15 @@
 		<description>Ruptus (World) (Aftermarket) (Unl)</description>
 		<rom name="Ruptus (World) (Aftermarket) (Unl).sms" size="17461" crc="f4e44d46" md5="923fd1dff66349961088f356a4e0c6a1" sha1="16ae8129f7daf0eedaac16dd8cf64d6455d97833" sha256="58c82b6768199fcaad0622a5261db723d64bb7c9c1b5d3f7f5dbcdadea4df7a2"/>
 	</game>
-	<game name="Sagaia (Taiwan) (En) (Unl)" id="1281" cloneofid="0307">
-		<category>Games</category>
-		<description>Sagaia (Taiwan) (En) (Unl)</description>
-		<rom name="Sagaia (Taiwan) (En) (Unl).sms" size="262144" crc="29610b58" md5="eca9e32901fac58140c9b39bbcf5d89f" sha1="8da660932b1ce1720cd2fcdc20590d1dbd9c0d1b" sha256="331b0059be3d80d8e277978d360defd4f8996df9e049dbb6201bd4b086b10092"/>
-	</game>
 	<game name="Sagaia (Europe, Brazil) (En)" id="0307">
 		<category>Games</category>
 		<description>Sagaia (Europe, Brazil) (En)</description>
 		<rom name="Sagaia (Europe, Brazil) (En).sms" size="262144" crc="66388128" md5="d8a4c95203bbe294760085189f9544fa" sha1="2a3e859139f8ca83494bb800dc848fe4d02db82a" sha256="6038714821cbd5cecc862527496463d9404e79ec814781655741863f66cadf99" status="verified"/>
+	</game>
+	<game name="Sagaia (Taiwan) (En) (Unl)" id="1281" cloneofid="0307">
+		<category>Games</category>
+		<description>Sagaia (Taiwan) (En) (Unl)</description>
+		<rom name="Sagaia (Taiwan) (En) (Unl).sms" size="262144" crc="29610b58" md5="eca9e32901fac58140c9b39bbcf5d89f" sha1="8da660932b1ce1720cd2fcdc20590d1dbd9c0d1b" sha256="331b0059be3d80d8e277978d360defd4f8996df9e049dbb6201bd4b086b10092"/>
 	</game>
 	<game name="Sagak-ui Bimil (Korea) (En) (Unl)" id="0564">
 		<category>Games</category>
@@ -4808,16 +4808,16 @@
 		<description>Schlange CV (World) (Demo 2) (Aftermarket) (Unl)</description>
 		<rom name="Schlange CV (World) (Demo 2) (Aftermarket) (Unl).sms" size="36607" crc="35e29438" md5="4b66fe6dabe1b042b0bd3657254cb2f1" sha1="85a7f5ae8058f51f9f3ce8eee67075313561ab3e" sha256="67f85138e34b76e7fae7844262322a4d6fac1babcd8be38166e2421ce798c886"/>
 	</game>
+	<game name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)" id="0313">
+		<category>Games</category>
+		<description>Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)</description>
+		<rom name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).sms" size="262144" crc="97e5bb7d" md5="86806bba2acf7a07aad125f6ef02cd51" sha1="16f756e00314781e07af84c871e82ec8e0a68a57" sha256="1c03b12ac5375b35497d078f434f921c37c4bccae906e8577383a7d909fdc35a" status="verified"/>
+	</game>
 	<game name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)" id="0314" cloneofid="0313">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta)</description>
 		<rom name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta).sms" size="262144" crc="7982ae67" md5="4aba236d2a81e738adaaf5b00de81653" sha1="a82627f47400555e5e6fdeca11ffac56d7296f80" sha256="74b320a580a973e8fbee6b519c474acf44aeb5995134c1819088ffff4ab93e9d"/>
-	</game>
-	<game name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)" id="0313">
-		<category>Games</category>
-		<description>Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)</description>
-		<rom name="Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).sms" size="262144" crc="97e5bb7d" md5="86806bba2acf7a07aad125f6ef02cd51" sha1="16f756e00314781e07af84c871e82ec8e0a68a57" sha256="1c03b12ac5375b35497d078f434f921c37c4bccae906e8577383a7d909fdc35a" status="verified"/>
 	</game>
 	<game name="Scope (World) (v1.1) (Aftermarket) (Unl)" id="1009">
 		<category>Games</category>
@@ -4933,26 +4933,26 @@
 		<description>Shadow of the Beast (Taiwan) (En) (Unl)</description>
 		<rom name="Shadow of the Beast (Taiwan) (En) (Unl).sms" size="262144" crc="ac2ea669" md5="ce2e1cb88648e27323b6ded5f4109a18" sha1="a63bdab47d3f648537cad25e4161ac55a23c8137" sha256="44d8b43db30d79ce41a678a80da58f20661fdc2649727dc5a301bd280e14b8e3"/>
 	</game>
+	<game name="Shanghai (USA, Europe)" id="0324">
+		<category>Games</category>
+		<description>Shanghai (USA, Europe)</description>
+		<rom name="Shanghai (USA, Europe).sms" size="131072" crc="aab67ec3" md5="f0595fbd334cb8e95c0486a588a24f7b" sha1="58f01556d1f2da0af9dfcddcb3ac26cb299220d3" sha256="0cecc73789303bf14c92fae6ada1ee81154a07e2284c4e009600934889428ffc" status="verified"/>
+	</game>
 	<game name="Shanghai (USA, Europe) (Beta)" id="0325" cloneofid="0324">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Shanghai (USA, Europe) (Beta)</description>
 		<rom name="Shanghai (USA, Europe) (Beta).sms" size="131072" crc="d5d25156" md5="802d1525499492580de31ca62bca3c40" sha1="98615e4994fcc1e973c7483303b580dfeb756eec" sha256="40e1af2c577d3a71f584468968f715517f693e1cbb5eb87c70875ac574ce4db6" status="verified"/>
 	</game>
-	<game name="Shanghai (USA, Europe)" id="0324">
+	<game name="Shinobi (Japan, Brazil) (En)" id="0326" cloneofid="0327">
 		<category>Games</category>
-		<description>Shanghai (USA, Europe)</description>
-		<rom name="Shanghai (USA, Europe).sms" size="131072" crc="aab67ec3" md5="f0595fbd334cb8e95c0486a588a24f7b" sha1="58f01556d1f2da0af9dfcddcb3ac26cb299220d3" sha256="0cecc73789303bf14c92fae6ada1ee81154a07e2284c4e009600934889428ffc" status="verified"/>
+		<description>Shinobi (Japan, Brazil) (En)</description>
+		<rom name="Shinobi (Japan, Brazil) (En).sms" size="262144" crc="e1fff1bb" md5="789b285290688cbd0a786f888f9dada1" sha1="26070deaa2d3c170d31ac395a50231204250bdf3" sha256="d66e46388b58d202c32fe652e771ba228195005b26456c75823fdff3a50efa35" status="verified"/>
 	</game>
 	<game name="Shinobi (USA, Europe, Brazil) (En) (Rev 1)" id="0327">
 		<category>Games</category>
 		<description>Shinobi (USA, Europe, Brazil) (En) (Rev 1)</description>
 		<rom name="Shinobi (USA, Europe, Brazil) (En) (Rev 1).sms" size="262144" crc="0c6fac4e" md5="3dd2c025185e19ac9bf1ed16b695c629" sha1="7c0778c055dc9c2b0aae1d166dbdb4734e55b9d1" sha256="dac4f1dcb41193cb42a96950444a87c5f2952ea66474c59a38c07b10ac411e47" status="verified"/>
-	</game>
-	<game name="Shinobi (Japan, Brazil) (En)" id="0326" cloneofid="0327">
-		<category>Games</category>
-		<description>Shinobi (Japan, Brazil) (En)</description>
-		<rom name="Shinobi (Japan, Brazil) (En).sms" size="262144" crc="e1fff1bb" md5="789b285290688cbd0a786f888f9dada1" sha1="26070deaa2d3c170d31ac395a50231204250bdf3" sha256="d66e46388b58d202c32fe652e771ba228195005b26456c75823fdff3a50efa35" status="verified"/>
 	</game>
 	<game name="Shootagem (World) (Aftermarket) (Unl)" id="1016">
 		<category>Games</category>
@@ -5087,11 +5087,6 @@
 		<description>Slap Shoot (USA) (Beta)</description>
 		<rom name="Slap Shoot (USA) (Beta).sms" size="262144" crc="fbb0a92a" md5="9b2d895f4ec70c0466f4d314b6ef205f" sha1="44e39176cb012f07844ec3b44244c1197f619ff5" sha256="23cec5bab76d27a5dd6d9a22af15f406b797b08c68f066cca38f22b1f2d28379" status="verified"/>
 	</game>
-	<game name="Slap Shot (USA, Europe, Brazil) (En)" id="0334">
-		<category>Games</category>
-		<description>Slap Shot (USA, Europe, Brazil) (En)</description>
-		<rom name="Slap Shot (USA, Europe, Brazil) (En).sms" size="262144" crc="702c3e98" md5="2027d095ee5c1f2c01255888e0b436ed" sha1="2259dcf3ce702b5ddc8d0a5ed335263f45ecd2ce" sha256="cc3439edc2df00f633aa8b7c670d15d070b9e42c20a66c9c39d90fc575f6c85e" status="verified"/>
-	</game>
 	<game name="Slap Shot (Europe) (Sample)" id="0332" cloneofid="0334">
 		<category>Games</category>
 		<category>Preproduction</category>
@@ -5102,6 +5097,11 @@
 		<category>Games</category>
 		<description>Slap Shot (Europe)</description>
 		<rom name="Slap Shot (Europe).sms" size="262144" crc="c93bd0e9" md5="88a19d1f5d7ba2ba1f68fd83602c6eb7" sha1="6327fb7129ecfcebdcd6b9c941703fda15a8a195" sha256="9a23d2455eb5a5cddf8db2574460e04dcb13a13937d1a965dcbb8f7066ef38ef" status="verified"/>
+	</game>
+	<game name="Slap Shot (USA, Europe, Brazil) (En)" id="0334">
+		<category>Games</category>
+		<description>Slap Shot (USA, Europe, Brazil) (En)</description>
+		<rom name="Slap Shot (USA, Europe, Brazil) (En).sms" size="262144" crc="702c3e98" md5="2027d095ee5c1f2c01255888e0b436ed" sha1="2259dcf3ce702b5ddc8d0a5ed335263f45ecd2ce" sha256="cc3439edc2df00f633aa8b7c670d15d070b9e42c20a66c9c39d90fc575f6c85e" status="verified"/>
 	</game>
 	<game name="SMS 3-D Demo (World) (Aftermarket) (Unl)" id="1029">
 		<category>Miscellaneous</category>
@@ -5282,15 +5282,15 @@
 		<description>Sonic The Hedgehog (USA, Europe, Brazil) (En)</description>
 		<rom name="Sonic The Hedgehog (USA, Europe, Brazil) (En).sms" size="262144" crc="b519e833" md5="dc13a61eafe75c13c15b5ece419ac57b" sha1="6b9677e4a9abb37765d6db4658f4324251807e07" sha256="6ad738965ece231427ee046b9905cfee470d5c01220afdd934da4673e4a2458b" status="verified"/>
 	</game>
-	<game name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)" id="0342">
-		<category>Games</category>
-		<description>Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)</description>
-		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1).sms" size="524288" crc="d6f2bfca" md5="0ac157b6b7e839953fc8eba7538fb74a" sha1="689339bac11c3565dd774f8cd4d8ea1b27831118" sha256="b7bb3b55ca308ce0d235469f877d21f8188960aec5cd473349ab66cac089927d" status="verified"/>
-	</game>
 	<game name="Sonic The Hedgehog 2 (Europe, Brazil) (En)" id="0341" cloneofid="0342">
 		<category>Games</category>
 		<description>Sonic The Hedgehog 2 (Europe, Brazil) (En)</description>
 		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En).sms" size="524288" crc="5b3b922c" md5="bf3b7a41e7da9de23416473a33c6ac2b" sha1="acdb0b5e8bf9c1e9c9d1a8ac6d282cb8017d091c" sha256="402b1c89b120a23c6057caf3d014f0e3074732264353c4a0e725d245b522e561" status="verified"/>
+	</game>
+	<game name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)" id="0342">
+		<category>Games</category>
+		<description>Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)</description>
+		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1).sms" size="524288" crc="d6f2bfca" md5="0ac157b6b7e839953fc8eba7538fb74a" sha1="689339bac11c3565dd774f8cd4d8ea1b27831118" sha256="b7bb3b55ca308ce0d235469f877d21f8188960aec5cd473349ab66cac089927d" status="verified"/>
 	</game>
 	<game name="Sonic's Edusoft (Europe) (Proto)" id="0343">
 		<category>Games</category>
@@ -5350,26 +5350,26 @@
 		<description>Speccies 2 (World) (Aftermarket) (Unl)</description>
 		<rom name="Speccies 2 (World) (Aftermarket) (Unl).sms" size="32768" crc="4145d432" md5="d9342307fcc527b775c80f327d6f691a" sha1="80a0a0160c5a663d568e49325db99a28da722012" sha256="656286468e502ee407796fa47b9eaa48228723b2299b702b29d9346ef2eed060"/>
 	</game>
+	<game name="Special Criminal Investigation (Europe)" id="0349">
+		<category>Games</category>
+		<description>Special Criminal Investigation (Europe)</description>
+		<rom name="Special Criminal Investigation (Europe).sms" size="262144" crc="fa8e4ca0" md5="74c8108e7207d5b7149a69b0fc90d877" sha1="8daabf51099bd2702fe4418fd202eff532bc710a" sha256="d5c2e9681253ec4eeae87883fe6b38cc0dc8759a77622307b8112873ad6d6f78" status="verified"/>
+	</game>
 	<game name="Special Criminal Investigation (Europe) (Beta)" id="0350" cloneofid="0349">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Special Criminal Investigation (Europe) (Beta)</description>
 		<rom name="Special Criminal Investigation (Europe) (Beta).sms" size="262144" crc="1b7d2a20" md5="16523c29c9b2f5e2c6252b57e1c22590" sha1="a0b4be5b62a0a836e227983647e0140df3eafe4d" sha256="ea5f78e6e3d4afcb1d2c17991bda1680208b11a85a619f4f07de0ffb56650c1c"/>
 	</game>
-	<game name="Special Criminal Investigation (Europe)" id="0349">
+	<game name="Speedball (Europe)" id="0351" cloneofid="0352">
 		<category>Games</category>
-		<description>Special Criminal Investigation (Europe)</description>
-		<rom name="Special Criminal Investigation (Europe).sms" size="262144" crc="fa8e4ca0" md5="74c8108e7207d5b7149a69b0fc90d877" sha1="8daabf51099bd2702fe4418fd202eff532bc710a" sha256="d5c2e9681253ec4eeae87883fe6b38cc0dc8759a77622307b8112873ad6d6f78" status="verified"/>
+		<description>Speedball (Europe)</description>
+		<rom name="Speedball (Europe).sms" size="131072" crc="a57cad18" md5="ccbb21ff7484d5569bc823168edc8628" sha1="e51cbdb9b74ce4b53747215b23b54eb62f8392b3" sha256="da147eca825ffb45dd607dfd5e50122692f88fe808a8fc0df91d47053f157170" status="verified"/>
 	</game>
 	<game name="Speedball (Europe) (Rev 1)" id="0352">
 		<category>Games</category>
 		<description>Speedball (Europe) (Rev 1)</description>
 		<rom name="Speedball (Europe) (Rev 1).sms" size="131072" crc="5ccc1a65" md5="ae579fba63e0da9cb969980ac172a600" sha1="a4cf72c985d0fe51ac36388774c7f0bf982c19e3" sha256="6661f3237a2b1c92f35aa86c7145f2a0a866d01a09b40a9304df03c7cc234c7b" status="verified"/>
-	</game>
-	<game name="Speedball (Europe)" id="0351" cloneofid="0352">
-		<category>Games</category>
-		<description>Speedball (Europe)</description>
-		<rom name="Speedball (Europe).sms" size="131072" crc="a57cad18" md5="ccbb21ff7484d5569bc823168edc8628" sha1="e51cbdb9b74ce4b53747215b23b54eb62f8392b3" sha256="da147eca825ffb45dd607dfd5e50122692f88fe808a8fc0df91d47053f157170" status="verified"/>
 	</game>
 	<game name="Speedball (World) (Evercade)" id="1107" cloneofid="0352">
 		<category>Games</category>
@@ -5451,15 +5451,15 @@
 		<description>Streets of Rage II (Europe, Brazil) (En)</description>
 		<rom name="Streets of Rage II (Europe, Brazil) (En).sms" size="524288" crc="04e9c089" md5="e680b108e67caf02e4fb77d419f48358" sha1="cc18171a860711f6ad18ff89254dd7bd05c54654" sha256="055947d304695242ded75c49df02d94d22d738f2196273cad495ad37f2f0cdc3" status="verified"/>
 	</game>
-	<game name="Strider (USA, Europe, Brazil) (En) (Demo)" id="0544" cloneofid="0365">
-		<category>Demos</category>
-		<description>Strider (USA, Europe, Brazil) (En) (Demo)</description>
-		<rom name="Strider (USA, Europe, Brazil) (En) (Demo).sms" size="131072" crc="b990269a" md5="36d936d25715103a4f8388deb4a1fed3" sha1="e8329904397b5389571f20aa1a3cac1ecc31d470" sha256="95c205b773fe0da30f8c8fcf367b813cf08741553ff513ac9186db0faf54cd4f"/>
-	</game>
 	<game name="Strider (USA, Europe, Brazil) (En)" id="0365">
 		<category>Games</category>
 		<description>Strider (USA, Europe, Brazil) (En)</description>
 		<rom name="Strider (USA, Europe, Brazil) (En).sms" size="524288" crc="9802ed31" md5="48af5ae2cad7c48c81d7c2553a8ed426" sha1="051e72c8ffec7606c04409ef38244cfdd592252f" sha256="300617f52af88db696e91eae551e145e2ae5eab8ad3eb06bd5ee2292d2578b6c" status="verified"/>
+	</game>
+	<game name="Strider (USA, Europe, Brazil) (En) (Demo)" id="0544" cloneofid="0365">
+		<category>Demos</category>
+		<description>Strider (USA, Europe, Brazil) (En) (Demo)</description>
+		<rom name="Strider (USA, Europe, Brazil) (En) (Demo).sms" size="131072" crc="b990269a" md5="36d936d25715103a4f8388deb4a1fed3" sha1="e8329904397b5389571f20aa1a3cac1ecc31d470" sha256="95c205b773fe0da30f8c8fcf367b813cf08741553ff513ac9186db0faf54cd4f"/>
 	</game>
 	<game name="Strider II (Europe, Brazil) (En)" id="0366">
 		<category>Games</category>
@@ -5637,11 +5637,42 @@
 		<description>Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)</description>
 		<rom name="Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms" size="262144" crc="406aa0c2" md5="6c203c7aa7003a880b80a90d96fc4a33" sha1="4116e4a742e3209ca5db9887cd92219d15cf3c9a" sha256="69f83c2765206d08e4feb609bce9c64e3fd08201c73a2dbc8c7286eb58cf3bcd" status="verified"/>
 	</game>
-	<game name="Super Mario Bros. (World) (v0.12) (Demo) (Aftermarket) (Unl)" id="1292">
+	<game name="Super Mario Bros. (World) (v0.12) (Beta) (Aftermarket) (Pirate)" id="1292" cloneofid="1300">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Super Mario Bros. (World) (v0.12) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Super Mario Bros. (World) (v0.12) (Demo) (Aftermarket) (Unl).sms" size="262144" crc="03cfb75f" md5="8933454ec4e9534655e0f4f82b458588" sha1="0be750ca8c1a4cfec2ff0af2379159d77bde5777" sha256="053f98a6b18ccd793d2bcaf2ecf09e1e93b19b360c7030a8cbfbb166e454c7a8"/>
+		<description>Super Mario Bros. (World) (v0.12) (Beta) (Aftermarket) (Pirate)</description>
+		<rom name="Super Mario Bros. (World) (v0.12) (Beta) (Aftermarket) (Pirate).sms" size="262144" crc="03cfb75f" md5="8933454ec4e9534655e0f4f82b458588" sha1="0be750ca8c1a4cfec2ff0af2379159d77bde5777" sha256="053f98a6b18ccd793d2bcaf2ecf09e1e93b19b360c7030a8cbfbb166e454c7a8" date="2026-04-01"/>
+	</game>
+	<game name="Super Mario Bros. (World) (v0.11) (Beta) (Aftermarket) (Pirate)" id="1298" cloneofid="1300">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Mario Bros. (World) (v0.11) (Beta) (Aftermarket) (Pirate)</description>
+		<rom name="Super Mario Bros. (World) (v0.11) (Beta) (Aftermarket) (Pirate).sms" size="262144" crc="f0cac76b" md5="80275113bc5e598dc442125cb15f4504" sha1="4a94e18673a792d7ede10363cddcdd60799fed4b" sha256="8ac59c69407b996eed90389268ac289af7891ca5dc3448c07f243ba4dde0df02" date="2026-03-30"/>
+	</game>
+	<game name="Super Mario Bros. (World) (Aftermarket) (Pirate)" id="1299" cloneofid="1300">
+		<category>Games</category>
+		<description>Super Mario Bros. (World) (Aftermarket) (Pirate)</description>
+		<rom name="Super Mario Bros. (World) (Aftermarket) (Pirate).sms" size="262144" crc="5a74f2b6" md5="2792e9ab189284d27014b5c572b95b59" sha1="ba19f09d40381a1d53ce1d2ff68ca40419ccce91" sha256="2e8006fdeadc31e8e20613bb29542366b8f855d8ab49a405de03e834dedef555" date="2026-08-31"/>
+		<rom name="Super Mario Bros. (World) (Aftermarket) (Pirate) (PAL).sms" size="262144" crc="a9428f1e" md5="380d5ab20c02de3116d14dc78927b9d5" sha1="ca923ba4ddce1f242c7c6e25036536eec7560166" sha256="f87262e50163e56251e7453bdf710bda29af54fe311b7f08f79814296659eb60" date="2026-08-31"/>
+	</game>
+	<game name="Super Mario Bros. (World) (v1.1) (Aftermarket) (Pirate)" id="1300">
+		<category>Games</category>
+		<description>Super Mario Bros. (World) (v1.1) (Aftermarket) (Pirate)</description>
+		<rom name="Super Mario Bros. (World) (v1.1) (Aftermarket) (Pirate).sms" size="262144" crc="d8bce987" md5="80a2e48f5fe7b517ec768a495f869fad" sha1="e28e82401c687ac3d4b287fe662040d53d1700e7" sha256="969c55ee866a35be6fe1c2ecbda9f7cdc398a3558d794e6d507b88f2d4ec2cc8" date="2026-10-01"/>
+		<rom name="Super Mario Bros. (World) (v1.1) (Aftermarket) (Pirate) (224p).sms" size="262144" crc="cf970915" md5="de9c1789021b3b9a13f0883fb09693c8" sha1="58a8f3d18a24427e4c728fda187a0fe9d9e87d65" sha256="0a0d0383a84da78b27cbd9d24bbc8a07e262e5596cb55689e26f5c1ec38b1569" date="2026-10-01"/>
+		<rom name="Super Mario Bros. (World) (v1.1) (Aftermarket) (Pirate) (PAL).sms" size="262144" crc="7f4056e3" md5="57deb27be628050610813f49938f4874" sha1="d1b23c56b090ecac070b95b7456c69c6ac6aca5e" sha256="9287dd376b8e44bcdbfaf9d28c9f73cdea27305036718c7042196ad4b44287fb" date="2026-10-01"/>
+		<rom name="Super Mario Bros. (World) (v1.1) (Aftermarket) (Pirate) (PAL 240p).sms" size="262144" crc="ae8b50a8" md5="9499a8a8c0cb45c6366b98e7d9e75045" sha1="2ee70ea938ff1059c81bad00fec073717e6d0936" sha256="bfb4a9eedf3bab2fac6537c7451d8840446290562cb1ec134a6f341f5ad105ac" date="2026-10-01"/>
+	</game>
+	<game name="Super Mario Bros. (World) (v0.1) (Beta) (Aftermarket) (Pirate)" id="1301" cloneofid="1300">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Super Mario Bros. (World) (v0.1) (Beta) (Aftermarket) (Pirate)</description>
+		<rom name="Super Mario Bros. (World) (v0.1) (Beta) (Aftermarket) (Pirate).sms" size="262144" crc="5ca26ac5" md5="9c770456dcb86db3816ef1cdf6008070" sha1="a93d020402949aa28620796474ffa2c8da3608f4" sha256="98713119b746026fd590e6872faba1903096c0abc4e77527a04cf8eee6d16289" date="2026-03-26"/>
+	</game>
+	<game name="Super Monaco GP (Europe, Brazil) (En)" id="0373">
+		<category>Games</category>
+		<description>Super Monaco GP (Europe, Brazil) (En)</description>
+		<rom name="Super Monaco GP (Europe, Brazil) (En).sms" size="262144" crc="55bf81a0" md5="efb0fb59074eab11816c8843b4135a0c" sha1="0f11b9d7d6d16b09f7be0dace3b6c7d3524da725" sha256="1e57d6f2b0df042d405aec7062643dfc01bc71bd6bf43b5803cb26c2af7c0794" status="verified"/>
 	</game>
 	<game name="Super Monaco GP (USA)" id="0374" cloneofid="0373">
 		<category>Games</category>
@@ -5659,11 +5690,6 @@
 		<category>Preproduction</category>
 		<description>Super Monaco GP (USA) (Beta 1)</description>
 		<rom name="Super Monaco GP (USA) (Beta 1).sms" size="262144" crc="dd7adbcc" md5="d399c273c48bcee0b535690c1aaefb26" sha1="3d0174017de5e16c608b56a2a5680ae5dd314140" sha256="94752cc512c1705dd41ee1c755f9b0640f39d09320bfa71fceeda7dacceb047a"/>
-	</game>
-	<game name="Super Monaco GP (Europe, Brazil) (En)" id="0373">
-		<category>Games</category>
-		<description>Super Monaco GP (Europe, Brazil) (En)</description>
-		<rom name="Super Monaco GP (Europe, Brazil) (En).sms" size="262144" crc="55bf81a0" md5="efb0fb59074eab11816c8843b4135a0c" sha1="0f11b9d7d6d16b09f7be0dace3b6c7d3524da725" sha256="1e57d6f2b0df042d405aec7062643dfc01bc71bd6bf43b5803cb26c2af7c0794" status="verified"/>
 	</game>
 	<game name="Super Monaco GP (USA) (Beta 2)" id="0722" cloneofid="0373">
 		<category>Games</category>
@@ -5830,16 +5856,16 @@
 		<description>Taz in Escape from Mars (Brazil) (En)</description>
 		<rom name="Taz in Escape from Mars (Brazil) (En).sms" size="524288" crc="11ce074c" md5="5f170677dc0d0229ec3ec7f306bb6303" sha1="36a67210ca9762f280364007fcacbd7b1416d6ee" sha256="3f88d5b7e6863fdff75758837ddb381cd765cf4a7f490d26d12e9688ab7c51a5"/>
 	</game>
+	<game name="Taz-Mania (Europe, Brazil) (En)" id="0386">
+		<category>Games</category>
+		<description>Taz-Mania (Europe, Brazil) (En)</description>
+		<rom name="Taz-Mania (Europe, Brazil) (En).sms" size="262144" crc="7cc3e837" md5="cfc878f0163933fcfcc89e134fbeb31f" sha1="ac98f23ddc24609cb77bb13102e0386f8c2a4a76" sha256="5d9c79d4d6c2bb4e7cccb8ac4719c7181d0d230e2c280bf36445856fbf89dfbf" status="verified"/>
+	</game>
 	<game name="Taz-Mania (Europe, Brazil) (En) (Beta)" id="0387" cloneofid="0386">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Taz-Mania (Europe, Brazil) (En) (Beta)</description>
 		<rom name="Taz-Mania (Europe, Brazil) (En) (Beta).sms" size="262144" crc="1b312e04" md5="707e3e397f181b6e51196a4502b8e12f" sha1="274641b3b05245504f763a5e4bc359183d16a092" sha256="ce4acd4317e4a0e49192c1d36e129a381e1d8923aa5b2ae406ede22da2d2f920"/>
-	</game>
-	<game name="Taz-Mania (Europe, Brazil) (En)" id="0386">
-		<category>Games</category>
-		<description>Taz-Mania (Europe, Brazil) (En)</description>
-		<rom name="Taz-Mania (Europe, Brazil) (En).sms" size="262144" crc="7cc3e837" md5="cfc878f0163933fcfcc89e134fbeb31f" sha1="ac98f23ddc24609cb77bb13102e0386f8c2a4a76" sha256="5d9c79d4d6c2bb4e7cccb8ac4719c7181d0d230e2c280bf36445856fbf89dfbf" status="verified"/>
 	</game>
 	<game name="Tecmo World Cup '92 (Europe) (Beta)" id="0388" cloneofid="0389">
 		<category>Games</category>
@@ -5857,16 +5883,16 @@
 		<description>Teddy Boy (USA, Europe, Brazil) (En)</description>
 		<rom name="Teddy Boy (USA, Europe, Brazil) (En).sms" size="32768" crc="2728faa3" md5="66baea0a42353ffd3f131586e0c9c4d4" sha1="6ae39718703dbf7126f71387ce24ad956710a315" sha256="dc0525958743bb2e725df0413297bcc6b1b4b744e47f397eb88037aa5157b3aa" status="verified"/>
 	</game>
+	<game name="Teddy Boy Blues (Japan) (En)" id="0391" cloneofid="0390">
+		<category>Games</category>
+		<description>Teddy Boy Blues (Japan) (En)</description>
+		<rom name="Teddy Boy Blues (Japan) (En).sms" size="32768" crc="316727dd" md5="de5d6c9e1349844b74f53caaf2af680b" sha1="fb61c04f30c83733fdbf503b16e17aa8086932df" sha256="42de9fc6028da76b4991ba81b3a666c9ae303e269d8f55c715f6518dcadb8773" status="verified"/>
+	</game>
 	<game name="Teddy Boy Blues (Japan) (En) (Beta) (Ep-MyCard)" id="0392" cloneofid="0390">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Teddy Boy Blues (Japan) (En) (Beta) (Ep-MyCard)</description>
 		<rom name="Teddy Boy Blues (Japan) (En) (Beta) (Ep-MyCard).sms" size="49152" crc="d7508041" md5="3b0b80cef02a15a7ef09f54eb22282a7" sha1="51014d89cd8770df8a3d837a0208cb69d5bf7903" sha256="11d5d918b4aed07e0caa9608c87fcfb89295e01d69a642720a0a0fa7f41a3bf1" status="verified"/>
-	</game>
-	<game name="Teddy Boy Blues (Japan) (En)" id="0391" cloneofid="0390">
-		<category>Games</category>
-		<description>Teddy Boy Blues (Japan) (En)</description>
-		<rom name="Teddy Boy Blues (Japan) (En).sms" size="32768" crc="316727dd" md5="de5d6c9e1349844b74f53caaf2af680b" sha1="fb61c04f30c83733fdbf503b16e17aa8086932df" sha256="42de9fc6028da76b4991ba81b3a666c9ae303e269d8f55c715f6518dcadb8773" status="verified"/>
 	</game>
 	<game name="Tennis Ace (Europe, Brazil) (En)" id="0393">
 		<category>Games</category>
@@ -5904,15 +5930,15 @@
 		<description>Three Dragon Story, The (Korea) (En) (Unl)</description>
 		<rom name="Three Dragon Story, The (Korea) (En) (Unl).sms" size="32768" crc="8640e7e8" md5="9acd8b2eab5453380242ab3a6417c165" sha1="a05a7a41295c38add5dfc71032d2d83b96f518b1" sha256="f0cbd5d570fa1ebc029b7e3da2d7ee26bff41fbcea6a092ae49d4f8509b04b4b" status="verified"/>
 	</game>
-	<game name="Thunder Blade (USA, Europe, Brazil) (En)" id="0399">
-		<category>Games</category>
-		<description>Thunder Blade (USA, Europe, Brazil) (En)</description>
-		<rom name="Thunder Blade (USA, Europe, Brazil) (En).sms" size="262144" crc="ae920e4b" md5="70dcee3c77e95d83fcf6df0dae30a4a8" sha1="c38f3eea4e7224bc6042723e88b26c85b1a56ddc" sha256="dd69a92212eb6dfdc6a639a862c97055276e31fc1bc4c41171051aa48fc6cff9" status="verified"/>
-	</game>
 	<game name="Thunder Blade (Japan) (En)" id="0398" cloneofid="0399">
 		<category>Games</category>
 		<description>Thunder Blade (Japan) (En)</description>
 		<rom name="Thunder Blade (Japan) (En).sms" size="262144" crc="c0ce19b1" md5="a03bbd3c75e736ce378f2c3fe47f5579" sha1="535dbd339f4b5c5efd502cffbbe719d7b3e7f1c3" sha256="8ace31d7eae687964c59642e4ccc5adf61811e91ad81d69e34c38fdcf1e8180a" status="verified"/>
+	</game>
+	<game name="Thunder Blade (USA, Europe, Brazil) (En)" id="0399">
+		<category>Games</category>
+		<description>Thunder Blade (USA, Europe, Brazil) (En)</description>
+		<rom name="Thunder Blade (USA, Europe, Brazil) (En).sms" size="262144" crc="ae920e4b" md5="70dcee3c77e95d83fcf6df0dae30a4a8" sha1="c38f3eea4e7224bc6042723e88b26c85b1a56ddc" sha256="dd69a92212eb6dfdc6a639a862c97055276e31fc1bc4c41171051aa48fc6cff9" status="verified"/>
 	</game>
 	<game name="Thunder Blade (Taiwan) (En) (Unl)" id="0654" cloneofid="0399">
 		<category>Games</category>
@@ -6150,15 +6176,15 @@
 		<description>Whack 'Em Smack 'Em Byrons Remarked (World) (Aftermarket) (Unl)</description>
 		<rom name="Whack 'Em Smack 'Em Byrons Remarked (World) (Aftermarket) (Unl).sms" size="131072" crc="be34ae87" md5="fe149e0ec2e55174df9ab66776575260" sha1="6e61b6e39c9d84ace1ad1bf9498f768ab2c0fb65" sha256="01b746c5d3d3d3b921c02b2b9e19ebe17a58137ca3cd796be0d57edebb220a65"/>
 	</game>
-	<game name="Where in the World is Carmen Sandiego (USA)" id="0417">
-		<category>Games</category>
-		<description>Where in the World is Carmen Sandiego (USA)</description>
-		<rom name="Where in the World is Carmen Sandiego (USA).sms" size="131072" crc="428b1e7c" md5="29dcfcf773ceb9ef29b524183ad89d8c" sha1="683317c8d7d8b974066d7ddb3ed64f99801aa9de" sha256="a7c7ddd36bb66eed790c01e42f30acf788809a8d37e041f845f81e0987db38ac" status="verified"/>
-	</game>
 	<game name="Where in the World is Carmen Sandiego (Brazil)" id="0416" cloneofid="0417">
 		<category>Games</category>
 		<description>Where in the World is Carmen Sandiego (Brazil)</description>
 		<rom name="Where in the World is Carmen Sandiego (Brazil).sms" size="131072" crc="88aa8ca6" md5="551e85dc05f12557a56a6528aab6421a" sha1="c848e92899dc9b6f664e98ad247fed86c0e46a41" sha256="028edd25c6caf1ad2988cdafbab61913d27789d4f926189bf0d974085f8c8d8e"/>
+	</game>
+	<game name="Where in the World is Carmen Sandiego (USA)" id="0417">
+		<category>Games</category>
+		<description>Where in the World is Carmen Sandiego (USA)</description>
+		<rom name="Where in the World is Carmen Sandiego (USA).sms" size="131072" crc="428b1e7c" md5="29dcfcf773ceb9ef29b524183ad89d8c" sha1="683317c8d7d8b974066d7ddb3ed64f99801aa9de" sha256="a7c7ddd36bb66eed790c01e42f30acf788809a8d37e041f845f81e0987db38ac" status="verified"/>
 	</game>
 	<game name="Where Is It (World) (Aftermarket) (Unl)" id="1071">
 		<category>Games</category>
@@ -6213,15 +6239,15 @@
 		<description>Wing Warriors (World) (v1.02) (Aftermarket) (Unl)</description>
 		<rom name="Wing Warriors (World) (v1.02) (Aftermarket) (Unl).sms" size="131072" crc="b930e0cf" md5="476bfb90381f5c0c109b5bf315d5c313" sha1="bb4e73190c771e16470ecdd7684a0593dd1599ab" sha256="74f731c3a9288f26b17604ca30106cc87950190a0b4412ca47b23b052529f38e"/>
 	</game>
-	<game name="Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)" id="0421">
-		<category>Games</category>
-		<description>Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)</description>
-		<rom name="Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sms" size="524288" crc="a20290b6" md5="6046d9ee439f3c76eb6713eea8ba984b" sha1="20b73d53e6868957f07b1a813b853943bfb90307" sha256="a5cae978782f9c01b877f45888976bd58458acb905dd9e2f0ac5a8faa2b8c364" status="verified"/>
-	</game>
 	<game name="Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No)" id="0420" cloneofid="0421">
 		<category>Games</category>
 		<description>Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No)</description>
 		<rom name="Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).sms" size="524288" crc="2fec2b4a" md5="d3bcf99a883e14a2f9df8dd92662710f" sha1="758f3dc68db93f35e315fbf2fcd904484cce2ad1" sha256="d984c5f732b506baea1b82fa29c4117e3f09668ae0d9a9e1f3b2ed909c627776"/>
+	</game>
+	<game name="Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)" id="0421">
+		<category>Games</category>
+		<description>Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)</description>
+		<rom name="Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sms" size="524288" crc="a20290b6" md5="6046d9ee439f3c76eb6713eea8ba984b" sha1="20b73d53e6868957f07b1a813b853943bfb90307" sha256="a5cae978782f9c01b877f45888976bd58458acb905dd9e2f0ac5a8faa2b8c364" status="verified"/>
 	</game>
 	<game name="Winter Shooter (World) (Proto) (Aftermarket) (Unl)" id="1164">
 		<category>Games</category>
@@ -6239,15 +6265,15 @@
 		<description>Wolfenstein (World) (v1.16) (Aftermarket) (Unl)</description>
 		<rom name="Wolfenstein (World) (v1.16) (Aftermarket) (Unl).sms" size="524288" crc="dd940cdf" md5="7ded13d9331ec6b0c24ea4d015003882" sha1="6aa4b40e2ba02c25951b35519a7eb50a8643e2e1" sha256="6485f41017c3003a856f19b05208c4f11189779ecfcf6c07622065f3d5d34297"/>
 	</game>
-	<game name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)" id="0423">
-		<category>Games</category>
-		<description>Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)</description>
-		<rom name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="73705c02" md5="7e805aa51bfb5f206c950a32ebcdab7c" sha1="63149f20bf69cd2f24d0e58841fcfcdace972f49" sha256="a13fa8164a0ab2d549d9a9bb3f998907c3f64b42eab9f4fae3d666abab510fdd" status="verified"/>
-	</game>
 	<game name="Wonder Boy (Japan, Europe) (En)" id="0380" cloneofid="0423">
 		<category>Games</category>
 		<description>Wonder Boy (Japan, Europe) (En)</description>
 		<rom name="Wonder Boy (Japan, Europe) (En).sms" size="131072" crc="e2fcb6f3" md5="a4e48850bf8799cfac74b1d33f5900b5" sha1="14210196f454b6d938f15cf7b52076796c5d0f7d" sha256="3990ceba93dbe106dc3493235d91fa97ee3a38eea5cf717409e7965ec251b1bb" status="verified"/>
+	</game>
+	<game name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)" id="0423">
+		<category>Games</category>
+		<description>Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)</description>
+		<rom name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="73705c02" md5="7e805aa51bfb5f206c950a32ebcdab7c" sha1="63149f20bf69cd2f24d0e58841fcfcdace972f49" sha256="a13fa8164a0ab2d549d9a9bb3f998907c3f64b42eab9f4fae3d666abab510fdd" status="verified"/>
 	</game>
 	<game name="Wonder Boy III - The Dragon's Trap (USA, Europe)" id="0424">
 		<category>Games</category>
@@ -6259,27 +6285,27 @@
 		<description>Wonder Boy III - The Dragon's Trap (World) (Digital)</description>
 		<rom name="Wonder Boy III - The Dragon's Trap (World) (Digital).sms" size="262144" crc="525f4f3d" md5="e56024a7c0d216469b960092d080ee24" sha1="89eaa054b3bb8bc6b66ef71bcc4e79fcd830900b" sha256="aed98f406643d22e863a4dbc3bcbe09879bcdd841a17342414e7b402c8d22dd3" status="verified"/>
 	</game>
+	<game name="Wonder Boy in Monster Land (USA, Europe)" id="0425">
+		<category>Games</category>
+		<description>Wonder Boy in Monster Land (USA, Europe)</description>
+		<rom name="Wonder Boy in Monster Land (USA, Europe).sms" size="262144" crc="8cbef0c1" md5="8f8aaac492de96f2cfddb9d1a57dd979" sha1="51715db7a49a18452292dadb2bba0108aa6d6402" sha256="425f24e06d0cacbaec17963bd145ee4e168ce89d972c7fd76e3cc36366d06c80" status="verified"/>
+	</game>
 	<game name="Wonder Boy in Monster Land (USA, Europe) (Beta)" id="0523" cloneofid="0425">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Wonder Boy in Monster Land (USA, Europe) (Beta)</description>
 		<rom name="Wonder Boy in Monster Land (USA, Europe) (Beta).sms" size="262144" crc="8312c429" md5="16be61f4de705cdd636d1fb1662e24de" sha1="09fdb724ccf427af7ddd8f89cf0581f2a0b2f7f1" sha256="9fa51b58d8a8f655d3a809a5970684d56c846b67897d6656187fac48635d7f2f" status="verified"/>
 	</game>
-	<game name="Wonder Boy in Monster Land (USA, Europe)" id="0425">
+	<game name="Wonder Boy in Monster World (Europe)" id="0426">
 		<category>Games</category>
-		<description>Wonder Boy in Monster Land (USA, Europe)</description>
-		<rom name="Wonder Boy in Monster Land (USA, Europe).sms" size="262144" crc="8cbef0c1" md5="8f8aaac492de96f2cfddb9d1a57dd979" sha1="51715db7a49a18452292dadb2bba0108aa6d6402" sha256="425f24e06d0cacbaec17963bd145ee4e168ce89d972c7fd76e3cc36366d06c80" status="verified"/>
+		<description>Wonder Boy in Monster World (Europe)</description>
+		<rom name="Wonder Boy in Monster World (Europe).sms" size="524288" crc="7d7ce80b" md5="5837764c172c8c43c8c7b21f2144cf27" sha1="da0acdb1b9e806aa67a0216a675cb02ed24abf8b" sha256="3fd837cf02a45b3075c5dd2efb19389aeaaf5c1029f5d144d9809a8158ff11f4" status="verified"/>
 	</game>
 	<game name="Wonder Boy in Monster World (Europe) (Beta)" id="0427" cloneofid="0426">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Wonder Boy in Monster World (Europe) (Beta)</description>
 		<rom name="Wonder Boy in Monster World (Europe) (Beta).sms" size="524288" crc="81bff9bb" md5="311aa03dcab8edcf9891397ac3297b72" sha1="7a26de7a544c602daeadbd3507028ac68ef35e91" sha256="14bbfefec8da9223f615a5ce55ecf7431670c131c311f6433cccc015f374d08c"/>
-	</game>
-	<game name="Wonder Boy in Monster World (Europe)" id="0426">
-		<category>Games</category>
-		<description>Wonder Boy in Monster World (Europe)</description>
-		<rom name="Wonder Boy in Monster World (Europe).sms" size="524288" crc="7d7ce80b" md5="5837764c172c8c43c8c7b21f2144cf27" sha1="da0acdb1b9e806aa67a0216a675cb02ed24abf8b" sha256="3fd837cf02a45b3075c5dd2efb19389aeaaf5c1029f5d144d9809a8158ff11f4" status="verified"/>
 	</game>
 	<game name="Wonder Kid (Korea) (En) (Unl)" id="1202">
 		<category>Games</category>
@@ -6301,15 +6327,15 @@
 		<description>World Class Leaderboard (Europe, Brazil) (En)</description>
 		<rom name="World Class Leaderboard (Europe, Brazil) (En).sms" size="262144" crc="c9a449b7" md5="dd04608b2b64f11dd9dc4f7db7972650" sha1="7bd82131944020a20167f37071ccc1dfa3ae0b3d" sha256="723b72e4cc7b6480bb055e782cc04c7997ccbb7ffacd2e8ed3637fdb5167087c"/>
 	</game>
-	<game name="World Cup Italia '90 (USA) (Demo)" id="0528" cloneofid="0430">
-		<category>Demos</category>
-		<description>World Cup Italia '90 (USA) (Demo)</description>
-		<rom name="World Cup Italia '90 (USA) (Demo).sms" size="131072" crc="a0cf8b15" md5="3ae0e6e3d2b81c3112cf556d1dfad7c2" sha1="b198ba9fdd2893a5e94ed224d032585a9f57f868" sha256="4eb53b48fe47667990835eccf9f06db0572cf1dfc504c0a127d106ec204fce1c"/>
-	</game>
 	<game name="World Cup Italia '90 (Europe, Brazil) (En)" id="0430">
 		<category>Games</category>
 		<description>World Cup Italia '90 (Europe, Brazil) (En)</description>
 		<rom name="World Cup Italia '90 (Europe, Brazil) (En).sms" size="131072" crc="6e1ad6fd" md5="a19d4a16be24106cd48b283b5bad5023" sha1="dfa51a4f982d0bec61532e16a679edae605d0aea" sha256="6c93a8792a253e3d3a6170c1bd694ed40ba2659600189f296149e23052b1559a" status="verified"/>
+	</game>
+	<game name="World Cup Italia '90 (USA) (Demo)" id="0528" cloneofid="0430">
+		<category>Demos</category>
+		<description>World Cup Italia '90 (USA) (Demo)</description>
+		<rom name="World Cup Italia '90 (USA) (Demo).sms" size="131072" crc="a0cf8b15" md5="3ae0e6e3d2b81c3112cf556d1dfad7c2" sha1="b198ba9fdd2893a5e94ed224d032585a9f57f868" sha256="4eb53b48fe47667990835eccf9f06db0572cf1dfc504c0a127d106ec204fce1c"/>
 	</game>
 	<game name="World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0431">
 		<category>Games</category>
@@ -6327,12 +6353,6 @@
 		<description>World Games (Europe, Brazil) (En) (Beta)</description>
 		<rom name="World Games (Europe, Brazil) (En) (Beta).sms" size="131072" crc="914d3fc4" md5="af5be770da3f73e01847c44ad97226d3" sha1="6361f796248c71ecfaaa02aafe6ddbbaebf6ebba" sha256="d36c0320afa923755e76744deb3452ecf3138084ed600cbfdc5ca2b48fab15bc"/>
 	</game>
-	<game name="World Grand Prix (USA, Brazil) (En) (Beta)" id="0548" cloneofid="0434">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>World Grand Prix (USA, Brazil) (En) (Beta)</description>
-		<rom name="World Grand Prix (USA, Brazil) (En) (Beta).sms" size="131072" crc="b5a9f824" md5="368515471f9d221de0ed1c836ce6f028" sha1="9b44f322f8c2f59ebf1372f7911046cc6b3c156c" sha256="43c6300e7109727c788a1731b51c8f40213b60cb25942b238969fd64b8a7f4c0" status="verified"/>
-	</game>
 	<game name="World Grand Prix (Europe)" id="0434">
 		<category>Games</category>
 		<description>World Grand Prix (Europe)</description>
@@ -6342,6 +6362,12 @@
 		<category>Games</category>
 		<description>World Grand Prix (USA, Brazil) (En)</description>
 		<rom name="World Grand Prix (USA, Brazil) (En).sms" size="131072" crc="7b369892" md5="75550fca836414ce7286c294d03c1b04" sha1="feff411732ca2dc17dab6d7868749d79326993d7" sha256="d7a8e6a874c227f9c60e259f2c8c4371d1c01734a6420329ce0ec5b0f33685b4" status="verified"/>
+	</game>
+	<game name="World Grand Prix (USA, Brazil) (En) (Beta)" id="0548" cloneofid="0434">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>World Grand Prix (USA, Brazil) (En) (Beta)</description>
+		<rom name="World Grand Prix (USA, Brazil) (En) (Beta).sms" size="131072" crc="b5a9f824" md5="368515471f9d221de0ed1c836ce6f028" sha1="9b44f322f8c2f59ebf1372f7911046cc6b3c156c" sha256="43c6300e7109727c788a1731b51c8f40213b60cb25942b238969fd64b8a7f4c0" status="verified"/>
 	</game>
 	<game name="World Soccer (World)" id="0436">
 		<category>Games</category>
@@ -6398,31 +6424,31 @@
 		<description>Ys (Japan)</description>
 		<rom name="Ys (Japan).sms" size="262144" crc="32759751" md5="17364162da3ccee847850dd9b403765c" sha1="614b589080b732e17cc0d253e17216a72a268955" sha256="816ddb63d3aa30e7c4fc0efb706ff5e66f4b6f17cf331d5fc97f6681d1905a61" status="verified"/>
 	</game>
-	<game name="Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)" id="0537" cloneofid="0027">
-		<category>Demos</category>
-		<description>Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)</description>
-		<rom name="Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).sms" size="262144" crc="e8b82066" md5="1fb26de7fe25803778cdc0391c7fb66f" sha1="b70757876e4ff592692eb0ee1c51c571b31541a9" sha256="734605d696d9a59fa6987f2ea8d0b9093415db4dc7718bb585fa5e8b3017ab60"/>
-	</game>
 	<game name="Ys - The Vanished Omens (USA, Europe, Brazil) (En)" id="0027">
 		<category>Games</category>
 		<description>Ys - The Vanished Omens (USA, Europe, Brazil) (En)</description>
 		<rom name="Ys - The Vanished Omens (USA, Europe, Brazil) (En).sms" size="262144" crc="b33e2827" md5="77d2ff054429f7970134e67800539a78" sha1="e73e836c353543e9f48315410b0d72278899ff59" sha256="02e9404e81bddd4ca21fef2b2711dfe562c3bd7b230bf042df3142362e29a6a9" status="verified"/>
+	</game>
+	<game name="Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)" id="0537" cloneofid="0027">
+		<category>Demos</category>
+		<description>Ys - The Vanished Omens (USA, Europe) (Ja) (Demo)</description>
+		<rom name="Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).sms" size="262144" crc="e8b82066" md5="1fb26de7fe25803778cdc0391c7fb66f" sha1="b70757876e4ff592692eb0ee1c51c571b31541a9" sha256="734605d696d9a59fa6987f2ea8d0b9093415db4dc7718bb585fa5e8b3017ab60"/>
 	</game>
 	<game name="Yuyryeong-ui Jip (Korea) (En) (Unl)" id="0596" cloneofid="0149">
 		<category>Games</category>
 		<description>Yuyryeong-ui Jip (Korea) (En) (Unl)</description>
 		<rom name="Yuyryeong-ui Jip (Korea) (En) (Unl).sms" size="32768" crc="1203afc9" md5="5d4a6cd8db303b9dc07ee8be4fe72309" sha1="8d286d46312171608d6a769a7181cb7f73acb728" sha256="4d7440b3c052a468f487771d5dc0f7d9cede19924a78a548f84966887e431c82"/>
 	</game>
+	<game name="Zaxxon 3-D (World)" id="0441">
+		<category>Games</category>
+		<description>Zaxxon 3-D (World)</description>
+		<rom name="Zaxxon 3-D (World).sms" size="262144" crc="a3ef13cb" md5="882dc10b0792be579a745c3f38010642" sha1="257946fe8a230ac1308fc60a8ed43851cfe6b915" sha256="4603df4c3b8ffb69f8cfa5555f1227ef2ca81863aa8cf48f7a899dfc26a87dac" status="verified"/>
+	</game>
 	<game name="Zaxxon 3-D (World) (Beta)" id="0442" cloneofid="0441">
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Zaxxon 3-D (World) (Beta)</description>
 		<rom name="Zaxxon 3-D (World) (Beta).sms" size="262144" crc="bba74147" md5="177eaaa2cab1df16a6b9a372d7d4846a" sha1="85a67064c71dfa58eb150cc090beb5ae6639b527" sha256="d89e942ee5ebc156cb914328124eaf07136df234663a3dad85a8c80193a77988"/>
-	</game>
-	<game name="Zaxxon 3-D (World)" id="0441">
-		<category>Games</category>
-		<description>Zaxxon 3-D (World)</description>
-		<rom name="Zaxxon 3-D (World).sms" size="262144" crc="a3ef13cb" md5="882dc10b0792be579a745c3f38010642" sha1="257946fe8a230ac1308fc60a8ed43851cfe6b915" sha256="4603df4c3b8ffb69f8cfa5555f1227ef2ca81863aa8cf48f7a899dfc26a87dac" status="verified"/>
 	</game>
 	<game name="Zemina Best 25 (Korea) (Unl)" id="0766">
 		<category>Games</category>
@@ -6449,6 +6475,11 @@
 		<description>Ziggurat 3D (World) (Aftermarket) (Unl)</description>
 		<rom name="Ziggurat 3D (World) (Aftermarket) (Unl).sms" size="32768" crc="a7b9d003" md5="f0ec9eb0de548358243874483c694b03" sha1="61cb592694d9988b6a3b301010e49554e0a04793" sha256="3a9a53581cd6a0cf4690340761c15ab27b276c790809b29c9b6c2681309ea314"/>
 	</game>
+	<game name="Zillion (Europe, Brazil) (En) (Rev 2)" id="0443">
+		<category>Games</category>
+		<description>Zillion (Europe, Brazil) (En) (Rev 2)</description>
+		<rom name="Zillion (Europe, Brazil) (En) (Rev 2).sms" size="131072" crc="7ba54510" md5="de62e3fd5411f78dd9d0958eec85bcce" sha1="5dbe3ac8c4888298f3f7008ed359d0187cf46695" sha256="cb83e7482a909d31c04b8b5caa84a2770a2192cb4049282185575a02748be947" status="verified"/>
+	</game>
 	<game name="Zillion (Japan, Europe) (En)" id="0444" cloneofid="0443">
 		<category>Games</category>
 		<description>Zillion (Japan, Europe) (En)</description>
@@ -6458,11 +6489,6 @@
 		<category>Games</category>
 		<description>Zillion (USA, Europe) (Rev 1)</description>
 		<rom name="Zillion (USA, Europe) (Rev 1).sms" size="131072" crc="5718762c" md5="d4bf9e7bcf9a48da53785d2ae7bc4270" sha1="3aab3e95dac0fa93612da20cf525dba4dc4ca6ba" sha256="0e5509bea165457643e3ec7a8e5582e1daf36516a0e9cb467b2520c32d259200" status="verified"/>
-	</game>
-	<game name="Zillion (Europe, Brazil) (En) (Rev 2)" id="0443">
-		<category>Games</category>
-		<description>Zillion (Europe, Brazil) (En) (Rev 2)</description>
-		<rom name="Zillion (Europe, Brazil) (En) (Rev 2).sms" size="131072" crc="7ba54510" md5="de62e3fd5411f78dd9d0958eec85bcce" sha1="5dbe3ac8c4888298f3f7008ed359d0187cf46695" sha256="cb83e7482a909d31c04b8b5caa84a2770a2192cb4049282185575a02748be947" status="verified"/>
 	</game>
 	<game name="Zillion II - The Tri Formation (World)" id="0446">
 		<category>Games</category>

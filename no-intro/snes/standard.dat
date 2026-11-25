@@ -4,7 +4,7 @@
 		<id>49</id>
 		<name>Nintendo - Super Nintendo Entertainment System</name>
 		<description>Nintendo - Super Nintendo Entertainment System</description>
-		<version>20261028-031919</version>
+		<version>20261125-022418</version>
 		<author>1988reload, aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, ShiroeNL, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -12,6 +12,11 @@
 		<piracy>Piracy harms consumers as well as legitimate developers, publishers and retailers. No-Intro do not help or encourage users to download or otherwise obtain any of the listed dumps. No-Intro is not part of the console scene, and is not involved in any P2P sharing.</piracy>
 		<clrmamepro forcenodump="required"/>
 	</header>
+	<game name="[BIOS] BT GameCart (United Kingdom)" id="4626">
+		<category>Applications</category>
+		<description>[BIOS] BT GameCart (United Kingdom)</description>
+		<rom name="[BIOS] BT GameCart (United Kingdom).sfc" size="65536" crc="c21550ed" md5="08c9c5c82ed656f736cff4bd758577d6" sha1="98791428d19138c56c1f10f68565080df6712366" sha256="19dc84a136735d921651bbcddd983572348699fea3d6539250b72d6ad7bc117c"/>
+	</game>
 	<game name="[BIOS] Gateway NGUR 08 - Boot ROM (Australia)" id="4615">
 		<description>[BIOS] Gateway NGUR 08 - Boot ROM (Australia)</description>
 		<rom name="[BIOS] Gateway NGUR 08 - Boot ROM (Australia).sfc" size="32768" crc="a34bc6ed" md5="54edda4b2cf60acabdb00471d6dfca9b" sha1="01ecef7703eb2dadff29855e9a2813f0248a831c" sha256="0dee8c7b27bbc835ff54c5c92d8ac806192453ab12dfb6ffd4357d80cd9ebf57"/>
@@ -402,6 +407,16 @@
 		<category>Preproduction</category>
 		<description>Aero the Acro-Bat 2 (USA) (Beta)</description>
 		<rom name="Aero the Acro-Bat 2 (USA) (Beta).sfc" size="2097152" crc="ac2e485c" md5="77d2c010e6d7dedb8910a60761e95aac" sha1="b36de2abc8d85294355f5554ffc6cf92fc569f97" sha256="8eb371cf0536f320b7110a2f3e8cf5b08bc41acabecaf2635c520515f6df1f72"/>
+	</game>
+	<game name="Aero the Acro-Bat 2 (USA) (Switch)" id="4621" cloneofid="0054">
+		<category>Games</category>
+		<description>Aero the Acro-Bat 2 (USA) (Switch)</description>
+		<rom name="Aero the Acro-Bat 2 (USA) (Switch).sfc" size="2097152" crc="3ff9743b" md5="99fb6203d5d8843a8d5f9614cb8ff82c" sha1="1c97b49d362b37cffdb8a2492cb33faa44986b6d" sha256="2009348591a7083c6efdf71a38149e933432314792807867568d1ade245504bb"/>
+	</game>
+	<game name="Aero the Acro-Bat 2 (Japan) (Switch)" id="4622" cloneofid="0054">
+		<category>Games</category>
+		<description>Aero the Acro-Bat 2 (Japan) (Switch)</description>
+		<rom name="Aero the Acro-Bat 2 (Japan) (Switch).sfc" size="2621440" crc="f37c17c1" md5="d84c5c88f49dabf80a871414416d1dae" sha1="b9c09a615a2babdf848e58a54094f5e70ef80a06" sha256="26e78c0454e232bad462d3aadc4cb2e07af68db219e5b864ace30b2a88a8f050"/>
 	</game>
 	<game name="Aerobiz (USA)" id="0056">
 		<category>Games</category>
@@ -1068,8 +1083,8 @@
 		<description>Axelay (USA) (Sample)</description>
 		<rom name="Axelay (USA) (Sample).sfc" size="1048576" crc="a0677d80" md5="6e750e560f247c4fa8f8c8b21bbe4446" sha1="bbed960711272c5970e8a41189ede55e7a7c5c49" sha256="732819cbb2a3111f067fbcd675710a50762f230c084bbfd40c7731a1962a0083"/>
 	</game>
-	<game name="Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl)" id="4370">
-		<category>Games</category>
+	<game name="Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl)" id="4370" cloneofid="1817">
+		<category>Demos</category>
 		<description>Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl)</description>
 		<rom name="Ayrton Senna Revival Show (World) (Pt) (Demo) (Unl).sfc" size="2097152" crc="611c3c6d" md5="d0aa80edb87ac6382287496a75f3b236" sha1="ac257e82e25b6cfa6f97c9054f394d58bb55cb09" sha256="e2c23d51b5bae3b501886fe96933ac2cf9e89cdb9e7e9ba6b5ae882851ca40f4"/>
 	</game>
@@ -2091,7 +2106,7 @@
 	<game name="Bubsy II (World) (The Purrfect Collection)" id="4610" cloneofid="0352">
 		<category>Games</category>
 		<description>Bubsy II (World) (The Purrfect Collection)</description>
-		<rom name="Bubsy II (World) (The Purrfect Collection).sfc" size="2097152" crc="da10bca5" md5="bf457c617fe0fa2ede2c51afe011a28c" sha1="d7ee2cb172ad6e8ea3604a4a2c1a02487719ef7a" sha256="163f4debca780626325147555ad7ebd0296b11dead6a7f6dd856d7317d634175"/>
+		<rom name="Bubsy II (World) (The Purrfect Collection).sfc" size="2097152" crc="da10bca5" md5="bf457c617fe0fa2ede2c51afe011a28c" sha1="d7ee2cb172ad6e8ea3604a4a2c1a02487719ef7a" sha256="163f4debca780626325147555ad7ebd0296b11dead6a7f6dd856d7317d634175" status="verified"/>
 	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (Europe)" id="0354">
 		<category>Games</category>
@@ -2108,6 +2123,18 @@
 		<description>Bubsy in - Claws Encounters of the Furred Kind (USA)</description>
 		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA).sfc" size="2097152" crc="444a52c1" md5="6ac508bddbabc699f181d7858ccfcf0f" sha1="9f6ff6264e0361e074f9cfee2ec4976866a781c5" sha256="811cbc3287c0959e8eb242e817684d36de664ebebc5873a1fa9958693857c438" status="verified"/>
 	</game>
+	<game name="Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 2)" id="0357" cloneofid="0354">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 2)</description>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 2).sfc" size="2097152" crc="3f3a7180" md5="973c16e278b09be01e65d4f87afd130e" sha1="6354cc73672d6c8ada94218c873d10844f616465" sha256="9587d805740e5baa0aaa6ad55dcd6a3d84de37fc2b32614fecf0d1db64af17c6"/>
+	</game>
+	<game name="Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 1)" id="3499" cloneofid="0354">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 1)</description>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (USA) (Beta 1).sfc" size="2097152" crc="49da572f" md5="382eb66dbfd43154813f0fa9a7ace54a" sha1="ffd0d78ce7e7489cb8a3870d64662e8f51debabd" sha256="2d74cddb3c2e1f193ff1046761cec3f0826ae21689ddb31d7b759e0b589dda80"/>
+	</game>
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (Steam)" id="4265" cloneofid="0354">
 		<category>Games</category>
 		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (Steam)</description>
@@ -2116,19 +2143,7 @@
 	<game name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)" id="4609" cloneofid="0354">
 		<category>Games</category>
 		<description>Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection)</description>
-		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection).sfc" size="2097152" crc="2526fd7a" md5="da9e1ba86705de2a09dbed9c69e0bced" sha1="6e461b93f82d2c7271e92df080ed98f86e0af0f9" sha256="b98fe3c93a1ad19ecad93528092d4ed9d8f7844351186f0c845d29c0457dd907"/>
-	</game>
-	<game name="Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 2)" id="0357" cloneofid="0354">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 2)</description>
-		<rom name="Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 2).sfc" size="2097152" crc="3f3a7180" md5="973c16e278b09be01e65d4f87afd130e" sha1="6354cc73672d6c8ada94218c873d10844f616465" sha256="9587d805740e5baa0aaa6ad55dcd6a3d84de37fc2b32614fecf0d1db64af17c6"/>
-	</game>
-	<game name="Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1)" id="3499" cloneofid="0354">
-		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1)</description>
-		<rom name="Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1).sfc" size="2097152" crc="49da572f" md5="382eb66dbfd43154813f0fa9a7ace54a" sha1="ffd0d78ce7e7489cb8a3870d64662e8f51debabd" sha256="2d74cddb3c2e1f193ff1046761cec3f0826ae21689ddb31d7b759e0b589dda80"/>
+		<rom name="Bubsy in - Claws Encounters of the Furred Kind (World) (The Purrfect Collection).sfc" size="2097152" crc="2526fd7a" md5="da9e1ba86705de2a09dbed9c69e0bced" sha1="6e461b93f82d2c7271e92df080ed98f86e0af0f9" sha256="b98fe3c93a1ad19ecad93528092d4ed9d8f7844351186f0c845d29c0457dd907" status="verified"/>
 	</game>
 	<game name="Buck Rogers - The Arcade Game (USA) (Beta)" id="3692" cloneofid="1222">
 		<category>Games</category>
@@ -2406,6 +2421,12 @@
 		<category>Games</category>
 		<description>Castlevania - Dracula X (USA) (Castlevania Advance Collection)</description>
 		<rom name="Castlevania - Dracula X (USA) (Castlevania Advance Collection).sfc" size="2097152" crc="49728d27" md5="b8e5a664c3198412e2da4ce787e3b770" sha1="31546aea85d2b20ae2bd224c6dfeaf57f0a46e95" sha256="d93fe9fefd0d6d7fde06e2125e5618f5e2c3749163989b1fc0427a15ca8e208c"/>
+	</game>
+	<game name="Castlevania - Symphony of the Night (World) (Demo) (Aftermarket) (Pirate)" id="4625">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Castlevania - Symphony of the Night (World) (Demo) (Aftermarket) (Pirate)</description>
+		<rom name="Castlevania - Symphony of the Night (World) (Demo) (Aftermarket) (Pirate).sfc" size="4194304" crc="a8abd9a3" md5="3f08109b70fc8e52388becc9109b429d" sha1="dd4ad426fac34d54f25b5448e794b09f1665e971" sha256="96de5eb47034b7e7a1bab23ff12a77cf8426808a4e3b940659beb16af9ee2cbc"/>
 	</game>
 	<game name="Castlevania - Vampire's Kiss (Europe)" id="0401">
 		<category>Games</category>
@@ -16634,7 +16655,7 @@
 	</game>
 	<game name="Supaplex (World) (v0.3) (Aftermarket) (Unl)" id="4619">
 		<description>Supaplex (World) (v0.3) (Aftermarket) (Unl)</description>
-		<rom name="Supaplex (World) (v0.3) (Aftermarket) (Unl).sfc" size="4194304" crc="8e68ed72" md5="f1eabf56f5c5e3d78e281af4f6d575ac" sha1="42254db2a1836df16ee2510b7733f10b4756d06e" sha256="544ce96f8026c678cc8753ee445e2800285dd01d438945e73dfc98c6c716fa89" mia="yes"/>
+		<rom name="Supaplex (World) (v0.3) (Aftermarket) (Unl).sfc" size="4194304" crc="8e68ed72" md5="f1eabf56f5c5e3d78e281af4f6d575ac" sha1="42254db2a1836df16ee2510b7733f10b4756d06e" sha256="544ce96f8026c678cc8753ee445e2800285dd01d438945e73dfc98c6c716fa89"/>
 	</game>
 	<game name="Supaplex (World) (v0.4) (Aftermarket) (Unl)" id="4620">
 		<description>Supaplex (World) (v0.4) (Aftermarket) (Unl)</description>
@@ -17665,10 +17686,10 @@
 		<description>Super Ghouls 'N Ghosts (USA) (Beta)</description>
 		<rom name="Super Ghouls 'N Ghosts (USA) (Beta).sfc" size="2097152" crc="d923c321" md5="cd011399ae520b2a7e294e3ef3cda24c" sha1="f8f03f9c63300bf3ffa1d182632c17fc606bd569" sha256="85eb7071c890a09460ab4c4af1a881193467e1835ce5ea5eee0a19e6bdfb2bbf"/>
 	</game>
-	<game name="Super Ghouls 'N Ghosts (USA) (Capcom Town)" id="4583" cloneofid="2689">
+	<game name="Super Ghouls 'N Ghosts (USA) (Retro-Bit, Capcom Town)" id="4583" cloneofid="2689">
 		<category>Games</category>
-		<description>Super Ghouls 'N Ghosts (USA) (Capcom Town)</description>
-		<rom name="Super Ghouls 'N Ghosts (USA) (Capcom Town).sfc" size="1048576" crc="0ae1b52f" md5="2ec154d3429237011cc87b9c7d5005b5" sha1="f241d6fea5d4d4ac43dcc9ef2d3d215033e8bc40" sha256="3bc106669c3594a7d3e5318a85f56bb9216aa7e3b1912dfddd57a2728a93b709"/>
+		<description>Super Ghouls 'N Ghosts (USA) (Retro-Bit, Capcom Town)</description>
+		<rom name="Super Ghouls 'N Ghosts (USA) (Retro-Bit, Capcom Town).sfc" size="1048576" crc="0ae1b52f" md5="2ec154d3429237011cc87b9c7d5005b5" sha1="f241d6fea5d4d4ac43dcc9ef2d3d215033e8bc40" sha256="3bc106669c3594a7d3e5318a85f56bb9216aa7e3b1912dfddd57a2728a93b709" status="verified"/>
 	</game>
 	<game name="Super Goal (USA) (Beta) [UNDUMPED]" id="4125" cloneofid="2691">
 		<description>Super Goal (USA) (Beta) [UNDUMPED]</description>
@@ -18687,6 +18708,11 @@
 	<game name="Super R-Type (USA)" id="2836" cloneofid="2834">
 		<description>Super R-Type (USA)</description>
 		<rom name="Super R-Type (USA).sfc" size="1048576" crc="8b22c830" md5="cfcd1ff3da5309e5021efaa58012058d" sha1="44b0a3b66756b04ebc5753f78613feadb85d6b74" sha256="05c7f6461209020785fba33007e1830820aa44ada4b1a6f991d936bf2335b15b" status="verified"/>
+	</game>
+	<game name="Super R-Type (USA) (Retro-Bit)" id="4627" cloneofid="2834">
+		<category>Games</category>
+		<description>Super R-Type (USA) (Retro-Bit)</description>
+		<rom name="Super R-Type (USA) (Retro-Bit).sfc" size="1048576" crc="ca468ca4" md5="74df3176c2fd2920473905cdc46fb886" sha1="5b903b8354d99f76fb3c2958e4a54bfc843efae9" sha256="9c9afb2b76fc5bc3c1f609e265d86cd33174c73cfe77a5f430001438fbde609c" mia="yes"/>
 	</game>
 	<game name="Super R.B.I. Baseball (USA)" id="2837">
 		<category>Games</category>
@@ -22126,7 +22152,7 @@
 	<game name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection)" id="4608" cloneofid="0354">
 		<category>Games</category>
 		<description>Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection)</description>
-		<rom name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection).sfc" size="2097152" crc="2ccf2681" md5="acef13f027de29098660d7b9ce4366f5" sha1="02ba5662fb33e846e6160a95735312b8c45881a6" sha256="d4fc45eaa6ed6df4b9d36f757901cfc0d38b3c561d7f47040e36e8ce9bf32ad3"/>
+		<rom name="Yamaneko Bubsy no Daibouken (World) (The Purrfect Collection).sfc" size="2097152" crc="2ccf2681" md5="acef13f027de29098660d7b9ce4366f5" sha1="02ba5662fb33e846e6160a95735312b8c45881a6" sha256="d4fc45eaa6ed6df4b9d36f757901cfc0d38b3c561d7f47040e36e8ce9bf32ad3" status="verified"/>
 	</game>
 	<game name="Yo-Yo Shuriken (World) (Aftermarket) (Unl)" id="3993">
 		<description>Yo-Yo Shuriken (World) (Aftermarket) (Unl)</description>
@@ -22433,6 +22459,16 @@
 		<category>Games</category>
 		<description>Zero the Kamikaze Squirrel (USA) (Limited Run Games)</description>
 		<rom name="Zero the Kamikaze Squirrel (USA) (Limited Run Games).sfc" size="2097152" crc="c98fb63a" md5="44780e97245b367df564e824915717b5" sha1="b01c1558aac43775b2dbe980775218ead36bc7a2" sha256="b0eb34277418b66ae3f4ad51d12bed3a3799753b8208c6fa18096896ff06f847"/>
+	</game>
+	<game name="Zero the Kamikaze Squirrel (USA) (Switch)" id="4623" cloneofid="3423">
+		<category>Games</category>
+		<description>Zero the Kamikaze Squirrel (USA) (Switch)</description>
+		<rom name="Zero the Kamikaze Squirrel (USA) (Switch).sfc" size="2097152" crc="9d4f7958" md5="bacac4358b987da425d8b858140b87fc" sha1="164032cbb3b191b47c9a5e2d230bb9dc2093f903" sha256="b82193e70da58268e04442b0eda54c32e8bcd5a6e12a4ad947031b7b085d898d"/>
+	</game>
+	<game name="Zero the Kamikaze Squirrel (Japan) (Switch)" id="4624" cloneofid="3423">
+		<category>Games</category>
+		<description>Zero the Kamikaze Squirrel (Japan) (Switch)</description>
+		<rom name="Zero the Kamikaze Squirrel (Japan) (Switch).sfc" size="2621440" crc="c4eaf011" md5="d49c0dc6ba3a88effa6d655e26714743" sha1="8ff6599318955ff923d49a0c5e9a19c1f787065f" sha256="105f3eb6975f682f551b3a860ecc2c49e7ef4fbac8aac3075a469d65771043ff"/>
 	</game>
 	<game name="Zero4 Champ RR (Japan)" id="3420" cloneofid="3727">
 		<category>Games</category>

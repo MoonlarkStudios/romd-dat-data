@@ -4,7 +4,7 @@
 		<id>45</id>
 		<name>Nintendo - Nintendo Entertainment System (Headered)</name>
 		<description>Nintendo - Nintendo Entertainment System (Headered)</description>
-		<version>20261025-205653</version>
+		<version>20261121-045604</version>
 		<author>1988reload, aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, BlueMoon, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Goratrix, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, ShiroeNL, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7142,14 +7142,15 @@
 		<description>Dragon Ball - Shen Long no Nazo (Japan)</description>
 		<rom name="Dragon Ball - Shen Long no Nazo (Japan).nes" size="163856" crc="2506fb77" md5="b5b0d9a7624f12e39ca0048ffe6b7b77" sha1="11d42cac06ad78f8b138fe87209fb170df8f1ceb" sha256="2a7e4c99771c4292cc9d1261a01af1d93f4d94e6865d1c257e2a19fc4dca6451" status="verified" header="4E 45 53 1A 08 04 21 48 00 00 00 00 00 00 00 01"/>
 	</game>
-	<game name="Dragon Ball 3 - Gokuu Den (Japan)" id="0589" cloneofid="2689">
+	<game name="Dragon Ball 3 - Gokuu Den (Japan) (Rev 1)" id="0589">
+		<category>Games</category>
+		<description>Dragon Ball 3 - Gokuu Den (Japan) (Rev 1)</description>
+		<rom name="Dragon Ball 3 - Gokuu Den (Japan) (Rev 1).nes" size="393232" crc="3cea8fd5" md5="b159f14af626566fe7d7944e9cb751b3" sha1="6baf54dce8714fee91c767d6ce6592067b03c27e" sha256="b7f865e4f7e80064982979f16afc659d9607519b8b858482f3d02475fb986c2b" status="verified" header="4E 45 53 1A 08 20 00 18 40 00 00 00 00 00 00 01"/>
+	</game>
+	<game name="Dragon Ball 3 - Gokuu Den (Japan)" id="2689" cloneofid="0589">
 		<category>Games</category>
 		<description>Dragon Ball 3 - Gokuu Den (Japan)</description>
-		<rom name="Dragon Ball 3 - Gokuu Den (Japan).nes" size="393232" crc="3cea8fd5" md5="b159f14af626566fe7d7944e9cb751b3" sha1="6baf54dce8714fee91c767d6ce6592067b03c27e" sha256="b7f865e4f7e80064982979f16afc659d9607519b8b858482f3d02475fb986c2b" status="verified" header="4E 45 53 1A 08 20 00 18 40 00 00 00 00 00 00 01"/>
-	</game>
-	<game name="Dragon Ball 3 - Gokuu Den (Japan) (Rev 1)" id="2689">
-		<description>Dragon Ball 3 - Gokuu Den (Japan) (Rev 1)</description>
-		<rom name="Dragon Ball 3 - Gokuu Den (Japan) (Rev 1).nes" size="393232" crc="ed45ce26" md5="0bc3d5d7d1e7f2206ce1c157402ff944" sha1="cbec2dfc44ec97928048bce33055fae11314e9f4" sha256="697c14da1378dcc231b836706c075fddd409ef2a7c25828b0062a21832a66be3" status="verified" header="4E 45 53 1A 08 20 00 18 40 00 00 00 00 00 00 01"/>
+		<rom name="Dragon Ball 3 - Gokuu Den (Japan).nes" size="393232" crc="ed45ce26" md5="0bc3d5d7d1e7f2206ce1c157402ff944" sha1="cbec2dfc44ec97928048bce33055fae11314e9f4" sha256="697c14da1378dcc231b836706c075fddd409ef2a7c25828b0062a21832a66be3" status="verified" header="4E 45 53 1A 08 20 00 18 40 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Dragon Ball Adventure (World) (Aftermarket) (Pirate)" id="6217" cloneofid="5652">
 		<category>Games</category>
@@ -18887,7 +18888,7 @@
 	<game name="Pressing Buttons (World) (Program) (Aftermarket) (Unl)" id="6077">
 		<category>Audio</category>
 		<description>Pressing Buttons (World) (Program) (Aftermarket) (Unl)</description>
-		<rom name="Pressing Buttons (World) (Program) (Aftermarket) (Unl).nes" size="24592" crc="2a5d8925" md5="05bd76e20102acf34c3f53c9ee65b353" sha1="012eeddd7c0c287af8559176eaaa64dc4aee798e" sha256="189a2f0d234f6c01310e08f2da337a8f6b2089ae6d2c668e6c32cac493cdf9d5" header="4E 45 53 1A 01 01 00 08 00 00 00 00 02 00 00 01"/>
+		<rom name="Pressing Buttons (World) (Program) (Aftermarket) (Unl).nes" size="32768" crc="9840bc4f" md5="6f393bc4583ae78ae309ca45292b8c85" sha1="8456aee380ba94bd378bd1056c296fb04e9b9762" sha256="3a9e7cd9c85e1bf0ed16f94c10271d6ae247c292b9a89369a06911a54dda9102" header="4E 45 53 1A 01 01 00 00 00 00 00 00 00 00 00 00"/>
 	</game>
 	<game name="Primitive II (World) (Aftermarket) (Pirate)" id="6208" cloneofid="5000">
 		<category>Games</category>
@@ -33923,6 +33924,12 @@
 		<category>Games</category>
 		<description>Mica - El Videojuego (World) (Es) (Demo) (Aftermarket) (Unl)</description>
 		<rom name="Mica - El Videojuego (World) (Es) (Demo) (Aftermarket) (Unl).nes" size="524304" crc="0BE95886" md5="6b9364768e1bdd5655e5bead05e725c6" sha1="18791c07b08b7800c182d46fbe892bf3bcc87d26" sha256="7e7f3f017849e0d37f973ced94428b9136b754907584a699b951e60b7d1fad9a" header="4E 45 53 1A 20 00 E1 18 10 00 00 09 00 00 00 01"/>
+	</game>
+	<game name="Mickey Mousecapade (USA) (Beta)" id="8701" cloneofid="1442">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Mickey Mousecapade (USA) (Beta)</description>
+		<rom name="Mickey Mousecapade (USA) (Beta).nes" size="65552" crc="26bbde9d" md5="510a68bec1559528920321f254b780f9" sha1="1928cba81af65daf312dfd463b9bd003f93f483f" sha256="15600a4441932c0d4e1304813291c8735255ec34c8e8a94b7e76f702242679dd" header="4E 45 53 1A 02 04 31 08 20 00 00 00 00 00 00 01"/>
 	</game>
 	<game name="Mickey's Adventure in Numberland (USA) (Beta)" id="6884" cloneofid="1443">
 		<category>Games</category>
