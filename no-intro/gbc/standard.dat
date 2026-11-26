@@ -4,7 +4,7 @@
 		<id>47</id>
 		<name>Nintendo - Game Boy Color</name>
 		<description>Nintendo - Game Boy Color</description>
-		<version>20261125-035058</version>
+		<version>20261126-030128</version>
 		<author>1988reload, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, ChuckD, coraz, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, Flashfire42, foxe, fuzzball, Gefflon, Goratrix, gordonj, Hiccup, hking0036, InternalLoss, Jack, Just001Kim, kaos, kazumi213, Lesserkuma, Madeline, MisterSheeple, Money_114, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, ShiroeNL, SonGoku, Tauwasser, togemet2, UnlockerPT, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6756,6 +6756,10 @@
 		<description>Of the World (World) (Embedded) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Of the World (World) (Embedded) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="9c7d1e49" md5="ed341fef1174fba9f17b3fc9bbb6b8e3" sha1="05f2c8131fc413c7de76ee2c4896e75df1e7ae6e" sha256="1f9b771055f8cd5369d5070efc84f29f223d0f8f02ea519ee76ff5edb88ede74"/>
 	</game>
+	<game name="Of the World (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)" id="3056">
+		<description>Of the World (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</description>
+		<rom name="Of the World (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="d708cb09" md5="a99678392cb3343e6fb712cc7412c3d6" sha1="01470fdcb9feb2db166a5c3ceb56b6c3eb249c30" sha256="f209505138b60de42f56357e154f291e9690bea883683dc58c1074c59dbfcd4e"/>
+	</game>
 	<game name="Office Combat (World) (GB Compatible) (Aftermarket) (Unl)" id="2122">
 		<category>Games</category>
 		<description>Office Combat (World) (GB Compatible) (Aftermarket) (Unl)</description>
@@ -9737,6 +9741,11 @@
 		<description>Taiyaki Fabulous Museum of Fish (World) (v1.4.2) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl)</description>
 		<rom name="Taiyaki Fabulous Museum of Fish (World) (v1.4.2) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="2d12223c" md5="9b3077bf785168c3d19d05173c443421" sha1="940ec098d7df6db344b253f713d193ed01cb1219" sha256="bb85615d5577cd9339880b2318a30ee1f136f961c6c455744fa69fc97793fd78"/>
 	</game>
+	<game name="Taiyaki Fabulous Test Kitchen (World) (Aftermarket) (Unl)" id="3054" cloneofid="3053">
+		<category>Games</category>
+		<description>Taiyaki Fabulous Test Kitchen (World) (Aftermarket) (Unl)</description>
+		<rom name="Taiyaki Fabulous Test Kitchen (World) (Aftermarket) (Unl).gbc" size="2097152" crc="b664e55c" md5="6beb659cc4e833960cbf680bc7bafe00" sha1="77bdb273442707f363fd1eebb02456ffd227622b" sha256="ddec8ef0c4ced9988c0ee5d05bbd1322e6f4dbed2d9e070067484486dce5e153"/>
+	</game>
 	<game name="Take Your Medicine (World) (En,Pt) (v1.1) (GB Compatible) (Aftermarket) (Unl)" id="2494">
 		<category>Games</category>
 		<description>Take Your Medicine (World) (En,Pt) (v1.1) (GB Compatible) (Aftermarket) (Unl)</description>
@@ -10520,6 +10529,10 @@
 		<category>Games</category>
 		<description>Vixen (World) (Aftermarket) (Unl)</description>
 		<rom name="Vixen (World) (Aftermarket) (Unl).gbc" size="524288" crc="0c347734" md5="a4b4323b2786ddf738a0feedd912a909" sha1="90f251f8f481f157de5b3efe3c8e3356ed1314b4" sha256="a43cd3a404065cf89664edd652fba8661d1c9186a6d068841e3f3266f955d85a"/>
+	</game>
+	<game name="Volvy! (World) (Aftermarket) (Unl)" id="3052">
+		<description>Volvy! (World) (Aftermarket) (Unl)</description>
+		<rom name="Volvy! (World) (Aftermarket) (Unl).gbc" size="524288" crc="d18fdfed" md5="03c0e4090b71735a9b629e0d5ac6dd1b" sha1="e3391178094a144ffa90d6e15b137e8490baf2ca" sha256="d67bbb0718b3918c526f3c9dadb2d396d7ed717f279e981d037036cb2b2f3be0"/>
 	</game>
 	<game name="VOX (World) (Aftermarket) (Unl)" id="1946">
 		<description>VOX (World) (Aftermarket) (Unl)</description>

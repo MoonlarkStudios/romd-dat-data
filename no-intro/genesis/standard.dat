@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20261124-202017</version>
+		<version>20261125-124809</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -7288,7 +7288,7 @@
 		<description>Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)</description>
 		<rom name="Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan).md" size="524288" crc="1b6585e7" md5="f5e327aa603b334fd5713fda10464748" sha1="7d489e1087a0816e2091261f6550f42a61474915" sha256="3318f7dde3fa54c69b3144a00abe7501c42277609dc0743566f246428180f4a1" serial="00004012-00"/>
 	</game>
-	<game name="Hokuto Soccer Densetsu (World) (En,Fr) (Demo) (Aftermarket) (Unl)" id="4087">
+	<game name="Hokuto Soccer Densetsu (World) (En,Fr) (Demo) (Aftermarket) (Unl)" id="4087" cloneofid="4096">
 		<category>Demos</category>
 		<category>Games</category>
 		<description>Hokuto Soccer Densetsu (World) (En,Fr) (Demo) (Aftermarket) (Unl)</description>
