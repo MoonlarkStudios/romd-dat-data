@@ -4,7 +4,7 @@
 		<id>32</id>
 		<name>Sega - Mega Drive - Genesis</name>
 		<description>Sega - Mega Drive - Genesis</description>
-		<version>20261125-124809</version>
+		<version>20261127-004902</version>
 		<author>1988reload, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, ShiroeNL, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -886,6 +886,12 @@
 		<category>Games</category>
 		<description>Alligator Game (World) (Aftermarket) (Unl)</description>
 		<rom name="Alligator Game (World) (Aftermarket) (Unl).md" size="917504" crc="8bc5c540" md5="088147066b408ac751ef950d058b3c30" sha1="3c3bb248395d03518dafc87b790048728b0900f4" sha256="776c436299d35a384b75408bb3fdba56e1209d9f7bc5a78b60f9592e49aef5a4" serial="50936396-00"/>
+	</game>
+	<game name="Alone in the Dark (World) (Proto) (Aftermarket) (Pirate)" id="4101">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Alone in the Dark (World) (Proto) (Aftermarket) (Pirate)</description>
+		<rom name="Alone in the Dark (World) (Proto) (Aftermarket) (Pirate).md" size="15728640" crc="3ffa2e22" md5="2a458af190b430489e57e48ddc4f9a06" sha1="321fab6e3c56e0d869a947eeda6dbf3dba26499b" sha256="147b7285a1e216a9c260c257a08877dd00f1a0b979a6f2127be32cdbef78ab90" serial="MXRDev aitd"/>
 	</game>
 	<game name="Altered Beast (USA, Europe) (Rev 2)" id="0103">
 		<category>Games</category>
@@ -2430,6 +2436,11 @@
 		<category>Games</category>
 		<description>Bottle Taps Race (USA) (Unl)</description>
 		<rom name="Bottle Taps Race (USA) (Unl).md" size="88070" crc="0af12b94" md5="d7ac6ba71e11f399bb3a8f4294016d0a" sha1="5f07f90d17dcd06a461969fd2c709867e392cefe" sha256="d63ec4a7f7340634a2f18dad7733d42a8cb1b530fbf0fae806b880d3c2ea7055" serial="GM 00000000-00"/>
+	</game>
+	<game name="Boulder Dash (World) (Aftermarket) (Pirate)" id="4097">
+		<category>Games</category>
+		<description>Boulder Dash (World) (Aftermarket) (Pirate)</description>
+		<rom name="Boulder Dash (World) (Aftermarket) (Pirate).md" size="2097152" crc="f24009cf" md5="1bd77fc9bfd5544cc4fe83166bd5bb8b" sha1="beea0ff35ec17f0c500695877b29a4a4befacff5" sha256="009bcded303c37d3c987fac52806e119ee6e3947685e38370aaaee0cf5be5e26" serial="BD-MD-019"/>
 	</game>
 	<game name="Boxing Legends of the Ring (USA)" id="0215">
 		<category>Games</category>
@@ -7701,17 +7712,25 @@
 		<description>Iron Man (World) (Aftermarket) (Unl)</description>
 		<rom name="Iron Man (World) (Aftermarket) (Unl).md" size="917504" crc="d9117899" md5="2241d93fbd9cd19fd41ebb20d769224e" sha1="9ed5d4571e37fe4401b376c40ecfdd80db19ef99" sha256="5be7886c667be2b821b770a577810073e88aa979c355aa5274af663ffda16b6b" serial="00000000-00"/>
 	</game>
-	<game name="Iron Sector (World) (Proto 2) (Aftermarket) (Unl)" id="4090">
+	<game name="Iron Sector (World) (v1.1) (Aftermarket) (Unl)" id="4090" cloneofid="4102">
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Iron Sector (World) (Proto 2) (Aftermarket) (Unl)</description>
-		<rom name="Iron Sector (World) (Proto 2) (Aftermarket) (Unl).md" size="1048576" crc="1c5d8822" md5="8b96a9a28cb6cde640eb0c83926c50de" sha1="6d63b37b94c1f7da267cb3d9b13395683fd4908e" sha256="84772bd273acf75cb0feaaaccb1fbf54b3c300ac44274d512d46dae2df768b8c" serial="00001984-00"/>
+		<description>Iron Sector (World) (v1.1) (Aftermarket) (Unl)</description>
+		<rom name="Iron Sector (World) (v1.1) (Aftermarket) (Unl).md" size="1048576" crc="1c5d8822" md5="8b96a9a28cb6cde640eb0c83926c50de" sha1="6d63b37b94c1f7da267cb3d9b13395683fd4908e" sha256="84772bd273acf75cb0feaaaccb1fbf54b3c300ac44274d512d46dae2df768b8c" serial="00001984-00"/>
 	</game>
-	<game name="Iron Sector (World) (Proto 1) (Aftermarket) (Unl)" id="4091" cloneofid="4090">
+	<game name="Iron Sector (World) (Aftermarket) (Unl)" id="4091" cloneofid="4102">
 		<category>Games</category>
-		<category>Preproduction</category>
-		<description>Iron Sector (World) (Proto 1) (Aftermarket) (Unl)</description>
-		<rom name="Iron Sector (World) (Proto 1) (Aftermarket) (Unl).md" size="524288" crc="c2b8c06f" md5="36c40c6894e1acba05f618b57b1e16de" sha1="6c6d99a8eb3347677d8c040f00bca24ab0e47db4" sha256="dba7bcf5a2d469d94930b125a9766fefe14eb342accfd23c4fd1ba62c900ea9b" serial="00001984-00"/>
+		<description>Iron Sector (World) (Aftermarket) (Unl)</description>
+		<rom name="Iron Sector (World) (Aftermarket) (Unl).md" size="524288" crc="c2b8c06f" md5="36c40c6894e1acba05f618b57b1e16de" sha1="6c6d99a8eb3347677d8c040f00bca24ab0e47db4" sha256="dba7bcf5a2d469d94930b125a9766fefe14eb342accfd23c4fd1ba62c900ea9b" serial="00001984-00"/>
+	</game>
+	<game name="Iron Sector (World) (v1.4.5b) (Aftermarket) (Unl)" id="4102">
+		<category>Games</category>
+		<description>Iron Sector (World) (v1.4.5b) (Aftermarket) (Unl)</description>
+		<rom name="Iron Sector (World) (v1.4.5b) (Aftermarket) (Unl).md" size="2097152" crc="e44e0762" md5="ce295cdd62d2807fa3575aeed55fdce7" sha1="20db61e20a0653b127fb57c47de6d0481314f741" sha256="990c3cb8d00cfe5772d21ad91fea1ce56611e6549b95b41b6e1561c263e1d874" serial="00001984-45"/>
+	</game>
+	<game name="Iron Sector (World) (v1.4) (Aftermarket) (Unl)" id="4103" cloneofid="4102">
+		<category>Games</category>
+		<description>Iron Sector (World) (v1.4) (Aftermarket) (Unl)</description>
+		<rom name="Iron Sector (World) (v1.4) (Aftermarket) (Unl).md" size="1048576" crc="9983a894" md5="af720b10dcc614994e2a8db8b8e87360" sha1="7d059c25dbc6b73a95680b7d5c0401ba14737215" sha256="320f0a37596a90019bc01d731cfe20f6be29ce6027f4b7d9bf72c433ae113dcc" serial="00001984-00"/>
 	</game>
 	<game name="Ishido - The Way of Stones (USA) (Unl)" id="0627">
 		<category>Games</category>
@@ -12755,6 +12774,11 @@
 		<description>Prehistoric Isle MD (World) (v0.91) (4MB) (Aftermarket) (Pirate)</description>
 		<rom name="Prehistoric Isle MD (World) (v0.91) (4MB) (Aftermarket) (Pirate).md" size="4194304" crc="4cfead6c" md5="0804d0d06d963ce332fb67ef89782e00" sha1="ff280b9dd4b527e454f1a295419f3a21a18cb9d4" sha256="7c5cc3e1d3b3abeb1e796131009c06b0176d8e42a215c34e4719cc9af3ad5a50" serial="00000000-00"/>
 	</game>
+	<game name="Prehistorik (World) (v1.1) (Aftermarket) (Pirate)" id="4098">
+		<category>Games</category>
+		<description>Prehistorik (World) (v1.1) (Aftermarket) (Pirate)</description>
+		<rom name="Prehistorik (World) (v1.1) (Aftermarket) (Pirate).md" size="3310784" crc="8a8d315b" md5="34bff4d8a0d5de27a94c78447ab20f73" sha1="d6b1aa51521fdb3d812d22c06084ce8739d85a64" sha256="4d51b576d06d94a40cfcc23e3cd609314f0f7696553b48a37cd5f786aeba2e9c" serial="00000000-00"/>
+	</game>
 	<game name="Premier Manager (Europe)" id="1033">
 		<category>Games</category>
 		<description>Premier Manager (Europe)</description>
@@ -15042,6 +15066,7 @@
 		<rom name="Sonic &amp; Knuckles + Sonic 3 (Europe) (Lock-On).md" size="4194304" crc="92f0929e" md5="69de380d92f740fe94aa0a95a08581b3" sha1="45ca797353756787c8abaacbe84ce662166ac0ee" sha256="9cc2316eddbc874840b4913f53618a826f12c0d5ed48149855b19422231e4496" status="verified" serial="MK-1563-00"/>
 	</game>
 	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)" id="1217">
+		<category>Games</category>
 		<description>Sonic &amp; Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On)</description>
 		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA, Europe) (Lock-On).md" size="2621440" crc="e01f6ed5" md5="17ffe04bb891253e7ac3fb0952bb2edb" sha1="a3084262f5af481df1a5c5ab03c4862551a53c91" sha256="787cf4c930670f8b3eed36c6a5a6410280246f05e78a15ef54ed3eda86ac9ca1" status="verified" serial="MK-1563-00"/>
 	</game>
@@ -15049,6 +15074,11 @@
 		<category>Games</category>
 		<description>Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A) (Lock-On)</description>
 		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog (Japan, Europe, Korea) (En) (Rev A) (Lock-On).md" size="2621440" crc="b6c67eac" md5="7bd6d3708af3a36983107249a3ab5505" sha1="252fdd1e3f1dc630e13a5ff51162bb454e6fed34" sha256="8615d48501d214b4cfb5be88867236115518791eba896f458d84e4ef32a90b9f" serial="MK-1563-00"/>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA) (Sega Channel) (Lock-On)" id="4104" cloneofid="1217">
+		<category>Games</category>
+		<description>Sonic &amp; Knuckles + Sonic The Hedgehog (USA) (Sega Channel) (Lock-On)</description>
+		<rom name="Sonic &amp; Knuckles + Sonic The Hedgehog (USA) (Sega Channel) (Lock-On).md" size="2147008" crc="db0c9f46" md5="b30abeb35055760027fd228f8f5df63d" sha1="eef4ed357a730c09debcc9abc38e4a60c26fabdd" sha256="45f6e3c5280b5acc558a9ea0ace86752021fe0e0f847d735288c94fe38998f81" serial="MK-1563-00"/>
 	</game>
 	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog 2 (World) (Beta)" id="2122" cloneofid="2848">
 		<category>Games</category>
@@ -15938,25 +15968,30 @@
 		<description>Story of Thor, The - Hikari o Tsugumono (Japan)</description>
 		<rom name="Story of Thor, The - Hikari o Tsugumono (Japan).md" size="3145728" crc="4f39783c" md5="3285ef5a23fdb908d77da525e694af03" sha1="54296f5cf1917c568bb29b0086641c282b8884bd" sha256="cd46151977b166eb8fcb5ea6079f5093d82dbbfe9345aa4cd89cc23ee3d1fcf2" serial="G-5543-00"/>
 	</game>
-	<game name="Street Fighter (World) (v1.5.1) (Aftermarket) (Pirate)" id="3944" cloneofid="4033">
+	<game name="Street Fighter (World) (v1.5.1) (Aftermarket) (Pirate)" id="3944" cloneofid="4100">
 		<category>Games</category>
 		<description>Street Fighter (World) (v1.5.1) (Aftermarket) (Pirate)</description>
 		<rom name="Street Fighter (World) (v1.5.1) (Aftermarket) (Pirate).md" size="4194304" crc="2a24293e" md5="efad20e9b7bc6799c90dda09c245907f" sha1="0cf4c6284b7d20f764d8b2fdf5ee41ab333f7efe" sha256="3b695b3eff115f214a18c8f77db2fe2a9cf7269744ae3a4d51b3da51559c4d76" serial="SF-MD-151"/>
 	</game>
-	<game name="Street Fighter (World) (v1.5) (Aftermarket) (Pirate)" id="3980" cloneofid="4033">
+	<game name="Street Fighter (World) (v1.5) (Aftermarket) (Pirate)" id="3980" cloneofid="4100">
 		<category>Games</category>
 		<description>Street Fighter (World) (v1.5) (Aftermarket) (Pirate)</description>
 		<rom name="Street Fighter (World) (v1.5) (Aftermarket) (Pirate).md" size="4194304" crc="d8167ba0" md5="9614c6a7e78ead6b4cb6047fa7fe1782" sha1="38edefff29957674aa3b1d900a04c5809d0ef1fd" sha256="e0105c7f0f07ae3599446cd964ea8bf3654d7dba467a78b96faa73c3cea60169" serial="SF-MD-15"/>
 	</game>
-	<game name="Street Fighter (World) (v1.3) (Aftermarket) (Pirate)" id="3981" cloneofid="4033">
+	<game name="Street Fighter (World) (v1.3) (Aftermarket) (Pirate)" id="3981" cloneofid="4100">
 		<category>Games</category>
 		<description>Street Fighter (World) (v1.3) (Aftermarket) (Pirate)</description>
 		<rom name="Street Fighter (World) (v1.3) (Aftermarket) (Pirate).md" size="4194304" crc="bf349c0a" md5="abba9d31bd75f853f95c7ec0c5fa25ae" sha1="531a63f864d7c8a1955bbf119f0d6b4114e94e10" sha256="2fcba75f1dd66fdb56c1324e3e825c77e6653b8178955fc8fde08847c72de905" serial="SF-MD-13"/>
 	</game>
-	<game name="Street Fighter (World) (v1.6) (Aftermarket) (Pirate)" id="4033">
+	<game name="Street Fighter (World) (v1.6) (Aftermarket) (Pirate)" id="4033" cloneofid="4100">
 		<category>Games</category>
 		<description>Street Fighter (World) (v1.6) (Aftermarket) (Pirate)</description>
 		<rom name="Street Fighter (World) (v1.6) (Aftermarket) (Pirate).md" size="4194304" crc="c3a1bc24" md5="015f90ca5bb4e6fcb53a5ad9df892a6b" sha1="de4a25c429102a8af680742eb1637d60ee5b53d1" sha256="2af0d02cb29f0e25795c9932a877df23900f0d805d7efcc544d696d6a26e4295" serial="SF-MD-16"/>
+	</game>
+	<game name="Street Fighter (World) (v1.6.1) (Aftermarket) (Pirate)" id="4100">
+		<category>Games</category>
+		<description>Street Fighter (World) (v1.6.1) (Aftermarket) (Pirate)</description>
+		<rom name="Street Fighter (World) (v1.6.1) (Aftermarket) (Pirate).md" size="4194304" crc="2cd578a3" md5="a4bdfa93e4ac4a0ce0f5a1796a19195b" sha1="239043254e21e50e3a14b1a935ffbc74c8af12f5" sha256="394fec9bdb3d4c8dde78c69c16ad2f6af02228c29490052125dce29d0b6bcef4" serial="SF-MD-161"/>
 	</game>
 	<game name="Street Fighter II' - Champion Edition (Europe) (Beta)" id="2466" cloneofid="1293">
 		<category>Games</category>
@@ -17317,10 +17352,15 @@
 		<description>Thunder Force II (USA, Europe)</description>
 		<rom name="Thunder Force II (USA, Europe).md" size="524288" crc="9b1561b3" md5="2cd56a01eef20b74ab7ea532f9b25a94" sha1="b81e7ebc4ceb6c1ae2975d27e0a78ba1e8546b5f" sha256="18f3de9df459b0b1e398f373c00d3004b4b247a2e683ff5577bf4cc30a732a39" status="verified" serial="M--8010-00"/>
 	</game>
-	<game name="Thunder Force II Deluxe (World) (Aftermarket) (Pirate)" id="4092">
+	<game name="Thunder Force II Deluxe (World) (Aftermarket) (Pirate)" id="4092" cloneofid="4099">
 		<category>Games</category>
 		<description>Thunder Force II Deluxe (World) (Aftermarket) (Pirate)</description>
 		<rom name="Thunder Force II Deluxe (World) (Aftermarket) (Pirate).md" size="9437184" crc="3b18693a" md5="60f72d5180ad5bece40ea9446737afa3" sha1="8c4093c0e8c4dca31e69f619224e6986fe0bc037" sha256="9a66c19f6d33bb8f5a45c27613679672b0bf165a4855ff7618a2e144fa339b2c" serial="00000000-00"/>
+	</game>
+	<game name="Thunder Force II Deluxe (World) (v1.1) (Aftermarket) (Pirate)" id="4099">
+		<category>Games</category>
+		<description>Thunder Force II Deluxe (World) (v1.1) (Aftermarket) (Pirate)</description>
+		<rom name="Thunder Force II Deluxe (World) (v1.1) (Aftermarket) (Pirate).md" size="9437184" crc="d02f32ba" md5="a15e1cef5ad7784fb2bc17170265122a" sha1="aa04438b2bc07fc03971eaebee3ebc2c202ae177" sha256="09d0565e631241c9ee4271a274dc81539689e38942b1e603d00b165cc405d1a5" serial="00000000-00"/>
 	</game>
 	<game name="Thunder Force II MD (Japan) (En)" id="1414" cloneofid="1413">
 		<category>Games</category>

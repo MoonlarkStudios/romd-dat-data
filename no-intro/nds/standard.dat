@@ -4,7 +4,7 @@
 		<id>28</id>
 		<name>Nintendo - Nintendo DS (Decrypted)</name>
 		<description>Nintendo - Nintendo DS (Decrypted)</description>
-		<version>20261126-053341</version>
+		<version>20261126-175939</version>
 		<author>1988reload, aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kaos, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, smesgr, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6155,7 +6155,7 @@
 	</game>
 	<game name="Diary Girl (USA)" id="2209" cloneofid="3453">
 		<description>Diary Girl (USA)</description>
-		<rom name="Diary Girl (USA).nds" size="8388608" crc="c14616ab" md5="684aa4e56190a256a654db64a4411b68" sha1="4df33f92ca6ff716ad16c0278641abad6553211d" serial="YGDE"/>
+		<rom name="Diary Girl (USA).nds" size="8388608" crc="c14616ab" md5="684aa4e56190a256a654db64a4411b68" sha1="4df33f92ca6ff716ad16c0278641abad6553211d" sha256="d72af3019f22ec4dda08ed7ea767d471b1570eb61f174624ac66580968440a06" serial="YGDE"/>
 	</game>
 	<game name="Diddl in the Cheesecakeland - Diddl en Diddland (Europe) (En,Fr,De)" id="5656">
 		<description>Diddl in the Cheesecakeland - Diddl en Diddland (Europe) (En,Fr,De)</description>
@@ -10515,8 +10515,9 @@
 		<rom name="Happy Bakery (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="266beb91" md5="00a2e60fd84caf526fdc8d78b981892a" sha1="dadb78c4f24a75009b6f0ad6420894463927135d" sha256="30aa183fa900ac0f9e725c057781b2c2cf4997c2beaf7b412e04cbeab4ee169c" status="verified" serial="YU3P"/>
 	</game>
 	<game name="Happy Cooking (USA)" id="3399" cloneofid="3750">
+		<category>Games</category>
 		<description>Happy Cooking (USA)</description>
-		<rom name="Happy Cooking (USA).nds" size="33554432" crc="8fecec09" md5="6a4ad9bd033f80511c3d722c77d1bcc3" sha1="bdbc7723aead8548f598979e46ff2fbd38878f1f" serial="CHVE"/>
+		<rom name="Happy Cooking (USA).nds" size="33554432" crc="8fecec09" md5="6a4ad9bd033f80511c3d722c77d1bcc3" sha1="bdbc7723aead8548f598979e46ff2fbd38878f1f" sha256="ef8d167cb49428ff593007e2623949127f2461bd4ec94a78bda2623394b319f8" status="verified" serial="CHVE"/>
 	</game>
 	<game name="Happy Cooking - Touch Pen de Tanoshiku Oryouri (Japan)" id="4065" cloneofid="3750">
 		<description>Happy Cooking - Touch Pen de Tanoshiku Oryouri (Japan)</description>
@@ -10653,7 +10654,7 @@
 	</game>
 	<game name="Harvest Moon - Frantic Farming (USA)" id="4150" cloneofid="5405">
 		<description>Harvest Moon - Frantic Farming (USA)</description>
-		<rom name="Harvest Moon - Frantic Farming (USA).nds" size="16777216" crc="0cfbd54b" md5="96c78a5e475647f143fa38db4b64a45f" sha1="1803922a340133098c5faf1be21e3971c02fb2a4" serial="C5QE"/>
+		<rom name="Harvest Moon - Frantic Farming (USA).nds" size="16777216" crc="0cfbd54b" md5="96c78a5e475647f143fa38db4b64a45f" sha1="1803922a340133098c5faf1be21e3971c02fb2a4" sha256="fe65b3c9db6dd94e117d58c02efda3ed58305ee1ce66b1bf96bc35a61bca4295" status="verified" serial="C5QE"/>
 	</game>
 	<game name="Harvest Moon - Frantic Farming (Europe)" id="5405">
 		<description>Harvest Moon - Frantic Farming (Europe)</description>
@@ -11910,8 +11911,9 @@
 		<rom name="Imagine - Babysitters (USA) (En,Fr,Es,Pt).nds" size="33554432" crc="be648def" md5="62453ef183e8ec6f33d83728fd731d56" sha1="c66e8cfe7c2ecae333dfdf27d6db4b5f1039f614" serial="CIZE"/>
 	</game>
 	<game name="Imagine - Babyz (USA) (En,Fr,Es)" id="1817" cloneofid="1597">
+		<category>Games</category>
 		<description>Imagine - Babyz (USA) (En,Fr,Es)</description>
-		<rom name="Imagine - Babyz (USA) (En,Fr,Es).nds" size="33554432" crc="e4daa42e" md5="f330823833bbd302b992671b01b63972" sha1="1fc998347fd885907ba9e07c06984a39cd9280ef" serial="YIBE"/>
+		<rom name="Imagine - Babyz (USA) (En,Fr,Es).nds" size="33554432" crc="e4daa42e" md5="f330823833bbd302b992671b01b63972" sha1="1fc998347fd885907ba9e07c06984a39cd9280ef" sha256="e8b7ba487dc035b6d7a8ea91922185f3b3b717aa1ce4dcecb9eec05c8470dbd3" serial="YIBE"/>
 	</game>
 	<game name="Imagine - Babyz Fashion (USA) (En,Fr,Es) (NDSi Enhanced)" id="5128" cloneofid="6512">
 		<description>Imagine - Babyz Fashion (USA) (En,Fr,Es) (NDSi Enhanced)</description>
@@ -12974,8 +12976,9 @@
 		<rom name="Jewel Quest 5 - The Sleepless Star (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="00068243" md5="ca8e03673b92fa1e67aa91f661d5c2e7" sha1="036d62bae7ba955e90e6e29625fd71f135d30443" serial="TJ5P"/>
 	</game>
 	<game name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Nl)" id="5818">
+		<category>Games</category>
 		<description>Jewel Quest IV - Heritage (Europe) (En,Fr,De,Nl)</description>
-		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="59799645" md5="5719cde906b19ce9fe02c599ee5da0fd" sha1="417b116e6732ec442f2405ac2188e90c7fca8954" status="verified" serial="BV8P"/>
+		<rom name="Jewel Quest IV - Heritage (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="59799645" md5="5719cde906b19ce9fe02c599ee5da0fd" sha1="417b116e6732ec442f2405ac2188e90c7fca8954" sha256="060247c51ac7d2e1e03fce8d41d12073632eb525639e3a30a5f4b2d11337e929" status="verified" serial="BV8P"/>
 	</game>
 	<game name="Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl)" id="5970">
 		<description>Jewel Quest Mysteries 2 - Trail of the Midnight Heart (Europe) (En,Fr,De,Nl)</description>
@@ -14902,8 +14905,9 @@
 		<rom name="Legend of Spyro, The - Dawn of the Dragon (Europe) (En,Fr,De,Es,It,Nl).nds" size="134217728" crc="e9ef5b05" md5="6dfdcbd219b0b49686d929ea851ae382" sha1="50e1fb466099138d726812831dcefada1dd8cc40" sha256="f1c0c323c63dc5a345ba2598a41ceaedc30a0863be04ac9191104bf7cad4af73" status="verified" serial="YO8P"/>
 	</game>
 	<game name="Legend of Spyro, The - The Eternal Night (USA)" id="1473" cloneofid="1580">
+		<category>Games</category>
 		<description>Legend of Spyro, The - The Eternal Night (USA)</description>
-		<rom name="Legend of Spyro, The - The Eternal Night (USA).nds" size="67108864" crc="db86780f" md5="5f632a655a1944c0280d5a5c41f9b8ae" sha1="05deddef7aca64a5c86221beb15313e455ebe459" serial="A6TE"/>
+		<rom name="Legend of Spyro, The - The Eternal Night (USA).nds" size="67108864" crc="db86780f" md5="5f632a655a1944c0280d5a5c41f9b8ae" sha1="05deddef7aca64a5c86221beb15313e455ebe459" sha256="e19bfabce46e8a8c6e0352f2c1c78d6489bc981a2e414352891e0dc124b93745" serial="A6TE"/>
 	</game>
 	<game name="Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)" id="1580">
 		<description>Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -19173,8 +19177,9 @@
 		<rom name="My World, My Way (USA).nds" size="67108864" crc="81bc95fc" md5="d01f9b2e6ac72ff45797110b4762d6d1" sha1="d758d90630b0d185d2a8e6f15cd41fc8bb018293" serial="YFME"/>
 	</game>
 	<game name="MySims (Europe) (En,Fr,De,Es,It,Nl)" id="1417">
+		<category>Games</category>
 		<description>MySims (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="MySims (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="57ec9d99" md5="789ded10d34d287700d6d62c9963d392" sha1="bfb5c073d6e30235eaef3c4471082a4a2129db41" status="verified" serial="AQIP"/>
+		<rom name="MySims (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="57ec9d99" md5="789ded10d34d287700d6d62c9963d392" sha1="bfb5c073d6e30235eaef3c4471082a4a2129db41" sha256="61c09ea40fe1b5ac6445e878f456435920ab3604d389ee9f21be12a23908ad6d" status="verified" serial="AQIP"/>
 	</game>
 	<game name="MySims (USA) (En,Fr,Es)" id="1422" cloneofid="1417">
 		<category>Games</category>
@@ -21278,7 +21283,7 @@
 	<game name="Paws &amp; Claws - Pet Vet (USA)" id="0801" cloneofid="1302">
 		<category>Games</category>
 		<description>Paws &amp; Claws - Pet Vet (USA)</description>
-		<rom name="Paws &amp; Claws - Pet Vet (USA).nds" size="16777216" crc="85b02397" md5="5ba047e829b2c85089fdecba6974fc3a" sha1="5d5443fd84b909c60cf96d4cf5396e78b585ca10" serial="AQVE"/>
+		<rom name="Paws &amp; Claws - Pet Vet (USA).nds" size="16777216" crc="85b02397" md5="5ba047e829b2c85089fdecba6974fc3a" sha1="5d5443fd84b909c60cf96d4cf5396e78b585ca10" sha256="1a4cecf866e97bc3b377bcf854ed8aec3c17c8846f17e02718318ae74e98a109" serial="AQVE"/>
 	</game>
 	<game name="Paws &amp; Claws - Pet Vet - Australian Adventures (USA)" id="4307" cloneofid="3838">
 		<description>Paws &amp; Claws - Pet Vet - Australian Adventures (USA)</description>
@@ -21507,8 +21512,9 @@
 		<rom name="Petz - Catz - Koneko to Issho ni Tanoshiku Asobou (Japan).nds" size="33554432" crc="73bae5a6" md5="ecfb89a805fb227639de41bc28f17719" sha1="cc402744759229a676aceb325e328cdd88b48352" serial="CATJ"/>
 	</game>
 	<game name="Petz - Catz 2 (USA) (En,Fr,Es)" id="1819" cloneofid="1615">
+		<category>Games</category>
 		<description>Petz - Catz 2 (USA) (En,Fr,Es)</description>
-		<rom name="Petz - Catz 2 (USA) (En,Fr,Es).nds" size="16777216" crc="48426b4c" md5="98d3c98075648698d018396c2759675e" sha1="55df9d185a173daba41686207f84ad10bc6b832b" serial="YC8E"/>
+		<rom name="Petz - Catz 2 (USA) (En,Fr,Es).nds" size="16777216" crc="48426b4c" md5="98d3c98075648698d018396c2759675e" sha1="55df9d185a173daba41686207f84ad10bc6b832b" sha256="57c6264e82720208f13d1345077266ca965261f6413c69acd8751abc840c576b" status="verified" serial="YC8E"/>
 	</game>
 	<game name="Petz - Catz Clan (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)" id="3366" cloneofid="3416">
 		<description>Petz - Catz Clan (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
@@ -23344,8 +23350,9 @@
 		<rom name="Prinzessin Lillifee - Meine Liebsten Freunde (Europe) (En,De).nds" size="67108864" crc="dff1a270" md5="43c6f008848055b3b7b39ce02a275e30" sha1="970de982a4b1e0ec5535a8952768929e52107d4e" serial="CYLP"/>
 	</game>
 	<game name="Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De)" id="3095" cloneofid="3227">
+		<category>Games</category>
 		<description>Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De)</description>
-		<rom name="Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De).nds" size="67108864" crc="e7c1636a" md5="a58c3d92912a2e81e86e2394e83f4b79" sha1="c35001e8db7337f5b5c66231f3d1dedafdd66056" serial="YYLX"/>
+		<rom name="Prinzessin Lillifee - Meine Wunderbare Welt (Germany) (En,De).nds" size="67108864" crc="e7c1636a" md5="a58c3d92912a2e81e86e2394e83f4b79" sha1="c35001e8db7337f5b5c66231f3d1dedafdd66056" sha256="5c7fb7f02ddc57ed7d699fa7a69a2e650ba0ddf3b99a2d1b38ea63888df507d2" status="verified" serial="YYLX"/>
 	</game>
 	<game name="Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)" id="4734">
 		<description>Prinzessin Lillifee Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
@@ -23989,8 +23996,9 @@
 		<rom name="Questions pour un Champion - Le Jeu Officiel - Edition Speciale 20 Ans (France).nds" size="8388608" crc="92ffa02c" md5="feac24cfffdf60a854cdb8970e553560" sha1="182ca25e274793543f69888ed290ad92155c8bc2" sha256="d0e55cfda23928e51e1b548d6000f47a86caa284662071f990790d131b1e95c6" status="verified" serial="YUYF"/>
 	</game>
 	<game name="Quick Yoga Training - Learn in Minutes a Day (USA) (En,Fr,De,Es,It)" id="2552" cloneofid="2611">
+		<category>Games</category>
 		<description>Quick Yoga Training - Learn in Minutes a Day (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Quick Yoga Training - Learn in Minutes a Day (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="834f2495" md5="93885c054095f8cd01709c041f233918" sha1="4dff180bda4b244b2f4fa5c41b3aa31842d48e1a" serial="YGCE"/>
+		<rom name="Quick Yoga Training - Learn in Minutes a Day (USA) (En,Fr,De,Es,It).nds" size="33554432" crc="834f2495" md5="93885c054095f8cd01709c041f233918" sha1="4dff180bda4b244b2f4fa5c41b3aa31842d48e1a" sha256="f483e7af703e581026112e09e3a95b435d737b1b2c7c1fe4cae38c6bc32edfda" status="verified" serial="YGCE"/>
 	</game>
 	<game name="QuickSpot (USA)" id="0929">
 		<category>Games</category>
@@ -26652,8 +26660,9 @@
 		<rom name="Sorcerer's Apprentice, The (USA) (En,Es).nds" size="67108864" crc="3487edb1" md5="10fe1236660b1ac27dc5dea770a9baf4" sha1="1218eb5860b507ae0eda6694dbb7e408863bfd2c" serial="BS8E"/>
 	</game>
 	<game name="Sorcerer's Apprentice, The (Europe) (En,De,Es,It)" id="5189">
+		<category>Games</category>
 		<description>Sorcerer's Apprentice, The (Europe) (En,De,Es,It)</description>
-		<rom name="Sorcerer's Apprentice, The (Europe) (En,De,Es,It).nds" size="67108864" crc="4bb78ad2" md5="27fd3ae61503835ccceab6d1c138e07b" sha1="9088b390635052bb3b8cc2a6124d466608e8cf37" serial="BS8P"/>
+		<rom name="Sorcerer's Apprentice, The (Europe) (En,De,Es,It).nds" size="67108864" crc="4bb78ad2" md5="27fd3ae61503835ccceab6d1c138e07b" sha1="9088b390635052bb3b8cc2a6124d466608e8cf37" sha256="49d49914022461c524bd2df6f9e46095a070ec59e55237a7078b0a68f7d36059" status="verified" serial="BS8P"/>
 	</game>
 	<game name="Soreike! Anpanman - Baikinman no Daisakusen (Japan)" id="0220" cloneofid="z309">
 		<description>Soreike! Anpanman - Baikinman no Daisakusen (Japan)</description>
@@ -27079,7 +27088,7 @@
 	<game name="SpongeBob's Atlantis SquarePantis (USA)" id="1687" cloneofid="2055">
 		<category>Games</category>
 		<description>SpongeBob's Atlantis SquarePantis (USA)</description>
-		<rom name="SpongeBob's Atlantis SquarePantis (USA).nds" size="33554432" crc="7af85f6a" md5="90c3c2007ce54205a23cbe7c6aaf1b74" sha1="8608e9d06303d0c7b4c9107257c98e192f568bfd" serial="AL3E"/>
+		<rom name="SpongeBob's Atlantis SquarePantis (USA).nds" size="33554432" crc="7af85f6a" md5="90c3c2007ce54205a23cbe7c6aaf1b74" sha1="8608e9d06303d0c7b4c9107257c98e192f568bfd" sha256="3c3985694ebf23d1b65f2aea32987d3b5700382e6a74546ab26e399567ba1656" serial="AL3E"/>
 	</game>
 	<game name="SpongeBob's Atlantis SquarePantis (Europe) (En,Fr)" id="2055">
 		<category>Games</category>
@@ -27329,8 +27338,9 @@
 		<rom name="Star Wars - The Clone Wars - Jedi Alliance (Europe) (En,Fr,De,Es).nds" size="268435456" crc="521d0385" md5="ef6ac596e9339a24157435b563b77093" sha1="4e026311ee6f7cfd852f3868d2f7e9be5fc3c5a7" sha256="ed76d452ae5e19c587c397c7cd446c1e7495f6b84c157c58f61bb271b16e9fd8" status="verified" serial="CLWP"/>
 	</game>
 	<game name="Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,De,Es,It)" id="4254">
+		<category>Games</category>
 		<description>Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="c3dc5217" md5="49ba61cbc45e679787cf97760cd63a5e" sha1="6aff535d18c7cfb3bcbb600aaff4f95bff13fd04" serial="BW9P"/>
+		<rom name="Star Wars - The Clone Wars - Republic Heroes (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="c3dc5217" md5="49ba61cbc45e679787cf97760cd63a5e" sha1="6aff535d18c7cfb3bcbb600aaff4f95bff13fd04" sha256="83fd77881ac0aa21363c489d2a35644eb0502b36741f7e07fcccd17a8d519ef8" status="verified" serial="BW9P"/>
 	</game>
 	<game name="Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It)" id="4321" cloneofid="4254">
 		<description>Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It)</description>
@@ -31094,6 +31104,7 @@
 		<rom name="Where's Waldo - The Fantastic Journey (USA) (En,Fr).nds" size="67108864" crc="18fedd66" md5="a87d42014870ec8a8652f89f3cd7c996" sha1="1d16ef81128c0e3f54094a6229da162cc1d28f34" serial="BWDE"/>
 	</game>
 	<game name="Whitaker Family Presents, The - Horse Life (Europe) (En,Fr,De,Es,It,Nl,Pt)" id="1484">
+		<category>Games</category>
 		<description>Whitaker Family Presents, The - Horse Life (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
 		<rom name="Whitaker Family Presents, The - Horse Life (Europe) (En,Fr,De,Es,It,Nl,Pt).nds" size="16777216" crc="2f380aa2" md5="0602c16265263e8378461bfc3791447b" sha1="084492e495ace8df6ace14e0a6ac22ccabfecee0" sha256="1400866d664f745d210738dcfb12c5f1b3718ac2fc7e3a2213143073b0588049" status="verified" serial="YHXP"/>
 	</game>

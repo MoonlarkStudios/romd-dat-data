@@ -4,7 +4,7 @@
 		<id>46</id>
 		<name>Nintendo - Game Boy</name>
 		<description>Nintendo - Game Boy</description>
-		<version>20261122-044517</version>
+		<version>20261127-011146</version>
 		<author>1988reload, aci68, akubi, Arctic Circle System, Aringon, baldjared, Bent, BigFred, BitLooter, BlueMoon, buckwheat, C. V. Reynolds, chillerecke, darthcloud, DeadSkullzJr, Densetsu, DeriLoko3, ElBarto, foxe, fuzzball, Gefflon, Goratrix, Hiccup, hking0036, InternalLoss, Jack, jimmsu, Just001Kim, kazumi213, leekindo, Lesserkuma, Madeline, NESBrew12, NGEfreak, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, rpg2813, sCZther, ShiroeNL, smesgr, SonGoku, Tauwasser, togemet2, UnlockerPT, xNo, xprism, xuom2</author>
 		<homepage>No-Intro</homepage>
 		<url>https://www.no-intro.org</url>
@@ -2459,7 +2459,7 @@
 	</game>
 	<game name="Exodus - Journey to the Promised Land (USA) (Unl)" id="0360">
 		<description>Exodus - Journey to the Promised Land (USA) (Unl)</description>
-		<rom name="Exodus - Journey to the Promised Land (USA) (Unl).gb" size="131072" crc="2e5497ef" md5="ab1fa0ed0207b1d0d5f401f0cd17bebf" sha1="685d5a47a1fc386d7b451c8b2733e654b7779b71" sha256="b6dcde70ef6ff32ad96e45fa25bf77ba8bfcee763006669b195f4246cfb1b1fa"/>
+		<rom name="Exodus - Journey to the Promised Land (USA) (Unl).gb" size="131072" crc="2e5497ef" md5="ab1fa0ed0207b1d0d5f401f0cd17bebf" sha1="685d5a47a1fc386d7b451c8b2733e654b7779b71" sha256="b6dcde70ef6ff32ad96e45fa25bf77ba8bfcee763006669b195f4246cfb1b1fa" status="verified"/>
 	</game>
 	<game name="Extra Bases (USA)" id="0361">
 		<description>Extra Bases (USA)</description>
@@ -3974,7 +3974,7 @@
 	</game>
 	<game name="Joshua &amp; the Battle of Jericho (USA) (Unl)" id="0603">
 		<description>Joshua &amp; the Battle of Jericho (USA) (Unl)</description>
-		<rom name="Joshua &amp; the Battle of Jericho (USA) (Unl).gb" size="131072" crc="e0cf879b" md5="2c07caee51a1f0c91c72c7c6f380b0f6" sha1="019b4b0e76336e2613ae6e8b415b5c65f6d465a5" sha256="25f94e37c8a3036e7740ed66909e9bc3cf76823b6f650151dd26d323525ab86f"/>
+		<rom name="Joshua &amp; the Battle of Jericho (USA) (Unl).gb" size="131072" crc="e0cf879b" md5="2c07caee51a1f0c91c72c7c6f380b0f6" sha1="019b4b0e76336e2613ae6e8b415b5c65f6d465a5" sha256="25f94e37c8a3036e7740ed66909e9bc3cf76823b6f650151dd26d323525ab86f" status="verified"/>
 	</game>
 	<game name="Judge Dredd (Japan) (En)" id="0604" cloneofid="0605">
 		<category>Games</category>
